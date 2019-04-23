@@ -24,3 +24,7 @@
  * Nos falta fijar una hora ir a cena : We have yet to set a time to go to dinner
 
  * No me habia fijado en mi vida feliz : I had not noticed my happy life
+
+ ### levar
+
+ * Yo llevaré estas tres bolsas y tú puedes llevar las demás : I will carry these three bags and you can carry the rest.
