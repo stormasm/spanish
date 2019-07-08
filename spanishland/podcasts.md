@@ -1,4 +1,5 @@
 
+[podcast 130 usa vs columbia](https://www.espanolistos.com/wp-content/uploads/2019/06/Episodio-130-Transcript-Lo-Que-Nos-Gusta-De-Estados-Unidos-Y-Colombia.pdf)
 
 [podcast 122 pascua](https://www.espanolistos.com/wp-content/uploads/2019/04/Podcast-122-Transcript-Pascua.pdf)
 
