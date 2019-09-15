@@ -6,7 +6,7 @@ Madrigal's Magic Key to Spanish
 | ------------- | ------------- |
 | Tengo que trabajar el sabado   |  I have to work on Saturday |
 | tienes que          | Do you have to |
-| tiene que           | Do you to |
+| tiene que           | Do you have to |
 | tenemos que         | We have to |
 | tienen que          | They have to |
 |                     |              |
