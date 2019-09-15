@@ -8,6 +8,7 @@ Madrigal's Magic Key to Spanish
 | tiene que           | Do you have to |
 | tenemos que         | We have to |
 | tienen que          | They have to |
+|                     |              |
 | tuve que            | I had to |
 | tuvo que            | Did you have to |
 | tuvimos que         | We had to |
