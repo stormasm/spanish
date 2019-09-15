@@ -6,9 +6,7 @@ Madrigal's Magic Key to Spanish
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
 | Tengo que trabajar el sabado   |  I have to work on Saturday |
-
 | tiene que           | Do you have to |
 | tenemos que         | We have to |
 | tienen que          | They have to |
