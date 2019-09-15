@@ -2,10 +2,8 @@
 page 270
 Madrigal's Magic Key to Spanish
 
-| First Header  | Second Header |
+| S  | E |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 | Tengo que trabajar el sabado   |  I have to work on Saturday |
 | tiene que           | Do you have to |
 | tenemos que         | We have to |
