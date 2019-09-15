@@ -2,6 +2,7 @@
 page 270
 Madrigal's Magic Key to Spanish
 
+|       S       |       E       |
 | ------------- | ------------- |
 | Tengo que trabajar el sabado   |  I have to work on Saturday |
 | tiene que           | Do you have to |
