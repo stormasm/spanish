@@ -17,3 +17,11 @@ Madrigal's Magic Key to Spanish
 | tuvieron que | Did they have to |
 | | |
 | Mi tio tiene que | My uncle has to |
+| | |
+| conozco | conocemos |
+| conoces | Do you know (someone) |
+| conoce | conocen |
+| | |
+| conoci | conocimos |
+| conociste | Did you meet (someone) |
+| conocio | conocieron |
