@@ -22,6 +22,6 @@ Madrigal's Magic Key to Spanish
 | conoces | Do you know (someone) |
 | conoce | conocen |
 | | |
-| conoci | conocimos |
+| conocí | conocimos |
 | conociste | Did you meet (someone) |
-| conocio | conocieron |
+| conoció | conocieron |
