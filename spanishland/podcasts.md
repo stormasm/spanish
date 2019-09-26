@@ -1,4 +1,6 @@
 
+[podcast 145 el perdon](https://www.espanolistos.com/wp-content/uploads/2019/09/Episodio-145-Transcript-El-Perdon.pdf)
+
 [podcast 140 egan bernal](https://www.espanolistos.com/wp-content/uploads/2019/08/Episodio-140-Transcript-Ciclismo.pdf)
 
 [podcast 138 carlos slim](https://www.espanolistos.com/wp-content/uploads/2019/08/Episodio-138-Transcript-Carlos-Slim.pdf)
