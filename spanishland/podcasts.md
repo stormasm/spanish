@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
+[podcast 146 history argentina](https://www.espanolistos.com/wp-content/uploads/2019/10/Episodio-146-Transcript-Historia-de-Argentina.pdf)
+=======
 [podcast 145 el perdon](https://www.espanolistos.com/wp-content/uploads/2019/09/Episodio-145-Transcript-El-Perdon.pdf)
+>>>>>>> 461f3f72f262b09bb9404758f58aafdf81d7b979
 
 [podcast 140 egan bernal](https://www.espanolistos.com/wp-content/uploads/2019/08/Episodio-140-Transcript-Ciclismo.pdf)
 
