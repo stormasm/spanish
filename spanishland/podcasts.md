@@ -1,3 +1,4 @@
+[podcast 147 nuestra historia capitulo 1 primeros 10 anos de vida](https://www.espanolistos.com/wp-content/uploads/2019/10/Episodio-147-Transcript-Nuestra-Historia-Capitulo-1.pdf)
 
 [podcast 146 history argentina](https://www.espanolistos.com/wp-content/uploads/2019/10/Episodio-146-Transcript-Historia-de-Argentina.pdf)
 
