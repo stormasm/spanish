@@ -1,4 +1,6 @@
 
+[podcast 157 chapter 3](https://www.espanolistos.com/wp-content/uploads/2019/12/Episodio-156-Transcript-Nuestra-Historia-Chapter-3.pdf)
+
 [podcast 146 history argentina](https://www.espanolistos.com/wp-content/uploads/2019/10/Episodio-146-Transcript-Historia-de-Argentina.pdf)
 
 [podcast 140 egan bernal](https://www.espanolistos.com/wp-content/uploads/2019/08/Episodio-140-Transcript-Ciclismo.pdf)
