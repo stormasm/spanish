@@ -1,8 +1,6 @@
 
 |P| S | E |
 |-| - | - |
-
-
 | 17 | iba sentado muy tieso | was sitting very stiff |
 | 17 | acaba de comprar | just bought |
 | 17 | por encima de un bigote frondoso y un barba entrecana  | above a leafy mustache and a trained beard |
