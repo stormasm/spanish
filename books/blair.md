@@ -13,17 +13,7 @@
 | 18 | por encima | above |
 | 18 | como si fuera un taller de artista | as if it were an artist workshop |
 | 18 | esperaban en el rellano | they waited on the landing |
-| 18 |
-| 18 |
-| 18 |
-| 18 |
-| 18 |
-| 18 |
-| 18 |
-| 18 | 
-
-
-
+| 18 | | |
 | | | |
 | 21 | rasgo | feature |
 | 21 | engañosa | deceitful |
