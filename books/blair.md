@@ -23,3 +23,7 @@
 | 21 | halago | flattery |
 | 21 | arraigado | deeply rooted |
 | 21 | yacer | to lie |
+| | | |
+| 22 | sus ojos se habían fijado en un sombrero de castor | his eyes had fixed on a beaver hat |
+| 22 | desviaron el rumbo | they diverted the course |
+| 22 | perder el rumbo | lose one's way, get lost, get disoriented |
