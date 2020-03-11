@@ -26,7 +26,7 @@
 | | | |
 |    | fuera a vivir | go live |
 |    | abrigado, adjective | sheltered, protected, warm |
-|    | este jersey de lana es muy abrigado |
+|    | este jersey de lana es muy abrigado | this wool sweater is very warm |
 | | | |
 |    | arreglar | to fix, repair, to arrange, organize, to tidy, neat, clean |
 |    | es lo que andaba buscando | it is what I was looking for |
