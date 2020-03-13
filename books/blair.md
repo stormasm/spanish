@@ -24,10 +24,21 @@
 | 21 | arraigado | deeply rooted |
 | 21 | yacer | to lie |
 | | | |
-|    | fuera a vivir | go live |
-|    | abrigado, adjective | sheltered, protected, warm |
-|    | este jersey de lana es muy abrigado | this wool sweater is very warm |
+| 28 | atras, adv | behind |  
+| 28 | atrasado, adj | late, behind on your rent |
+| 28 | menester | activity, occupation, duty |
+| 28 | tragar | swallow, absorb, soak up |
+| 28 | empezar | begin, start |
+| 28 | escombros | debris |
+| 28 | agriarse | to become embittered, sour|
+| 28 |  |  |
 | | | |
-|    | arreglar | to fix, repair, to arrange, organize, to tidy, neat, clean |
-|    | es lo que andaba buscando | it is what I was looking for |
-|    | pisar | to step on |
+| | fuera a vivir | go live |
+| | abrigado, adj | sheltered, protected, warm |
+| | este jersey de lana es muy abrigado | this wool sweater is very warm |
+| | | |
+| | arreglar | to fix, repair, to arrange, organize, to tidy, neat, clean |
+| | es lo que andaba buscando | it is what I was looking for |
+| | pisar | to step on |
+| | agotado, adj | exhausted, sold out |
+| | terciopelo | velvet |
