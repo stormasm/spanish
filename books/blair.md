@@ -33,7 +33,6 @@
 | 28 | agriarse | to become embittered, sour|
 | 28 |  |  |
 | | | |
-| | fuera a vivir | go live |
 | | abrigado, adj | sheltered, protected, warm |
 | | este jersey de lana es muy abrigado | this wool sweater is very warm |
 | | | |
@@ -42,3 +41,8 @@
 | | pisar | to step on |
 | | agotado, adj | exhausted, sold out |
 | | terciopelo | velvet |
+| | | |
+| | fuera a comer | went to eat |
+| | fuera a dormir | go to sleep |
+| | fuera a estudiar | went to study |
+| | fuera a vivir | go live |
