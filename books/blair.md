@@ -31,6 +31,8 @@
 | 28 | empezar | begin, start |
 | 28 | escombros | debris |
 | 28 | agriarse | to become embittered, sour|
+| 28 | como si al pensarlo la hubiera invocado | as if thinking about it had invoked her |
+| 28 | le puso en chal sobre los hombros | put a shawl on her shoulders |
 | 28 |  |  |
 | | | |
 | | abrigo | overcoat |
