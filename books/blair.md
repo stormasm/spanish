@@ -33,12 +33,14 @@
 | 28 | agriarse | to become embittered, sour|
 | 28 |  |  |
 | | | |
+| | abrigo | overcoat |
 | | abrigado, adj | sheltered, protected, warm |
 | | este jersey de lana es muy abrigado | this wool sweater is very warm |
 | | | |
 | | arreglar | fix, repair, arrange, organize, tidy, neat, clean |
 | | es lo que andaba buscando | it is what I was looking for |
 | | pisar | to step on |
+| | agotar | to exhaust |
 | | agotado, adj | exhausted, sold out |
 | | terciopelo | velvet |
 | | | |
