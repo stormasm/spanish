@@ -32,9 +32,10 @@
 | 28 | escombros | debris |
 | 28 | agriarse | to become embittered, sour|
 | 28 | como si al pensarlo la hubiera invocado | as if thinking about it had invoked her |
-| 28 | solteria | the act of being single, spinsterhood |
 | 28 | le puso en chal sobre los hombros | put a shawl on her shoulders |
-| 28 |  |  |
+| 28 | solteria | the act of being single, spinsterhood |
+| 29 | no podemos permitir que se corrompe a las sirvientas jóvenes | we cannot allow young maids to be corrupted |
+| 29 | el bribón y la moza han sido despedidos | the rascal and the wench have been sacked |
 | | | |
 | | abrigo | overcoat |
 | | abrigado, adj | sheltered, protected, warm |
