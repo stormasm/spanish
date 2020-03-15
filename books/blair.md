@@ -4,8 +4,10 @@
 | 17 | iba sentado muy tieso | was sitting very stiff |
 | 17 | acaba de comprar | just bought |
 | 17 | por encima de un bigote frondoso y un barba entrecana  | above a leafy mustache and a trained beard |
+| 17 | silbato | whistle | 
 | 17 | un ramo de tulipanes | a bouquet of tulips |
 | 17 | ojala | hopefully |
+| 17 | de hierro forjado | wrought iron gate |
 | 17 | en la cima | on top |
 | 17 | colgante | pendant |
 | 17 | estuche de terciopelo | velvet case |
