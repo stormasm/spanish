@@ -6,7 +6,7 @@ Characters Introduced in Order
 ### Chapter 1
 
 **Page 17**   
-Antonio Rivas Mercado
+Antonio Rivas Mercado   
 Beto esta el hermano de Antonio     
 Feliciano esta el cochero   
 El viejo Demetrio esta el portero at the residence   
