@@ -22,6 +22,11 @@
 | 18 | ponlos en un jarrón y dejarlos en el recibidor | put them in a vase and leave them in the hall |
 | | | |
 | 20 | de puntillas | on tiptoes |
+| 20 | pliegues | folds |
+| 20 | engalanada | decked out, spruced up, emblazoned |
+| 20 | endoselado | canopied |
+| 20 | cabellos negro | black hair |
+| 20 | antonio rebosaba de gozo | antonio was overflowing with joy |
 | | | |
 | 21 | rasgo | feature |
 | 21 | engañosa | deceitful |
