@@ -29,6 +29,7 @@
 | 20 | antonio rebosaba de gozo | antonio was overflowing with joy |
 | | | |
 | 21 | rasgo | feature |
+| 21 | camafeo | cameo |
 | 21 | engañosa | deceitful |
 | 21 | padecer | to suffer, endure |
 | 21 | celos | jealousy |
