@@ -50,6 +50,9 @@
 | 29 | no podemos permitir que se corrompe a las sirvientas jóvenes | we cannot allow young maids to be corrupted |
 | 29 | el bribón y la moza han sido despedidos | the rascal and the wench have been sacked |
 | | | |
+| 49 | casi | almost |
+| 49 | mecer | to rock (a cradle or baby)|
+| | | |
 | | abrigo | overcoat |
 | | abrigado, adj | sheltered, protected, warm |
 | | este jersey de lana es muy abrigado | this wool sweater is very warm |
