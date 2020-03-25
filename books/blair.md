@@ -52,6 +52,15 @@
 | | | |
 | 49 | casi | almost |
 | 49 | mecer | to rock (a cradle or baby)|
+| 50 | acabar | to finish |
+| 50 | cada vez peor | getting worse |
+| 50 | me duele el estómago | my stomach hurts |
+| 50 | reprimir las lágrimas | suppress or hold back the tears |
+| 50 | gemir | to moan |
+| 50 | tensar | to tighten |
+| 50 | pellizcar | to pinch |
+| 50 | de repente | suddenly |
+| 50 | palangana | basin | 
 | | | |
 | | abrigo | overcoat |
 | | abrigado, adj | sheltered, protected, warm |
