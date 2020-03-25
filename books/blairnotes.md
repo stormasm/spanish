@@ -1,6 +1,11 @@
 
 |Page| Chapter | Year | Name |
 |-| - | - | - |
+| 16  | XX | YYYY | Primera Parte La Familia |
+| | | |
+| | | |
+| 17  | 01 | 1900 | Ciudad de Mexico |
+| 39  | 02 | 1903 | |
 | 55  | 03 | 1907 | |
 | 73  | 04 | | |
 | 93  | 05 | | |
