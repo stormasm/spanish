@@ -60,8 +60,10 @@
 | 50 | tensar | to tighten |
 | 50 | pellizcar | to pinch |
 | 50 | de repente | suddenly |
-| 50 | palangana | basin | 
+| 50 | palangana | basin |
 | | | |
+| 55 | ordenó esmeradamente sus papeles y levantando la tapa del pupitre los metio dentro | she carefully ordered her papers and lifting the cover of the desk she put them inside |
+| 55 | echo a andar | began to walk |
 | | abrigo | overcoat |
 | | abrigado, adj | sheltered, protected, warm |
 | | este jersey de lana es muy abrigado | this wool sweater is very warm |
