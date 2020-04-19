@@ -8,5 +8,5 @@
 | he perdido las llaves de mi coche |
 | I have finished reading my book |
 | he acabado leyendo mi libro |
-| he acordado a acabar el trabajo |
 | I have agreed to finish the job |
+| he acordado a acabar el trabajo |
