@@ -16,3 +16,7 @@
 | | | |
 | 357 | XX | YYYY | Tercera Parte La Campana |
 | | | |
+
+### References Wikipedia
+
+* https://es.wikipedia.org/wiki/Monumento_a_la_Independencia
