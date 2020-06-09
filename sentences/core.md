@@ -10,6 +10,10 @@
 | The painter went to a lot of trouble to finish his painting by the date agreed upon |
 | El pintor se esmeró para tener el cuadro acabado en la fecha acordada |
 | |
+| acudir : to occur to, to consult, to attend |
+| acudir : to come, to turn to, to go to |
+| acudo, acudes, acude, acudimos, acuden |
+| acudi, acudiste, acudio, acudimos, acudieron |
 | |
 | Cuando ella vio la foto muchos recuerdos acudieron a su mente |
 | Cada vez que tienes dudas acude a su madre para consejos |
