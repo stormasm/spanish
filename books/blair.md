@@ -64,6 +64,13 @@
 | | | |
 | 55 | ordenó esmeradamente sus papeles y levantando la tapa del pupitre los metio dentro | she carefully ordered her papers and lifting the cover of the desk she put them inside |
 | 55 | echo a andar | began to walk |
+| | | |
+| 73 | beca | scholarship, grant |
+| 73 | la recaudacion de fondos | fundraising |
+| 73 | recaudacion | collection |
+| 73 | despreciable | despicable |
+| 73 | acudir a mecenas | go to patrons |
+| | | |
 | | abrigo | overcoat |
 | | abrigado, adj | sheltered, protected, warm |
 | | este jersey de lana es muy abrigado | this wool sweater is very warm |
