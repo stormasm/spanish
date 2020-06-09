@@ -10,3 +10,13 @@
 | The painter went to a lot of trouble to finish his painting by the date agreed upon |
 | El pintor se esmeró para tener el cuadro acabado en la fecha acordada |
 | |
+| |
+| Cuando ella vio la foto muchos recuerdos acudieron a su mente |
+| Cada vez que tienes dudas acude a su madre para consejos |
+| No podemos acudir a la fiesta debido a un compromiso previo |
+| Ellos acudieron a la cita con el dentista |
+| When she saw the picture many memories came to mind |
+| Everytime that she is in doubt she turns to her mother for advice |
+| We can not go to the party due to a prior commitment |
+| They went to their appointment with the dentist |
+| |
