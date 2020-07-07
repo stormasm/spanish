@@ -6,6 +6,7 @@
 * https://es.wikipedia.org/wiki/Antonieta_Rivas_Mercado
 * https://es.wikipedia.org/wiki/Antonio_Rivas_Mercado
 * https://es.wikipedia.org/wiki/Monumento_a_la_Independencia
+* https://es.wikipedia.org/wiki/Julio_Madero
 
 ### References Wikipedia English
 
@@ -24,3 +25,5 @@
 ### Kathryn S Blair
 
 [Facebook Page](https://www.facebook.com/kathryns.b)
+[obit 1](http://poderedomex.com/murio-kathryn-s-blair-deja-invaluable-legado-cultural-e-historico/)
+[obit 2](https://www.lja.mx/2019/07/muere-kathryn-s-blair-promotora-del-legado-cultural-de-antonieta-rivas-mercado/)
