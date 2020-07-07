@@ -4,7 +4,7 @@
 | 15  |    | Part 1, La Familia |
 | | | | |
 | | | | |
-| 17  | 01 | 1900 | Ciudad de Mexico |
+| 17  | 01 | 1900 | 28 de abril Ciudad de Mexico |
 | 39  | 02 | 1903 | |
 | 55  | 03 | 1907 | |
 | 73  | 04 | | |
