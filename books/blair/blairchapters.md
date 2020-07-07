@@ -1,7 +1,7 @@
 
 |Page| Chapter | Year | Name |
 |-| - | - | - |
-| 15  |    | Primera Parte La Familia |
+| 15  |    | Part 1, La Familia |
 | | | | |
 | | | | |
 | 17  | 01 | 1900 | Ciudad de Mexico |
@@ -13,6 +13,8 @@
 | 117 | 07 | 1909 | |
 | 133 | 08 | 1910 | |
 | 147 |    | Part 2, La Revolucion | |
+| | | | |
+| | | | |
 | 149 | 09 | 1910 | Junio Michigan |
 | 167 | 10 | 1911 | 3 de abril |
 | 183 | 11 | 1911 | |
