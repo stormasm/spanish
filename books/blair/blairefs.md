@@ -18,3 +18,7 @@
 ### Google Search Terms
 
 [diaz porfirio rivas mercado](https://www.google.com/search?q=diaz+porfirio+rivas+mercado&oq=diaz+porfirio+rivas+mercado&aqs=chrome..69i57.20280j0j8&sourceid=chrome&ie=UTF-8)
+
+### Kathryn S Blair
+
+[Facebook Page](https://www.facebook.com/kathryns.b)
