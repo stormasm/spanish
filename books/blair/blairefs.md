@@ -6,6 +6,12 @@
 * https://es.wikipedia.org/wiki/Antonieta_Rivas_Mercado
 * https://es.wikipedia.org/wiki/Antonio_Rivas_Mercado
 * https://es.wikipedia.org/wiki/Monumento_a_la_Independencia
+
+* https://es.wikipedia.org/wiki/Francisco_Le%C3%B3n_de_la_Barra
+
+##### Francisco Madero
+
+* https://es.wikipedia.org/wiki/Francisco_I._Madero
 * https://es.wikipedia.org/wiki/Julio_Madero
 
 ### References Wikipedia English
