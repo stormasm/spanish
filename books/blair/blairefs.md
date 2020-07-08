@@ -22,6 +22,9 @@
 * https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz
 * https://en.wikipedia.org/wiki/Francisco_I._Madero
 
+* https://en.wikipedia.org/wiki/Pancho_Villa
+* https://en.wikipedia.org/wiki/Treaty_of_Ciudad_Ju%C3%A1rez
+
 ### Google Search Terms
 
 [diaz porfirio rivas mercado](https://www.google.com/search?q=diaz+porfirio+rivas+mercado&oq=diaz+porfirio+rivas+mercado&aqs=chrome..69i57.20280j0j8&sourceid=chrome&ie=UTF-8)

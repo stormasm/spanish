@@ -60,6 +60,16 @@ Dr. Vasquez Gomez comes to visit Beto and Antonio to try and get their support f
 
 Michigan June 1910
 
+The chapter starts out in Michigan at the college Albert was attending at the time called the [Houghton School of Mines](https://en.wikipedia.org/wiki/Michigan_Technological_University) in [Houghton, Michigan](https://www.google.com/maps/place/Houghton,+M%C3%ADchigan+49931/@47.1111245,-88.5967778,7z/data=!4m5!3m4!1s0x4d50c830dcb62d85:0xbe72cbcecc04ef7d!8m2!3d47.1211331!4d-88.5694182)
+
+It introduces Albert, post his meeting with Antonieta in the previous chapter along with Francisco Madero's two younger brothers, Raul and Julio Madero who were the ones who got Albert to go to Mexico initially in the previous chapter.  Albert decides to forego working for his father in the coal mines of Kentucky and instead decides to take a job in Vancouver, BC.  He is only there for a short time, and when he hears of a revolution in Mexico he quickly boards a train to LA and then onto San Antonio where he meets up with his college Fraternity brothers and room-mates.  He shows up with about $800 in cash, $200 of which was given to him by his father for Christmas.  In San Antonio he purchases a money belt, a gun, and the rest of the accoutrements of war.  We learn about San Antonio at that time.
+
 ### Chapter 10
 
 April 3, 1911
+
+This chapter climaxes with the events leading up to the
+[Treaty of Ciudad Juarez](https://en.wikipedia.org/wiki/Treaty_of_Ciudad_Ju%C3%A1rez). This chapter is told by Albert Blair, Antonieta's future husband.
+
+In this chapter and the previous one we are introduced to
+[Pancho Villa](https://en.wikipedia.org/wiki/Pancho_Villa)
