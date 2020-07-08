@@ -30,9 +30,13 @@ Antonio and Cristina agree on the name Antonieta.  At the end of the page Antoni
 
 **Page 22**
 
-### Chapter 2, 1903
+### Chapter 2
 
-### Chapter 3, 1907
+1903
+
+### Chapter 3
+
+1907
 
 ### Chapter 4
 
@@ -40,7 +44,9 @@ Antonio and Cristina agree on the name Antonieta.  At the end of the page Antoni
 
 ### Chapter 6
 
-### Chapter 7, 1909
+### Chapter 7
+
+1909
 
 As the train snaked from the high plateau down to the luxuriant tropics, a salty breeze pricked the girl's nostrils.  There it was. The ocean !
 
@@ -50,7 +56,9 @@ Antonieta, Alicia and Antonio Rivas Mercado go off to Paris for him to complete 
 
 Antonieta is such a good ballerina that the teacher asks Antonio whether she can stay in Paris and study while they return to Mexico.  He says no, and probably portends a turning point in her life that would ultimately be her downfall.  Had she stayed in Paris and lived out her dream the story I am reading would not have been written, and or a very different story would have unfolded.
 
-### Chapter 8, 1910
+### Chapter 8
+
+1910
 
 Antonieta meets Albert Blair, who is 19 or 20 and is an American engineer.  He sits besides her at a luncheon hosted by Cristina for the family and the rest is history.
 
