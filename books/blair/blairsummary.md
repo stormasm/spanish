@@ -66,7 +66,7 @@ Dr. Vasquez Gomez comes to visit Beto and Antonio to try and get their support f
 
 ### Chapter 9
 
-Michigan June 1910
+Houghton, Michigan June 1910
 
 The chapter starts out in Michigan at the college Albert was attending at the time called the [Houghton School of Mines](https://en.wikipedia.org/wiki/Michigan_Technological_University) in [Houghton, Michigan](https://www.google.com/maps/place/Houghton,+M%C3%ADchigan+49931/@47.1111245,-88.5967778,7z/data=!4m5!3m4!1s0x4d50c830dcb62d85:0xbe72cbcecc04ef7d!8m2!3d47.1211331!4d-88.5694182)
 
