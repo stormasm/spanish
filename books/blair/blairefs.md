@@ -13,6 +13,8 @@
 
 * https://es.wikipedia.org/wiki/Francisco_I._Madero
 * https://es.wikipedia.org/wiki/Julio_Madero
+* https://en.wikipedia.org/wiki/Bernardo_Reyes
+* https://en.wikipedia.org/wiki/Emiliano_Zapata
 
 ### References Wikipedia English
 
