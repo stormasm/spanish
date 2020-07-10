@@ -1,7 +1,7 @@
 
 [Google Doodle 166.° aniversario del nacimiento de Antonio Rivas Mercado](https://www.google.com/doodles/antonio-rivas-mercados-166th-birthday)
 
-### References Wikipedia Spanish
+## Wikipedia Spanish
 
 * https://es.wikipedia.org/wiki/Antonieta_Rivas_Mercado
 * https://es.wikipedia.org/wiki/Antonio_Rivas_Mercado
@@ -9,10 +9,15 @@
 
 * https://es.wikipedia.org/wiki/Francisco_Le%C3%B3n_de_la_Barra
 
-##### Francisco Madero
+##### Mexican Generals
 
 * https://es.wikipedia.org/wiki/Francisco_I._Madero
 * https://es.wikipedia.org/wiki/Julio_Madero
+
+## Wikipedia English
+
+##### Mexican Generals
+
 * https://en.wikipedia.org/wiki/Bernardo_Reyes
 * https://en.wikipedia.org/wiki/Emiliano_Zapata
 
@@ -21,11 +26,18 @@
 * https://en.wikipedia.org/wiki/Antonieta_Rivas_Mercado
 * https://en.wikipedia.org/wiki/Antonio_Rivas_Mercado
 * https://en.wikipedia.org/wiki/Mexican_Revolution
+
+### References Mexican Presidents in Order
+
 * https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz
 * https://en.wikipedia.org/wiki/Francisco_I._Madero
+* https://en.wikipedia.org/wiki/Victoriano_Huerta
 
 * https://en.wikipedia.org/wiki/Pancho_Villa
 * https://en.wikipedia.org/wiki/Treaty_of_Ciudad_Ju%C3%A1rez
+
+* [Henry Lane Wilson, US Ambassador to Mexico in 1910](https://en.wikipedia.org/wiki/Henry_Lane_Wilson)
+* [Horiguchi's son]https://en.wikipedia.org/wiki/Daigaku_Horiguchi
 
 ### Google Search Terms
 

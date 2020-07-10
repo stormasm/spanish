@@ -146,4 +146,21 @@ The rest of the chapter is about life on the ranch and meanderings of the family
 
 ### Chapter 13
 
-February 1913
+February 1913   
+I added February 9 as it was the day General Reyes was killed.
+
+Antonio and Antonieta awaken to the burst of fireworks.  The revolution was in full swing and the next few days would see Madero killed and lots of violence. Antonieta and her Japanese friend Iwa start heading back across town towards the Japanese embassy in the middle of a huge firestorm down on the Zocalo.
+
+Iwa's father was informed that General Reyes was let out of prison and led an attack on the Palace.  He was killed.  President Madero has just arrived at the Palace.
+
+At this time period in history there are telephones and Antonieta speaks to her father Antonio and they decide that she should stay at Iwa's house, the Japanese embassy and wait it out.  Eventually Antonieta comes up with a plan to signal back and forth between her house and Iwa's house via the towers at both sites.
+
+The American Ambassador, Henry Lane Wilson, was calling an emergency meeting of all ministers and representatives of Foreign nations to a meeting at the American Embassy at four in the afternoon.  Mr. Wilson was dean of the diplomatic corps and the only one with status of Ambassador.
+
+### Chapter 14
+
+April 1913
+
+### Chapter 15
+
+February 1914
