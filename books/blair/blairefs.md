@@ -31,6 +31,7 @@
 
 * https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz
 * https://en.wikipedia.org/wiki/Francisco_I._Madero
+* https://en.wikipedia.org/wiki/Pedro_Lascur%C3%A1in
 * https://en.wikipedia.org/wiki/Victoriano_Huerta
 
 * https://en.wikipedia.org/wiki/Pancho_Villa
