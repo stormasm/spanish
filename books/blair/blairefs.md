@@ -59,6 +59,4 @@
 
 [Google Doodle 166.° aniversario del nacimiento de Antonio Rivas Mercado](https://www.google.com/doodles/antonio-rivas-mercados-166th-birthday)
 
-[garrison uprising mexican revolution](https://www.google.com/search?sxsrf=ALeKk034m5eefk39WYyIAkLDBbK7GkemKA%3A1594395823036&ei=r4wIX5jvAZX6-gSa_LboDw&q=%22garrison+uprising%22+mexican+revolution&oq=%22garrison+uprising%22+mexican+revolution&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCMQJzoFCCEQoAE6BAghEBU6BwghEAoQoAFQnLkBWKb5AWDT_gFoAHABeACAAWaIAeUNkgEEMTkuMpgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwjYgqelg8PqAhUVvZ4KHRq-Df0Q4dUDCAw&uact=5)
-
-ok
+[mexican revolution was described by some as a garrison uprising](https://www.google.com/search?sxsrf=ALeKk034m5eefk39WYyIAkLDBbK7GkemKA%3A1594395823036&ei=r4wIX5jvAZX6-gSa_LboDw&q=%22garrison+uprising%22+mexican+revolution&oq=%22garrison+uprising%22+mexican+revolution&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCMQJzoFCCEQoAE6BAghEBU6BwghEAoQoAFQnLkBWKb5AWDT_gFoAHABeACAAWaIAeUNkgEEMTkuMpgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwjYgqelg8PqAhUVvZ4KHRq-Df0Q4dUDCAw&uact=5)
