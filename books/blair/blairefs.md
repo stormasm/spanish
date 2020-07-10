@@ -1,6 +1,4 @@
 
-[Google Doodle 166.° aniversario del nacimiento de Antonio Rivas Mercado](https://www.google.com/doodles/antonio-rivas-mercados-166th-birthday)
-
 ## Wikipedia Spanish
 
 * https://es.wikipedia.org/wiki/Antonieta_Rivas_Mercado
@@ -41,6 +39,7 @@
 * https://en.wikipedia.org/wiki/Pancho_Villa
 * https://en.wikipedia.org/wiki/Treaty_of_Ciudad_Ju%C3%A1rez
 
+* [Manuel Marquez Sterling, Cuban Ambassador to Mexico](https://en.wikipedia.org/wiki/Manuel_M%C3%A1rquez_Sterling)
 * [Henry Lane Wilson, US Ambassador to Mexico in 1910](https://en.wikipedia.org/wiki/Henry_Lane_Wilson)
 * [Horiguchi's son](https://en.wikipedia.org/wiki/Daigaku_Horiguchi)
 
@@ -55,3 +54,9 @@
 [Facebook Page](https://www.facebook.com/kathryns.b)
 [obit 1](http://poderedomex.com/murio-kathryn-s-blair-deja-invaluable-legado-cultural-e-historico/)
 [obit 2](https://www.lja.mx/2019/07/muere-kathryn-s-blair-promotora-del-legado-cultural-de-antonieta-rivas-mercado/)
+
+### Misc
+
+[Google Doodle 166.° aniversario del nacimiento de Antonio Rivas Mercado](https://www.google.com/doodles/antonio-rivas-mercados-166th-birthday)
+
+[garrison uprising mexican revolution](https://www.google.com/search?sxsrf=ALeKk034m5eefk39WYyIAkLDBbK7GkemKA%3A1594395823036&ei=r4wIX5jvAZX6-gSa_LboDw&q=%22garrison+uprising%22+mexican+revolution&oq=%22garrison+uprising%22+mexican+revolution&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCMQJzoFCCEQoAE6BAghEBU6BwghEAoQoAFQnLkBWKb5AWDT_gFoAHABeACAAWaIAeUNkgEEMTkuMpgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwjYgqelg8PqAhUVvZ4KHRq-Df0Q4dUDCAw&uact=5)
