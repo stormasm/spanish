@@ -42,7 +42,7 @@
 * https://en.wikipedia.org/wiki/Treaty_of_Ciudad_Ju%C3%A1rez
 
 * [Henry Lane Wilson, US Ambassador to Mexico in 1910](https://en.wikipedia.org/wiki/Henry_Lane_Wilson)
-* [Horiguchi's son]https://en.wikipedia.org/wiki/Daigaku_Horiguchi
+* [Horiguchi's son](https://en.wikipedia.org/wiki/Daigaku_Horiguchi)
 
 ### Google Search Terms
 
