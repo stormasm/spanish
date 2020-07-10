@@ -146,8 +146,11 @@ The rest of the chapter is about life on the ranch and meanderings of the family
 
 ### Chapter 13
 
-February 1913   
-I added February 9 as it was the day
+February 1913
+
+Sunday Feb 9
+
+Sunday February 9 was the day
 [General Reyes](https://en.wikipedia.org/wiki/Bernardo_Reyes)
 was killed.
 
@@ -167,9 +170,42 @@ They say that President Madero has refused to negotiate with the rebels and that
 [General Huerta](https://en.wikipedia.org/wiki/Victoriano_Huerta)
 should have the rebellion put down by tomorrow.
 
+**American intervention threatened** If peace and order are not restored, if any American citizen or property is touched by gunfire my government is ready to intervene.  Madero must resign to avoid such an action, Ambassador Henry Lane Wilson was quoted.
+
+Antonio was worried that Christina should not come home at this time, he sent her a wire stating, "Cancel February sailing. Stop. Capital in Chaos. Stop. Remain in Paris until further notice. Stop. All family well and safe. Antonio."
+
+Dawn of the seventh was announced with a deafening cannonade that brought Antonio to his feet. They had fired on the tower.  Thank god the damage was minimal.  Antonieta's little brother Mario was nine and he was at the house.  Mario had hung out the flag based on Antonieta's wishes and now he gets in trouble with his Dad who thought that might have caused them to fire on the tower.
+
+Antonio goes across the street to call Antonieta and learns that the whole Madero family was now housed in the Japanese ministry where Antonieta was staying with her friend.  Madero's wife, mother, and father and two sisters had been given asylum by the Japanese Minister.
+
+All day, friends and sympathizers of the Maderos rang the bell at the Japanese Legation.  And who should show up there but Albert Blair.  When Antonieta asked him if they had met, he did not remember her.  How could he have, she was so out of context.  She found it amusing that he did not recognize her, but did not let on to him how he could have known her.
+
+On Feb 19th, headlines carried the news of the Palace Coup.  Conservative newspapers applauded General Huerta for siding with the rebels and bringing hostilities to and end.
+
+The president and the vice president were being held prisoners in a small office on the ground floor of the Palace.  Congress called an emergency meeting and demanded Madero's resignation.  The imprisoned President drafted his resignation.  He would die 3 days later 22 Feb 1913.
+
+[Gustavo Madero](https://en.wikipedia.org/wiki/Gustavo_A._Madero)
+was assassinated last night.  The president does not know yet, nor does the family.
+
+Still have a bit more work to do on this chapter but I am tired at the moment from this draining, amazing saga of the ten tragic days.
+
 ### Chapter 14
 
 April 1913
+
+Beto read a poem to Antonieta by Ruben Dario...
+
+```
+The princess is sad
+What does she repress
+That lets sighs escape
+From lips still so fresh ?
+She has lost her laughter
+She has lost her glow...
+
+La princesa esta triste. Que tendra la princesa ?
+Los suspiros escapan de su boca de fresa
+Que ha perdido la risa, que ha perdido el color...
 
 ### Chapter 15
 
