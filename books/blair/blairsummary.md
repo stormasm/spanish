@@ -157,6 +157,10 @@ At this time period in history there are telephones and Antonieta speaks to her 
 
 The American Ambassador, Henry Lane Wilson, was calling an emergency meeting of all ministers and representatives of Foreign nations to a meeting at the American Embassy at four in the afternoon.  Mr. Wilson was dean of the diplomatic corps and the only one with status of Ambassador.
 
+Marquez Sterling, the new Cuban Minister, pointed out that we are all accredited to the Madero Government.  He suggested we offer all possible assistance to the beleaguered president.  This is a
+[garrison uprising](https://www.google.com/search?sxsrf=ALeKk034m5eefk39WYyIAkLDBbK7GkemKA%3A1594395823036&ei=r4wIX5jvAZX6-gSa_LboDw&q=%22garrison+uprising%22+mexican+revolution&oq=%22garrison+uprising%22+mexican+revolution&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCMQJzoFCCEQoAE6BAghEBU6BwghEAoQoAFQnLkBWKb5AWDT_gFoAHABeACAAWaIAeUNkgEEMTkuMpgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwjYgqelg8PqAhUVvZ4KHRq-Df0Q4dUDCAw&uact=5),
+not the people against Madero.
+
 ### Chapter 14
 
 April 1913
