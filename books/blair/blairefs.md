@@ -23,7 +23,6 @@
 
 * https://en.wikipedia.org/wiki/Antonieta_Rivas_Mercado
 * https://en.wikipedia.org/wiki/Antonio_Rivas_Mercado
-* https://en.wikipedia.org/wiki/Mexican_Revolution
 
 ### References Mexican Presidents in Order
 
