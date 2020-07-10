@@ -147,7 +147,9 @@ The rest of the chapter is about life on the ranch and meanderings of the family
 ### Chapter 13
 
 February 1913   
-I added February 9 as it was the day General Reyes was killed.
+I added February 9 as it was the day
+[General Reyes](https://en.wikipedia.org/wiki/Bernardo_Reyes) 
+was killed.
 
 Antonio and Antonieta awaken to the burst of fireworks.  The revolution was in full swing and the next few days would see Madero killed and lots of violence. Antonieta and her Japanese friend Iwa start heading back across town towards the Japanese embassy in the middle of a huge firestorm down on the Zocalo.
 
