@@ -29,12 +29,12 @@
 
 ### References Mexican Presidents in Order
 
-* [01 Dec 1880 - 30 Nov 1884 Manuel Gozales Flores Dec](https://en.wikipedia.org/wiki/Manuel_Gonz%C3%A1lez_Flores)
-* [01 Dec 1884 - 25 May 1911 Porfirio Diaz](https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz)
-* [25 May 1911 - 05 Nov 1911 Francisco León de la Barra](https://en.wikipedia.org/wiki/Francisco_Le%C3%B3n_de_la_Barra)
-* [09 Nov 1911 - 19 Feb 1913 Francisco Madero](https://en.wikipedia.org/wiki/Francisco_I._Madero)
-* [19 Feb 1913 - 45 minutes Pedro Lascurain](https://en.wikipedia.org/wiki/Pedro_Lascur%C3%A1in)
-* [19 Feb 1913 - 15 July 1914Victoriano Huerta](https://en.wikipedia.org/wiki/Victoriano_Huerta)
+* [01 Dec 1880 - 30 Nov 1884   Manuel Gozales Flores Dec](https://en.wikipedia.org/wiki/Manuel_Gonz%C3%A1lez_Flores)
+* [01 Dec 1884 - 25 May 1911   Porfirio Diaz](https://en.wikipedia.org/wiki/Porfirio_D%C3%ADaz)
+* [25 May 1911 - 05 Nov 1911   Francisco León de la Barra](https://en.wikipedia.org/wiki/Francisco_Le%C3%B3n_de_la_Barra)
+* [09 Nov 1911 - 19 Feb 1913   Francisco Madero](https://en.wikipedia.org/wiki/Francisco_I._Madero)
+* [19 Feb 1913 - 45 minutes    Pedro Lascurain](https://en.wikipedia.org/wiki/Pedro_Lascur%C3%A1in)
+* [19 Feb 1913 - 15 July 1914  Victoriano Huerta](https://en.wikipedia.org/wiki/Victoriano_Huerta)
 
 ### References Mexican Revolution
 
