@@ -148,20 +148,24 @@ The rest of the chapter is about life on the ranch and meanderings of the family
 
 February 1913   
 I added February 9 as it was the day
-[General Reyes](https://en.wikipedia.org/wiki/Bernardo_Reyes) 
+[General Reyes](https://en.wikipedia.org/wiki/Bernardo_Reyes)
 was killed.
 
 Antonio and Antonieta awaken to the burst of fireworks.  The revolution was in full swing and the next few days would see Madero killed and lots of violence. Antonieta and her Japanese friend Iwa start heading back across town towards the Japanese embassy in the middle of a huge firestorm down on the Zocalo.
 
 Iwa's father was informed that General Reyes was let out of prison and led an attack on the Palace.  He was killed.  President Madero has just arrived at the Palace.
 
-At this time period in history there are telephones and Antonieta speaks to her father Antonio and they decide that she should stay at Iwa's house, the Japanese embassy and wait it out.  Eventually Antonieta comes up with a plan to signal back and forth between her house and Iwa's house via the towers at both sites.
-
 The American Ambassador, Henry Lane Wilson, was calling an emergency meeting of all ministers and representatives of Foreign nations to a meeting at the American Embassy at four in the afternoon.  Mr. Wilson was dean of the diplomatic corps and the only one with status of Ambassador.
 
 Marquez Sterling, the new Cuban Minister, pointed out that we are all accredited to the Madero Government.  He suggested we offer all possible assistance to the beleaguered president.  This is a
 [garrison uprising](https://www.google.com/search?sxsrf=ALeKk034m5eefk39WYyIAkLDBbK7GkemKA%3A1594395823036&ei=r4wIX5jvAZX6-gSa_LboDw&q=%22garrison+uprising%22+mexican+revolution&oq=%22garrison+uprising%22+mexican+revolution&gs_lcp=CgZwc3ktYWIQAzoECAAQRzoECCMQJzoFCCEQoAE6BAghEBU6BwghEAoQoAFQnLkBWKb5AWDT_gFoAHABeACAAWaIAeUNkgEEMTkuMpgBAKABAaoBB2d3cy13aXo&sclient=psy-ab&ved=0ahUKEwjYgqelg8PqAhUVvZ4KHRq-Df0Q4dUDCAw&uact=5),
 not the people against Madero.
+
+At this time period in history there are telephones and Antonieta speaks to her father Antonio and they decide that she should stay at Iwa's house, the Japanese embassy and wait it out.  Eventually Antonieta comes up with a plan to signal back and forth between her house and Iwa's house via the towers at both sites.
+
+They say that President Madero has refused to negotiate with the rebels and that
+[General Huerta](https://en.wikipedia.org/wiki/Victoriano_Huerta)
+should have the rebellion put down by tomorrow.
 
 ### Chapter 14
 

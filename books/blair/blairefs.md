@@ -36,6 +36,9 @@
 
 ### References Mexican Revolution
 
+* https://en.wikipedia.org/wiki/Mexican_Revolution
+* https://en.wikipedia.org/wiki/Ten_Tragic_Days
+
 * https://en.wikipedia.org/wiki/Pancho_Villa
 * https://en.wikipedia.org/wiki/Treaty_of_Ciudad_Ju%C3%A1rez
 
