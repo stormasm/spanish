@@ -222,6 +222,8 @@ They learn that Alicia, Antonieta's older sister wants to get married.
 
 Fast forward to the bright light of a crisp November morning.
 
+Finish up the chapter here in the middle of page 237. 
+
 ### Chapter 15
 
 February 1914
