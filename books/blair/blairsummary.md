@@ -228,3 +228,23 @@ I believe the second battle happens in
 [San Pedro de las Colinas](https://www.google.com/maps/place/San+Pedro,+Coah.,+M%C3%A9xico/@25.7592897,-103.0073715,14z/data=!3m1!4b1!4m13!1m7!3m6!1s0x868fb272d10e5505:0xe34ec0a5b4ac8080!2sSan+Pedro+de+las+Colonias+-+Torre%C3%B3n,+Coahuila+de+Zaragoza,+M%C3%A9xico!3b1!8m2!3d25.678591!4d-103.203058!3m4!1s0x868fadf4b2d03035:0x7faba0ce7f40f2f4!8m2!3d25.7572277!4d-102.9837799)
 
 Start here in the morning, pg 257.
+
+### Chapter 16
+
+April 21, 1914
+
+In this chapter we are back to hanging out with Antonio at his home.  We are shown a headline that says **American Marines Occupy Veracruz**.
+
+Antonio goes downtown and meets an American friend Fred Gaston.  As their lunch gets underway a stout man sitting next to them starts yelling at Fred for being an American etc..  He exits the restaurant with people throwing hard rolls at him.
+
+Back at home Mario, his younger son, bursts into his office to find out if he could go to 4th of July celebration.  Antonio tells him no but that he would take him to the Bastille Day celebration on July 14th.
+
+### Chapter 17
+
+April 21, 1914
+
+Antonio meets another man downtown and gets payment in gold for his guns.
+
+Antonio knew Pancho Villa was rolling south.  First Torreon and then Zacatecas which is what we learned in a previous chapter with Albert Blair.
+
+"The blood of 12,000 federal soldiers had run through the streets of Zacatecas bodies clogging the ravine of that beautiful colonial city."
