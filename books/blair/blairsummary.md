@@ -211,3 +211,20 @@ Que ha perdido la risa, que ha perdido el color...
 ### Chapter 15
 
 February 1914
+
+We start out the chapter with Albert on his horse overlooking the town of Zacatecas.  A rich mining town halfway between the cities in the north and the capital.
+
+"Life was good.  He liked Mexico.  He liked the Mexican people.  Shy, gentle, hospitable, they asked little of life.  The sky was immense in Mexico and so was the opportunity to make money."
+
+Albert was involved in 2 major battles or scuffles where his life was seriously in danger.  The first one was with the Federales and the second one was with Pancho Villas troops.
+
+The first one was not as severe as the second one.
+
+##### Battle One
+
+##### Battle Two
+
+I believe the second battle happens in
+[San Pedro de las Colinas](https://www.google.com/maps/place/San+Pedro,+Coah.,+M%C3%A9xico/@25.7592897,-103.0073715,14z/data=!3m1!4b1!4m13!1m7!3m6!1s0x868fb272d10e5505:0xe34ec0a5b4ac8080!2sSan+Pedro+de+las+Colonias+-+Torre%C3%B3n,+Coahuila+de+Zaragoza,+M%C3%A9xico!3b1!8m2!3d25.678591!4d-103.203058!3m4!1s0x868fadf4b2d03035:0x7faba0ce7f40f2f4!8m2!3d25.7572277!4d-102.9837799)
+
+Start here in the morning, pg 257.
