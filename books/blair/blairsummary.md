@@ -193,6 +193,8 @@ Still have a bit more work to do on this chapter but I am tired at the moment fr
 
 April 1913
 
+We start out the chapter with Beto confined to his apartment for a week with a nasty cough.  Antonieta was his only solace in these useless empty days.  She had been quiet and withdrawn since Madero's assassination, playing the piano as though she would drown in the music, then letting the notes die into silence. The girl took everything to heart, suffering each blow suffered by another.
+
 Beto read a poem to Antonieta by Ruben Dario...
 
 ```
@@ -207,6 +209,18 @@ La princesa esta triste. Que tendra la princesa ?
 Los suspiros escapan de su boca de fresa
 Que ha perdido la risa, que ha perdido el color...
 ```
+
+Antonio learns that his wife Cristina forged a power of attorney and mortgaged his properties.
+
+Chela tells Antonieta that the word cuckold means a man is unfaithful to his wife.  "Tio Fernando is Mama's lover.  I hate her !  Antonieta jumped to her feet and faced Chela.  I hate her, do you hear ? She will never live in this house again."
+
+Antonio went downtown to pay off his mortgages in gold, "they would not take Huerta's paper money"
+
+They learn that Alicia, Antonieta's older sister wants to get married.
+
+##### November 2013
+
+Fast forward to the bright light of a crisp November morning.
 
 ### Chapter 15
 
@@ -227,7 +241,7 @@ The first one was not as severe as the second one.
 I believe the second battle happens in
 [San Pedro de las Colinas](https://www.google.com/maps/place/San+Pedro,+Coah.,+M%C3%A9xico/@25.7592897,-103.0073715,14z/data=!3m1!4b1!4m13!1m7!3m6!1s0x868fb272d10e5505:0xe34ec0a5b4ac8080!2sSan+Pedro+de+las+Colonias+-+Torre%C3%B3n,+Coahuila+de+Zaragoza,+M%C3%A9xico!3b1!8m2!3d25.678591!4d-103.203058!3m4!1s0x868fadf4b2d03035:0x7faba0ce7f40f2f4!8m2!3d25.7572277!4d-102.9837799)
 
-Start here in the morning, pg 257.
+Start here when you continue writing,.. pg 257.
 
 ### Chapter 16
 
@@ -241,7 +255,7 @@ Back at home Mario, his younger son, bursts into his office to find out if he co
 
 ### Chapter 17
 
-April 21, 1914
+1914
 
 Antonio meets another man downtown and gets payment in gold for his guns.
 
