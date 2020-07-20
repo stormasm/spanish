@@ -21,7 +21,7 @@
 
 ### Word References
 
-| |
+|-|
 | acudir : to occur to, to consult, to attend |
 | acudir : to come, to turn to, to go to |
 | acudo, acudes, acude, acudimos, acuden |
