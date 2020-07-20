@@ -18,6 +18,12 @@
 | We can not go to the party due to a prior commitment |
 | They went to their appointment with the dentist |
 | |
+| |
+| |
+| Despues de una caminata al sol sin beber agua, me sentia sediento |
+| Hicimos una caminata de mi casa hasta el parque |
+| After a tiring / long walk in the sun without drinking water, I felt thirsty |
+| We went on a long walk / hike from my house to the park |
 
 ### Word References
 
