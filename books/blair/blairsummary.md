@@ -222,7 +222,7 @@ They learn that Alicia, Antonieta's older sister wants to get married.
 
 Fast forward to the bright light of a crisp November morning.
 
-Finish up the chapter here in the middle of page 237. 
+Finish up the chapter here in the middle of page 237.
 
 ### Chapter 15
 
@@ -264,3 +264,7 @@ Antonio meets another man downtown and gets payment in gold for his guns.
 Antonio knew Pancho Villa was rolling south.  First Torreon and then Zacatecas which is what we learned in a previous chapter with Albert Blair.
 
 "The blood of 12,000 federal soldiers had run through the streets of Zacatecas bodies clogging the ravine of that beautiful colonial city."
+
+The chapter ends with the Revolution in full force.  Most of the chapter is about how Antonieta and her two younger siblings are locked in the house for weeks as soldiers occupy the house next door.  These soldiers are not good people as outlined at the end of the chapter by the act that they commit.
+
+This chapter highlights the horror of the time.  Usually I don't read books like this as it is just too much.  But because I have committed to reading and understanding the Mexican Revolution I am bound to get through the rough parts of the book.  Clearly this chapter ended on a rough note; and the entire chapter is not pretty with everyone locked in the basement waiting for something to happen.
