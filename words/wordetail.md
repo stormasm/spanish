@@ -1,5 +1,5 @@
 
-##### resbalar
+#### resbalar
 
 to slip or slide   
 
@@ -7,7 +7,7 @@ todo le resbala, he couldn't care less about anything.
 
 todo lo que le digas le resbala, anything you say to him is just like water off a ducks back.
 
-##### trazar
+#### trazar
 
 to trace, draw
 
