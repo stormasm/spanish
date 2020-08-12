@@ -13,7 +13,9 @@
 
 [podcast 156 chapter 3](https://www.espanolistos.com/wp-content/uploads/2019/12/Episodio-156-Transcript-Nuestra-Historia-Chapter-3.pdf)
 
-[podcast 147 nuestra historia capitulo 1 primeros 10 anos de vida](https://www.espanolistos.com/wp-content/uploads/2019/10/Episodio-147-Transcript-Nuestra-Historia-Capitulo-1.pdf)
+[podcast 151 chapter 2](https://www.espanolistos.com/wp-content/uploads/2019/11/Episodio-151-Transcript-Nuestra-Historia-Capitulo-2.pdf)
+
+[podcast 147 chapter 1](https://www.espanolistos.com/wp-content/uploads/2019/10/Episodio-147-Transcript-Nuestra-Historia-Capitulo-1.pdf)
 
 [podcast 146 history argentina](https://www.espanolistos.com/wp-content/uploads/2019/10/Episodio-146-Transcript-Historia-de-Argentina.pdf)
 
