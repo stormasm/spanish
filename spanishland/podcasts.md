@@ -1,5 +1,17 @@
 
-[podcast 157 chapter 3](https://www.espanolistos.com/wp-content/uploads/2019/12/Episodio-156-Transcript-Nuestra-Historia-Chapter-3.pdf)
+[podcast 190 chapter 8](https://www.espanolistos.com/wp-content/uploads/2020/08/Episodio-190-Transcript-Capitulo-8-Inicio-de-Spanishland-School-1.pdf)
+
+[podcast 184 chapter 7](https://www.espanolistos.com/wp-content/uploads/2020/06/Episodio-184-Transcript-Cap-7-Nuestra-Historia.pdf)
+
+[podcast 181 tolkein](https://www.espanolistos.com/wp-content/uploads/2020/06/Episodio-181-Transcript-J.R.R.-Tolkien-Biography.pdf)
+
+[podcast 177 chapter 6](https://www.espanolistos.com/wp-content/uploads/2020/05/Episodio-177-Transcript-%E2%80%93-Nuestra-Historia-Chapter-6.pdf)
+
+[podcast 170 chapter 5](https://www.espanolistos.com/wp-content/uploads/2020/03/Episodio-170-Transcript-Capitulo-5-de-Nuestra-Historia.pdf)
+
+[podcast 164 chapter 4](https://www.espanolistos.com/wp-content/uploads/2020/02/Episodio-164-Transcript-Nuestra-Historia-Capitulo-4.pdf)
+
+[podcast 156 chapter 3](https://www.espanolistos.com/wp-content/uploads/2019/12/Episodio-156-Transcript-Nuestra-Historia-Chapter-3.pdf)
 
 [podcast 147 nuestra historia capitulo 1 primeros 10 anos de vida](https://www.espanolistos.com/wp-content/uploads/2019/10/Episodio-147-Transcript-Nuestra-Historia-Capitulo-1.pdf)
 
