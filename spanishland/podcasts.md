@@ -1,6 +1,8 @@
 
 [podcast 190 chapter 8](https://www.espanolistos.com/wp-content/uploads/2020/08/Episodio-190-Transcript-Capitulo-8-Inicio-de-Spanishland-School-1.pdf)
 
+[podcast 188 spanish professors](https://www.espanolistos.com/wp-content/uploads/2020/07/Episodio-188-Transcript-Entrevista-Con-Dos-Profesores-De-Espanol.pdf)
+
 [podcast 184 chapter 7](https://www.espanolistos.com/wp-content/uploads/2020/06/Episodio-184-Transcript-Cap-7-Nuestra-Historia.pdf)
 
 [podcast 181 tolkein](https://www.espanolistos.com/wp-content/uploads/2020/06/Episodio-181-Transcript-J.R.R.-Tolkien-Biography.pdf)
