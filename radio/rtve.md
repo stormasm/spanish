@@ -1,7 +1,5 @@
 
-### La Ventana del Cervantes
-
-[List of Shows](https://www.rtve.es/alacarta/audios/la-ventana-del-cervantes)
+### La Ventana del Cervantes [List of Shows](https://www.rtve.es/alacarta/audios/la-ventana-del-cervantes)
 
 ##### Shows That I liked
 
