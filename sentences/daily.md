@@ -18,6 +18,8 @@ I am learning, aprendiendo
 that are easy to remember   
 que son (sean) faciles de recordar  
 
+##### facil, sencillo, trato
+
 de trato facil, easy going  
 facil de usar, easy to use  
 pan comido, easy peasy, a piece of cake   
