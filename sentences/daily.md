@@ -8,9 +8,8 @@ did you come to the class early yesterday
 viniste a la clase temprano ayer   
 yesterday, I came to class early.   
 ayer, yo vine a la clase temprano.  
-
-##### spanish sentences  
-oraciones o frases en espanol
+  
+##### oraciones o frases en espanol
 
 I am looking for, estoy buscando  
 I am discovering, descubriendo   
