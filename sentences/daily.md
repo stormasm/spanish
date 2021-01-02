@@ -28,3 +28,4 @@ trato hecho, done deal
 tratos, deals   
 trato de, I try to   
 sencillo, simple   
+recordar algo a, recordarme, remind me   
