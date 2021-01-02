@@ -8,7 +8,7 @@ did you come to the class early yesterday
 viniste a la clase temprano ayer   
 yesterday, I came to class early.   
 ayer, yo vine a la clase temprano.  
-  
+
 ##### oraciones o frases en espanol
 
 I am looking for, estoy buscando  
@@ -17,3 +17,12 @@ I am learning, aprendiendo
 
 that are easy to remember   
 que son (sean) faciles de recordar  
+
+de trato facil, easy going  
+facil de usar, easy to use  
+pan comido, easy peasy, a piece of cake   
+trato treatment   
+trato hecho, done deal   
+tratos, deals   
+trato de, I try to   
+sencillo, simple   
