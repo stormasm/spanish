@@ -1,3 +1,7 @@
+
+Me siento bien con las cosas que háre en el nuevo año.
+I feel good with the things that I will be doing in the New Year.
+
 ##### venir
 
 I was at home when my friend came by to visit.   

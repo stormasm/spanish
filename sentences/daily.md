@@ -1,31 +1,15 @@
-##### venir
 
-I was at home when my friend came by to visit.   
+Me siento bien con las cosas que háre en el nuevo año.
+Estoy buscando fraces (oraciones) en español que son (sean) fáciles de recordar.
 Estuve en casa cuando mi amigo vino a visitar.   
-came to eat dinner   
-vino a comer cena   
-did you come to the class early yesterday   
-viniste a la clase temprano ayer   
-yesterday, I came to class early.   
-ayer, yo vine a la clase temprano.  
+Viniste a la clase temprano ayer ?  
+Ayer, yo vine a la clase temprano.  
 
-##### oraciones o frases en espanol
+### spanish accents on macbook pro
 
-I am looking for, estoy buscando  
-I am discovering, descubriendo   
-I am learning, aprendiendo   
+To get accented vowels on a Mac,   
+hold down the Option/Alt key (⌥), and press the e key.    
+Then, release both keys and type the letter that you want to accent.
 
-that are easy to remember   
-que son (sean) faciles de recordar  
-
-##### facil, sencillo, trato
-
-de trato facil, easy going  
-facil de usar, easy to use  
-pan comido, easy peasy, a piece of cake   
-trato treatment   
-trato hecho, done deal   
-tratos, deals   
-trato de, I try to   
-sencillo, simple   
-recordar algo a, recordarme, remind me   
+For the ñ, hold down the Option/Alt key while you press the n key,    
+then press n again.
