@@ -1,7 +1,7 @@
 
-Me siento bien con las cosas que háre en el nuevo año.
-Estoy buscando fraces (oraciones) en español que son (sean) fáciles de recordar.
-Estuve en casa cuando mi amigo vino a visitar.   
+Me siento bien con las cosas que háre en el nuevo año.  
+Estoy buscando fraces (oraciones) en español que son (sean) fáciles de recordar.  
+Estuve en casa cuando mi amigo vino a visitar.  
 Viniste a la clase temprano ayer ?  
 Ayer, yo vine a la clase temprano.  
 
