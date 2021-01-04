@@ -1,4 +1,6 @@
 
+### [venir](https://www.123teachme.com/translated_sentences/sp/venir)
+
 ### [ver](https://www.123teachme.com/translated_sentences/sp/ver)
 
 puedo ver la carta  
