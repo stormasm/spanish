@@ -1,5 +1,8 @@
 
-Me siento bien con las cosas que háre en el nuevo año.  
+me gusta cocinar una gran comida todos los dias alrededor del mediodia.   
+cada vez que te veo sonreir.   
+hicimos una caminata de mi casa hasta el parque.   
+Me siento bien con las cosas que háre en el nuevo año.    
 Estoy buscando fraces (oraciones) en español que son (sean) fáciles de recordar.  
 Estuve en casa cuando mi amigo vino a visitar.  
 Viniste a la clase temprano ayer ?  
