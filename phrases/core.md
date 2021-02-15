@@ -14,3 +14,7 @@
 | |
 | yo he hecho esto |
 | I have done this |
+| |
+| deja ir |
+| let it go |
+| dejando ir tus miedos |
