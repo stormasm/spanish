@@ -1,3 +1,3 @@
 # spanish
 
-hola 3
+hola 300
