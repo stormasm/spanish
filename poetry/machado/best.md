@@ -11,7 +11,7 @@ de la noria lenta.
 
 Soñaba la mula,  
 ¡pobre mula vieja!,  
-al compás2 de sombra  
+al compás de sombra  
 que en el agua suena.
 
 La tarde caía  
