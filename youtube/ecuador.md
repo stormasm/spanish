@@ -84,3 +84,17 @@
 ##### CC Closed Caption
 
 [Una victoria superior a la de Allende](https://www.youtube.com/watch?v=lGgcLfvKnOg)
+
+##### Axel Kaiser
+
+[Axel Kaiser | La nueva Constitución chilena](https://www.youtube.com/watch?v=uiwDPLX9Vd8)
+
+[Axel Kaiser | El problema de los latinoamericanos](https://www.youtube.com/watch?v=o7ngsSl_JRw)
+
+[Axel Kaiser | Convención Constituyente](https://www.youtube.com/watch?v=gTCa1ZHeib0)
+
+[Conferencia Javier Pérez Royo](https://www.youtube.com/watch?v=Y_dIUIZPQ2c)
+
+[El Gran Wyoming: El Mundo que Queremos CajaCanarias 2013](https://www.youtube.com/watch?v=3xiAjCxbosY)
+
+[Rtve](https://www.youtube.com/results?search_query=Rtve&sp=EiG4AQHCARtDaElKM1pOYkpTcUdRUTBSMVVCTXhybFVMNVU%253D)
