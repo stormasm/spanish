@@ -98,3 +98,25 @@
 [El Gran Wyoming: El Mundo que Queremos CajaCanarias 2013](https://www.youtube.com/watch?v=3xiAjCxbosY)
 
 [Rtve](https://www.youtube.com/results?search_query=Rtve&sp=EiG4AQHCARtDaElKM1pOYkpTcUdRUTBSMVVCTXhybFVMNVU%253D)
+
+[¿Qué te pasó Chile? El análisis de Tomás Mosciatti en](https://www.youtube.com/watch?v=83bfQnDC4No)
+
+##### science
+
+[Así cambiará el mundo la computación cuántica: Ignacio Cirac](https://www.youtube.com/watch?v=WJ3r6btgzBM)
+
+##### ted talks
+
+[Mi hija quiere entender el sistema financiero | Hernan Casciari | TEDxMontevideo](https://www.youtube.com/watch?v=HLIJkmy3vy8)
+
+[Cómo nos manipulan en las redes sociales | Santiago Bilinkis | TEDxRiodelaPlata](https://www.youtube.com/watch?v=8nKCA9h-7BA)
+
+[¿Por qué me vigilan, si no soy nadie? | Marta Peirano | TEDxMadrid](https://www.youtube.com/watch?v=NPE7i8wuupk)
+
+[Cómo motivar a los profesionales de tu empresa en 10 minutos | Alfonso Alcantara | TEDxLeon](https://www.youtube.com/watch?v=OF_rEVrQHvI)
+
+[Meditación y estrés | Daniel López Rosetti | TEDxSanIsidro](https://www.youtube.com/watch?v=Vg5sfCX8B8I)
+
+##### Ted Talks with Translations
+
+[COMO ARREBATÉ LOS DERECHOS QUE LA VIDA ME NEGÓ | Eufrosina Cruz Mendoza | TEDxCuauhtémoc](https://www.youtube.com/watch?v=UJYZV4Yaok8)
