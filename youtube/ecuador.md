@@ -7,4 +7,4 @@
 
 [Salinas de Bolivar, rapél, bicicletas y quesos del salinerito.](https://www.youtube.com/watch?v=eqhWB3RuC7w)
 
-[Recolección de Leche y Elaboración de Quesos, Salinas de Guaranda, Ecuador.](https://www.youtube.com/watch?v=llxx9JLbOe4)
+[Recolección de Leche y Elaboración de Quesos, Salinas de Guaranda](https://www.youtube.com/watch?v=llxx9JLbOe4)
