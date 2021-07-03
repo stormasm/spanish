@@ -78,3 +78,9 @@
 [La Guerra del Pacífico - El Inicio del Conflicto # 1](https://www.youtube.com/watch?v=bSuuC8VRkX8)
 
 [Full Interview With Venezuela's Nicolas Maduro](https://www.youtube.com/watch?v=zls2lJGd8GM)
+
+[Venezuela's Opposition Leader Is Open to Maduro Deal](https://www.youtube.com/watch?v=NajIQzjVN90)
+
+##### CC Closed Caption
+
+[Una victoria superior a la de Allende](https://www.youtube.com/watch?v=lGgcLfvKnOg)
