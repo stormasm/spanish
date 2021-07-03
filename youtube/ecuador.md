@@ -66,3 +66,15 @@
 [HISTORIA de COSTA RICA en 16 minutos](https://www.youtube.com/watch?v=UVQiWHKlOK0)
 
 [Así es un día “Normal en Venezuela” en tu país sería impensable!!!](https://www.youtube.com/watch?v=8vOudOtGlKE)
+
+### Historia de Argentina
+
+["Historia Argentina" DVD 1 (1776 - 1813)](https://www.youtube.com/watch?v=zXOOULdKh00&list=PLE6Q7SMpGnqbHLpJSMUAW8dvvzmetMUKI)
+
+[CARLOS GARDEL - BIOGRAFIA CANAL BIO](https://www.youtube.com/watch?v=YjTSasmDmg8)
+
+[Ché Guevara: el mito de Latinoamérica | Fernando Díaz Villanueva](https://www.youtube.com/watch?v=GSD9YroathM)
+
+[La Guerra del Pacífico - El Inicio del Conflicto # 1](https://www.youtube.com/watch?v=bSuuC8VRkX8)
+
+[Full Interview With Venezuela's Nicolas Maduro](https://www.youtube.com/watch?v=zls2lJGd8GM)
