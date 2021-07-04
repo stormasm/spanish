@@ -1,5 +1,10 @@
-
 ### TedX
+
+##### tedx cordoba
+
+[tedx cordoba](https://www.youtube.com/user/TEDxCordoba)
+
+[Para cuidar el ambiente, la conciencia no alcanza | Sergio Federovisky | TEDxCordoba](https://www.youtube.com/watch?v=CLq6tykbIrk)
 
 [Ciudades inteligentes: el poder de nuestros datos | Mara Balestrini | TEDxCordoba](https://www.youtube.com/watch?v=RhfM5LropRw)
 
@@ -11,8 +16,4 @@
 
 [Cómo activar la magia de tu cuarto cerebro para ser feliz? | Jaime Jaramillo | TEDxUniversidadPiloto](https://www.youtube.com/watch?v=j5vopNyhGrw)
 
-##### With Translations
-
 [Las matematicas son para siempre | Eduardo Saenz de Cabezon | TEDxRiodelaPlata](https://www.youtube.com/watch?v=jej8qlzlAGw)
-
-[Para cuidar el ambiente, la conciencia no alcanza | Sergio Federovisky | TEDxCordoba](https://www.youtube.com/watch?v=CLq6tykbIrk)
