@@ -1,8 +1,6 @@
 ### TedX
 
-##### tedx cordoba
-
-[tedx cordoba](https://www.youtube.com/user/TEDxCordoba)
+##### [tedx cordoba](https://www.youtube.com/user/TEDxCordoba)
 
 [Para cuidar el ambiente, la conciencia no alcanza | Sergio Federovisky | TEDxCordoba](https://www.youtube.com/watch?v=CLq6tykbIrk)
 
