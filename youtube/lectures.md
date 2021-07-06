@@ -23,3 +23,7 @@
 [Secretos de la relación corazón-cerebro | Luciano Sposato | TEDxRiodelaPlata](https://www.youtube.com/watch?v=c1iMoel2LxA)
 
 [Cómo hablar con otros que piensan distinto | Guadalupe Nogués | TEDxRiodelaPlata](https://www.youtube.com/watch?v=ESwDIXXyh_Y)
+
+[¿Qué tienen los pobres en la cabeza? | Mayra Arena | TEDxBahiaBlanca](https://www.youtube.com/watch?v=4JDu69Jy41Y)
+
+[Miedo o amor? Tú decides | Bárbara Mori | TEDxIbero](https://www.youtube.com/watch?v=lJujGjuAFF8)
