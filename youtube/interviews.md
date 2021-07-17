@@ -18,3 +18,5 @@
 ### Guadalupe Nogués
 
 [Que es la posverdad - Guadalupe Nogués](https://www.youtube.com/watch?v=3yX8vmFtvhg)
+
+[Guía para sobrevivir a la posverdad y a las fake news](https://www.youtube.com/watch?v=9Yy_u72YwPs)
