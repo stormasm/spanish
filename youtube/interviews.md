@@ -8,3 +8,7 @@
 [Gala Díaz Langou | Erradicar la pobreza | Aprender de Grandes #097](https://www.youtube.com/watch?v=139aTKYTKNY)
 
 [Fabian Skornik | Liderar una comunidad | Aprender de Grandes #098](https://www.youtube.com/watch?v=2Yjv_FLFleg)
+
+[Nora Bär | Comunicar la ciencia | Aprender de Grandes #101](https://www.youtube.com/watch?v=xPzHWWVxRz8)
+
+[All Episodes](https://www.youtube.com/watch?v=xPzHWWVxRz8&list=PLmNThgmPIjVBjMyO5CxjQHUT6yXSX3ozV)
