@@ -14,3 +14,7 @@
 [Nora Bär | Comunicar la ciencia | Aprender de Grandes #101](https://www.youtube.com/watch?v=xPzHWWVxRz8)
 
 [All Episodes](https://www.youtube.com/watch?v=xPzHWWVxRz8&list=PLmNThgmPIjVBjMyO5CxjQHUT6yXSX3ozV)
+
+### Guadalupe Nogués
+
+[Que es la posverdad - Guadalupe Nogués](https://www.youtube.com/watch?v=3yX8vmFtvhg)
