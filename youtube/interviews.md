@@ -1,4 +1,6 @@
 
+[Facundo Manes | Cerebro e instituciones | Aprender de Grandes #067](https://www.youtube.com/watch?v=T_sUEZYYDFE)
+
 [Marcos Galperin | La vida del emprendedor | Aprender de Grandes #072](https://www.youtube.com/watch?v=EuSM3LscaWI)
 
 [Guadalupe Nogués | Conversar con gente que piensa distinto | Aprender de Grandes #092](https://www.youtube.com/watch?v=Lo4zaUNNRwk)
