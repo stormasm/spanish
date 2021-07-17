@@ -7,6 +7,8 @@
 
 [Guadalupe Nogués | Conversar con gente que piensa distinto | Aprender de Grandes #092](https://www.youtube.com/watch?v=Lo4zaUNNRwk)
 
+[Ximena Sáenz | La pasión por la cocina y los sabores | Aprender de Grandes #095](https://www.youtube.com/watch?v=meD--YrP5nI)
+
 [Gala Díaz Langou | Erradicar la pobreza | Aprender de Grandes #097](https://www.youtube.com/watch?v=139aTKYTKNY)
 
 [Fabian Skornik | Liderar una comunidad | Aprender de Grandes #098](https://www.youtube.com/watch?v=2Yjv_FLFleg)
