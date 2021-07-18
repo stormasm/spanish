@@ -17,7 +17,7 @@
 
 [Facundo Manes | Cerebro e instituciones | Aprender de Grandes #067](https://www.youtube.com/watch?v=T_sUEZYYDFE)
 
-[All Episodes](https://www.youtube.com/watch?v=xPzHWWVxRz8&list=PLmNThgmPIjVBjMyO5CxjQHUT6yXSX3ozV)
+[All Episodes | Aprender de Grandes](https://www.youtube.com/watch?v=xPzHWWVxRz8&list=PLmNThgmPIjVBjMyO5CxjQHUT6yXSX3ozV)
 
 ### Guadalupe Nogués
 
