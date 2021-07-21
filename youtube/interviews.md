@@ -1,6 +1,8 @@
 
 ### Aprender de Grandes
 
+[Oráculo Aprender de Grandes - Sócrates, Aristóteles, San Agustín y Santo Tomás ayudan a vivir mejor July 5, 2021](https://www.youtube.com/watch?v=UX4q08WCrDQ)
+
 [Nora Bär | Comunicar la ciencia | Aprender de Grandes #101](https://www.youtube.com/watch?v=xPzHWWVxRz8)
 
 [Fabian Skornik | Liderar una comunidad | Aprender de Grandes #098](https://www.youtube.com/watch?v=2Yjv_FLFleg)
@@ -18,6 +20,8 @@
 [Sebastián Campanario | La revolución senior | Aprender de Grandes #074](https://www.youtube.com/watch?v=KjjrM3qn69o)
 
 [Marcos Galperin | La vida del emprendedor | Aprender de Grandes #072](https://www.youtube.com/watch?v=EuSM3LscaWI)
+
+[Santi Bilinkis | Cómo nos manipulan | Aprender de Grandes #070](https://www.youtube.com/watch?v=_89m6UMZsXo)
 
 [Facundo Manes | Cerebro e instituciones | Aprender de Grandes #067](https://www.youtube.com/watch?v=T_sUEZYYDFE)
 
