@@ -1,4 +1,6 @@
 
+[Juan Carlos de Pablo: “Hoy los argentinos estamos llenos de dólares” - Hablemos de Otra Cosa](https://www.youtube.com/watch?v=dQA_9XQiP_Q)
+
 ### Aprender de Grandes
 
 [Oráculo Aprender de Grandes - Sócrates, Aristóteles, San Agustín y Santo Tomás ayudan a vivir mejor July 5, 2021](https://www.youtube.com/watch?v=UX4q08WCrDQ)
