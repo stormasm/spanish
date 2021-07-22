@@ -1,4 +1,8 @@
 
+### Hablemos de Otra Cosa
+
+[https://www.youtube.com/hashtag/hablemosdeotracosa](https://www.youtube.com/hashtag/hablemosdeotracosa)
+
 [Juan Carlos de Pablo: “Hoy los argentinos estamos llenos de dólares” - Hablemos de Otra Cosa](https://www.youtube.com/watch?v=dQA_9XQiP_Q)
 
 ### Aprender de Grandes
