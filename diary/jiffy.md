@@ -1,10 +1,11 @@
 
 ##### pg 63
-[Quisiera](https://www.spanishdict.com/answers/202882/why-imperfect-subjunctive-quisiera) 
+[Quisiera](https://www.spanishdict.com/answers/202882/why-imperfect-subjunctive-quisiera)
 I would like to
 [verte see you]
 [conocerte to meet you]
-[estar contigo to be with you]
+[estar contigo to be with you]   
+quisiera dejar aquí este libro, i would like to leave this book here
 
 ##### pg 84
 puedo dejar aquí mi libro. can I leave my book here.   
