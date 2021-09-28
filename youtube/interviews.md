@@ -5,6 +5,8 @@
 
 [Cómo curar las heridas de la infancia para que no nos amarguen la vida](https://www.youtube.com/watch?v=i3j8NquR-ig)
 
+* [17min] trabajar en uno mismo no esta en el horizonte de la gente que solo se ocupa de hacer lo que hay que hacer, working on yourself is not on the radar screen of people who only deal with doing what needs to be done
+
 ### Hablemos de Otra Cosa
 
 [https://www.youtube.com/hashtag/hablemosdeotracosa](https://www.youtube.com/hashtag/hablemosdeotracosa)
