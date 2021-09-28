@@ -1,4 +1,10 @@
 
+### Top Entrevistas
+
+#####[Claudio Naranjo](https://en.wikipedia.org/wiki/Claudio_Naranjo)
+
+[Cómo curar las heridas de la infancia para que no nos amarguen la vida](https://www.youtube.com/watch?v=i3j8NquR-ig)
+
 ### Hablemos de Otra Cosa
 
 [https://www.youtube.com/hashtag/hablemosdeotracosa](https://www.youtube.com/hashtag/hablemosdeotracosa)
@@ -44,5 +50,3 @@
 ##### Sections of Aprender de Grandes
 
 [La ciencia y teorías conspirativas | Guadalupe Nogués en Aprender de Grandes](https://www.youtube.com/watch?v=-h3qILg4W4M)
-
-ok
