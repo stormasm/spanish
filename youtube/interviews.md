@@ -5,9 +5,17 @@
 
 [Cómo curar las heridas de la infancia para que no nos amarguen la vida](https://www.youtube.com/watch?v=i3j8NquR-ig)
 
-* [17min] trabajar en uno mismo no esta en el horizonte de la gente que solo se ocupa de hacer lo que hay que hacer, working on yourself is not on the radar screen of people who only deal with doing what needs to be done
-* [18min] cada vez hay una esclavitud laboral mas fuerte y menos ocio en nuestra sociedad,  every time there is a stronger labor slavery and less leisure in our society
+[rt](https://actualidad.rt.com)
+
+* interview is with **francisco guaita**
+* https://actualidad.rt.com
+* [17min] trabajar en uno mismo no esta en el horizonte de la gente que solo se ocupa de hacer lo que hay que hacer, working on yourself is not on the radar screen of people who only deal with doing what needs to be done.
+* [18min] cada vez hay una esclavitud laboral mas fuerte y menos ocio en nuestra sociedad,  every time there is a stronger labor slavery and less leisure in our society.
 * [20min] el ambiente norteamericano es muy ambivalente, se le hace mucha fiesta al niño, pero hay mucho negocio detrás, the North American environment is very ambivalent, the child is given a lot of parties, but there is a lot of business behind.
+* [21min] cuando un psicoterapeuta ayuda a un adulto, aparecen muchas carencias que de niño no se vieron satisfechas, when a psychotherapist helps an adult, many deficiencies appear that were not satisfied as a child.
+* [22min] a los adultos hay que devolverles el dolor y la rabia infantil, solo asi se puede recuperar el amor, We must return the pain and childhood anger to adults, only then can love be recovered.
+* [23min] la ética cristiana predica el amor al prójimo pero eso no funciona si no hay amor a uno mismo, Christian ethics preach love of neighbor but that does not work if there is no love of oneself.
+* [26min] en nuestra sociedad se ha tratado de ahorrar en el cuidado de los niños, pero en verdad son la mejor inversión, in our society it has been tried to save in the care of the children, but in truth they are the best investment.
 
 ### Hablemos de Otra Cosa
 
