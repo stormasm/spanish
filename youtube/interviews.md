@@ -3,12 +3,9 @@
 
 ##### [Claudio Naranjo](https://en.wikipedia.org/wiki/Claudio_Naranjo)
 
-[Cómo curar las heridas de la infancia para que no nos amarguen la vida](https://www.youtube.com/watch?v=i3j8NquR-ig)
-
-[rt](https://actualidad.rt.com)
-
+* [Cómo curar las heridas de la infancia para que no nos amarguen la vida](https://www.youtube.com/watch?v=i3j8NquR-ig)
+* [rt](https://actualidad.rt.com)
 * interview is with **francisco guaita**
-* https://actualidad.rt.com
 * [17min] trabajar en uno mismo no esta en el horizonte de la gente que solo se ocupa de hacer lo que hay que hacer, working on yourself is not on the radar screen of people who only deal with doing what needs to be done.
 * [18min] cada vez hay una esclavitud laboral mas fuerte y menos ocio en nuestra sociedad,  every time there is a stronger labor slavery and less leisure in our society.
 * [20min] el ambiente norteamericano es muy ambivalente, se le hace mucha fiesta al niño, pero hay mucho negocio detrás, the North American environment is very ambivalent, the child is given a lot of parties, but there is a lot of business behind.
