@@ -7,6 +7,7 @@
 
 * [17min] trabajar en uno mismo no esta en el horizonte de la gente que solo se ocupa de hacer lo que hay que hacer, working on yourself is not on the radar screen of people who only deal with doing what needs to be done
 * [18min] cada vez hay una esclavitud laboral mas fuerte y menos ocio en nuestra sociedad,  every time there is a stronger labor slavery and less leisure in our society
+* [20min] el ambiente norteamericano es muy ambivalente, se le hace mucha fiesta al niño, pero hay mucho negocio detrás, the North American environment is very ambivalent, the child is given a lot of parties, but there is a lot of business behind.
 
 ### Hablemos de Otra Cosa
 
@@ -53,3 +54,13 @@
 ##### Sections of Aprender de Grandes
 
 [La ciencia y teorías conspirativas | Guadalupe Nogués en Aprender de Grandes](https://www.youtube.com/watch?v=-h3qILg4W4M)
+
+
+### spanish accents on macbook pro
+
+To get accented vowels on a Mac,   
+hold down the Option/Alt key (⌥), and press the e key.    
+Then, release both keys and type the letter that you want to accent.
+
+For the ñ, hold down the Option/Alt key while you press the n key,    
+then press n again.
