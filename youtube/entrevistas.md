@@ -46,6 +46,9 @@
 * [El Eneagrama - Claudio Naranjo](https://www.youtube.com/watch?v=fjbMYdoFsIY)
 * [Mejores Fragmentos: CLAUDIO NARANJO (1ª Parte)](https://www.youtube.com/watch?v=zuWQl2k8Foc)
 * [Mejores Fragmentos: CLAUDIO NARANJO (2ª Parte)](https://www.youtube.com/watch?v=7g9aujmgVCc)
+* [Entrevista a Claudio Naranjo con Isaías Sharon](https://www.youtube.com/watch?v=2s6uZs_SITI)
+* [Presentación del libro "27 personajes en busca del ser"](https://www.youtube.com/watch?v=Yv1smjAYZb8)
+* [Claudio Naranjo entrevistado por OCCIDENTE TESTIMONIOS VISIONES y UTOPÍA HD](https://www.youtube.com/watch?v=RvdK8qZyc9c)
 
 ### Hablemos de Otra Cosa
 
