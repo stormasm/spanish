@@ -1,4 +1,10 @@
 
+[Natalia Lafourcade - Danza de Gardenias (En Manos de Los Macorinos) ft. Los Macorinos](https://www.youtube.com/watch?v=nT5ejVJhios&list=OLAK5uy_lfz5ebgK2EWARdW3kt2XbwBTm4TAmfYs4)
+
+[Soy lo Prohibido (En Manos de Los Macorinos) (Cover Audio)](https://www.youtube.com/watch?v=iVzb_74gibk)
+
+[Natalia Lafourcade - Mi Tierra Veracruzana (En Manos de Los Macorinos)](https://www.youtube.com/watch?v=3ZIgdr0a07o)
+
 [Natalia Lafourcade - María Bonita (En Vivo)](https://www.youtube.com/watch?v=6bjSGZo6fFc)
 
 [Natalia Lafourcade - Piensa en Mí (En Vivo) ft. Paco Familiar (DLD), Ismael (Los Daniels)](https://www.youtube.com/watch?v=zbVND6uRBwU)
