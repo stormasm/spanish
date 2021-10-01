@@ -1,4 +1,8 @@
 
+[Natalia Lafourcade - Danza de Gardenias (Versión Acústica) ft. Rozalén](https://www.youtube.com/watch?v=E6wuWc6w9D8)
+
+[Natalia Lafourcade - La Malquerida (+ Spoken Words)](https://www.youtube.com/watch?v=yE47F7mI3Ro)
+
 [Natalia Lafourcade - Rocío de Todos los Campos (En Manos de Los Macorinos)](https://www.youtube.com/watch?v=atYrp4k2nJQ)
 
 [Natalia Lafourcade - Alma Mía (En Manos de Los Macorinos) ft. Los Macorinos](https://www.youtube.com/watch?v=zZGF3vRDyIE)
