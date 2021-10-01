@@ -1,4 +1,10 @@
 
+[Natalia Lafourcade - María Bonita (En Vivo)](https://www.youtube.com/watch?v=6bjSGZo6fFc)
+
+[Natalia Lafourcade - Piensa en Mí (En Vivo) ft. Paco Familiar (DLD), Ismael (Los Daniels)](https://www.youtube.com/watch?v=zbVND6uRBwU)
+
+[Natalia Lafourcade - Alfonsina y El Mar (Video Oficial)](https://www.youtube.com/watch?v=edLHHvTx6-w)
+
 [Natalia Lafourcade - La Fugitiva (En Vivo) ft. Lila Downs](https://www.youtube.com/watch?v=Ov3F5-oWMjA)
 
 [Natalia Lafourcade - Danza de Gardenias (Versión Acústica) ft. Rozalén](https://www.youtube.com/watch?v=E6wuWc6w9D8)
