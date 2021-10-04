@@ -32,3 +32,5 @@
 [Natalia Lafourcade y los procesos detrás de sus canciones | GQ México y Latinoamérica](https://www.youtube.com/watch?v=xciXjV_a06I)
 
 [Natalia Lafourcade: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=JODaYjDyjyQ)
+
+[Natalia Lafourcade - Musas, El Documental](https://www.youtube.com/watch?v=w-9N4kcNpmw)
