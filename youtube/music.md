@@ -3,6 +3,14 @@
 
 [Natalia Lafourcade En Vivo Hollywood Bowl](https://www.youtube.com/watch?v=QmwGfJwZ_xw)
 
+[Natalia Lafourcade - Aventurera](https://www.youtube.com/watch?v=X2klIu-jgQ8)
+
+[Natalia Lafourcade - Mexicana Hermosa (Versión Mariachi) ft. Carlos Rivera](https://www.youtube.com/watch?v=uv5lHe14Dgk)
+
+[Natalia Lafourcade ft. Gustavo Guerrero - Tonada De Luna Llena (El Ganzo Sessions)](https://www.youtube.com/watch?v=wgT2wrK4p9s)
+
+[Natalia Lafourcade - Danza de Gardenias (Versión Acústica) ft. Rozalén](https://www.youtube.com/watch?v=E6wuWc6w9D8)
+
 [Natalia Lafourcade - Danza de Gardenias (En Manos de Los Macorinos) ft. Los Macorinos](https://www.youtube.com/watch?v=nT5ejVJhios&list=OLAK5uy_lfz5ebgK2EWARdW3kt2XbwBTm4TAmfYs4)
 
 [Soy lo Prohibido (En Manos de Los Macorinos) (Cover Audio)](https://www.youtube.com/watch?v=iVzb_74gibk)
@@ -32,5 +40,13 @@
 [Natalia Lafourcade y los procesos detrás de sus canciones | GQ México y Latinoamérica](https://www.youtube.com/watch?v=xciXjV_a06I)
 
 [Natalia Lafourcade: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=JODaYjDyjyQ)
+
+[Vivir con valor - Adán Jodorowsky feat. Natalia Lafourcade](https://www.youtube.com/watch?v=hUrlHEsmFMA)
+
+[Natalia Lafourcade - Mi Religión (Video Oficial)](https://www.youtube.com/watch?v=C7uuUJSYXZU)
+
+[Natalia Lafourcade - Mujer Divina](https://www.youtube.com/watch?v=I30mGyTPmmM)
+
+[Natalia Lafourcade - Cursis Melodias](https://www.youtube.com/watch?v=6jx4YXykPYQ)
 
 [Natalia Lafourcade - Musas, El Documental](https://www.youtube.com/watch?v=w-9N4kcNpmw)
