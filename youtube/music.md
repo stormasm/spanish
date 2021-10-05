@@ -59,95 +59,95 @@ Soledad y el Mar
 Song by Natalia Lafourcade
 [Lyrics](https://www.google.com/search?q=lyrics+soledad+y+el+mar&oq=lyrics+soledad+&aqs=chrome.0.0i512j69i57j0i512j0i22i30l7.3513j0j7&sourceid=chrome&ie=UTF-8)
 
-In the song of the waves
+In the song of the waves  
 En el canto de las olas
 
-I found a rumor of light
+I found a rumor of light  
 Encontré un rumor de luz
 
-For a song of seagulls
+For a song of seagulls  
 Por un canto de gaviotas
 
-I knew that you were there
+I knew that you were there  
 Supe que allí estabas tú
 
-Firing lately
+Firing lately  
 Despidiendo últimamente
 
-Everything that happened
+Everything that happened  
 Todo lo que sucedió
 
-Today, I greet my present
+Today, I greet my present  
 Hoy, saludo mi presente
 
-And taste this sweet goodbye
+And taste this sweet goodbye  
 Y gusto de este dulce adiós
 
-I will sail in your blue port
+I will sail in your blue port  
 Voy a navegar en tu puerto azul
 
-I would like to know where you come from
+I would like to know where you come from  
 Quisiera saber de dónde vienes tú
 
-Let's let time stop
+Let's let time stop  
 Vamos a dejar que el tiempo pare
 
-See our memories in the seas
+See our memories in the seas  
 Ver nuestros recuerdos en los mares
 
-And this loneliness so deep ...
+And this loneliness so deep ...  
 Y esta soledad tan profunda...
 
-That in the song of the waves
+That in the song of the waves  
 Que en el canto de las olas
 
-I would like to submerge
+I would like to submerge  
 Me quisiera sumergir
 
-Getting drunk on its scent
+Getting drunk on its scent  
 Embriagándome en su aroma
 
-Something new discover
+Something new discover  
 Algo nuevo descubrir
 
-I will sail in your blue port
+I will sail in your blue port  
 Voy a navegar en tu puerto azul
 
-I would like to know where you come from
+I would like to know where you come from  
 Quisiera saber de dónde vienes tú
 
-Let's let time stop
+Let's let time stop  
 Vamos a dejar que el tiempo pare
 
-See our memories in the seas
+See our memories in the seas  
 Ver nuestros recuerdos en los mares
 
-And this loneliness so deep ...
+And this loneliness so deep ...  
 Y esta soledad tan profunda...
 
-Let the sea sing to me
+Let the sea sing to me  
 Que me cante el mar
 
-A bolero of loneliness
+A bolero of loneliness  
 Un bolero de soledad
 
-Let the sea sing to me
+Let the sea sing to me  
 Que me cante el mar
 
-That I walk alone, with loneliness
+That I walk alone, with loneliness  
 Que ando sola, con soledad
 
-Let the sea sing to me
+Let the sea sing to me  
 Que me cante el mar
 
-A bolero of loneliness
+A bolero of loneliness  
 Un bolero de soledad
 
-Let the sea sing to me
+Let the sea sing to me  
 Que me cante el mar
 
-That I walk alone, with loneliness
+That I walk alone, with loneliness  
 Que ando sola, con soledad
 
-Solitude and the sea
+Solitude and the sea  
 Soledad y el mar
