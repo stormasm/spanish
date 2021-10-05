@@ -56,7 +56,6 @@
 ### Lyrics
 
 [Soledad y el Mar](https://www.youtube.com/watch?v=gd4jntP0tco)
-Song by Natalia Lafourcade
 [Lyrics](https://www.google.com/search?q=lyrics+soledad+y+el+mar&oq=lyrics+soledad+&aqs=chrome.0.0i512j69i57j0i512j0i22i30l7.3513j0j7&sourceid=chrome&ie=UTF-8)
 
 In the song of the waves  
