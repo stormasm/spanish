@@ -52,3 +52,101 @@
 [Natalia Lafourcade - Cursis Melodias](https://www.youtube.com/watch?v=6jx4YXykPYQ)
 
 [Natalia Lafourcade - Musas, El Documental](https://www.youtube.com/watch?v=w-9N4kcNpmw)
+
+### Lyrics
+
+Soledad y el Mar
+Song by Natalia Lafourcade
+
+In the song of the waves
+En el canto de las olas
+
+I found a rumor of light
+Encontré un rumor de luz
+
+For a song of seagulls
+Por un canto de gaviotas
+
+I knew that you were there
+Supe que allí estabas tú
+
+Firing lately
+Despidiendo últimamente
+
+Everything that happened
+Todo lo que sucedió
+
+Today, I greet my present
+Hoy, saludo mi presente
+
+And taste this sweet goodbye
+Y gusto de este dulce adiós
+
+I will sail in your blue port
+Voy a navegar en tu puerto azul
+
+I would like to know where you come from
+Quisiera saber de dónde vienes tú
+
+Let's let time stop
+Vamos a dejar que el tiempo pare
+
+See our memories in the seas
+Ver nuestros recuerdos en los mares
+
+And this loneliness so deep ...
+Y esta soledad tan profunda...
+
+That in the song of the waves
+Que en el canto de las olas
+
+I would like to submerge
+Me quisiera sumergir
+
+Getting drunk on its scent
+Embriagándome en su aroma
+
+Something new discover
+Algo nuevo descubrir
+
+I will sail in your blue port
+Voy a navegar en tu puerto azul
+
+I would like to know where you come from
+Quisiera saber de dónde vienes tú
+
+Let's let time stop
+Vamos a dejar que el tiempo pare
+
+See our memories in the seas
+Ver nuestros recuerdos en los mares
+
+And this loneliness so deep ...
+Y esta soledad tan profunda...
+
+Let the sea sing to me
+Que me cante el mar
+
+A bolero of loneliness
+Un bolero de soledad
+
+Let the sea sing to me
+Que me cante el mar
+
+That I walk alone, with loneliness
+Que ando sola, con soledad
+
+Let the sea sing to me
+Que me cante el mar
+
+A bolero of loneliness
+Un bolero de soledad
+
+Let the sea sing to me
+Que me cante el mar
+
+That I walk alone, with loneliness
+Que ando sola, con soledad
+
+Solitude and the sea
+Soledad y el mar
