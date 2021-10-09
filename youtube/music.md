@@ -71,7 +71,7 @@ Por un canto de gaviotas
 I knew that you were there  
 Supe que allí estabas tú
 
-Firing lately  
+Saying goodbye lately  
 Despidiendo últimamente
 
 Everything that happened  
