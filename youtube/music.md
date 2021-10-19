@@ -11,6 +11,8 @@
 
 [Nina & Salo - Soledad y el Mar](https://www.youtube.com/watch?v=O7KUlbk_uQ8)
 
+[Martina Mighetto - Walter Ratto](https://www.youtube.com/watch?v=JV1RnIkAu5g)
+
 ### Natalia Lafourcade
 
 [Natalia Lafourcade En Vivo Hollywood Bowl](https://www.youtube.com/watch?v=QmwGfJwZ_xw)
