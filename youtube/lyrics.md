@@ -106,6 +106,185 @@ Soledad y el mar
 
 [Lyrics](https://www.google.com/search?q=T%C3%BA+s%C3%AD+sabes+quererme+lyrics&oq=T%C3%BA+s%C3%AD+sabes+quererme+lyrics&aqs=chrome..69i57j0i22i30l8.2307j0j7&sourceid=chrome&ie=UTF-8)
 
+
+##### Mixed
+
+It has been so long  
+Ha pasado tanto tiempo
+
+I finally discovered your kisses  
+Finalmente descubrí tus besos
+
+You tangled me in your gaze  
+Me enredaste en tu mirada
+
+You hugged me with all my flaws  
+Me abrazaste con todos mis defectos  
+You do know how to love me  
+Tú sí sabes quererme
+
+You know how to adore me  
+Tú si sabes adorarme
+
+My love, don't go, stay forever  
+Mi amor, no te vayas, quédate por siempre
+
+Forever, forever loving you  
+Para siempre, para siempre amarte  
+Heart, you do know how to love me the way I like it  
+Corazón, tú sí sabes quererme como a mí me gusta
+
+I am the lighted flower that colors the garden of your life  
+Soy la flor encendida que da color al jardín de tu vida
+
+Heart, you do know how to love me the way I like it  
+Corazón, tú sí sabes quererme como a mí me gusta
+
+Please don't let me, I'm brave to reciprocate  
+Por favor, no me dejes que soy valiente en corresponderte  
+I'm going to love you, brunette, without fear  
+Te voy a querer, morena, sin miedo
+
+I'm going to love you (to love you without regret)  
+Te voy a querer (a quererte sin pena)
+
+I'm going to love you, brunette, without fear  
+Te voy a querer, morena, sin miedo  
+
+I'm going to love you (to love you without regret)  
+Te voy a querer (a quererte sin pena)  
+It's been so long, I finally know that I'm willing  
+Ha pasado tanto tiempo, finalmente sé que estoy dispuesta
+
+It's so hard to find a love  
+Es tan difícil encontrar un amor
+
+Here I am left with wide open wounds  
+Aquí me quedo con heridas bien abiertas
+
+I no longer care what other people think  
+Ya no me importa lo que piensan los demás
+
+Here I stay to always be a witness of life  
+Aquí me quedo para ser testigo siempre de la vida
+
+Here forever, forever, forever love us  
+Aquí por siempre, para siempre, para siempre amarnos  
+Heart, you do know how to love me the way I like it  
+Corazón, tú sí sabes quererme como a mí me gusta
+
+I am the lighted flower that colors the garden of your life  
+Soy la flor encendida que da color al jardín de tu vida
+
+Heart, you do know how to love me the way I like it  
+Corazón, tú sí sabes quererme como a mí me gusta
+
+Please don't let me, I'm brave to reciprocate  
+Por favor, no me dejes que soy valiente en corresponderte  
+Heart, you do know how to love me the way I like it  
+Corazón, tú sí sabes quererme como a mí me gusta
+
+I am the lighted flower that colors the garden of your life  
+Soy la flor encendida que da color al jardín de tu vida
+
+Heart, you do know how to love me the way I like it  
+Corazón, tú sí sabes quererme como a mí me gusta
+
+Please don't let me, I'm brave to reciprocate  
+Por favor, no me dejes que soy valiente en corresponderte  
+Perfect love begins with myself  
+El amor perfecto comienza por mí misma
+
+If I don't know myself, how do I know who likes me?  
+Si yo no me conozco, ¿cómo saber quién me estima?
+
+When I look in the mirror for me there are no doubts  
+Al verme al espejo para mí no quedan dudas
+
+The heart is excited because it knows what it is looking for  
+El corazón se excita porque sabe lo que busca
+
+The love I deserve exists, I'm living it  
+El amor que merezco existe, lo estoy viviendo
+
+When I share it, it grows with the universe  
+Cuando lo comparto crece con el universo
+
+If a name takes a face, we decide to be close  
+Si toma rostro un nombre, decidimos estar cerca
+
+It is a mutual agreement where chains are unnecessary  
+Es un acuerdo mutuo donde sobran las cadenas
+
+Pa 'to spend penalties better to be alone  
+Pa' pasar penas mejor estar solita
+
+True love is what the soul needs  
+Amor verdadero es lo que el alma necesita
+
+A love that listens and accompanies you through life  
+Un amor que escucha y te acompaña por la vida
+
+That brings peace and that fills with smiles  
+Que trae la paz y que llena de sonrisas
+
+Between so much hatred that the world inhabits  
+Entre tanto odio que en el mundo habita
+
+Love without fear, without possessing and without wounds  
+Amar sin miedos, sin poseer y sin heridas
+
+It is our wish, but it will not be utopia  
+Es nuestro deseo, pero no será utopía
+
+We deserve a good world and love be the guide  
+Merecemos un buen mundo y el amor sea la guía  
+Oh, so much hatred that the world lives  
+Ay, tanto odio que en el mundo habita
+
+(Love me the way I like it)  
+(Quererme como a mí me gusta)
+
+Keep me happy night and day  
+Tenerme contenta de noche y de día
+
+(Love me the way I like it)  
+(Quererme como a mí me gusta)
+
+True love, what the soul needs  
+Amor verdadero, lo que el alma necesita
+
+(Love me the way I like it)  
+(Quererme como a mí me gusta)
+
+Know that I am yours and you are all mine  
+Saber que soy tuyo y tú toda mía  
+
+(Love me the way I like it)  
+(Quererme como a mí me gusta)  
+Brunette, (say it) to love you without regret  
+Morena, (dígalo) a quererte sin pena  
+
+And of course, to have a hard time, it is better to be alone  
+Y cómo no, pa' pasar pena mejor estar solita  
+
+(Love me the way I like it)  
+(Quererme como a mí me gusta)  
+
+Soul with soul like you wanted it  
+Alma con alma como tú lo querías  
+
+(Love me the way I like it)  
+(Quererme como a mí me gusta)  
+
+We deserve, in life, that love be the guide  
+Merecemos, en la vida, que el amor sea la guía  
+
+Love me the way I like it   
+Quererme como a mí me gusta  
+
+##### Spanish only
+
 Ha pasado tanto tiempo  
 Finalmente descubrí tus besos  
 Me enredaste en tu mirada  
