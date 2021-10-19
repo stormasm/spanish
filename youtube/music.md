@@ -1,6 +1,8 @@
 
 [Playlist starting with Natalia Lafourcade - Soledad y El Mar (En Manos de Los Macorinos) [La Fiesta Parte II]](https://www.youtube.com/watch?v=gd4jntP0tco&list=RDgd4jntP0tco&start_radio=1)
 
+[Soledad y el Mar - Serendipia Cover](https://www.youtube.com/watch?v=uP0a23NFrn4)
+
 [Natalia Lafourcade En Vivo Hollywood Bowl](https://www.youtube.com/watch?v=QmwGfJwZ_xw)
 
 [Natalia Lafourcade - Nunca Es Suficiente (Austin City Limits)](https://www.youtube.com/watch?v=JNz2rEx7BCU)
