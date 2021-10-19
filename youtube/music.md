@@ -3,13 +3,13 @@
 
 [Playlist starting with Natalia Lafourcade - Soledad y El Mar (En Manos de Los Macorinos) [La Fiesta Parte II]](https://www.youtube.com/watch?v=gd4jntP0tco&list=RDgd4jntP0tco&start_radio=1)
 
-[Soledad y el Mar - Serendipia Cover](https://www.youtube.com/watch?v=uP0a23NFrn4)
+[Serendipia Cover](https://www.youtube.com/watch?v=uP0a23NFrn4)
 
-[Soledad y El Mar - A Los Primos Cover](https://www.youtube.com/watch?v=dE75xiMvio0)
+[A Los Primos Cover](https://www.youtube.com/watch?v=dE75xiMvio0)
 
-[Cristhian Vergara, Lú Vergara - Soledad y el mar (Cover)](https://www.youtube.com/watch?v=KbwrreYEwBE)
+[Cristhian Vergara, Lú Vergara](https://www.youtube.com/watch?v=KbwrreYEwBE)
 
-[Nina & Salo - Soledad y el Mar](https://www.youtube.com/watch?v=O7KUlbk_uQ8)
+[Nina & Salo](https://www.youtube.com/watch?v=O7KUlbk_uQ8)
 
 [Martina Mighetto - Walter Ratto](https://www.youtube.com/watch?v=JV1RnIkAu5g)
 
