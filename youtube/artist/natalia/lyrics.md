@@ -122,7 +122,8 @@ You tangled me in your gaze
 Me enredaste en tu mirada
 
 You hugged me with all my flaws  
-Me abrazaste con todos mis defectos  
+Me abrazaste con todos mis defectos
+
 You do know how to love me  
 Tú sí sabes quererme
 
@@ -134,6 +135,7 @@ Mi amor, no te vayas, quédate por siempre
 
 Forever, forever loving you  
 Para siempre, para siempre amarte  
+
 Heart, you do know how to love me the way I like it  
 Corazón, tú sí sabes quererme como a mí me gusta
 
@@ -143,8 +145,12 @@ Soy la flor encendida que da color al jardín de tu vida
 Heart, you do know how to love me the way I like it  
 Corazón, tú sí sabes quererme como a mí me gusta
 
-Please don't let me, I'm brave to reciprocate  
-Por favor, no me dejes que soy valiente en corresponderte  
+Please don't leave me, because I'm brave to (love you) reciprocate  
+Por favor, no me dejes que soy valiente en corresponderte
+
+
+
+
 I'm going to love you, brunette, without fear  
 Te voy a querer, morena, sin miedo
 
