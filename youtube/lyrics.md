@@ -358,3 +358,6 @@ Alma con alma como tú lo querías
 (Quererme como a mí me gusta)  
 Merecemos, en la vida, que el amor sea la guía  
 Quererme como a mí me gusta  
+
+### References
+[quererme](https://www.spanishdict.com/translate/quererme)  
