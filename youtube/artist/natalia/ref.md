@@ -11,7 +11,7 @@
 
 Inspiración que siente el artista y que estimula o favorece la creación o la composición de obras de arte; esta inspiración suele representarse personificada.
 
-* suele - usually
+* suele - usually - [ref](https://www.spanishdict.com/translate/suele)
 
 Suele haber muchas fiestas en la playa durante el verano.  
 There are usually a lot of parties on the beach in the summer.
