@@ -7,7 +7,8 @@
 
 ### Otra
 
-##### Definition of Musas
+* musas - muse
+
 Inspiración que siente el artista y que estimula o favorece la creación o la composición de obras de arte; esta inspiración suele representarse personificada.
 
 * suele - usually
