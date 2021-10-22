@@ -167,6 +167,7 @@ Aquí me quedo para ser testigo siempre de la vida
 
 Here forever, forever, forever love us  
 Aquí por siempre, para siempre, para siempre amarnos  
+
 Heart, you do know how to love me the way I like it  
 Corazón, tú sí sabes quererme como a mí me gusta
 
@@ -178,6 +179,7 @@ Corazón, tú sí sabes quererme como a mí me gusta
 
 Please don't let me, I'm brave to reciprocate  
 Por favor, no me dejes que soy valiente en corresponderte  
+
 Heart, you do know how to love me the way I like it  
 Corazón, tú sí sabes quererme como a mí me gusta
 
@@ -189,6 +191,9 @@ Corazón, tú sí sabes quererme como a mí me gusta
 
 Please don't let me, I'm brave to reciprocate  
 Por favor, no me dejes que soy valiente en corresponderte  
+\
+\
+\
 Perfect love begins with myself  
 El amor perfecto comienza por mí misma
 
