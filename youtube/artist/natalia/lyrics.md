@@ -147,9 +147,9 @@ Corazón, tú sí sabes quererme como a mí me gusta
 
 Please don't leave me, because I'm brave to (love you) reciprocate  
 Por favor, no me dejes que soy valiente en corresponderte
-\  
-\  
-\  
+\
+\
+\
 I'm going to love you, brunette, without fear  
 Te voy a querer, morena, sin miedo
 
