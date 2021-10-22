@@ -237,9 +237,9 @@ Corazón, corazón, tú sí sabes
 (quererme como a mí me gusta)  
 Corazón tú si sabes quererme mi amor   
 (quererme como a mí me gusta)  
-¡Ay! No te vayas, quédate por siempre
-(quererme como a mí me gusta)  
-Que soy valiente en corresponderte mi amor
+¡Ay! No te vayas, quédate por siempre  
+(quererme como a mí me gusta)    
+Que soy valiente en corresponderte mi amor  
 (quererme como a mí me gusta)  
 
 ### References
