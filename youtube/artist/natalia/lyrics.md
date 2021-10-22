@@ -150,17 +150,6 @@ Por favor, no me dejes que soy valiente en corresponderte
 \
 \
 \
-I'm going to love you, brunette, without fear  
-Te voy a querer, morena, sin miedo
-
-I'm going to love you (to love you without regret)  
-Te voy a querer (a quererte sin pena)
-
-I'm going to love you, brunette, without fear  
-Te voy a querer, morena, sin miedo  
-
-I'm going to love you (to love you without regret)  
-Te voy a querer (a quererte sin pena)  
 It's been so long, I finally know that I'm willing  
 Ha pasado tanto tiempo, finalmente sé que estoy dispuesta
 
@@ -290,6 +279,22 @@ Merecemos, en la vida, que el amor sea la guía
 
 Love me the way I like it   
 Quererme como a mí me gusta  
+\
+\
+Not sure where this text goes
+\
+\
+I'm going to love you, brunette, without fear  
+Te voy a querer, morena, sin miedo
+
+I'm going to love you (to love you without regret)  
+Te voy a querer (a quererte sin pena)
+
+I'm going to love you, brunette, without fear  
+Te voy a querer, morena, sin miedo  
+
+I'm going to love you (to love you without regret)  
+Te voy a querer (a quererte sin pena)  
 
 ##### Spanish only
 
