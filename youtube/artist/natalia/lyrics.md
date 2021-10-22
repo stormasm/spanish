@@ -106,6 +106,7 @@ Soledad y el mar
 
 [Natalia Lafourcade - Tú sí sabes quererme (en manos de Los Macorinos)](https://www.youtube.com/watch?v=ABLT6hdgEek)
 
+[Lyrics de letras](https://www.letras.com/natalia-lafourcade/tu-si-sabes-quererme/)
 [Lyrics](https://www.google.com/search?q=T%C3%BA+s%C3%AD+sabes+quererme+lyrics&oq=T%C3%BA+s%C3%AD+sabes+quererme+lyrics&aqs=chrome..69i57j0i22i30l8.2307j0j7&sourceid=chrome&ie=UTF-8)
 
 [Ref01](https://beehy.pe/natalia-lafourcade-tu-si-sabes-quererme-mexico/)
@@ -193,115 +194,6 @@ Corazón, tú sí sabes quererme como a mí me gusta
 
 Please don't let me, I'm brave to reciprocate  
 Por favor, no me dejes que soy valiente en corresponderte  
-\
-\
-\
-Perfect love begins with myself  
-El amor perfecto comienza por mí misma
-
-If I don't know myself, how do I know who likes me?  
-Si yo no me conozco, ¿cómo saber quién me estima?
-
-When I look in the mirror for me there are no doubts  
-Al verme al espejo para mí no quedan dudas
-
-The heart is excited because it knows what it is looking for  
-El corazón se excita porque sabe lo que busca
-
-The love I deserve exists, I'm living it  
-El amor que merezco existe, lo estoy viviendo
-
-When I share it, it grows with the universe  
-Cuando lo comparto crece con el universo
-
-If a name takes a face, we decide to be close  
-Si toma rostro un nombre, decidimos estar cerca
-
-It is a mutual agreement where chains are unnecessary  
-Es un acuerdo mutuo donde sobran las cadenas
-
-Pa 'to spend penalties better to be alone  
-Pa' pasar penas mejor estar solita
-
-True love is what the soul needs  
-Amor verdadero es lo que el alma necesita
-
-A love that listens and accompanies you through life  
-Un amor que escucha y te acompaña por la vida
-
-That brings peace and that fills with smiles  
-Que trae la paz y que llena de sonrisas
-
-Between so much hatred that the world inhabits  
-Entre tanto odio que en el mundo habita
-
-Love without fear, without possessing and without wounds  
-Amar sin miedos, sin poseer y sin heridas
-
-It is our wish, but it will not be utopia  
-Es nuestro deseo, pero no será utopía
-
-We deserve a good world and love be the guide  
-Merecemos un buen mundo y el amor sea la guía  
-Oh, so much hatred that the world lives  
-Ay, tanto odio que en el mundo habita
-
-(Love me the way I like it)  
-(Quererme como a mí me gusta)
-
-Keep me happy night and day  
-Tenerme contenta de noche y de día
-
-(Love me the way I like it)  
-(Quererme como a mí me gusta)
-
-True love, what the soul needs  
-Amor verdadero, lo que el alma necesita
-
-(Love me the way I like it)  
-(Quererme como a mí me gusta)
-
-Know that I am yours and you are all mine  
-Saber que soy tuyo y tú toda mía  
-
-(Love me the way I like it)  
-(Quererme como a mí me gusta)  
-Brunette, (say it) to love you without regret  
-Morena, (dígalo) a quererte sin pena  
-
-And of course, to have a hard time, it is better to be alone  
-Y cómo no, pa' pasar pena mejor estar solita  
-
-(Love me the way I like it)  
-(Quererme como a mí me gusta)  
-
-Soul with soul like you wanted it  
-Alma con alma como tú lo querías  
-
-(Love me the way I like it)  
-(Quererme como a mí me gusta)  
-
-We deserve, in life, that love be the guide  
-Merecemos, en la vida, que el amor sea la guía  
-
-Love me the way I like it   
-Quererme como a mí me gusta  
-\
-\
-Not sure where this text goes
-\
-\
-I'm going to love you, brunette, without fear  
-Te voy a querer, morena, sin miedo
-
-I'm going to love you (to love you without regret)  
-Te voy a querer (a quererte sin pena)
-
-I'm going to love you, brunette, without fear  
-Te voy a querer, morena, sin miedo  
-
-I'm going to love you (to love you without regret)  
-Te voy a querer (a quererte sin pena)  
 
 ##### Spanish only
 
@@ -341,46 +233,14 @@ Por favor, no me dejes que soy valiente en corresponderte
 \
 \
 \
-El amor perfecto comienza por mí misma  
-Si yo no me conozco, ¿cómo saber quién me estima?  
-Al verme al espejo para mí no quedan dudas  
-El corazón se excita porque sabe lo que busca  
-El amor que merezco existe, lo estoy viviendo  
-Cuando lo comparto crece con el universo  
-Si toma rostro un nombre, decidimos estar cerca  
-Es un acuerdo mutuo donde sobran las cadenas  
-Pa' pasar penas mejor estar solita  
-Amor verdadero es lo que el alma necesita  
-Un amor que escucha y te acompaña por la vida  
-Que trae la paz y que llena de sonrisas  
-Entre tanto odio que en el mundo habita  
-Amar sin miedos, sin poseer y sin heridas  
-Es nuestro deseo, pero no será utopía  
-Merecemos un buen mundo y el amor sea la guía  
-
-Ay, tanto odio que en el mundo habita  
-(Quererme como a mí me gusta)  
-Tenerme contenta de noche y de día  
-(Quererme como a mí me gusta)  
-Amor verdadero, lo que el alma necesita  
-(Quererme como a mí me gusta)  
-Saber que soy tuyo y tú toda mía  
-(Quererme como a mí me gusta)  
-
-Morena, (dígalo) a quererte sin pena  
-Y cómo no, pa' pasar pena mejor estar solita  
-(Quererme como a mí me gusta)  
-Alma con alma como tú lo querías  
-(Quererme como a mí me gusta)  
-Merecemos, en la vida, que el amor sea la guía  
-Quererme como a mí me gusta  
-
-Not sure where this text goes...
-
-Te voy a querer, morena, sin miedo  
-Te voy a querer (a quererte sin pena)  
-Te voy a querer, morena, sin miedo  
-Te voy a querer (a quererte sin pena)  
+Corazón, corazón, tú sí sabes  
+(quererme como a mí me gusta)  
+Corazón tú si sabes quererme mi amor   
+(quererme como a mí me gusta)  
+¡Ay! No te vayas, quédate por siempre
+(quererme como a mí me gusta)  
+Que soy valiente en corresponderte mi amor
+(quererme como a mí me gusta)  
 
 ### References
 [quererme](https://www.spanishdict.com/translate/quererme)  
