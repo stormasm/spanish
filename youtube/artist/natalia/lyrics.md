@@ -193,7 +193,7 @@ Corazón, tú sí sabes quererme como a mí me gusta
 Please don't let me, I'm brave to reciprocate  
 Por favor, no me dejes que soy valiente en corresponderte  
 
-##### Spanish only
+### Spanish only
 
 Ha pasado tanto tiempo  
 Finalmente descubrí tus besos  
