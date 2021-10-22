@@ -1,5 +1,9 @@
 
-### Soledad y El Mar
+### Top
+
+[The Whole Album: En Manos de Los Macorinos](https://www.youtube.com/watch?v=nT5ejVJhios&list=OLAK5uy_lfz5ebgK2EWARdW3kt2XbwBTm4TAmfYs4)
+
+### Soledad y El Mar versions from other artists
 
 [Playlist starting with Natalia Lafourcade - Soledad y El Mar (En Manos de Los Macorinos) [La Fiesta Parte II]](https://www.youtube.com/watch?v=gd4jntP0tco&list=RDgd4jntP0tco&start_radio=1)
 
