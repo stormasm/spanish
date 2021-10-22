@@ -307,12 +307,9 @@ Corazón, tú sí sabes quererme como a mí me gusta
 Soy la flor encendida que da color al jardín de tu vida  
 Corazón, tú sí sabes quererme como a mí me gusta  
 Por favor, no me dejes que soy valiente en corresponderte  
-
-Te voy a querer, morena, sin miedo  
-Te voy a querer (a quererte sin pena)  
-Te voy a querer, morena, sin miedo  
-Te voy a querer (a quererte sin pena)  
-
+\
+\
+\
 Ha pasado tanto tiempo, finalmente sé que estoy dispuesta  
 Es tan difícil encontrar un amor  
 Aquí me quedo con heridas bien abiertas  
@@ -329,7 +326,9 @@ Corazón, tú sí sabes quererme como a mí me gusta
 Soy la flor encendida que da color al jardín de tu vida  
 Corazón, tú sí sabes quererme como a mí me gusta  
 Por favor, no me dejes que soy valiente en corresponderte  
-
+\
+\
+\
 El amor perfecto comienza por mí misma  
 Si yo no me conozco, ¿cómo saber quién me estima?  
 Al verme al espejo para mí no quedan dudas  
@@ -363,6 +362,13 @@ Alma con alma como tú lo querías
 (Quererme como a mí me gusta)  
 Merecemos, en la vida, que el amor sea la guía  
 Quererme como a mí me gusta  
+
+Not sure where this text goes...
+
+Te voy a querer, morena, sin miedo  
+Te voy a querer (a quererte sin pena)  
+Te voy a querer, morena, sin miedo  
+Te voy a querer (a quererte sin pena)  
 
 ### References
 [quererme](https://www.spanishdict.com/translate/quererme)  
