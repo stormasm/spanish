@@ -167,7 +167,9 @@ Aquí me quedo para ser testigo siempre de la vida
 
 Here forever, forever, forever love us  
 Aquí por siempre, para siempre, para siempre amarnos  
-
+\
+\
+\
 Heart, you do know how to love me the way I like it  
 Corazón, tú sí sabes quererme como a mí me gusta
 
