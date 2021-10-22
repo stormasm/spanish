@@ -150,7 +150,6 @@ Please don't leave me, because I'm brave to (love you) reciprocate
 Por favor, no me dejes que soy valiente en corresponderte
 \
 \
-\
 It's been so long, I finally know that I'm willing  
 Ha pasado tanto tiempo, finalmente sé que estoy dispuesta
 
@@ -168,7 +167,6 @@ Aquí me quedo para ser testigo siempre de la vida
 
 Here forever, forever, forever love us  
 Aquí por siempre, para siempre, para siempre amarnos  
-\
 \
 \
 Heart, you do know how to love me the way I like it  
@@ -213,7 +211,6 @@ Corazón, tú sí sabes quererme como a mí me gusta
 Por favor, no me dejes que soy valiente en corresponderte  
 \
 \
-\
 Ha pasado tanto tiempo, finalmente sé que estoy dispuesta  
 Es tan difícil encontrar un amor  
 Aquí me quedo con heridas bien abiertas  
@@ -230,7 +227,6 @@ Corazón, tú sí sabes quererme como a mí me gusta
 Soy la flor encendida que da color al jardín de tu vida  
 Corazón, tú sí sabes quererme como a mí me gusta  
 Por favor, no me dejes que soy valiente en corresponderte  
-\
 \
 \
 Corazón, corazón, tú sí sabes  
