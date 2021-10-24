@@ -240,3 +240,5 @@ Que soy valiente en corresponderte mi amor
 
 ### References
 [quererme](https://www.spanishdict.com/translate/quererme)  
+
+[valiente en corresponderte](https://hinative.com/en-US/questions/19111258)
