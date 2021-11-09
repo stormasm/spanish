@@ -178,7 +178,7 @@ Soy la flor encendida que da color al jardín de tu vida
 Heart, you do know how to love me the way I like it  
 Corazón, tú sí sabes quererme como a mí me gusta
 
-Please don't let me, I'm brave to reciprocate  
+Please don't leave me, I'm brave to reciprocate  
 Por favor, no me dejes que soy valiente en corresponderte  
 
 Heart, you do know how to love me the way I like it  
