@@ -23,6 +23,8 @@
 
 [Natalia Lafourcade Un Canto por México - El Musical](https://www.youtube.com/watch?v=emTLbk7jd8E)
 
+[Natalia Amor, Amor de Mis Amores (En Vivo [Sala Telefónica del Centro Cultural Roberto Cantoral])](https://www.youtube.com/watch?v=JvoWPjF_C5g)
+
 [Natalia Lafourcade En Vivo Hollywood Bowl](https://www.youtube.com/watch?v=QmwGfJwZ_xw)
 
 [Natalia Lafourcade - Nunca Es Suficiente (Austin City Limits)](https://www.youtube.com/watch?v=JNz2rEx7BCU)
