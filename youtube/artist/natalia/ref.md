@@ -16,6 +16,8 @@ Inspiración que siente el artista y que estimula o favorece la creación o la c
 Suele haber muchas fiestas en la playa durante el verano.  
 There are usually a lot of parties on the beach in the summer.
 
+[Natalia Lafourcade - Conversando Con Cristina Pacheco (Tercera Parte)](https://www.youtube.com/watch?v=RcawFd4jQk4)
+
 [Natalia Lafourcade conversa sobre su posible retiro de la música](https://www.youtube.com/watch?v=J4lXBZSY4hE)
 
 [Natalia Lafourcade - Musas, El Documental](https://www.youtube.com/watch?v=w-9N4kcNpmw)
