@@ -15,3 +15,5 @@ Inspiración que siente el artista y que estimula o favorece la creación o la c
 
 Suele haber muchas fiestas en la playa durante el verano.  
 There are usually a lot of parties on the beach in the summer.
+
+[Google Search: mi mundo privado natalia lafourcade](https://www.google.com/search?q=mi+mundo+privado+natalia+lafourcade&oq=mi+mundo+privado&aqs=chrome.2.69i57j46i512j0i22i30i395l5j69i61.7493j1j7&sourceid=chrome&ie=UTF-8)
