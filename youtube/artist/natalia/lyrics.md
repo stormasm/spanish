@@ -282,6 +282,106 @@ Te perderás dentro de mis recuerdos, por haberme hecho llorar
 Te perderás dentro de mis recuerdos, por haberme hecho llorar  
 Te perderás dentro de mis recuerdos, por haberme hecho llorar  
 
+### Mixed
+
+It's never enough for me  
+Nunca es suficiente para mí
+
+Because I always want more from you  
+Porque siempre quiero más de ti
+
+I would like to make you happier  
+Yo quisiera hacerte más feliz
+
+Today, tomorrow, always, until the end  
+Hoy, mañana, siempre, hasta el fin  
+My heart explodes for your love  
+Mi corazón estalla por tu amor  
+
+And you, what do you think this is very normal?  
+¿Y tú que crees que esto es muy normal?
+
+You are so used to love  
+Acostumbrado estás tanto al amor
+
+What do you not see?  
+¿Qué no lo ves?
+
+I've never been like this  
+Yo nunca he estado así
+
+If, by chance, you see me crying a little it's because I love you  
+Si, de casualidad, me ves llorando un poco es porque yo te quiero a ti  
+And you are playing to fall in love  
+Y tú te vas jugando a enamorar
+
+All the vagabond illusions that allow themselves to be reached  
+Todas las ilusiones vagabundas que se dejan alcanzar  
+
+And you will not see that what I offer you is something unconditional  
+Y no verás que lo que yo te ofrezco es algo incondicional  
+And you are playing to fall in love  
+Y tú te vas jugando a enamorar
+
+You get tangled at night between stories that never have an end  
+Te enredas por las noches entre historias que nunca tienen final
+
+You will lose yourself in my memories for making me cry  
+Te perderás dentro de mis recuerdos por haberme hecho llorar
+It's never enough for me  
+Nunca es suficiente para mí
+
+Because I always want more from you  
+Porque siempre quiero más de ti
+
+My feeling has not changed at all  
+No ha cambiado nada mi sentir
+
+Even though you do me wrong, I want you here  
+Aunque me haces mal, te quiero aquí  
+My heart bursts with pain  
+Mi corazón estalla de dolor
+
+How to avoid a thousand fractures?  
+¿Cómo evitar que se fracture en mil?
+
+You are so used to love  
+Acostumbrado estás tanto al amor
+
+What do you not see?  
+¿Qué no lo ves?
+
+I've never been like this  
+Yo nunca he estado así
+
+If, by chance, you see me crying a little it's because I love you  
+Si, de casualidad, me ves llorando un poco es porque yo te quiero a ti  
+And you are playing to fall in love  
+Y tú te vas jugando a enamorar
+
+All the vagabond illusions that allow themselves to be reached  
+Todas las ilusiones vagabundas que se dejan alcanzar
+
+And you will not see that what I offer you is something unconditional  
+Y no verás que lo que yo te ofrezco es algo incondicional  
+
+Unconditional  
+Incondicional  
+And you are playing to fall in love  
+Y tú te vas jugando a enamorar
+
+You get tangled at night between stories that never have an end  
+Te enredas por las noches entre historias que nunca tienen final
+
+You will lose yourself inside my memories, for having made me cry  
+Te perderás dentro de mis recuerdos, por haberme hecho llorar
+
+You will lose yourself inside my memories, for having made me cry  
+Te perderás dentro de mis recuerdos, por haberme hecho llorar
+
+You will lose yourself inside my memories, for having made me cry  
+Te perderás dentro de mis recuerdos, por haberme hecho llorar
+
 ### References
 [quererme](https://www.spanishdict.com/translate/quererme)  
 
