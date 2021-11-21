@@ -295,6 +295,7 @@ Yo quisiera hacerte más feliz
 
 Today, tomorrow, always, until the end  
 Hoy, mañana, siempre, hasta el fin  
+
 My heart explodes for your love  
 Mi corazón estalla por tu amor  
 
@@ -312,6 +313,7 @@ Yo nunca he estado así
 
 If, by chance, you see me crying a little it's because I love you  
 Si, de casualidad, me ves llorando un poco es porque yo te quiero a ti  
+
 And you are playing to fall in love  
 Y tú te vas jugando a enamorar
 
@@ -320,6 +322,7 @@ Todas las ilusiones vagabundas que se dejan alcanzar
 
 And you will not see that what I offer you is something unconditional  
 Y no verás que lo que yo te ofrezco es algo incondicional  
+
 And you are playing to fall in love  
 Y tú te vas jugando a enamorar
 
@@ -328,6 +331,7 @@ Te enredas por las noches entre historias que nunca tienen final
 
 You will lose yourself in my memories for making me cry  
 Te perderás dentro de mis recuerdos por haberme hecho llorar  
+
 It's never enough for me  
 Nunca es suficiente para mí
 
@@ -339,6 +343,7 @@ No ha cambiado nada mi sentir
 
 Even though you do me wrong, I want you here  
 Aunque me haces mal, te quiero aquí  
+
 My heart bursts with pain  
 Mi corazón estalla de dolor
 
@@ -355,7 +360,8 @@ I've never been like this
 Yo nunca he estado así
 
 If, by chance, you see me crying a little it's because I love you  
-Si, de casualidad, me ves llorando un poco es porque yo te quiero a ti  
+Si, de casualidad, me ves llorando un poco es porque yo te quiero a ti   
+
 And you are playing to fall in love  
 Y tú te vas jugando a enamorar
 
@@ -367,6 +373,7 @@ Y no verás que lo que yo te ofrezco es algo incondicional
 
 Unconditional  
 Incondicional  
+
 And you are playing to fall in love  
 Y tú te vas jugando a enamorar
 
