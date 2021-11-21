@@ -382,6 +382,97 @@ Te perderás dentro de mis recuerdos, por haberme hecho llorar
 You will lose yourself inside my memories, for having made me cry  
 Te perderás dentro de mis recuerdos, por haberme hecho llorar
 
+### Alma Mia
+
+[Alma Mía (En Manos de Los Macorinos)](https://www.youtube.com/watch?v=zZGF3vRDyIE)
+
+Alma mía sola, siempre sola  
+Sin que nadie comprenda tu sufrimiento  
+Tu horrible padecer  
+Fingiendo una existencia siempre llena  
+De dicha y de placer  
+De dicha y de placer  
+Si yo encontrara un alma como la mía  
+Cuantas cosas secretas le contaría  
+Un alma que al mirarme, sin decir nada  
+Me lo dijese todo con la mirada  
+Un alma que embriagase con suave aliento  
+Que al besarme sintiera lo que yo siento  
+Y a veces me pregunto qué pasaría  
+Si yo encontrara un alma como la mía  
+Un alma que al mirarme, sin decir nada  
+Me lo dijese todo con la mirada  
+Un alma que embriagase con suave aliento  
+Que al besarme sintiera lo que yo siento  
+Y a veces me pregunto qué pasaría  
+Si yo encontrara un alma  
+Si yo encontrara un alma como la mía, oh oh  
+
+### Mixed
+
+My soul alone, always alone  
+Alma mía sola, siempre sola
+
+Without anyone understanding your suffering  
+Sin que nadie comprenda tu sufrimiento
+
+Your horrible suffering  
+Tu horrible padecer
+
+Faking an ever-full existence  
+Fingiendo una existencia siempre llena
+
+Of happiness and pleasure  
+De dicha y de placer
+
+Of happiness and pleasure  
+De dicha y de placer
+
+If I found a soul like mine  
+Si yo encontrara un alma como la mía
+
+How many secret things would I tell him  
+Cuantas cosas secretas le contaría
+
+A soul that when looking at me, without saying anything  
+Un alma que al mirarme, sin decir nada
+
+He told me everything with his eyes  
+Me lo dijese todo con la mirada
+
+A soul that gets drunk with soft breath  
+Un alma que embriagase con suave aliento
+
+That when he kissed me he felt what I feel  
+Que al besarme sintiera lo que yo siento
+
+And sometimes I wonder what would happen  
+Y a veces me pregunto qué pasaría
+
+If I found a soul like mine  
+Si yo encontrara un alma como la mía
+
+A soul that when looking at me, without saying anything  
+Un alma que al mirarme, sin decir nada
+
+He told me everything with his eyes  
+Me lo dijese todo con la mirada
+
+A soul that gets drunk with soft breath  
+Un alma que embriagase con suave aliento
+
+That when he kissed me he felt what I feel  
+Que al besarme sintiera lo que yo siento
+
+And sometimes I wonder what would happen  
+Y a veces me pregunto qué pasaría
+
+If I found a soul  
+Si yo encontrara un alma
+
+If I found a soul like mine, oh oh  
+Si yo encontrara un alma como la mía, oh oh
+
 ### References
 [quererme](https://www.spanishdict.com/translate/quererme)  
 
