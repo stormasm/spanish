@@ -327,7 +327,7 @@ You get tangled at night between stories that never have an end
 Te enredas por las noches entre historias que nunca tienen final
 
 You will lose yourself in my memories for making me cry  
-Te perderás dentro de mis recuerdos por haberme hecho llorar
+Te perderás dentro de mis recuerdos por haberme hecho llorar  
 It's never enough for me  
 Nunca es suficiente para mí
 
