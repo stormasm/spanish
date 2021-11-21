@@ -238,6 +238,42 @@ Corazón tú si sabes quererme mi amor
 Que soy valiente en corresponderte mi amor  
 (quererme como a mí me gusta)  
 
+### Nunca es Suficiente
+
+Nunca es suficiente para mí  
+Porque siempre quiero más de ti  
+Yo quisiera hacerte más feliz  
+Hoy, mañana, siempre, hasta el fin  
+Mi corazón estalla por tu amor  
+¿Y tú que crees que esto es muy normal?  
+Acostumbrado estás tanto al amor  
+¿Qué no lo ves? Yo nunca he estado así  
+Si, de casualidad, me ves llorando un poco es porque yo te quiero a ti   
+Y tú te vas jugando a enamorar  
+Todas las ilusiones vagabundas que se dejan alcanzar  
+Y no verás que lo que yo te ofrezco es algo incondicional  
+Y tú te vas jugando a enamorar  
+Te enredas por las noches entre historias que nunca tienen final  
+Te perderás dentro de mis recuerdos por haberme hecho llorar  
+Nunca es suficiente para mí  
+Porque siempre quiero más de ti  
+No ha cambiado nada mi sentir  
+Aunque me haces mal, te quiero aquí  
+Mi corazón estalla de dolor  
+¿Cómo evitar que se fracture en mil?  
+Acostumbrado estás tanto al amor  
+¿Qué no lo ves? Yo nunca he estado así  
+Si, de casualidad, me ves llorando un poco es porque yo te quiero a ti  
+Y tú te vas jugando a enamorar  
+Todas las ilusiones vagabundas que se dejan alcanzar  
+Y no verás que lo que yo te ofrezco es algo incondicional  
+Incondicional  
+Y tú te vas jugando a enamorar  
+Te enredas por las noches entre historias que nunca tienen final  
+Te perderás dentro de mis recuerdos, por haberme hecho llorar  
+Te perderás dentro de mis recuerdos, por haberme hecho llorar  
+Te perderás dentro de mis recuerdos, por haberme hecho llorar  
+
 ### References
 [quererme](https://www.spanishdict.com/translate/quererme)  
 
