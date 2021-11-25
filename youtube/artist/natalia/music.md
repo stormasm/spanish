@@ -25,6 +25,8 @@
 
 [Natalia Lafourcade - Hasta la Raíz (Austin City Limits)](https://www.youtube.com/watch?v=zayX1YXiP6Y)
 
+[Natalia Lafourcade - Hasta la raíz | Fuera Del Estudio (acoustic)](https://www.youtube.com/watch?v=jACMa5eMNKY)
+
 [Natalia Lafourcade - Nunca Es Suficiente (Austin City Limits)](https://www.youtube.com/watch?v=JNz2rEx7BCU)
 
 [Los Ángeles Azules - Nunca Es Suficiente ft. Natalia Lafourcade (Live)](https://www.youtube.com/watch?v=k76BgIb89-s)
