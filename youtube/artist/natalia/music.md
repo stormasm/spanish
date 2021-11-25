@@ -55,6 +55,8 @@
 
 [Natalia Lafourcade - Piensa en Mí (En Vivo) ft. Paco Familiar (DLD), Ismael (Los Daniels)](https://www.youtube.com/watch?v=zbVND6uRBwU)
 
+[Piensa en Mí (En Vivo [Sala Telefónica del Centro Cultural Roberto Cantoral])](https://www.youtube.com/watch?v=ODfLKsoaC5w)
+
 [Natalia Lafourcade - Alfonsina y El Mar (Video Oficial)](https://www.youtube.com/watch?v=edLHHvTx6-w)
 
 [Natalia Lafourcade - La Fugitiva (En Vivo) ft. Lila Downs](https://www.youtube.com/watch?v=Ov3F5-oWMjA)
