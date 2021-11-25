@@ -9,6 +9,8 @@
 
 ### Otra
 
+[Gastón Lafourcade - Quien Me Tañe Escucha Mis Voces (Documental)](https://www.youtube.com/watch?v=zmT4e94D9TQ)
+
 * musas - muse
 
 Inspiración que siente el artista y que estimula o favorece la creación o la composición de obras de arte; esta inspiración suele representarse personificada.
