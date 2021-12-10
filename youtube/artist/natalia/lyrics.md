@@ -319,7 +319,7 @@ Si, de casualidad, me ves llorando un poco es porque yo te quiero a ti
 And you are playing to fall in love  
 Y tú te vas jugando a enamorar
 
-All the vagabond illusions that allow themselves to be reached [overtaken with wandering illusions] 
+All the vagabond illusions that allow themselves to be reached [overtaken with wandering illusions]    
 Todas las ilusiones vagabundas que se dejan alcanzar  
 
 And you will not see that what I offer you is something unconditional  
