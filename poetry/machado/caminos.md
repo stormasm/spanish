@@ -18,7 +18,7 @@ enveloped in haze,
 maternal autumn haze, delicate aromatic  
 rue plants rest from their being in stone  
 on this warm November afternoon,  
-an afternoon pios, dark purple, and violet.
+an afternoon pious, dark purple, and violet.
 
 The wind has shaken the musty elms along the highway,  
 raising pink whirlwinds  
