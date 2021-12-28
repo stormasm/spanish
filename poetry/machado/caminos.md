@@ -72,7 +72,6 @@ Caminos de los campos...
 ##### References
 
 Translated by Willis Barnstone  
-[Link1](https://www.google.com/search?q=border+of+a+dream+selected+poems+willis+barnstone&oq=border+of+a+dream+selected+poems+willis+barnstone&aqs=chrome..69i57.10980j1j7&sourceid=chrome&ie=UTF-8)
-[Link2](https://www.coppercanyonpress.org/books/border-of-a-dream-selected-poems-by-antonio-machado-tr-willis-barnstone/)
-
+[Google Search](https://www.google.com/search?q=border+of+a+dream+selected+poems+willis+barnstone&oq=border+of+a+dream+selected+poems+willis+barnstone&aqs=chrome..69i57.10980j1j7&sourceid=chrome&ie=UTF-8)  
+[Copper Canyon Press](https://www.coppercanyonpress.org/books/border-of-a-dream-selected-poems-by-antonio-machado-tr-willis-barnstone/)  
 [Google Doc Link](https://docs.google.com/document/d/e/2PACX-1vR7YUF_IrzwF42BbGHuEV6mKcI8W4mvmLlcEoz7pBWWAoG0DzqLv0TWohNvpV2kt-L4D3ILUP4xEWYJ/pub)
