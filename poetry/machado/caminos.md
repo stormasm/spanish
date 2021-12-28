@@ -1,3 +1,38 @@
+From this Moorish city  
+behind the old walls  
+I contemplate the silent afternoon  
+alone with my shadow and with my pain
+
+The river is flowing  
+between shady orchards  
+and gray olive groves  
+through the cheerful fields of Baeza
+
+The grapevines have gold tendrils  
+over their red stalks.  
+Guadalquivir, like a cutlass broken  
+and scattered, glitters and mirrors.  
+
+Far off, the mountains sleep  
+enveloped in haze,  
+maternal autumn haze, delicate aromatic  
+rue plants rest from their being in stone  
+on this warm November afternoon,  
+an afternoon pios, dark purple, and violet.
+
+The wind has shaken the musty elms along the highway,  
+raising pink whirlwinds  
+of dust over the earth.  
+The moon is rising  
+livid, breathless and full.  
+
+Small white roads  
+cross each other and disappear,  
+seeking out a chance farmhouse  
+in the valley and upon the sierra.  
+Roads of the fields...  
+Oh, I can no longer walk with her !
+
 De la ciudad moruna  
 tras las murallas viejas,    
 yo contemplo la tarde silenciosa,    
