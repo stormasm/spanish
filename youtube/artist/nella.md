@@ -36,8 +36,10 @@ Que robarme un beso
 
 Vengo de un mundo tan viejo  
 Nuevo amigo del dolor y el hambre  
+
 Un mundo tan verdadero  
 Solo para corazones grandes  
+
 Un mundo de fantasía sin muros altos ni falsedad  
 Donde solo vive gente que busca un trago de Libertad  
 
