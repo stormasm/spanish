@@ -6,7 +6,7 @@
 
 
 ##### ps-003
-discovered
+Discovered
 [Nella](https://www.youtube.com/watch?v=6xL3R_LIGkk)
 in mid January 2022 along with
 [Jorge Luis Chacin](https://www.youtube.com/watch?v=3yT5jJZplsk)
@@ -15,7 +15,7 @@ in mid January 2022 along with
 Started working on Machado poetry in the prayer vein upon our return from Carson City.
 
 ##### ps-001
-Natalia was the core focus of Carson City starting with my first song and then moving to the second one.
+Natalia was the core focus of Carson City starting with my first song and then moving on to the second one.
 
 ##### ps-000
 First mention was on an email Sunday October 3, 2021 to Pedro
