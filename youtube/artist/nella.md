@@ -6,7 +6,7 @@
 * [Voy Album](https://www.youtube.com/watch?v=77k7uY0yz1E&list=OLAK5uy_nopA2ycBzf6DaJ9N8aV7SB8vJda_okdkM)
 * [Nella - 'Volveré A Mi Tierra'](https://www.youtube.com/watch?v=H0Z-e9QiziQ)
 * [Javier Limón feat Nella - 'Volando'](https://www.youtube.com/watch?v=Sa4lFxMz_WQ)
-* [Everybody Knows Javier Limón ft. Nella - Penélope Cruz, Javier Bardem](https://www.youtube.com/watch?v=hsS7RRwECmI)
+* [Everybody Knows Javier Limón ft. Nella - Penélope Cruz](https://www.youtube.com/watch?v=hsS7RRwECmI)
 * [Nella - El Fin de fiesta (White Sessions) | Uforia Music](https://www.youtube.com/watch?v=5xPTY11D90I&list=PLIYOqpKjvo5KS56oNrPrjvriy_gO2mWyW)
 
 ## Entrevistas
