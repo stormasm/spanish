@@ -2,6 +2,7 @@
 * [Nella - 'Me Llaman Nella' ft. Javier Limón & Santiago Periné](https://www.youtube.com/watch?v=6xL3R_LIGkk)
 * [Jorge Luis Chacin, @Nella - EL Cuentacanciones Deluxe](https://www.youtube.com/watch?v=3yT5jJZplsk)
 * [Nella - Live at Electric Garden](https://www.youtube.com/watch?v=V9QxF2C8_y0)
+* [Voy Album](https://www.youtube.com/watch?v=77k7uY0yz1E&list=OLAK5uy_nopA2ycBzf6DaJ9N8aV7SB8vJda_okdkM)
 
 Me Llaman Nella
 Nella
