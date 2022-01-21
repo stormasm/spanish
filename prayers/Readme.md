@@ -1,5 +1,5 @@
 
-* ps-004 started mid January 2022
+* ps-004 start mid January 2022
 * ps-003 start of January 2022
 * ps-002 end of December 2021
 * ps-001 while in Carson City
