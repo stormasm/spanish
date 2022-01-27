@@ -14,7 +14,7 @@
 
 ##### Nella in 2017 w/ Uforia Music
 
-[Nella: 'Tu Amor es paz' (White Sessions)](https://www.youtube.com/watch?v=76bV8VZfvok)
+* [Nella: 'Tu Amor es paz' (White Sessions)](https://www.youtube.com/watch?v=76bV8VZfvok)
 
 ## Entrevistas
 
