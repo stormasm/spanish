@@ -11,7 +11,6 @@
 ### White Sessions
 
 * [Nella - El Fin de fiesta (White Sessions) | Uforia Music](https://www.youtube.com/watch?v=5xPTY11D90I&list=PLIYOqpKjvo5KS56oNrPrjvriy_gO2mWyW)
-* [Nella - El Fin de fiesta (White Sessions) | Uforia Music](https://www.youtube.com/watch?v=5xPTY11D90I&list=PLIYOqpKjvo5KS56oNrPrjvriy_gO2mWyW)
 
 ## Entrevistas
 
