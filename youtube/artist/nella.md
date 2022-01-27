@@ -11,6 +11,12 @@
 
 ## Entrevistas
 
+#### With Closed Captions
+
+[con Luis Chataing](https://www.youtube.com/watch?v=W2lyeaI61n0)
+
+[15.03.2021 Mundo Según la cantante Nella Rojas](https://www.youtube.com/watch?v=UucTGPdUNjc)
+
 * [Nella Rojas Entrevista](https://www.youtube.com/results?search_query=nella+rojas+entrevista)
 * [ @nellarojasm tells @ramoncastro77 how the project "me llaman Nella" was born](https://www.youtube.com/watch?v=hJD0FHqIxyg)
 
