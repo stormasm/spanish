@@ -17,10 +17,15 @@
 
 * [con Luis Chataing](https://www.youtube.com/watch?v=W2lyeaI61n0)
 * [15.03.2021 Mundo Según la cantante Nella Rojas](https://www.youtube.com/watch?v=UucTGPdUNjc)
+* [NELLA ROJAS - Su Sueño - OLAVARRIETA Live](https://www.youtube.com/watch?v=WHz_iHCfatw)
 
 #### Without Closed Captions
 
 * [ @nellarojasm tells @ramoncastro77 how the project "me llaman Nella" was born](https://www.youtube.com/watch?v=hJD0FHqIxyg)
+
+#### Interviews in English
+
+* [Nella - 2019 Latin Grammy Best New Artist (Berklee Intervals)](https://www.youtube.com/watch?v=ehibLs6B5xM)
 
 ### Javier Limón
 
