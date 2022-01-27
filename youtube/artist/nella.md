@@ -12,6 +12,10 @@
 
 * [Nella - El Fin de fiesta (White Sessions) | Uforia Music](https://www.youtube.com/watch?v=5xPTY11D90I&list=PLIYOqpKjvo5KS56oNrPrjvriy_gO2mWyW)
 
+##### Nella in 2017 w/ Uforia Music
+
+[Nella: 'Tu Amor es paz' (White Sessions)](https://www.youtube.com/watch?v=76bV8VZfvok)
+
 ## Entrevistas
 
 * [Nella Rojas Entrevista](https://www.youtube.com/results?search_query=nella+rojas+entrevista)
@@ -39,10 +43,6 @@
 ##### Nella in 2014 at Berklee
 
 [Sudacas, "Tarde de Abril" - Live at the BIRN](https://www.youtube.com/watch?v=V4qTeKo8xRw)
-
-##### Nella in 2017 w/ Uforia Music
-
-[Nella: 'Tu Amor es paz' (White Sessions)](https://www.youtube.com/watch?v=76bV8VZfvok)
 
 ## Me Llaman Nella
 
