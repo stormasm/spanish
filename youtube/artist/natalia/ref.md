@@ -1,4 +1,6 @@
 
+[Natalia talks to Luis Chataing](https://www.youtube.com/watch?v=xrikZfo6Lpo)
+
 ### Press Coverage
 
 [Natalia Lafourcade y los procesos detrás de sus canciones | Mis procesos | GQ México y Latinoamérica](https://www.youtube.com/watch?v=xciXjV_a06I)
