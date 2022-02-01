@@ -1,4 +1,6 @@
 
+[Natalia Lafourcade Hasta la raíz](https://www.youtube.com/watch?v=1byOSb1u5Z0)
+
 [Natalia talks to Luis Chataing](https://www.youtube.com/watch?v=xrikZfo6Lpo)
 
 ### Press Coverage
