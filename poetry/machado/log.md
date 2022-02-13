@@ -1,7 +1,4 @@
 
-
-### 2022 Winter
-
 ### Solitudes
 
 * [he andado muchos caminos](https://genius.com/Antonio-machado-he-andado-muchos-caminos-annotated) page 8, winter 2022
