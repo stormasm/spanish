@@ -2,10 +2,10 @@
 
 ### 2022 Winter
 
-[he andado muchos caminos](https://genius.com/Antonio-machado-he-andado-muchos-caminos-annotated)
+### Solitudes
 
-* Solitudes, page 8
+* [he andado muchos caminos](https://genius.com/Antonio-machado-he-andado-muchos-caminos-annotated) page 8, winter 2022
 
-[caminos](https://www.poesi.as/amach118.htm)
+### Fields of Castilla (1907 - 1917)
 
-* Fields of Castila, page 230
+* [caminos](https://www.poesi.as/amach118.htm) page230, winter 2022
