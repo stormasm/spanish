@@ -19,7 +19,7 @@ on the back of an old mule.
 and don't know how to hurry  
 even on a day of fiesta.   
 Where there is wine they drink it,     
-where there is none, cold water.  
+where there is no wine, cold water.  
 
 They are good folks who live,  
 labor, pass by and dream,   
