@@ -28,6 +28,6 @@ they relax below the earth...
 
 Antonio Machado (1903)
 
-[Ref 1](./../../prayers/)
+[Ref 1](./../../prayers/ps-002-22-01.md)
 
 [Ref 2](https://genius.com/Antonio-machado-he-andado-muchos-caminos-annotated)
