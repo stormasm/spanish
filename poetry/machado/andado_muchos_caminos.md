@@ -26,5 +26,8 @@ labor, pass by and dream,
 and on a day like all of the others,   
 they relax below the earth...
 
-Antonio Machado (1903)   
-[Ref](https://genius.com/Antonio-machado-he-andado-muchos-caminos-annotated)
+Antonio Machado (1903)
+
+[Ref 1](./../prayers/)
+
+[Ref 2](https://genius.com/Antonio-machado-he-andado-muchos-caminos-annotated)
