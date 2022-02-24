@@ -1,10 +1,17 @@
 
+* ps-006 start late February 2022
+* ps-005 start early February 2022
 * ps-004 start mid January 2022
 * ps-003 start of January 2022
 * ps-002 end of December 2021
 * ps-001 while in Carson City
 * ps-000 before Carson City
 
+##### ps-006, Walker there is no road
+My fourth Machado poem as a prayer
+
+##### ps-005, A un olmo seco
+My third Machado poem as a prayer
 
 ##### ps-004
 Discovered
