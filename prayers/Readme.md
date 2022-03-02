@@ -19,10 +19,10 @@ Discovered
 in mid January 2022 along with
 [Jorge Luis Chacin](https://www.youtube.com/watch?v=3yT5jJZplsk).
 
-##### ps-003
+##### ps-003, caminos
 My second Machado poem as a prayer.
 
-##### ps-002
+##### ps-002, he andado muchos caminos
 Started working on Machado poetry in the prayer vein upon our return from Carson City.
 
 ##### ps-001
