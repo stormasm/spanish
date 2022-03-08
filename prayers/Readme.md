@@ -1,4 +1,5 @@
 
+* ps-007 start march 08, 2022, ashland springs hotel
 * ps-006 start late February 2022
 * ps-005 start early February 2022
 * ps-004 start mid January 2022
