@@ -6,6 +6,9 @@
 * [Mario Vargas Llosa, sobre Gabriel García Márquez](https://www.youtube.com/watch?v=BcDlwT7Clyw)
 * [CONVERSANDO CON GARCÍA MÁRQUEZ SOBRE SU AMIGO FIDEL](https://www.youtube.com/watch?v=C3sqJu6e2JM)
 
+* [Encuentro con Isabel Allende](https://www.youtube.com/watch?v=Bg8fZMLh8aU)
+
+
 ### Latin American History
 
 * [Juanita Castro Mis Hermanos y Yo AquiCuba.com](https://www.youtube.com/watch?v=TOkyfKWR7Ek)
