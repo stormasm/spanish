@@ -10,6 +10,10 @@
 
 ### Details
 
+##### ps-007, Natalia Lafourcade - Alma Mía (En Manos de Los Macorinos)
+* [youtube](https://www.youtube.com/watch?v=zZGF3vRDyIE)
+* [lyrics](https://www.google.com/search?q=lyrics+alma+mia+natalia+lafourcade&oq=lyrics+alma+mia+&aqs=chrome.1.69i57j0i22i30l9.5707j0j7&sourceid=chrome&ie=UTF-8)
+
 ##### ps-006, Walker there is no road
 My fourth Machado poem as a prayer
 
