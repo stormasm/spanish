@@ -48,3 +48,7 @@ First mention of Natalia was on an email Sunday October 3, 2021 to Pedro.
 * ps-002 end of December 2021
 * ps-001 while in Carson City
 * ps-000 before Carson City
+
+### Inspiration for this project
+
+[Maya Angelou](https://www.youtube.com/watch?v=NKoOvWB3qkI)
