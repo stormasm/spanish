@@ -40,14 +40,14 @@ First mention of Natalia was on an email Sunday October 3, 2021 to Pedro.
 
 ### Timeline
 
-* ps-007 start march 08, 2022, ashland springs hotel
-* ps-006 start late February 2022
-* ps-005 start early February 2022
-* ps-004 start mid January 2022
-* ps-003 start of January 2022
+* ps-007 march 08, 2022, ashland springs hotel
+* ps-006 late February 2022
+* ps-005 early February 2022
+* ps-004 mid January 2022
+* ps-003 beginning of January 2022
 * ps-002 end of December 2021
-* ps-001 while in Carson City
-* ps-000 before Carson City
+* ps-001 while in Carson City November 2021
+* ps-000 before Carson City October 2021
 
 ### Inspiration for this project
 
