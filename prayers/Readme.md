@@ -51,5 +51,5 @@ First mention of Natalia was on an email Sunday October 3, 2021 to Pedro.
 
 ### Inspiration for this project
 
-[Maya Angelou](https://www.youtube.com/watch?v=NKoOvWB3qkI)
-[Dr. Maya Angelou - Love Liberates](https://www.youtube.com/watch?v=cbecKv2xR14)
+* [Maya Angelou](https://www.youtube.com/watch?v=NKoOvWB3qkI)
+* [Love Liberates](https://www.youtube.com/watch?v=cbecKv2xR14)
