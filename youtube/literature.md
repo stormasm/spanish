@@ -8,6 +8,7 @@
 
 * [Encuentro con Isabel Allende](https://www.youtube.com/watch?v=Bg8fZMLh8aU)
 
+* [Cátedra Mujeres y Medios UDP: Diálogo con la escritora Isabel Allende](https://www.youtube.com/watch?v=i39MbX0cCy4)
 
 ### Latin American History
 
