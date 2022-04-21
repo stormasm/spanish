@@ -7,6 +7,7 @@
 * [Al olmo viejo, hendido por el rayo](ps-005-22-02.md)
 * [Caminante, no hay camino](ps-006-22-02.md)
 * [A veces me pregunto que pasaria](ps-007-22-03.md)
+* [Canela](ps-008-22-04.md)
 
 ### Details
 
