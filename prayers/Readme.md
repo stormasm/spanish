@@ -8,6 +8,7 @@
 * [Caminante, no hay camino](ps-006-22-02.md)
 * [A veces me pregunto que pasaria](ps-007-22-03.md)
 * [Canela](ps-008-22-04.md)
+* [Quizas, Quizas, Quizas](ps-009-22-06.md)
 
 ### Details
 
@@ -41,6 +42,7 @@ First mention of Natalia was on an email Sunday October 3, 2021 to Pedro.
 
 ### Timeline
 
+* ps-009 june 11, 2022, corvallis, or
 * ps-007 march 08, 2022, ashland springs hotel
 * ps-006 late February 2022
 * ps-005 early February 2022
