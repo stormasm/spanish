@@ -11,3 +11,21 @@ My husband can't be here. men like him don't die. he is too cunning. I can't hel
 Cierro los ojos y doy un paso adelante.  Se me hunden las botas en el fango.  Los recuerdos pasan frente a mi mientras atravieso el campo.  Solo el tiempo dira si he tomado la decision correcta.
 
 I close my eyes and take a step forward. My boots sink into the mud. Memories pass in front of me as I cross the field. Only time will tell if I made the right decision.
+
+### Uno
+
+un patrón jamás se ensuciaba las botas para llevar el ganado de un claro a otro.
+
+a patron never gets his boots dirty to move the cattle from one clearing to another.
+
+para alimentar caballos y las reses que lo enriquecían
+
+to feed horses and cattle that enriched them
+
+organizaba sus aparejos y me aseguraba de colocarlos en el orden en que los utilizaba
+
+I organized his gear and made sure to put it in the order I used it
+
+peñasco : boulder
+
+cima : top
