@@ -29,3 +29,19 @@ I organized his gear and made sure to put it in the order I used it
 peñasco : boulder
 
 cima : top
+
+### cinco
+
+page 34
+
+ya sé cuál sería tu respuesta si te lo pidiera.
+
+solo vine a decirte que siempre he sentido  que debi ser alguien para ti.
+
+mas que lo que soy
+
+I know what your answer would be if I asked you.
+
+I just came to tell you that I've always felt I should have been someone to you.
+
+more than what i am
