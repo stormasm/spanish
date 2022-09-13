@@ -36,7 +36,7 @@ page 34
 
 ya sé cuál sería tu respuesta si te lo pidiera.
 
-solo vine a decirte que siempre he sentido  que debi ser alguien para ti.
+solo vine a decirte que siempre he sentido que debi ser alguien para ti.
 
 mas que lo que soy
 
