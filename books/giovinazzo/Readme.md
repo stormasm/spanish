@@ -45,3 +45,9 @@ I know what your answer would be if I asked you.
 I just came to tell you that I've always felt I should have been someone to you.
 
 more than what i am
+
+### junio de 1839
+
+esperaba con ilusión que llegará la noche para estar con mi mejor amiga
+
+I was looking forward to the night to be with my best friend
