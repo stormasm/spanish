@@ -57,3 +57,6 @@ I was looking forward to the night to be with my best friend
 [Diana Giovinazzo discusses "The Woman in Red" with Greer MacAllister](https://www.youtube.com/watch?v=jLddoRR5fD0)
 
 [goodreads](https://www.goodreads.com/en/book/show/49089434)
+
+[Giuseppe Garibaldi](https://en.wikipedia.org/wiki/Giuseppe_Garibaldi)
+[Anita Garibaldi](https://en.wikipedia.org/wiki/Anita_Garibaldi)
