@@ -14,6 +14,8 @@ I close my eyes and take a step forward. My boots sink into the mud. Memories pa
 
 ### Uno
 
+page 3
+
 trataba por todos los medios de parecerme a mis dos hermanas mayores: llevaba trenzas y el vestido bien planchado
 
 I tried in every way (by all means) to look like my two older sisters: I had braids and a well-pressed dress.
@@ -30,7 +32,7 @@ organizaba sus aparejos y me aseguraba de colocarlos en el orden en que los util
 
 I organized his gear and made sure to put it in the order I used it
 
-### cinco
+### Cinco
 
 page 34
 
