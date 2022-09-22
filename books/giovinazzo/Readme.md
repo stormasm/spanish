@@ -16,7 +16,7 @@ I close my eyes and take a step forward. My boots sink into the mud. Memories pa
 
 trataba por todos los medios de parecerme a mis dos hermanas mayores: llevaba trenzas y el vestido bien planchado
 
-I tried in every way to look like my two older sisters: I had braids and a well-pressed dress.
+I tried in every way (by all means) to look like my two older sisters: I had braids and a well-pressed dress.
 
 un patrón jamás se ensuciaba las botas para llevar el ganado de un claro a otro.
 
