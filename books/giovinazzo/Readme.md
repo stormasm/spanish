@@ -67,6 +67,13 @@ I was looking forward to the night to be with my best friend
 |-| - | - |
 | asentamiento | settlement | 3 |
 | aula | classroom | 3 |
-| trenzas | braids | 3 |
-| peñasco | boulder | x |
 | cima | top | x |
+| peñasco | boulder | x |
+| sobrar | left over, not needed | x |
+| trenzas | braids | 3 |
+
+### idioms
+
+* dias despues, days after
+* esperaba con ilusion, I was looking forward to
+* trataba por todos los medios, tried by all means
