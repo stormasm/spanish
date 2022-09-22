@@ -62,3 +62,11 @@ I was looking forward to the night to be with my best friend
 * [goodreads](https://www.goodreads.com/en/book/show/49089434)
 * [Giuseppe Garibaldi](https://en.wikipedia.org/wiki/Giuseppe_Garibaldi)
 * [Anita Garibaldi](https://en.wikipedia.org/wiki/Anita_Garibaldi)
+
+### wordlist
+
+| spanish | english | page |
+|-| - | - |
+| asentamiento | settlement | 3 |
+| aula | classroom | 3 |
+| trenzas | braids | 3 |
