@@ -51,3 +51,9 @@ more than what i am
 esperaba con ilusión que llegará la noche para estar con mi mejor amiga
 
 I was looking forward to the night to be with my best friend
+
+### References
+
+[Diana Giovinazzo discusses "The Woman in Red" with Greer MacAllister](https://www.youtube.com/watch?v=jLddoRR5fD0)
+
+[goodreads](https://www.goodreads.com/en/book/show/49089434)
