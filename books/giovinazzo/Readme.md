@@ -30,10 +30,6 @@ organizaba sus aparejos y me aseguraba de colocarlos en el orden en que los util
 
 I organized his gear and made sure to put it in the order I used it
 
-peñasco : boulder
-
-cima : top
-
 ### cinco
 
 page 34
@@ -70,3 +66,5 @@ I was looking forward to the night to be with my best friend
 | asentamiento | settlement | 3 |
 | aula | classroom | 3 |
 | trenzas | braids | 3 |
+| peñasco | boulder | x |
+| cima | top | x |
