@@ -52,6 +52,18 @@ Fue la ultimata vez que fui a la escuela.
 
 It was the last time I went to school.
 
+estabamos al amparo de nuestro pequeno hogar con su techo de paja y sus paredes de bahareque, lejos de la mirada inquisidora del pueblo.
+
+we were sheltered in our little home with its thatched roof and adobe walls, far from the inquisitive gaze of the town.
+
+me sente a la mesa y la mire con el estomago  encogido de miedo.
+
+I sat at the table and looked at her with a stomach churning in fear.
+
+irá a trabajar conmigo
+
+will you go to work with me
+
 un patrón jamás se ensuciaba las botas para llevar el ganado de un claro a otro.
 
 a patron never gets his boots dirty to move the cattle from one clearing to another.
