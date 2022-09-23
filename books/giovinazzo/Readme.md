@@ -22,33 +22,33 @@ I tried in every way (by all means) to look like my two older sisters: I had bra
 
 me agarró por el brazo, me arrastre frente a la clase y me obligo a extender las manos. Intente retirarlas, pero solo consegui que me sujetara con mas fuerza.  me las golpeo firmemente con la regla.  El escozer me subio por los brazos hasta los codos.
 
-No contradigas a tu maestro.  Eres una nina.  Tienes que obedecer.
-
-Las lagrimas me quemaban los ojos, pero no iba a darle el gusto.  me mordi los labios para no llorar.
-
-Pestaneaba para que no se saltaran las lagrimas mientras sentia la mirada de los demas estudiantes sobre mi.
-
-No fue hasta que sono una risita en la parte posterior del aula que mi verguenza se torno en rabia.
-
-Le arrebate la regla de las manos y comence a golpearlo con ella.
-
-Solo podia ver la mano que sujetaba la regla que, a su vez, golpeaba el brazo del maestro mientras el intentaba defenderse.
-
-Fue la ultimata vez que fui a la escuela.
-
 He grabbed me by the arm, dragging me in front of the class and forcing me to hold out my hands. I tried to remove them, but only got him to hold me tighter. I hit them firmly with the ruler. The stinging rose up my arms to my elbows.
+
+No contradigas a tu maestro.  Eres una nina.  Tienes que obedecer.
 
 Do not contradict your teacher. You are a girl. You have to obey.
 
+Las lagrimas me quemaban los ojos, pero no iba a darle el gusto.  me mordi los labios para no llorar.
+
 Tears burned my eyes, but I wasn't going to give him the pleasure. I bit my lip to keep from crying.
+
+Pestaneaba para que no se saltaran las lagrimas mientras sentia la mirada de los demas estudiantes sobre mi.
 
 I blinked to keep the tears from flowing as I felt the gaze of the other students on me.
 
+No fue hasta que sono una risita en la parte posterior del aula que mi verguenza se torno en rabia.
+
 It wasn't until a giggle sounded from the back of the classroom that my embarrassment turned to anger.
+
+Le arrebate la regla de las manos y comence a golpearlo con ella.
 
 I snatched the ruler out of his hands and started hitting him with it.
 
+Solo podia ver la mano que sujetaba la regla que, a su vez, golpeaba el brazo del maestro mientras el intentaba defenderse.
+
 He could only see the hand holding the ruler which, in turn, hit the teacher's arm as he tried to defend himself.
+
+Fue la ultimata vez que fui a la escuela.
 
 It was the last time I went to school.
 
