@@ -22,7 +22,7 @@ I tried in every way (by all means) to look like my two older sisters: I had bra
 
 me agarró por el brazo, me arrastre frente a la clase y me obligo a extender las manos. Intente retirarlas, pero solo consegui que me sujetara con mas fuerza.  me las golpeo firmemente con la regla.  El escozer me subio por los brazos hasta los codos.
 
-He grabbed me by the arm, dragging me in front of the class and forcing me to hold out my hands. I tried to remove them, but only got him to hold me tighter. I hit them firmly with the ruler. The stinging rose up my arms to my elbows.
+He grabbed me by the arm, dragging me in front of the class and forcing me to hold out my hands. I tried to remove them, but only got him to hold me tighter. He hit them firmly with the ruler. The stinging rose up my arms to my elbows.
 
 No contradigas a tu maestro.  Eres una nina.  Tienes que obedecer.
 
