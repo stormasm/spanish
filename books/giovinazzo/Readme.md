@@ -56,7 +56,11 @@ estabamos al amparo de nuestro pequeno hogar con su techo de paja y sus paredes 
 
 we were sheltered in our little home with its thatched roof and adobe walls, far from the inquisitive gaze of the town.
 
-me sente a la mesa y la mire con el estomago  encogido de miedo.
+mi madre se cuidaba mucho de las habladurías de la gente
+
+my mother was very careful of people's gossip
+
+me sente a la mesa y la mire con el estomago encogido de miedo.
 
 I sat at the table and looked at her with a stomach churning in fear.
 
