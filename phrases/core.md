@@ -2,7 +2,7 @@
 | |
 |-|
 | estamos en nuestros años de bonificación |
-| Ahora estamos viviendo años extra |
+| ahora estamos viviendo años extra |
 | tenemos suerte de estar vivos y sanos |
 | |
 | estoy contenta|
