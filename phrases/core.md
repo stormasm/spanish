@@ -4,6 +4,8 @@
 | estamos en nuestros años de bonificación |
 | ahora estamos viviendo años extra |
 | tenemos suerte de estar vivos y sanos |
+| si vives lo suficiente, envejeces |
+| if you live long enough, you grow old |
 | |
 | estoy contenta|
 | me gusta pasear en el parque |
