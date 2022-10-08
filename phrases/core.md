@@ -1,6 +1,9 @@
 
 | |
 |-|
+| voy a ser fuerte |
+| estoy presente en mi vida y respiro |
+| |
 | estamos en nuestros años de bonificación |
 | ahora estamos viviendo años extra |
 | tenemos suerte de estar vivos y sanos |
