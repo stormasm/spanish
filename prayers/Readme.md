@@ -13,7 +13,7 @@
 
 ### Details
 
-##### ps-010, the morning of my implant surgery, a gorgeous early autumn morning.
+##### ps-010, the first poem derived from willa cather's my antonia
 
 ##### ps-007, Natalia Lafourcade - Alma Mía (En Manos de Los Macorinos)
 * [youtube](https://www.youtube.com/watch?v=zZGF3vRDyIE)
@@ -45,6 +45,7 @@ First mention of Natalia was on an email Sunday October 3, 2021 to Pedro.
 
 ### Timeline
 
+* ps-010 october 12, 2022, the morning of my implant surgery, a gorgeous early autumn morning.
 * ps-009 june 11, 2022, corvallis, or
 * ps-007 march 08, 2022, ashland springs hotel
 * ps-006 late February 2022
