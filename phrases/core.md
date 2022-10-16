@@ -1,6 +1,9 @@
 
 | |
 |-|
+| hay ciertas cosas en la vida que no eres capaz de entender |
+| there are certain things in life that you are not able to understand |
+| |
 | voy a ser fuerte |
 | estoy presente en mi vida y respiro |
 | |
