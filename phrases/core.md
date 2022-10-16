@@ -2,7 +2,9 @@
 | |
 |-|
 | hay ciertas cosas en la vida que no eres capaz de entender |
+| hay ciertas cosas en la vida que jamas entenderas |
 | there are certain things in life that you are not able to understand |
+| there are certain things in life that you will never understand |
 | |
 | voy a ser fuerte |
 | estoy presente en mi vida y respiro |
