@@ -2,10 +2,10 @@
 | |
 |-|
 | voy a dejar de gritar |
-| Cuando como azúcar debo tener mucho cuidado de no gritar |
+| cuando como azúcar debo tener mucho cuidado de no gritar |
 | I am going to quit yelling / screaming |
-| When I eat sugar I have to be very careful not to scream |
-| | 
+| when I eat sugar I have to be very careful not to scream |
+| |
 | hay ciertas cosas en la vida que no eres capaz de entender |
 | hay ciertas cosas en la vida que jamas entenderas |
 | there are certain things in life that you are not able to understand |
