@@ -37,3 +37,6 @@
 | deja ir |
 | let it go |
 | dejando ir tus miedos |
+| |
+| qué son los agujeros de gusano y por qué podrían permitirnos encontrar atajos en el universo |
+| what are wormholes and why could they allow us to find shortcuts through the universe|
