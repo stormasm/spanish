@@ -8,7 +8,7 @@
 |P| S | E |
 |-| - | - |
 | 23 | apreto los ojos con fuerza | he closed his eyes tightly |
-| 23 | fue hasta el libro, lo cogio |  harry walked over to the book, picked it up|
+| 23 | fue hasta el libro, lo cogió |  harry walked over to the book, picked it up|
 | 23 |  |  |
 
 I found this book on our walk near Winco on February 1, 2023.   
