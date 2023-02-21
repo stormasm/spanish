@@ -11,5 +11,5 @@
 | 23 | |  |
 | 23 |  |  |
 
-I found this book on our walk near Winco on February 1, 2023.
+I found this book on our walk near Winco on February 1, 2023.   
 This also happens to be the day that I signed my agreement with SxT.
