@@ -7,16 +7,16 @@
 | 23 | retiró las cortinas de la ventana | he opened / pulled back the curtains |
 
 
-|P| S | E |
+|C| E | S |
 |-| - | - |
 |1. | The Riddle House | La Mansion de los Ryddle |
-|2.  | The Scar |
-3. The Invitation
-4. Back to the Burrow
-5. Weasley's Wizard Wheezes
+|2.  | The Scar | La Cicatriz |
+|3.   | The Invitation | La Invitacion |
+|4.   | Back to the Burrow | Retorno a la Madriguera |
+|5.   | Weasley's Wizard Wheezes | Sortilegios Weasley |
 
-6. The Portkey
-7. Bagman and Crouch
+|6.   | The Portkey | El Traslador | 
+|7.   | Bagman and Crouch | Bagman y Crouch |
 8. The Quidditch World Cup
 9. The Dark Mark
 
