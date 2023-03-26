@@ -14,7 +14,7 @@
 |3.   | The Invitation | La Invitacion |
 |4.   | Back to the Burrow | Retorno a la Madriguera |
 |5.   | Weasley's Wizard Wheezes | Sortilegios Weasley |
-|-| - | - |
+| |  |  |
 |6.   | The Portkey | El Traslador |
 |7.   | Bagman and Crouch | Bagman y Crouch |
 8. The Quidditch World Cup
