@@ -1,6 +1,16 @@
 
-1. The Riddle House
-2. The Scar
+
+|P| S | E |
+|-| - | - |
+| 23 | apreto los ojos con fuerza | he closed his eyes tightly |
+| 23 | fue hasta el libro, lo cogió |  harry walked over to the book, picked it up|
+| 23 | retiró las cortinas de la ventana | he opened / pulled back the curtains |
+
+
+|P| S | E |
+|-| - | - |
+|1. | The Riddle House | La Mansion de los Ryddle |
+|2.  | The Scar |
 3. The Invitation
 4. Back to the Burrow
 5. Weasley's Wizard Wheezes
