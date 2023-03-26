@@ -9,20 +9,20 @@
 
 |C| E | S |
 |-| - | - |
-|1. | The Riddle House | La Mansion de los Ryddle |
-|2.  | The Scar | La Cicatriz |
-|3.   | The Invitation | La Invitacion |
-|4.   | Back to the Burrow | Retorno a la Madriguera |
-|5.   | Weasley's Wizard Wheezes | Sortilegios Weasley |
-| |  |  |
-|6.   | The Portkey | El Traslador |
-|7.   | Bagman and Crouch | Bagman y Crouch |
-8. The Quidditch World Cup
-9. The Dark Mark
-
-10. Mayhem at the Ministry
-11. Aboard the Hogwarts Express
-12. The Triwizard Tournament
+|1. | The Riddle House | la mansion de los ryddle |
+|2. | The Scar | la cicatriz |
+|3. | The Invitation | la invitacion |
+|4. | Back to the Burrow | retorno a la madriguera |
+|5. | Weasley's Wizard Wheezes | wortilegios weasley |
+| | | |
+|6. | The Portkey | el traslador |
+|7. | Bagman and Crouch | bagman y crouch |
+|8. | The Quidditch World Cup | los mundiales de quidditch |
+|9. | The Dark Mark | la marca tenebrosa |
+|-| - | - |
+|10.| Mayhem at the Ministry | alboroto en el ministerio |
+|11.| Aboard the Hogwarts Express | En el expreso de hogwarts |
+|12.| The Triwizard Tournament | el torneo de los tres magos |
 13. Mad Eye Moody
 14. The Unforgivable Curses
 
