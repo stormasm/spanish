@@ -19,7 +19,7 @@
 |7. | Bagman and Crouch | bagman y crouch |
 |8. | The Quidditch World Cup | los mundiales de quidditch |
 |9. | The Dark Mark | la marca tenebrosa |
-|-| - | - |
+| | | |
 |10.| Mayhem at the Ministry | alboroto en el ministerio |
 |11.| Aboard the Hogwarts Express | En el expreso de hogwarts |
 |12.| The Triwizard Tournament | el torneo de los tres magos |
