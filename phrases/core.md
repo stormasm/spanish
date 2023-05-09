@@ -38,5 +38,14 @@
 | let it go |
 | dejando ir tus miedos |
 | |
+| el verano de dejar ir |
+| the summer of letting go |
+| |
+| dejar ir |
+| to let go of |
+| |
+| Tienes que dejar ir el pasado y vivir el presente. |
+| You need to let go of the past and live the present moment. |
+| |
 | qué son los agujeros de gusano y por qué podrían permitirnos encontrar atajos en el universo |
 | what are wormholes and why could they allow us to find shortcuts through the universe|
