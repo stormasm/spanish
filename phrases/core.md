@@ -47,5 +47,8 @@
 | Tienes que dejar ir el pasado y vivir el presente. |
 | You need to let go of the past and live the present moment. |
 | |
+| Tienes que dejar pensar el pasado y vivir en el presente |
+| You have to stop thinking about the past and live in the present |
+| |
 | qué son los agujeros de gusano y por qué podrían permitirnos encontrar atajos en el universo |
 | what are wormholes and why could they allow us to find shortcuts through the universe|
