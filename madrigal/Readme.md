@@ -9,6 +9,7 @@ With original illustrations by Andy Warhol
 Doubleday
 Copyright 1951, 1953, 1989
 ISBN 0-385-41095-6
+ISBN 978-0385410953
 ```
 
 ### References
