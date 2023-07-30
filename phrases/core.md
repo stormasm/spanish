@@ -1,6 +1,13 @@
 
 | |
 |-|
+| es mas dificil de lo que usted piensa |
+| solo se unas cuantas palabras |
+| se decir algunas palabras en espanol |
+| it is harder than you think |
+| I only know a few words |
+| I know how to say a few words in spanish |
+| |
 | voy a dejar de gritar |
 | cuando como azúcar debo tener mucho cuidado de no gritar |
 | I am going to quit yelling / screaming |
