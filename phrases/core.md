@@ -1,6 +1,11 @@
 
 | |
 |-|
+| I understand it but I don't speak it |
+| lo entiendo pero no lo hablo |
+| lo leo pero no lo hablo |
+| I read it |
+| |
 | es mas dificil de lo que usted piensa |
 | solo se unas cuantas palabras |
 | se decir algunas palabras en espanol |
