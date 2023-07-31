@@ -1,2 +1,2 @@
 
-[More details about machado](https://github.com/stormasm/notes/blob/main/poetry/machado/Readme.md)
+[More details about machado](https://github.com/stormasm/poetry/tree/main/machado/Readme.md)
