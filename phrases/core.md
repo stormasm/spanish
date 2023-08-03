@@ -1,6 +1,10 @@
 
 | |
 |-|
+| nos conocimos el verano pasado |
+| soy michael un amigo de lesley |
+| recogeré las manzanas del suelo |
+| |
 | I understand it but I don't speak it |
 | lo entiendo pero no lo hablo |
 | lo leo pero no lo hablo |
