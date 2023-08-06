@@ -1,6 +1,11 @@
 
 | |
 |-|
+| uno de mis dichos favoritos es lento |
+| one of my sayings |
+| ir más lento |
+| ir más despacio |
+| |
 | nos conocimos el verano pasado |
 | soy michael un amigo de lesley |
 | recogeré las manzanas del suelo |
