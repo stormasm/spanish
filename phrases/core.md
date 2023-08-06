@@ -1,11 +1,12 @@
 
 | |
 |-|
+| uno de mis refranes favoritos es lento |
 | uno de mis dichos favoritos es lento |
 | one of my sayings |
 | ir más lento |
 | ir más despacio |
-| lentamente, slowly |
+| lentamente, slowly |gs
 | |
 | nos conocimos el verano pasado |
 | soy michael un amigo de lesley |
