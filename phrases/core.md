@@ -1,8 +1,8 @@
 
 | |
 |-|
-| uno de mis refranes favoritos es lento |
 | uno de mis dichos favoritos es lento |
+| refranes, adagios |
 | one of my sayings |
 | ir más lento |
 | ir más despacio |
