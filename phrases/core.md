@@ -5,6 +5,7 @@
 | one of my sayings |
 | ir más lento |
 | ir más despacio |
+| lentamente, slowly |
 | |
 | nos conocimos el verano pasado |
 | soy michael un amigo de lesley |
