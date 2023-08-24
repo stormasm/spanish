@@ -75,3 +75,6 @@
 | |
 | qué son los agujeros de gusano y por qué podrían permitirnos encontrar atajos en el universo |
 | what are wormholes and why could they allow us to find shortcuts through the universe|
+| |
+| el odio no tiene hogar aquí |
+| hate has no home here |
