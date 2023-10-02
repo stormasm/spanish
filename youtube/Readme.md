@@ -1,5 +1,6 @@
 
 [Pepe Mujica | My Most Sincere Interview](https://www.youtube.com/watch?v=OmjMBM1LSGM)
+[wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Mujica)
 
 [Neurociencia aplicada al día a día. David del Rosario](https://www.youtube.com/watch?v=nJMwKB5JAuU)
 
