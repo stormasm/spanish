@@ -1,15 +1,16 @@
 
 
-* Cómo te llamas - What is your name
-* Como se llama esta calle - What is the name of this street
-* Como se llama esta pueblo - What is the name of this town
+* cómo te llamas - What is your name
+* como se llama esta calle - What is the name of this street
+* como se llama esta pueblo - What is the name of this town
+* como se va a este lugar -- how do you get to this place
+---
+* como puedo ir desde aqui a socorro - how do I get to socorro from here
+* puede usted decirme como ir a las vegas -- can you tell me how I can get to las vegas
 ---
 * a que distancia estamos de santa fe - how far are we from santa fe
 * cuantos kilometros hay de aqui a albuquerque - how many kilometers from here to abq
-* como puedo ir desde aqui a socorro - how do I get to socorro from here
 * siga este camino - follow this road
 ---
-* puede usted decirme como ir a las vegas -- can you tell me how I can get to las vegas
-* como se va a este lugar -- how do you get to this place
 * cual es el camino mas corto para ir a salem -- what is the shortest way to get to salem
 * que camino debo tomar -- which road must I take
