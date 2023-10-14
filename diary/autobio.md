@@ -6,6 +6,9 @@ My name is Miguel, I was born and raised in Pennsylvania although I have lived i
 
 although I have lived in Oregon for many years, aunque he vivido en Oregon durante muchos años
 
+for many years, durante muchos anos   
+for many years now, desde hace muchos años
+
 ### 4/12/21
 
 nací en   
