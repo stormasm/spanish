@@ -1,4 +1,10 @@
 
+### 10/15/2023
+
+Every once in a awhile in life you find something that really moves you.  This morning, very early,  I found it in a big way.  There are only two other times or videos that I have really connected with in our modern world of youtube where we learn, travel, and basically just get to know ourselves better.
+
+De vez en cuando en la vida encuentras algo que realmente te conmueve. Esta mañana, muy temprano, lo encontré a lo grande. Solo hay otros dos momentos o videos con los que realmente me he conectado en nuestro mundo moderno de YouTube, donde aprendemos, viajamos y básicamente nos conocemos mejor a nosotros mismos.
+
 ### 10/14/2023
 Mi nombre es Miguel, nací y crecí en Pennsylvania aunque vivo en Oregon desde hace mucho tiempo. Antes de vivir en Oregón, viví en Nuevo México por 26 años.
 
