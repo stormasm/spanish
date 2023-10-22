@@ -8,3 +8,5 @@ temprano en la manana,       early in the morning.
 deberia,    I should  
 deberias,   you should  
 deberiamos, we should  
+
+* por favor sal de la cama, please get out of bed
