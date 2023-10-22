@@ -11,3 +11,4 @@ deberiamos, we should
 
 * por favor sal de la cama, please get out of bed
 * Mi esposa siempre se levanta a las ocho de la mañana, my wife always gets up at eight in the morning.
+* me levanto a las ocho de la mañana, I get up at eight in the morning
