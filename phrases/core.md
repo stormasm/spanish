@@ -1,3 +1,8 @@
+| |
+|-|
+| no mires bolsa de valores, do not look at the stock market |
+
+---
 
 | |
 |-|
