@@ -3,7 +3,7 @@
 | no mires bolsa de valores, do not look at the stock market |
 
 ---
-g
+
 | |
 |-|
 | uno de mis dichos favoritos es lento |
