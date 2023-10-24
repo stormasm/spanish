@@ -2,6 +2,7 @@
 |-|
 | no mires bolsa de valores, do not look at the stock market |
 | no te preocupes por las cosas de Hb, do not worry about Hb's stuff |
+| no te preocupes por las cosas pequeñas, don't worry about the small things |
 
 ---
 
