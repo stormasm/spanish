@@ -2,7 +2,7 @@
 |-|
 | no mires bolsa de valores, do not look at the stock market |
 | no te preocupes por las cosas de Hb, do not worry about Hb's stuff |
-| no te preocupes por las cosas pequeñas, don't worry about the small things, [link](https://pastorrick.com/no-te-preocupes-por-las-cosas-pequenas/) |
+| no te preocupes por las cosas pequeñas, don't worry about the small things, [reference](https://pastorrick.com/no-te-preocupes-por-las-cosas-pequenas/) |
 
 ---
 
