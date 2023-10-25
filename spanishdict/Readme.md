@@ -1,6 +1,8 @@
 
 * [equivocado, wrong](https://www.spanishdict.com/translate/equivocado)
 
+* Soy un hombre que puede admitir cuando él está equivocado, I'm a man who can admit when he's wrong.
+
 * [despertarse temprano, wakeup early](https://www.spanishdict.com/translate/despertarse%20temprano?langFrom=es)
 
 nosotros debemos,            we must  
