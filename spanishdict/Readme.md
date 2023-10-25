@@ -1,6 +1,9 @@
 
 * [equivocado, wrong](https://www.spanishdict.com/translate/equivocado)
 
+Soy un hombre que puede admitir cuando él está equivocado
+(I'm a man who can admit when he's wrong.)
+
 Estás completamente equivocado en eso.
 (You are completely wrong about that.)
 
@@ -16,7 +19,7 @@ No puedo creer que hayas elegido el color equivocado.
 Si piensas que no puedo hacerlo, estás equivocado.
 (If you think I can't do it, you are mistaken.)
 
-* Soy un hombre que puede admitir cuando él está equivocado, I'm a man who can admit when he's wrong.
+
 
 * [despertarse temprano, wakeup early](https://www.spanishdict.com/translate/despertarse%20temprano?langFrom=es)
 
