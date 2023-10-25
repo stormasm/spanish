@@ -1,4 +1,6 @@
 
+* [equivocado, wrong](https://www.spanishdict.com/translate/equivocado)
+
 * [despertarse temprano, wakeup early](https://www.spanishdict.com/translate/despertarse%20temprano?langFrom=es)
 
 nosotros debemos,            we must  
