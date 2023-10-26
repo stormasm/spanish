@@ -28,6 +28,7 @@ vivi en NM por 26 años
 hace mucho tiempo, for a long time   
 hace 10 años, 10 years ago   
 
+10/19/2023   
 nosotros debemes, we must  
 despertar, wake up   
 deberiamos, we should   
