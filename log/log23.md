@@ -15,7 +15,7 @@ me perdono
 gracias a dios     
 por tener buena salud   
 
-10/21/2023
+10/21/2023   
 de vez en cuando, every once in awhile   
 
 10/20/2023  
