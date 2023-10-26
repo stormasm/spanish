@@ -29,7 +29,7 @@ hace mucho tiempo, for a long time
 hace 10 años, 10 years ago   
 
 10/19/2023   
-nosotros debemes, we must  
+nosotros debemos, we must  
 despertar, wake up   
 deberiamos, we should   
 por favor sal de cama, please get out of bed   
