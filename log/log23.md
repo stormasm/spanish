@@ -4,7 +4,8 @@
 no te lo tomes personalmente, do not take it personally   
 no te tomes nada personalmente, don't take anything personally
 
-la historia terminó con una nota inesperada, the story ended on an unexpected note   
+la historia terminó con una nota
+[inesperada](https://en.wikipedia.org/wiki/The_Unexpected_Life), the story ended on an unexpected note   
 el odio no tiene hogar aqui, hate has no home here   
 soy un hombre que puede admitir cuando el esta equivocado, I am a person who is able to admit when I make a mistake   
 
