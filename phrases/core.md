@@ -1,5 +1,13 @@
 | |
 |-|
+| no te lo tomes personalmente, do not take it personally |
+| no te tomes nada personalmente |
+| [Los Cuatro Acuerdos](https://vibromancia.com/no-te-tomes-nada-personalmente/) |
+
+---
+
+| |
+|-|
 | no mires bolsa de valores, do not look at the stock market |
 | no te preocupes por las cosas de Hb, do not worry about Hb's stuff |
 | no te preocupes por las cosas pequeñas, don't worry about the small things, [ref](https://pastorrick.com/no-te-preocupes-por-las-cosas-pequenas/) |
