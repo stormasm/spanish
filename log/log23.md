@@ -2,7 +2,7 @@
 
 10/25/2023  
 no te lo tomes personalmente, do not take it personally   
-no te tomes nada personalmente
+no te tomes nada personalmente, don't take anything personally
 
 la historia terminó con una nota inesperada, the story ended on an unexpected note   
 el odio no tiene hogar aqui, hate has no home here   

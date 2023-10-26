@@ -1,7 +1,7 @@
 | |
 |-|
 | no te lo tomes personalmente, do not take it personally |
-| no te tomes nada personalmente |
+| no te tomes nada personalmente, do not take anything personally |
 | [Los Cuatro Acuerdos](https://vibromancia.com/no-te-tomes-nada-personalmente/) |
 
 ---
