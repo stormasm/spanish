@@ -1,6 +1,12 @@
 
 ### Chapter One
 
+### page 11
+
+un parentesis para luego volver al verso triste de los tangos que solia escuchar para alentar la nostalgia el dolor que arrastraba sin otra expicacacion que la vida misma
+
+a parenthesis to then return to the sad verse of the tangos that I used to listen to to encourage nostalgia, the pain that I carried with no other explanation than life itself
+
 Back cover...
 
 en esta novela eterovic con su proverbial estilo nos recrea una nueva historia de heredia, su detective privado solitario esceptico descredio sempiterno visitante de bares bueno para la con sus escasos amigos y envuelto siempre en investigaciones que tienen que ver con la realidad chilena contemporanea
