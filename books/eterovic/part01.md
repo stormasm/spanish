@@ -15,6 +15,8 @@ asesinado en el barrio, a causa de ciertos negociados en la construccion de un g
 campbell era el tipo mas optimista y alegre que habia conocido en mi vida.  No media mas de un
 metro sesenta y, fiel a su estillo, lucia su barba descuidada
 
+como el solia decir, bastaba que alguien pagara sus servicios para que su imaginacion volara con vigor
+
 Y si eso ocurria pegaba un billete de diez mil pesos en la parte superior de su computadora, y
 bajo el influjo del aroma del dinero escribia apasionadamente, como si durante toda su vida no
 hubiera hecho otra cosa que esperar una oportunidad para escribir sobre el tema de turno.
@@ -23,6 +25,8 @@ the journalist friend with whom I was united by a few years of university bohemi
 
 Campbell was the most optimistic and cheerful guy I had ever met in my life. It doesn't mean more than one
 five feet sixty and, true to his style, he sported his unkempt beard
+
+As he used to say, it was enough for someone to pay his services for his imagination to fly with vigor.
 
 And if that happened he would stick a ten thousand peso bill on top of his computer, and
 Under the influence of the aroma of money he wrote passionately, as if throughout his life he had not
