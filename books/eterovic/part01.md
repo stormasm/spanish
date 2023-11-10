@@ -34,6 +34,18 @@ I would have done nothing other than wait for an opportunity to write about the 
 
 ### page 14
 
+solias beber jarabes mas fuertas y aguerridos. tan mal van las cosas, heredia.
+
+ultimamente prefiero contribuir al desarrollo de la industria nacional
+
+en cambio yo sigo fiel a mis dogmas
+
+You used to drink stronger and stronger syrups. Things are going so badly, heredia.
+
+Lately I prefer to contribute to the development of the national industry
+
+On the other hand, I remain faithful to my dogmas
+
 cual es tu problema pregunte
 
 vienes a mi departamento a una hora en la que sueles trabajar y haces el esfuerzo de servirme una copa
