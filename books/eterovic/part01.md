@@ -7,11 +7,32 @@ un parentesis para luego volver al verso triste de los tangos que solia escuchar
 
 a parenthesis to then return to the sad verse of the tangos that I used to listen to to encourage nostalgia, the pain that I carried with no other explanation than life itself
 
+### page 13
+
+el amigo periodista al que me unian unos anos de bohemia universitaria y la historia de un abogado
+asesinado en el barrio, a causa de ciertos negociados en la construccion de un gasoducto
+
+campbell era el tipo mas optimista y alegre que habia conocido en mi vida.  No media mas de un
+metro sesenta y, fiel a su estillo, lucia su barba descuidada
+
+Y si eso ocurria pegaba un billete de diez mil pesos en la parte superior de su computadora, y
+bajo el influjo del aroma del dinero escribia apasionadamente, como si durante toda su vida no
+hubiera hecho otra cosa que esperar una oportunidad para escribir sobre el tema de turno.
+
+the journalist friend with whom I was united by a few years of university bohemia and the story of a lawyer murdered in the neighborhood, because of certain negotiations in the construction of a gas pipeline
+
+Campbell was the most optimistic and cheerful guy I had ever met in my life. It doesn't mean more than one
+five feet sixty and, true to his style, he sported his unkempt beard
+
+And if that happened he would stick a ten thousand peso bill on top of his computer, and
+Under the influence of the aroma of money he wrote passionately, as if throughout his life he had not
+I would have done nothing other than wait for an opportunity to write about the topic at hand.
+
 ### page 14
 
 cual es tu problema pregunte
 
-vienes a mi departamento a una hora  en la que sueles trabajar y haces el esfuerzo de servirme una copa
+vienes a mi departamento a una hora en la que sueles trabajar y haces el esfuerzo de servirme una copa
 
 en tu caso eso es motivo de sospecha
 
