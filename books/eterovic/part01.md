@@ -75,3 +75,9 @@ hablemos de la luz y de las certezas dije
 My commitment was to locate Heredia, nothing more, Campbell said. The miracle and the saint are a topic that corresponds to you, Vinas.
 
 Let's talk about light and certainties, I said.
+
+### page 19
+
+que te pasa Heredia pregunto campbell cuando ya Vinas debia estar en la calle confundido con la gente que a esa hora salia de sus trabajos con ganas de entrar a los bares del barrio para beber una cerveza que los liberara del cansancio
+
+What's wrong with you? Heredia asked Campbell when Vinas must have already been on the street confused with the people who at that time were leaving their jobs wanting to go into the neighborhood bars to drink a beer that would free them from fatigue.
