@@ -62,11 +62,18 @@ In your case that is cause for suspicion.
 
 Do you remember when we met, heredia
 
+### page 16
+
+Tengo referencias de usted -- dijo.. Se que en el pasado estuvo involucrado en la investigcion de asuntos relacionados con las desaparecidos durante la dictadura.
+
+I have references from you - he said.  I know that in the past he was involved in the investigation of matters related to those who disappeared during the dictatorship.
+
 ### page 17
 
 El viejo truco de los politicos: hablar en clave y ocultar la verdad.
-
 the old trick of politicians: speaking in code and hiding the truth
+
+no le explicó campbell los detalles del asunto, Campbell did not explain the details of the matter.
 
 mi compromiso era ubicar a heredia, nada mas dijo campbell.  el milagro y el santo son un tema que te corresponde, vinas.
 
