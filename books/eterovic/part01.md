@@ -64,6 +64,10 @@ Do you remember when we met, heredia
 
 ### page 16
 
+Vinas movio los labios levemente en lo que supuse era su mejor sonrisa
+
+Vinas moved his lips slightly in what I assumed was his best smile.
+
 Tengo referencias de usted -- dijo.. Se que en el pasado estuvo involucrado en la investigcion de asuntos relacionados con las desaparecidos durante la dictadura.
 
 I have references from you - he said.  I know that in the past he was involved in the investigation of matters related to those who disappeared during the dictatorship.
