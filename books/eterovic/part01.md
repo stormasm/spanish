@@ -68,6 +68,14 @@ Tengo referencias de usted -- dijo.. Se que en el pasado estuvo involucrado en l
 
 I have references from you - he said.  I know that in the past he was involved in the investigation of matters related to those who disappeared during the dictatorship.
 
+pero no he venido a discutir con usted.
+
+y mas aun cualquiera sea el resultado de esta conversacion en lo que a mi respecta, este encuentro nunca ha ocurrido - comenzo a decir Vinas
+
+but I have not come to argue with you.
+
+and even more so whatever the outcome of this conversation as far as I am concerned, this meeting has never happened - Vinas began to say.
+
 ### page 17
 
 El viejo truco de los politicos: hablar en clave y ocultar la verdad.
