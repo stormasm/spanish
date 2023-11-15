@@ -97,6 +97,10 @@ Let's talk about light and certainties, I said.
 
 ### page 19
 
+Vinas miro a marcos campbell , y como si de pronto alguien le hubiera avisado que se quemaba su casa apago el cigarillo y salio de la oficina sin anadir ninguna palabra mas
+
+Vinas looked at Marcos Campbell, and as if someone had suddenly warned him that his house was burning, he put out his cigarette and left the office without adding another word.
+
 que te pasa,  Heredia?  -pregunto campbell cuando ya Vinas debia estar en la calle confundido con la gente que a esa hora salia de sus trabajos con ganas de entrar a los bares del barrio para beber una cerveza que los liberara del cansancio
 
 What's wrong with you, Heredia ? asked Campbell when Vinas was already on the street bewildered with the people who at that time were leaving their jobs wanting to go into the neighborhood bars to drink a beer that would free them from fatigue.
