@@ -1,13 +1,13 @@
 
-### Chapter One
+## Chapter One
 
-### page 11
+#### page 11
 
 un parentesis para luego volver al verso triste de los tangos que solia escuchar para alentar la nostalgia el dolor que arrastraba sin otra explicacion que la vida misma
 
 a parenthesis to then return to the sad verse of the tangos that I used to listen to to encourage nostalgia, the pain that I carried with no other explanation than life itself
 
-### page 13
+#### page 13
 
 el amigo periodista al que me unian unos anos de bohemia universitaria y la historia de un abogado
 asesinado en el barrio, a causa de ciertos negociados en la construccion de un gasoducto
@@ -32,7 +32,7 @@ And if that happened he would stick a ten thousand peso bill on top of his compu
 Under the influence of the aroma of money he wrote passionately, as if throughout his life he had not
 I would have done nothing other than wait for an opportunity to write about the topic at hand.
 
-### page 14
+#### page 14
 
 solias beber jarabes mas fuertas y aguerridos. tan mal van las cosas, heredia.
 
@@ -62,7 +62,9 @@ In your case that is cause for suspicion.
 
 Do you remember when we met, heredia
 
-### page 16
+## Chapter 2
+
+#### page 16
 
 Vinas movio los labios levemente en lo que supuse era su mejor sonrisa
 
@@ -80,7 +82,7 @@ but I have not come to argue with you.
 
 and even more so whatever the outcome of this conversation as far as I am concerned, this meeting has never happened - Vinas began to say.
 
-### page 17
+#### page 17
 
 El viejo truco de los politicos: hablar en clave y ocultar la verdad.
 the old trick of politicians: speaking in code and hiding the truth
@@ -95,7 +97,7 @@ My commitment was to locate Heredia, nothing more, Campbell said. The miracle an
 
 Let's talk about light and certainties, I said.
 
-### page 19
+#### page 19
 
 Vinas miro a marcos campbell , y como si de pronto alguien le hubiera avisado que se quemaba su casa apago el cigarillo y salio de la oficina sin anadir ninguna palabra mas
 
