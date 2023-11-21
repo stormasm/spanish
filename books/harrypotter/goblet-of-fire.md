@@ -13,6 +13,7 @@
 
 ---
 
+|P| S | E |
 |-| - | - |
 | 52 | todos prorrumpieron en carcajadas | everyone burst into laughter |
 | 52 | a una mesa de madera desgastada de tanto restregar, con dos pelirrojos | to a wooden table worn from so much scrubbing, with two redheads |
