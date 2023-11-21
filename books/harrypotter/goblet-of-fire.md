@@ -13,6 +13,13 @@
 | 23 | retiró las cortinas de la ventana | he opened; pulled back the curtains |
 
 ---
+* Chapter Four
+
+|P| S | E |
+|-| - | - |
+| 46 | harry se retiro hasta el sofa, pero tio vernon dio un paso hacia delante | Harry retreated to the couch, but Uncle Vernon took a step forward|
+
+---
 * Chapter Five
 
 |P| S | E |
