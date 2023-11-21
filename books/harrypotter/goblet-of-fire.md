@@ -4,6 +4,7 @@
 * ch2 - 32
 * ch3 - 42
 
+* Chapter Two
 
 |P| S | E |
 |-| - | - |
@@ -12,6 +13,7 @@
 | 23 | retiró las cortinas de la ventana | he opened; pulled back the curtains |
 
 ---
+* Chapter Five
 
 |P| S | E |
 |-| - | - |
