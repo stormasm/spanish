@@ -1,7 +1,7 @@
 
 * [google book](https://www.google.com/books/edition/El_ojo_del_alma/rObyzdd4d-8C?hl=en&gbpv=1)
 
-## Chapter One
+## Chapter 1
 
 #### page 11
 
