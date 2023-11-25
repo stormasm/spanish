@@ -1,4 +1,6 @@
 
+* [google book](https://www.google.com/books/edition/El_ojo_del_alma/rObyzdd4d-8C?hl=en&gbpv=1)
+
 ## Chapter One
 
 #### page 11
@@ -106,3 +108,17 @@ Vinas looked at Marcos Campbell, and as if someone had suddenly warned him that 
 que te pasa,  Heredia?  -pregunto campbell cuando ya Vinas debia estar en la calle confundido con la gente que a esa hora salia de sus trabajos con ganas de entrar a los bares del barrio para beber una cerveza que los liberara del cansancio
 
 What's wrong with you, Heredia ? asked Campbell when Vinas was already on the street bewildered with the people who at that time were leaving their jobs wanting to go into the neighborhood bars to drink a beer that would free them from fatigue.
+
+## Chapter 3
+
+#### page 20
+
+sin animarme a encenderlo, without daring to light it
+
+llevaba seis meses tratando de no fumar, I had been trying not to smoke for six months
+
+## Chapter 4
+
+#### page 22
+
+habia subido unos gramos en los ultimos meses, pero aun me sentia agil capaz de andar, I had gained a few grams in the last few months, but I still felt agile, able to walk.
