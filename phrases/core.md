@@ -1,5 +1,11 @@
 | |
 |-|
+| no creas todo lo que piensas, do not believe everything that you think |
+
+---
+
+| |
+|-|
 | no te lo tomes personalmente, do not take it personally |
 | no te tomes nada personalmente, do not take anything personally |
 | [Los Cuatro Acuerdos](https://vibromancia.com/no-te-tomes-nada-personalmente/) |
