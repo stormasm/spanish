@@ -1,6 +1,9 @@
 | |
 |-|
 | no creas todo lo que piensas, do not believe everything that you think |
+| se acerca el invierno, winter is coming |
+| y la presencia se fue, and the presence was gone |
+| lo que no te mata te hace más fuerte, what doesn't kill you makes you stronger |
 
 ---
 
