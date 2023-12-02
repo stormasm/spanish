@@ -9,8 +9,10 @@
 
 | |
 |-|
-| no te lo tomes personalmente, do not take it personally |
+| no te tomes todo esto (demasiado) en serio, don't take all this (too) seriously |
+| no te tomes nada personal, don't take anything personally |
 | no te tomes nada personalmente, do not take anything personally |
+| no te lo tomes personalmente, do not take it personally |
 | [Los Cuatro Acuerdos](https://vibromancia.com/no-te-tomes-nada-personalmente/) |
 
 ---
