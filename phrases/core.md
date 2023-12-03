@@ -1,3 +1,10 @@
+
+| |
+|-|
+| si el tema es dinero entonces no es tan importante, if the issue is money then it's not that important |
+
+---
+
 | |
 |-|
 | no creas todo lo que piensas, do not believe everything that you think |
