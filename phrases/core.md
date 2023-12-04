@@ -11,6 +11,11 @@
 | se acerca el invierno, winter is coming |
 | y la presencia se fue, and the presence was gone |
 | lo que no te mata te hace más fuerte, what doesn't kill you makes you stronger |
+| |
+| una de las claves de la vida es dejar ir tus miedos |
+| a lo único que debemos temer es el propio temer. |
+| a lo único que debemos temer es al miedo mismo. |
+| a lo único que hay temer es al miedo mismo. |
 
 ---
 
