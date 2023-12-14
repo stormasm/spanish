@@ -1,6 +1,7 @@
 
 | |
 |-|
+| cuando piensas en español en lugar de inglés tu vida es mucho más interesante.  when you think in spanish instead of english your life is a lot more interesting |
 | confia en ti mismo que todo estara bien, trust yourself that everything will be good |
 | si el tema es dinero entonces no es tan importante, if the issue is money then it's not that important |
 
