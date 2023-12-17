@@ -42,6 +42,7 @@ I was looking forward to the night to be with my best friend
 * [goodreads](https://www.goodreads.com/en/book/show/49089434)
 * [Giuseppe Garibaldi](https://en.wikipedia.org/wiki/Giuseppe_Garibaldi)
 * [Anita Garibaldi](https://en.wikipedia.org/wiki/Anita_Garibaldi)
+* [farrapos war](https://www.google.com/search?q=farrapos+war&rlz=1C5CHFA_enUS1045US1045&oq=farrapos&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyCQgAEEUYORiABDIHCAEQABiABDINCAIQLhivARjHARiABDIHCAMQLhiABDIHCAQQABiABDINCAUQLhivARjHARiABDINCAYQLhivARjHARiABDIGCAcQRRg80gEJMTAzNzhqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
 ### wordlist
 
