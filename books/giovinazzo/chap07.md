@@ -7,3 +7,5 @@ si vas a marcharte hazlo de una vez y deja de causar problemas, If you are going
 intente sacudirme la pelea con mi hermana, I tried to shake off the fight with my sister
 
 se dedicaba a mirarme. a cada rato me traia algo de comer o beber, he was looking at me. every now and then he brought me something to eat or drink.
+
+entonces fui yo la que se ruborizó, then I was the one who blushed.

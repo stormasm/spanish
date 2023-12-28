@@ -4,6 +4,7 @@
 |-|-|
 | desprecio | contempt |
 | jurar | to swear |
+| ruborizar | to blush |
 
 
 ##### sentence references
