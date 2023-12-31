@@ -2,7 +2,6 @@
 
 | | |
 |-|-|
-
 | amanecer | sunrise |
 | atardecer | sunset |
 | crepúsculo | twilight |
