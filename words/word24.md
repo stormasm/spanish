@@ -2,13 +2,15 @@
 
 | | |
 |-|-|
+
+| amanecer | sunrise |
+| atardecer | sunset |
+| crepúsculo | twilight |
 | desprecio | contempt |
+| frotar | to rub (your hands) |
 | jurar | to swear |
 | ruborizar | to blush |
-| crepúsculo | twilight |
-| atardecer | sunset |
-| amanecer | sunrise |
-| frotar | to rub (your hands)
+| vencido | defeated |
 
 ##### sentence references
 
