@@ -13,3 +13,5 @@ entonces fui yo la que se ruborizó, then I was the one who blushed.
 page 59
 
 tenía el rostro hundido en una libreta en la que escribia con frenesi, he had his face buried in a notebook in which he was writing frantically.
+
+mientras tanto yo estaba con mi cocinero. nos habiamos alejado del resto del campiemento, meanwhile I was with my cook. We had moved away from the rest of the camp.
