@@ -19,16 +19,15 @@ que el respeto que respiras que llevas
 
 Cuando te des la vuelta, empezando por aquí, levanta esto.
 
-nuevo vistazo que encontraste; llevar hasta la noche
-todo lo que quieras de este día. Este intervalo que pasaste 
-Al leer o escuchar esto, guárdalo de por vida.
+nuevo vistazo que encontraste; llevar hasta la noche todo lo que quieras de este día.
+
+Este intervalo que pasaste Al leer o escuchar esto, guárdalo de por vida.
 
 ¿Qué puede alguien darte más que ahora?
 
 ¿Empezando aquí, justo en esta habitación, cuando te das la vuelta?
 
-
-Starting here, what do you want to remember?
+### Starting here, what do you want to remember?
 
 How sunlight creeps along a shining floor ?  
 What scent of old wood hovers, what softened  
