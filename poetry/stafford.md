@@ -5,9 +5,9 @@ A partir de aquí, ¿qué quieres recordar ?
 
 ¿Cómo se desliza la luz del sol sobre un suelo brillante ?
 
-¿Qué olor a madera vieja flota, qué se ablanda ?
+¿Qué olor a madera vieja flota,
 
-¿El sonido del exterior llena el aire ?
+qué se ablanda el sonido del exterior llena el aire ?
 
 ¿Alguna vez traerás un regalo mejor para el mundo ?
 
@@ -30,8 +30,8 @@ Este intervalo que pasaste Al leer o escuchar esto, guárdalo de por vida.
 ### Starting here, what do you want to remember ?
 
 How sunlight creeps along a shining floor ?  
-What scent of old wood hovers, what softened  
-sound from outside fills the air ?
+What scent of old wood hovers,   
+what softened sound from outside fills the air ?
 
 Will you ever bring a better gift for the world  
 than the breathing respect that you carry  
