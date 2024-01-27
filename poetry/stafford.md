@@ -1,21 +1,21 @@
 
 ### William Stafford : You Reading This, Be Ready
 
-A partir de aquí, ¿qué quieres recordar?
+A partir de aquí, ¿qué quieres recordar ?
 
-¿Cómo se desliza la luz del sol sobre un suelo brillante?
+¿Cómo se desliza la luz del sol sobre un suelo brillante ?
 
-¿Qué olor a madera vieja flota, qué se ablanda?
+¿Qué olor a madera vieja flota, qué se ablanda ?
 
-¿El sonido del exterior llena el aire?
+¿El sonido del exterior llena el aire ?
 
-¿Alguna vez traerás un regalo mejor para el mundo?
+¿Alguna vez traerás un regalo mejor para el mundo ?
 
 que el respeto que respiras que llevas
 
 ¿a dónde vas ahora? Estás esperando
 
-¿Tienes tiempo para mostrarte algunas ideas mejores?
+¿Tienes tiempo para mostrarte algunas ideas mejores ?
 
 Cuando te des la vuelta, empezando por aquí, levanta esto.
 
@@ -23,15 +23,15 @@ nuevo vistazo que encontraste; llevar hasta la noche todo lo que quieras de este
 
 Este intervalo que pasaste Al leer o escuchar esto, guárdalo de por vida.
 
-¿Qué puede alguien darte más que ahora?
+¿Qué puede alguien darte más que ahora ?
 
-¿Empezando aquí, justo en esta habitación, cuando te das la vuelta?
+¿Empezando aquí, justo en esta habitación, cuando te das la vuelta ?
 
-### Starting here, what do you want to remember?
+### Starting here, what do you want to remember ?
 
 How sunlight creeps along a shining floor ?  
 What scent of old wood hovers, what softened  
-sound from outside fills the air?
+sound from outside fills the air ?
 
 Will you ever bring a better gift for the world  
 than the breathing respect that you carry  
