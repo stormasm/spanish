@@ -1,4 +1,23 @@
 
+empezando aqui / ahora   
+comenzando aqui   
+a partir de ahora   
+starting here / now
+
+¿qué quieres recordar ? what do you want to remember
+
+¿Qué puede alguien, what can anyone
+
+darte, give you
+
+mayor que ahora, greater than now
+
+empezando aquí, starting here
+
+justo en esta habitación, right in this room
+
+cuando te das la vuelta?, when you turn around
+
 ### William Stafford : You Reading This, Be Ready
 
 A partir de aquí, ¿qué quieres recordar ?
