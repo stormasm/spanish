@@ -20,6 +20,8 @@ justo en esta habitación, right in this room
 
 cuando te das la vuelta?, when you turn around
 
+---
+
 A partir de aquí, ¿qué quieres recordar ?
 
 ¿Cómo se desliza la luz del sol sobre un suelo brillante ?
