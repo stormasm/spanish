@@ -1,4 +1,6 @@
 
+### William Stafford : You Reading This, Be Ready
+
 empezando aqui / ahora   
 comenzando aqui   
 a partir de ahora   
@@ -17,8 +19,6 @@ empezando aquí, starting here
 justo en esta habitación, right in this room
 
 cuando te das la vuelta?, when you turn around
-
-### William Stafford : You Reading This, Be Ready
 
 A partir de aquí, ¿qué quieres recordar ?
 
