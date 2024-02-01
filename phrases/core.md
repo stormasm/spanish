@@ -1,7 +1,13 @@
 
 | |
 |-|
-| uno de mis dichos favoritos es poco a poco, one of my favorite sayings is poco a poco | 
+| dar la vuelta, turn around | 
+
+---
+
+| |
+|-|
+| uno de mis dichos favoritos es poco a poco, one of my favorite sayings is poco a poco |
 | mi cuerpo está sanando, my body is healing |
 | cuando piensas en español en lugar de inglés tu vida es mucho más interesante.  when you think in spanish instead of english your life is a lot more interesting |
 | confia en ti mismo que todo estara bien, trust yourself that everything will be good |
