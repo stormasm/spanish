@@ -1,4 +1,4 @@
-The Word
+### La palabra
 
 La palabra se trata de  
 la sensación y la comodidad  
@@ -10,7 +10,9 @@ Pero la palabra no es importante.
 Para mí se trata de  
 Magia y misterio de estar vivo.  
 y como nos conectamos con  
-llena el espacio en blanco
+la palabra
+
+### The Word
 
 The word is about  
 the feeling and comfort  
@@ -21,5 +23,5 @@ Others Adios.
 But the word is not important  
 To me its about the  
 magic and mystery of being alive  
-and how we connect with  
-fill in the blank
+and how we connect with
+the word.
