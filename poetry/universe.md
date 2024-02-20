@@ -23,5 +23,5 @@ Others Adios.
 But the word is not important  
 To me its about the  
 magic and mystery of being alive  
-and how we connect with
+and how we connect with  
 the word.
