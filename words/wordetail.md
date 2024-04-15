@@ -1,4 +1,8 @@
 
+### meter
+
+- [METER | Spanish Word of the Day](https://www.youtube.com/watch?v=3yQEm4El7Q4)
+
 #### resbalar
 
 to slip or slide   
