@@ -1,10 +1,9 @@
 
 [aprendemos junto 2030](https://aprendemosjuntos.bbva.com/)
 
-[La ansiedad: ese niño asustado que puedes calmar. Ana Ibáñez, neurocientífica y entrenadora cerebral](https://www.youtube.com/watch?v=F0eFv7iVjF4)
+- [La ansiedad: ese niño asustado que puedes calmar. Ana Ibáñez, neurocientífica y entrenadora cerebral](https://www.youtube.com/watch?v=F0eFv7iVjF4)
+- [Cómo entrenar tu cerebro para vivir mejor. Ana Ibáñez, entrenadora cerebral](https://www.youtube.com/watch?v=e-Xg-OLBS0o)
 
-[22-06 Mi largo viaje por la vida. Ramón Bayés, psicólogo y escritor](https://www.youtube.com/watch?v=vSrjyUELkKM)
-
-[22-09 Enseñanzas de Rigoberta Menchú, la nieta de los mayas. Premio Nobel de la Paz](https://www.youtube.com/watch?v=A8dM2NU8i_k)
-
-[22-10 En un mundo adicto a la velocidad, la lentitud es un superpoder. Carl Honoré,escritor](https://www.youtube.com/watch?v=9OwXyBfKXdM)
+- [22-06 Mi largo viaje por la vida. Ramón Bayés, psicólogo y escritor](https://www.youtube.com/watch?v=vSrjyUELkKM)
+- [22-09 Enseñanzas de Rigoberta Menchú, la nieta de los mayas. Premio Nobel de la Paz](https://www.youtube.com/watch?v=A8dM2NU8i_k)
+- [22-10 En un mundo adicto a la velocidad, la lentitud es un superpoder. Carl Honoré,escritor](https://www.youtube.com/watch?v=9OwXyBfKXdM)
