@@ -1,4 +1,9 @@
 
+### Explorando el Mundo
+
+[
+Es El Pueblo Más bonito de Mexico ?](https://www.youtube.com/watch?v=BfNJkNQNSEo)
+
 ### Pepe Mujica
 
 * [anthropological tribe](https://www.youtube.com/watch?v=UbMy8f_nlBI)
