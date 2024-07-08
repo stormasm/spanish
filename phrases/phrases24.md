@@ -6,3 +6,4 @@
 | a mirarme | to look at me |
 | mientras tanto | meanwhile |
 | rato | a while |
+| me quiero alejar | I want to get away |
