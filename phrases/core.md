@@ -1,7 +1,8 @@
 
 | |
 |-|
-| dar la vuelta, turn around | 
+| dar la vuelta, turn around |
+| si te sientes bien no hay nada de que´ preocuparse, if you are feeling good there is nothing to worry about |
 
 ---
 
