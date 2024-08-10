@@ -25,6 +25,6 @@ cuando te das la vuelta?
 
 ---
 
-si te sientes bien
-no hay nada 
+si te sientes bien   
+no hay nada   
 de qué preocuparse
