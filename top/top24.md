@@ -16,11 +16,11 @@ a la vida o la muerte
 
 ¿qué quieres recordar ?
 
-¿Qué puede alguien
-darte
+¿Qué puede alguien  
+darte  
 mayor que ahora
 
-empezando aqui
+empezando aqui  
 cuando te das la vuelta?
 
 ---
