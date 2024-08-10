@@ -2,6 +2,7 @@
 - trust in yourself that everything will be ok
 - no te tomes todo (demasiado ) esto en serio
 - don't take this all too seriously
+- [top24](./top/top24.md)
 
 ### spanish notes of interest
 
