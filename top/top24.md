@@ -41,10 +41,14 @@ there is nothing to be afraid of
 
 Era totalmente feliz.
 
-Tal vez nos sentimos asi cuando morimos   
-y nos convertimos en parte de un todo
+Tal vez nos sentimos  
+asi cuando morimos   
+y nos convertimos   
+en parte de un todo
 
 I was entirely happy.
 
-Perhaps we feel like that when we die   
-and become a part of a bigger picture
+Perhaps we feel  
+like that when we die   
+and become a part  
+of a bigger picture
