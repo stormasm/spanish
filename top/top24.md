@@ -32,5 +32,7 @@ de qué preocuparse
 ---
 
 se fuerte  
-no hay miedo   
-be strong, there is nothing to be afraid of
+no hay miedo
+   
+be strong   
+there is nothing to be afraid of
