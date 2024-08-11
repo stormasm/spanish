@@ -33,6 +33,18 @@ de qué preocuparse
 
 se fuerte  
 no hay miedo
-   
+
 be strong   
 there is nothing to be afraid of
+
+---
+
+Era totalmente feliz.
+
+Tal vez nos sentimos asi cuando morimos   
+y nos convertimos en parte de un todo
+
+I was entirely happy.
+
+Perhaps we feel like that when we die   
+and become a part of something bigger than us
