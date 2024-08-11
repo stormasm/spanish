@@ -47,4 +47,4 @@ y nos convertimos en parte de un todo
 I was entirely happy.
 
 Perhaps we feel like that when we die   
-and become a part of something bigger than us
+and become a part of a bigger picture
