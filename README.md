@@ -1,3 +1,4 @@
+- el universo continuará ensenarme y guiarme mi toda vida
 - confía en ti mismo que todo estará bien
 - trust in yourself that everything will be ok
 - no te tomes todo (demasiado ) esto en serio
