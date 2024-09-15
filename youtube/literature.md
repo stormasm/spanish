@@ -1,4 +1,6 @@
 
+- [Revistas literarias de España](https://es.wikipedia.org/wiki/Categor%C3%ADa:Revistas_literarias_de_Espa%C3%B1a)
+
 ### Literature
 
 * [Mario Vargas Llosa](https://en.wikipedia.org/wiki/Mario_Vargas_Llosa)
