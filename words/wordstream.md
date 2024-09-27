@@ -20,6 +20,7 @@
 
 | | |
 |-|-|
+| La política ambiental de Brasil después de la catástrofe | Brazil's environmental policy after the catastrophe |
 | bill se vio obligado a dimitir | bill was forced to resign |
 | tras esta herencia nefasta en materia de medio ambiente | after this disastrous legacy in environmental matters |
 | en su discurso tras la victoria | in his speech after the victory |
