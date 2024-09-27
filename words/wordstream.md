@@ -7,6 +7,7 @@
 |-|-|
 | ademas | in addition to |
 | ingente  | huge, enormous, vast |
+| nefasto | doomed, damaging, terrible, disastrous |
 | polemico | controversial |
 
 #### phrase stream
@@ -14,6 +15,7 @@
 | | |
 |-|-|
 | bill se vio obligado a dimitir | bill was forced to resign |
+| Tras esta herencia nefasta en materia de medio ambiente | After this disastrous legacy in environmental matters |
 
 #### nada
 
