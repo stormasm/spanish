@@ -6,6 +6,7 @@
 | | |
 |-|-|
 | ademas | in addition to |
+| discurso | speech |
 | herencia | legacy, heritage, inheritance, estate |
 | ingente  | huge, enormous, vast |
 | nefasto | doomed, damaging, terrible, disastrous |
@@ -16,7 +17,8 @@
 | | |
 |-|-|
 | bill se vio obligado a dimitir | bill was forced to resign |
-| Tras esta herencia nefasta en materia de medio ambiente | After this disastrous legacy in environmental matters |
+| tras esta herencia nefasta en materia de medio ambiente | after this disastrous legacy in environmental matters |
+| en su discurso tras la victoria | in his speech after the victory |
 
 #### nada
 
