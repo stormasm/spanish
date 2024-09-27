@@ -25,6 +25,8 @@
 | tras esta herencia nefasta en materia de medio ambiente | after this disastrous legacy in environmental matters |
 | en su discurso tras la victoria | in his speech after the victory |
 
+---
+
 #### nada
 
 | | |
