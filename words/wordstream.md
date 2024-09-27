@@ -6,6 +6,7 @@
 | | |
 |-|-|
 | ademas | in addition to |
+| herencia | legacy, heritage, inheritance, estate |
 | ingente  | huge, enormous, vast |
 | nefasto | doomed, damaging, terrible, disastrous |
 | polemico | controversial |
