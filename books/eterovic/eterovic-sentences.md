@@ -1,5 +1,5 @@
 
-### El Ojo del alma por Ramon Diaz Eterovic
+### El ojo del alma por Ramon Diaz Eterovic
 
 ##### page 14
 
