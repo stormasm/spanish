@@ -8,3 +8,6 @@
 ### spanish notes of interest
 
 - [spanish accents on macbook pro](https://github.com/stormasm/spanish/blob/main/misc/macbook.md)
+
+To type the Spanish accented letter á on a MacBook,
+you can use the keyboard shortcut Option + e + a
