@@ -12,7 +12,7 @@
 
 ---
 
-No importa de donde eres, estamos contentos que seas nuestro vecino
+- [No importa de donde eres, estamos contentos que seas nuestro vecino](https://www.welcomeyourneighbors.org/)
 
 ---
 
