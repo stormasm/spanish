@@ -13,3 +13,5 @@
 ### Personal Life
 
 - https://www.youtube.com/watch?v=Dor-7y_fr_w
+- https://www.youtube.com/watch?v=4ld_5E7JMrE
+- https://www.youtube.com/watch?v=iEM_tXE5Hio
