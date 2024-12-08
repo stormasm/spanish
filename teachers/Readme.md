@@ -10,6 +10,14 @@
 - tener
 - https://www.youtube.com/watch?v=yxcIw3Zmufc
 
+---
+
+### Learning Tips
+
+- [Get Fluent Faster - A Detailed Strategy](https://www.youtube.com/watch?v=sBNSYwGjrvI)
+
+---
+
 ### Personal Life
 
 - https://www.youtube.com/watch?v=Dor-7y_fr_w
