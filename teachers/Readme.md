@@ -6,8 +6,8 @@
 - dar
 - tomar
 - poner
-- echar
 - tener
+- echar
 - https://www.youtube.com/watch?v=yxcIw3Zmufc
 
 ---
