@@ -8,7 +8,6 @@
 - poner
 - echar
 - tener
-
 - https://www.youtube.com/watch?v=yxcIw3Zmufc
 
 ### Personal Life
