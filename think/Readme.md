@@ -12,6 +12,10 @@
 
 ---
 
+No importa de donde eres, estamos contentos que seas nuestro vecino
+
+---
+
 - Calido is an adjective that means "warm" or "hot" in Spanish, while calor means "heat":
 - Calido: can mean moderately or comfortably hot, or very warm. It can also mean welcoming, friendly, or enthusiastic.
 - Calor: Means "heat" and is used to describe the weather. For example, "It makes heat". To intensify calor, you can use the word mucho, which means "a lot"
