@@ -9,4 +9,8 @@
 - echar
 - tener
 
-https://www.youtube.com/watch?v=yxcIw3Zmufc
+- https://www.youtube.com/watch?v=yxcIw3Zmufc
+
+### Personal Life
+
+- https://www.youtube.com/watch?v=Dor-7y_fr_w
