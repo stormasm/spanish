@@ -23,3 +23,8 @@
 - https://www.youtube.com/watch?v=Dor-7y_fr_w
 - https://www.youtube.com/watch?v=4ld_5E7JMrE
 - https://www.youtube.com/watch?v=iEM_tXE5Hio
+
+## Hola Spanish
+
+- estar a punto de infinitivo - to be about to infinitive
+- [10 Verb Pairs used in 90% of all SPANISH Conversations](https://www.youtube.com/watch?v=yJsSeo0CzT8)
