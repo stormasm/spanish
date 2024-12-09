@@ -27,4 +27,9 @@
 ## Hola Spanish
 
 - estar a punto de infinitivo - to be about to infinitive
+- ponerse a infinitivo - get to infinitive
 - [10 Verb Pairs used in 90% of all SPANISH Conversations](https://www.youtube.com/watch?v=yJsSeo0CzT8)
+
+##### Examples
+
+- me voy a poner a hacer mi tarea - I am going to do my homework
