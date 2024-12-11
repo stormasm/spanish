@@ -26,28 +26,41 @@
 
 ## Hola Spanish
 
-- estar a punto de infinitivo - to be about to infinitive
-- ponerse a infinitivo - get to infinitive
-- comenzar a infinitivo - to start or begin infinitive
-- continuar infinitivo (gerund) - to continue infinitive (gerund)
-- seguir infinitivo (gerund) - to continue (gerund)
-- 
-- acabar de infinitivo - to finish infinitive
-- tener participio - to have completed participle
-- soler infinitivo -
-- acostumbrar a infinitivo - get used to infinitive
-- volver a infinitivo - go back to infinitive
+- 01
+- estar a punto de + infinitivo - to be about to infinitive
+- estoy a punto de hacer la tarea
+- 02
+- ponerse a + infinitivo - get to infinitive
+- me voy a poner a hacer la tarea - I am going to do my homework
+- 03
+- comenzar a + infinitivo - to start or begin infinitive
+- comienzo a hacer la tarea
+- 04
+- continuar + gerundio - to continue infinitive (gerund)
+- continúo haciendo la tarea - I continue doing the homework
+- 05
+- seguir + gerundio - to continue (gerund)
+- sigo haciendo la tarea - I continue doing the homework
+- 06
+- acabar de + infinitivo - to finish infinitive
+- acabé de hacer mi tarea - I just finished my homework
+- acabo de hacer mi tarea - I just finished my homework
+- acabaré de hacer mi tarea - I just finished my homework
+- 07
+- tener + participio - to have completed participle
+- tengo hecha la tarea - I have done my homework
+- 08
+- soler + infinitivo -
+- suelo hacer la tarea de mi clase de español todos los días
+- suelo comer - I tend to eat, I usually eat
+- [soler: tend to, usually](https://www.spanishdict.com/translate/soler)
+- 09
+- acostumbrar a + infinitivo - get used to infinitive
+- acostumbro a hacer la tarea - I usually do homework
+- 10
+- volver a + infinitivo - go back to infinitive
+- volver a estudiar - go back to study
+- vuelvo a hacer la tarea de mi clase de español hoy - I am back to doing my homework
 - [10 Verb Pairs used in 90% of all SPANISH Conversations](https://www.youtube.com/watch?v=yJsSeo0CzT8)
 
 ##### Examples
-
-- me voy a poner a hacer mi tarea - I am going to do my homework
-- continuo haciendo la tarea - I continue doing the homework
-- sigo haciendo la tarea - I continue doing the homework
-- acabé de hacer mi tarea - I just finished my homework
-- tengo hecha la tarea - I have done my homework
-- suelo comer - I tend to eat, I usually eat
-- [soler: tend to, usually](https://www.spanishdict.com/translate/soler)
-- acostumbro a hacer la tarea - I usually do homework
-- volver a estudiar - go back to study
-- vuelvo a hacer la tarea - I am back to doing my homework
