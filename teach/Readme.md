@@ -41,6 +41,7 @@
 - 05
 - seguir + gerundio - to continue (gerund)
 - sigo haciendo la tarea - I keep doing the homework
+- [seguir: resume, keep going, carry on](https://www.spanishdict.com/translate/seguir)
 - 06
 - acabar de + infinitivo - to finish infinitive
 - acabé de hacer mi tarea - I just finished my homework
