@@ -47,6 +47,7 @@
 - acabé de hacer mi tarea - I just finished my homework
 - acabo de hacer mi tarea - I just did my homework
 - acabaré de hacer mi tarea - I will finish doing my homework
+- [acabar de: finsih, complete](https://www.spanishdict.com/translate/acabar%20de)
 - 07
 - tener + participio - to have completed participle
 - tengo hecha la tarea - I have done my homework
