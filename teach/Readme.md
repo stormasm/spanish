@@ -59,6 +59,7 @@
 - 09
 - acostumbrar a + infinitivo - get used to infinitive
 - acostumbro a hacer la tarea - I usually do homework
+- [acostumbrar: to be in the habit of](https://www.spanishdict.com/translate/acostumbrar)
 - 10
 - volver a + infinitivo - go back to infinitive
 - volver a estudiar - go back to study
