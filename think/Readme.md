@@ -2,6 +2,7 @@
 
 ##### 12/2024
 
+- Por favor no comas más gluten, please do not eat gluten anymore.
 - Deja a un lado tus miedos sobre viajar a México
 - Aunque hay sacrificios / compensaciones, el objetivo final es aprender español.
 - Quiero ir a un lugar donde el clima sea cálido en invierno.
