@@ -10,6 +10,13 @@
 | as | es | es |
 | a, an | e, en | e, en |
 
+##### Imperfect
+
+| ar | er, ir |
+|-|-|
+| aba, ábamos | ía, íamos |
+| abas  | ías |
+| aba, aban | ía, ían |
 
 
 
