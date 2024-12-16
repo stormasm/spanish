@@ -23,7 +23,7 @@
 | ar | er, ir |
 |-|-|
 | é, amos | í, imos |
-| aste  | íste |
+| aste  | iste |
 | ó, aron | ío, ieron |
 
 ##### Future shall, will
@@ -53,6 +53,23 @@
 | future | hablaré | I shall speak |
 | conditional | hablaría | I would speak |
 
+
+| indicative | tense | english |
+|-|-|-|
+| present | como | I eat |
+| imperfect | comía | I used to eat |
+| preterite | comí | I ate |
+| future | comeré | I shall eat |
+| conditional | comería | I would live |
+
+
+| indicative | tense | english |
+|-|-|-|
+| present | escribo | I write |
+| imperfect | escribía | I used to write |
+| preterite | escribí | I wrote |
+| future | escribiré | I shall write |
+| conditional | escribiría | I would write |
 
 #### References
 
