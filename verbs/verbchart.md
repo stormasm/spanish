@@ -43,7 +43,7 @@
 | ía, ian |
 
 
-##### verb synopsis
+#### verb synopsis
 
 hablar
 
