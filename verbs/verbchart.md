@@ -54,13 +54,6 @@
 | conditional | hablaría | I would speak |
 
 
-
-| | |
-|-|-|
-| juro que no hay un minuto de paz | I swear there is not a minute of peace |
-| Entendiendo el crepúsculo: Amanecer y atardecer, hora dorada y hora azul | Understanding twilight: Sunrise and sunset, golden hour and blue hour |
-| Griggs se froto las manos callosas | Griggs rubbed his callused hands. |
-
 #### References
 
 - page 13: [Spanish Verbs and Essentials of Grammar](https://www.amazon.com/Spanish-Verbs-Essentials-Grammar-Practical/dp/0844272140/133-5906889-2649011)
