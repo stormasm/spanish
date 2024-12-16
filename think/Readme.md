@@ -2,6 +2,7 @@
 
 ##### 12/2024
 
+- Tienes que querer hacerlo, you have to want to do it.
 - Por favor no comas más gluten, please do not eat gluten anymore.
 - Deja a un lado tus miedos sobre viajar a México
 - Aunque hay sacrificios / compensaciones, el objetivo final es aprender español.
