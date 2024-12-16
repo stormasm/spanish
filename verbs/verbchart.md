@@ -45,6 +45,8 @@
 
 ##### verb synopsis
 
+hablar
+
 | indicative | tense | english |
 |-|-|-|
 | present | hablo | I speak |
@@ -53,6 +55,7 @@
 | future | hablaré | I shall speak |
 | conditional | hablaría | I would speak |
 
+comer
 
 | indicative | tense | english |
 |-|-|-|
@@ -62,6 +65,7 @@
 | future | comeré | I shall eat |
 | conditional | comería | I would live |
 
+vivir
 
 | indicative | tense | english |
 |-|-|-|
