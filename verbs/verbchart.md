@@ -18,6 +18,13 @@
 | abas  | ías |
 | aba, aban | ía, ían |
 
+##### Preterite
+
+| ar | er, ir |
+|-|-|
+| é, amos | í, imos |
+| aste  | íste |
+| ó, aron | ío, ieron |
 
 
 ##### sentence references
