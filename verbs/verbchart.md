@@ -43,7 +43,17 @@
 | ía, ian |
 
 
-##### sentence references
+##### verb synopsis
+
+| indicative | tense | english |
+|-|-|-|
+| present | hablo | I speak |
+| imperfect | hablaba | I used to speak |
+| preterite | hablé | I spoke |
+| future | hablaré | I shall speak |
+| conditional | hablaría | I would speak |
+
+
 
 | | |
 |-|-|
