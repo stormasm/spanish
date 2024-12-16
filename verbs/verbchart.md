@@ -10,7 +10,7 @@
 | as | es | es |
 | a, an | e, en | e, en |
 
-##### Imperfect
+##### Imperfect used to, was
 
 | ar | er, ir |
 |-|-|
@@ -18,13 +18,29 @@
 | abas  | ías |
 | aba, aban | ía, ían |
 
-##### Preterite
+##### Preterite did
 
 | ar | er, ir |
 |-|-|
 | é, amos | í, imos |
 | aste  | íste |
 | ó, aron | ío, ieron |
+
+##### Future shall, will
+
+| ar, er, ir |
+|-|
+| é, emos |
+| ás  |
+| á, án |
+
+##### Conditional would
+
+| ar, er, ir |
+|-|
+| ía, íamos |
+| ía  |
+| ía, ian |
 
 
 ##### sentence references
