@@ -65,7 +65,7 @@ comer
 | future | comeré | I shall eat |
 | conditional | comería | I would live |
 
-vivir
+escribir
 
 | indicative | tense | english |
 |-|-|-|
