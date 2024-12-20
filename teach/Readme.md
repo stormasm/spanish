@@ -1,4 +1,7 @@
 
+- [Learning Spanish with an Easy Story (My Week)](https://www.youtube.com/watch?v=f0DiqHm-bs4&list=PLjf0DldKompGJL5MRT87EpqyKvPGuU7mD)
+
+
 ## Qroo Paul
 
 ### Learn Verb Phrases, especially with the mega verbs
