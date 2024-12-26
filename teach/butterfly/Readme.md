@@ -17,3 +17,6 @@
 - [understanding ganas de](https://www.youtube.com/watch?v=RZiqPSF9NTk)
 - tengo ganas de nadar hoy, I feel like swimming today.
 - tener ganas literally means to have desire so tener ganas is actually an idiom so to speak
+- tengo ganas de comer tacos, I feel like eating tacos.
+- tengo ganas de tomar / beber un vaso de agua.
+- tengo ganas de estudiar mi espanol.
