@@ -1,5 +1,5 @@
 
-##### Part I
+##### Section I
 
 - [35 minutes: 100+ everyday Spanish sentences](https://www.youtube.com/watch?v=6_5FnCLLYoA)
 - eso espero, espero que no, parece que va a llover
@@ -18,7 +18,7 @@
 - lo olvidé por completo
 - *10 minutes*
 
-##### Part II
+##### Section II
 
 - [The 100+ everyday Spanish sentences you need to know](https://www.youtube.com/watch?v=LGMKg6MUdxI)
 - cómo te llamas
@@ -52,4 +52,44 @@
 - tienes cambio
 - provecho, enjoy when people are eating
 - lláma me
+
+#### Part II
+
 - `number 51 at 12:44`
+- 51: ya es tarde
+- es temprano
+- se me hizo tarde, I am running late
+- voy a llegar tarde, I am going to be late
+- me voy a acostar, I am going to lie down
+- me voy a dormir
+- ya me voy, I am leaving
+- que tengas un buen dia, I hope that you have a good day
+- donde hay un cajero, where is the atm machine
+- disculpe, puedo usar el baño, can I please use the bathroom
+- me estoy haciendo viejo
+- a qué hora cierran
+- abre los domingos
+- estoy [cansado, aburrido, perdido]
+- cuando es tu cumpleaños
+- pasado mañana, the day after tomorrow
+- el dia después de mañana
+- ya fue, it already happened, it past
+- antier, the day before yesterday
+- anteayer, the day before yesterday
+- cada tercer día, every third day
+- cada dos dias, dia por medio, every other day
+- de vez en cuando, every once in a while
+- lo puedes repitir ? can you repeat it please
+- claro que no, of course not.
+- como te fue, how was your day
+- que hiciste hoy, what did you do today
+- que hiciste ayer, what did you do yesterday
+- cuando te vas, when are you leaving
+- cuando regresas a casa, when are you returning home, coming back
+- a que hora llegas, at what time do you arrive
+- todavia no sé, I do not know yet
+- mejor si, better yet
+- no es cierto, that is not true
+- bien hecho, well done
+- bien dicho, well said
+- me tengo que ir, I have to go.
