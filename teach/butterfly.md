@@ -20,3 +20,6 @@
 ##### Part II
 
 - [The 100+ everyday Spanish sentences you need to know](https://www.youtube.com/watch?v=6_5FnCLLYoA)
+- cómo te llamas
+- me llamo miguel
+- de dónde eres
