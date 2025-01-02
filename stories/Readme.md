@@ -9,3 +9,6 @@
 - no sé qué hacer después
 
 ----
+
+- [Alone in the city](https://www.youtube.com/watch?v=62rBgDh9Zw8)
+- me doy cuenta, I realize
