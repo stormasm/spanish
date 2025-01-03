@@ -6,6 +6,8 @@
 
 ##### acostarse, to go to bed
 
+- a qué hora te acostaste, what time did you go to bed ?
+- me acosté a las 12 (medianoche)
 - voy a acostarme tarde, I am going to stay up late.
 
 ##### sentirse mal, to feel bad
