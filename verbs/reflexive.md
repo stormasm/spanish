@@ -9,33 +9,33 @@
 - me acosté a las 12 (medianoche)
 - voy a acostarme tarde, I am going to stay up late.
 
-##### alegrarse to be glad / happy / pleased
+##### alegrarse,  to be glad / happy / pleased
 
-##### cansarse (de) to get tired (of)
+##### cansarse (de), to get tired (of)
 
-##### darse cuenta de to realize
+##### darse cuenta de,  to realize
 
 ##### despertarse (wake up), levantarse (get up, out of bed)
 
 - a qué hora te levantaste, what time did you get up
 - me levanté de la cama a las 8 en punto, I got out of bed at 8 oclock
 
-##### divertirse to have fun
+##### divertirse,  to have fun
 
-##### irse to leave
+##### irse,  to leave
 
-##### perderse to get lost
+##### perderse,  to get lost
 
-##### preguntarse to wonder
+##### preguntarse,  to wonder
 
-##### quejarse de to complain about
+##### quejarse de,  to complain about
 
-##### sentarse to sit down
+##### sentarse,  to sit down
 
 ##### sentirse mal, to feel bad
 
 - me siento mal, I do not feel well
 
-##### subirse a to get on (the bus, etc.)
+##### subirse a,  to get on (the bus, etc.)
 
-##### tratarse de to be about
+##### tratarse de, to be about
