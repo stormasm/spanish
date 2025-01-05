@@ -1,5 +1,11 @@
 
+### Se
+
 - [What is se in spanish, learn everything about it](https://www.youtube.com/watch?v=e-pf2BP0c5U)
+- [Qué significa SE en español?](https://www.youtube.com/watch?v=xw_NxuEUQSw)
+
+### Misc
+
 - [All of the Butterfly Videos](https://www.youtube.com/@ButterflySpanish/videos)
 - [35 minutes: 100+ everyday Spanish sentences](https://www.youtube.com/watch?v=6_5FnCLLYoA)
 - [The 100+ everyday Spanish sentences you need to know](https://www.youtube.com/watch?v=LGMKg6MUdxI)
