@@ -1,4 +1,10 @@
 
+## Teachers
+
+- [Butterfly](./butterfly)
+- [Hola Spanish](./holaspan)
+
+## Hits
 
 - [Learn the Top 25 Must-Know Spanish Verbs](https://www.youtube.com/watch?v=-AV5LSve7Jc)
 - [Learning Spanish with an Easy Story (My Week)](https://www.youtube.com/watch?v=f0DiqHm-bs4&list=PLjf0DldKompGJL5MRT87EpqyKvPGuU7mD)
