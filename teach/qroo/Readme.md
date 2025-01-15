@@ -1,5 +1,6 @@
 
 - [Different Ways to Use HABER in Spanish](https://www.youtube.com/watch?v=CruWoC77J4s)
+- [Knowing when to use lo que](https://www.youtube.com/watch?v=i1PrP0kFf8E)
 
 ### Real Fast Spanish
 
