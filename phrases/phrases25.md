@@ -1,4 +1,11 @@
 
+
+- por favor habla más despacio para que puede entender lo que estás diciendo
+- no puedo entender lo que estás diciendo asi que por favor más lento
+- nos gustaria tortillas cuando traigas la comida
+
+---
+
 | | |
 |-|-|
 | me hace falta tener mi propio cuarto | I miss having my own room |
