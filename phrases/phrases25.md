@@ -1,7 +1,7 @@
 
 
 - por favor habla más despacio para que puede entender lo que estás diciendo
-- no puedo entender lo que estás diciendo asi que por favor más lento
+- no puedo entender lo que estás diciendo asi que por favor habla más lento
 
 ---
 
