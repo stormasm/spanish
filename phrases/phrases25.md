@@ -1,4 +1,14 @@
 
+##### te lo dire
+
+| | |
+|-|-|
+| Te lo dire mañana | I will tell you tomorrow |
+| Te lo vere mañana | I will see you tomorrow |
+| Te lo dije ayer | I told you yesterday |
+| Me lo dijo ayer | He told me yesterday |
+
+##### habla mas despacio
 
 - por favor habla más despacio para que puede entender lo que estás diciendo
 - no puedo entender lo que estás diciendo asi que por favor habla más lento
