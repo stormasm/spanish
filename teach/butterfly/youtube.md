@@ -6,3 +6,4 @@
 - 01/15/2025 [Top phrases with the word "ya"](https://www.youtube.com/watch?v=Hb-vdn70f4s)
 - 01/15/2025 ["What" & "Which" in Spanish: Qué or Cuál?](https://www.youtube.com/watch?v=HrFcKURo67s)
 - 01/15/2025 [Qué vs Cuál - When to Use “What” and “Which”](https://www.youtube.com/watch?v=Mi0Zyq610AQ)
+- 02/15/2025 [Ser, Estar, Tener, Ir](https://www.youtube.com/watch?v=K6SUsWizytA)
