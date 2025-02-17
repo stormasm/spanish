@@ -1,7 +1,15 @@
 
+### llegar
 
 - [llegar 2015 feb](https://www.youtube.com/watch?v=tTIaZ3_kS8I)
+
+### antes de y después de
+
 - [antes de y despues de at 11 minutes](https://www.youtube.com/watch?v=tw0sJmpICvU)
+- listening comprehension is tough at 15 minutes
+- you can not do listening comprehension logically
+- keep exposing your ear to the language
+- meaning to me is that you have to listen to Spanish youtube at least one hour per day
 
 ### por vs para
 
