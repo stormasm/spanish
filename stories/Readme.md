@@ -1,5 +1,6 @@
 
 - [How to Spanish Podcast](https://www.youtube.com/watch?v=WOMMP5HLvOI)
+- [easyspanish.fm](https://www.easyspanish.fm/)
 
 ---
 - [What is the most important thing in life](https://www.youtube.com/watch?v=mECAxJYzj0Y)
