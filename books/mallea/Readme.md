@@ -1,4 +1,10 @@
 
+
+#### page 30
+
+- cualquiera diria que un alma asi estaba destinada a ser querida
+- Anyone would say that such a soul was destined to be loved.
+
 #### page 29
 
 - pinas creia que era para escrutarle el alma mientras todos los engranajes de el perdian susu resortes protectores al esforzarse en hallar respuestas honorables a unas preguntas que parecian llevar en si junto con una celeridad embargante su condena y la de todo su siglo a la vez.
