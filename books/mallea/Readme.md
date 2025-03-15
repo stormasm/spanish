@@ -1,4 +1,14 @@
 
+#### page 25
+
+- Pinas evoco la figura de Gerardo y le parecio verlo salir del recuerdo endurecido en una ceremoniosa tiesura
+- Pinas evoked the figure of Gerardo and seemed to see him emerge from the memory hardened in a ceremonious stiffness
+
+#### page 26
+
+- habia dejado de ver pero con quien lo ligo en otro tiempo una de esas amistades reciprocamente respetuosas, refleixvas cabalerescas que poseen en el corazon de su atenta minuciosa cortesia una rara calidad viril
+- He had stopped seeing someone who had once linked him with one of those mutually respectful, reflective, chivalrous friendships that possess at the heart of their attentive, meticulous courtesy a rare virile quality.
+
 ### El Vinculo by Eduardo Mallea
 
 En El vinculo, explica la estrecha relación que se establece entre dos amigos según lo habían interpretado las imágenes de un sueño.
@@ -27,3 +37,7 @@ En su conceptualización de la teoría, Mallea distingue entre la Argentina visi
 La Argentina visible está constituida por los que representan al país.
 
 La Argentina invisible es la que se descubre en el ser solitario, pensativo, laborioso.
+
+### References
+
+- [wikipedia](https://es.wikipedia.org/wiki/Eduardo_Mallea)
