@@ -14,8 +14,8 @@ decir
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
-yo | digo | dije | decía | diria | diré |
+yo | digo | dije | decía | diría | diré |
 tú | dices | dijiste | decías | dirías | dirás |
-él | dice | dijo | decía | diría | dira | 	
-nosotros | dijimos | decíamos | diriamos | daríamos | diremos |
+él | dice | dijo | decía | diría | dirá | 	
+nosotros | dijimos | decíamos | diríamos | daríamos | diremos |
 ellos | dicen | dijeron | decían | dirían | dirán |
