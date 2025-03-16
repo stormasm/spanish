@@ -78,7 +78,7 @@ escribir
 dar
 
 | Present | Preterite | Imperfect | Conditional | Future |
-|-|-|-|-|-|
+|-|-|-|-|-|-|
 yo | doy | di | daba | daria | daré |
 tú | das | diste | dabas | darías | darás |
 él | da | dio | daba | daría | dará | 	
