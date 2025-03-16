@@ -1,7 +1,7 @@
 
-### [venir](https://www.123teachme.com/translated_sentences/sp/venir)
-
-### [ver](https://www.123teachme.com/translated_sentences/sp/ver)
+- [dar](https://www.123teachme.com/translated_sentences/sp/dar)
+- [venir](https://www.123teachme.com/translated_sentences/sp/venir)
+- [ver](https://www.123teachme.com/translated_sentences/sp/ver)
 
 puedo ver la carta  
 nosotros vemos los libros   
