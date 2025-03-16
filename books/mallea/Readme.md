@@ -2,6 +2,8 @@
 
 #### page 30
 
+- antes que el trato cotidiano con el
+- before the daily dealings with the
 - cualquiera diria que un alma asi estaba destinada a ser querida
 - Anyone would say that such a soul was destined to be loved.
 
