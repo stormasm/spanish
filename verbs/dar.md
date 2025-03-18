@@ -4,7 +4,7 @@ dar
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
-yo | doy | di | daba | daria | daré |
+yo | doy | di | daba | daría | daré |
 tú | das | diste | dabas | darías | darás |
 él | da | dio | daba | daría | dará | 	
 nosotros | damos | dimos | dábamos | daríamos | daremos |
