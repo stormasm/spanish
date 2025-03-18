@@ -39,7 +39,7 @@
 | ar, er, ir |
 |-|
 | ía, íamos |
-| ía  |
+| ías  |
 | ía, ian |
 
 
