@@ -1,19 +1,9 @@
 
 ##### Top 25 spanish verbs
 
-- comer, estar, hacer, ir
-- poder, querer
-- ser, tomar, usar, venir, ver
-
----
-
-- tener, haber, gustar, dar, trabajar, oir, escuchar, hablar
-
----
-
-- ver, mirar, poder, decir, oler, sentir, dejar, necesitar
-- other verbs on other top 25 lists
-- saber, vivir, quedar, poner
+- comer, dar, decir, dejar, escuchar, estar, gustar, haber, hablar, hacer, ir
+- mirar, necesitar, oir, oler, poder, poner, quedar, querer
+- saber, sentir, ser, tener, tomar, trabajar, usar, venir, ver, vivir
 
 #### References
 
