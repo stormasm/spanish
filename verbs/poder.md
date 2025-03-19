@@ -6,5 +6,5 @@ poder
 yo | puedo | pude | podía | podría | podré |
 tú | puedes | pudiste | podías | podrías | podrás |
 él | puede | pudo | podía | podría | podrá | 	
-nosotros | podemos | podíamos | podíamos | podríamos | podremos |
+nosotros | podemos | pudimos | podíamos | podríamos | podremos |
 ellos | pueden | pudieron | podían | podrían | podrán |
