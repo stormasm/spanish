@@ -13,6 +13,7 @@
 ---
 
 - [verbs](./verbs/Readme.md)
+- [words](./words/Readme.md)
 - [top](./top/Readme.md)
 
 ### spanish notes of interest
