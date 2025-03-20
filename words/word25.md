@@ -4,7 +4,7 @@
 |-|-|
 | sede | headquarters, seat of government |
 | hado | fate |
-| propositos | purpose |
+| propósito | purpose |
 | en el fondo | in the background |
 | acabar de | finish, end |
 | pasa | raisin |
