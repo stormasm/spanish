@@ -1,5 +1,5 @@
 
-##### Top 29 spanish verbs
+##### Top 30 spanish verbs
 
 - comer, [dar](./dar.md), [decir](./dar.md), dejar, escuchar, estar, gustar, haber, hablar, hacer
 - ir, [llegar](./poder.md), mirar, necesitar, oir, oler, [poder](./poder.md), poner, quedar, querer
