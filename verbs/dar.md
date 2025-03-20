@@ -17,5 +17,5 @@ decir
 yo | digo | dije | decía | diría | diré |
 tú | dices | dijiste | decías | dirías | dirás |
 él | dice | dijo | decía | diría | dirá | 	
-nosotros | decimos | dejimos | dicíamos | diríamos | diremos |
+nosotros | decimos | dijimos | dicíamos | diríamos | diremos |
 ellos | dicen | dijeron | decían | dirían | dirán |
