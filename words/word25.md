@@ -3,7 +3,7 @@
 | | |
 |-|-|
 | sede | headquarters, seat of government |
-| hado | fate |
+| hado | fate, destino |
 | propósito | purpose |
 | [fondo](https://www.spanishdict.com/translate/fondo) | bottom, background |
 | acabar de | finish, end |
