@@ -1,5 +1,7 @@
 
 
+- [word25](./word25.md)
+
 ##### References
 
 [100 most common spanish adjectives](https://mydailyspanish.com/common-spanish-adjectives/)
