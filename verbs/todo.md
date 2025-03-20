@@ -1,4 +1,8 @@
 
+NOTE: do not copy verbs over here until they are well reviewed and tested
+over a period of a week or more.
+
+---
 
 dar
 
@@ -45,3 +49,7 @@ tú | puedes | pudiste | podías | podrías | podrás |
 él | puede | pudo | podía | podría | podrá | 	
 nosotros | podemos | pudimos | podíamos | podríamos | podremos |
 ellos | pueden | pudieron | podían | podrían | podrán |
+
+---
+NOTE: do not copy verbs over here until they are well reviewed and tested
+over a period of a week or more.
