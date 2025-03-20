@@ -5,7 +5,7 @@ llegar
 |-|-|-|-|-|-|
 yo | llego | llegué | llegaba | llegaría | llegaré |
 tú | llegas | llegaste | llegabas | llegarías | llegarás |
-él | llega | llegó | llegó | llegaba | llegaría | 	llegará |
+él | llega | llegó | llegaba | llegaría | 	llegará |
 nosotros | llegamos | llegamos | llegábamos | llegaríamos | llegaremos |
 ellos | llegan | llegaron | llegaban | llegarían | llegarán |
 
