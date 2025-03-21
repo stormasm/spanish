@@ -5,7 +5,20 @@
 |-|-|
 | a qué hora llegaste a la oficina. | what time did you get to the office |
 | a qué hora llegaste a casa | what time did you get home |
+
+---
+
+| | |
+|-|-|
 | como puedo [llegar](https://www.youtube.com/watch?v=tTIaZ3_kS8I) a Albany | how do I get to Albany |
+| la mejor manera de llegar a Albany es en coche | The best way to get to Albany is by car |
+| estoy tratando de llegar a Albany desde aquí | I am trying to get to Albany from here |
+| estoy intentando llegar a Albany desde aquí | I am trying to get to Albany from here |
+
+---
+
+| | |
+|-|-|
 | se puede llegar allí por dos medios, aire y agua | you can get there by two means air and water |
 | la mejor manera de llegar a Cuzco es por aire | the best way to get to cuzco is by air |
 | muchos han vendido sus almas para llegar a la cabeza | many have sold their souls to get to the head |
