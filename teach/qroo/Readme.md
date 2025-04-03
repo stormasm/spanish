@@ -1,4 +1,8 @@
 
+#### the universe guiding us on this subject
+
+- [time shares in mexico](https://www.youtube.com/watch?v=plxHqPLlAF8)
+
 ### poner
 
 - [poner 2025 march](https://www.youtube.com/watch?v=Yxr4HbxEUnA)
