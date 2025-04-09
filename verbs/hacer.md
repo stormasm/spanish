@@ -13,7 +13,6 @@ venir
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
-
 yo | vengo | vine | venía | vendría | vendré |
 tú | vienes | viniste | venías | vendrías | vendrás |
 él | viene | vino | venía | vendría | vendrá |
