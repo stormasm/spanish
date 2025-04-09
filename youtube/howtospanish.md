@@ -3,7 +3,7 @@
 
 - [what famous successful people can teach you - EP 346](https://www.youtube.com/watch?v=PF-5VyoRSI0)
 - [these mexican things can be so weird - Ep 345](https://www.youtube.com/watch?v=gPA2nAdxcoE)
-
+- [the world of books - Ep 338](https://www.youtube.com/watch?v=A0V7HQe4O5Y)
 
 #### top
 
