@@ -28,6 +28,18 @@ ellos | dicen | dijeron | decían | dirían | dirán |
 
 ---
 
+hacer
+
+| | Present | Preterite | Imperfect | Conditional | Future |
+|-|-|-|-|-|-|
+yo | hago | hice | hacía | haría | haré |
+tú | haces | hiciste | hacías | harías | harás |
+él | hace | hizo | hacía | haría | hará |
+nosotros | hacemos | hicimos | hacíamos | haríamos | haremos |
+ellos | hacen | hicieron | hacían | harían | harán |
+
+---
+
 llegar
 
 | | Present | Preterite | Imperfect | Conditional | Future |
@@ -51,5 +63,18 @@ nosotros | podemos | pudimos | podíamos | podríamos | podremos |
 ellos | pueden | pudieron | podían | podrían | podrán |
 
 ---
+
+venir
+
+| | Present | Preterite | Imperfect | Conditional | Future |
+|-|-|-|-|-|-|
+yo | vengo | vine | venía | vendría | vendré |
+tú | vienes | viniste | venías | vendrías | vendrás |
+él | viene | vino | venía | vendría | vendrá |
+nosotros | venimos | vinimos | veníamos | vendríamos | vendremos |
+ellos | vienen | vinieron | venían | vendrían | vendrán |
+
+---
+
 NOTE: do not copy verbs over here until they are well reviewed and tested
 over a period of a week or more.
