@@ -7,6 +7,7 @@
 | me las dio | he gave them to me |
 | se las dimos | we gave them to him |
 | jan se las dio | jan gave them to him |
+| me dio el libro | he gave me the book |
 | dame las llaves | give me the keys |
 | dar las gracias | to give thanks |
 | me da miedo | it scares me |
