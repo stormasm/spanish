@@ -8,7 +8,7 @@
 | se las dimos | we gave them to him |
 | jan se las dio | jan gave them to him |
 | dame las llaves | give me the keys |
-| dar las gracias to give thanks |
+| dar las gracias | to give thanks |
 | me da miedo | it scares me |
 | dar un paseo | to go for a walk |
 | me dio la película | he spoiled the movie for me |
