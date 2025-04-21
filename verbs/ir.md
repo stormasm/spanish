@@ -13,7 +13,7 @@ estar
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
-yo | estoy | estuve | estaba | estaría estaré |
+yo | estoy | estuve | estaba | estaría | estaré |
 tú | estás | estuviste | estabas | estarías | estarás |
 él | está | estuvo | estaba | estaría | estará |
 nosotros | estamos | estuvimos | estábamos | estaríamos | estaremos |
