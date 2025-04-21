@@ -1,39 +1,13 @@
 
 ir
 
-
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
-yo
-voy
-fui
-iba
-iría
-iré
-tú
-vas
-fuiste
-ibas
-irías
-irás
-él/ella/Ud.
-va
-fue
-iba
-iría
-irá
-nosotros
-vamos
-fuimos
-íbamos
-iríamos
-iremos
-ellos/ellas/Uds.
-van
-fueron
-iban
-irían
-irán
+yo | voy | fui | iba | iría | iré |
+tú | vas | fuiste | ibas | irías | irás |
+él | va | fue | iba | iría | irá |
+nosotros | vamos | fuimos | íbamos | iríamos | iremos |
+ellos | van | fueron | iban | irían | irán |
 
 
 estar
