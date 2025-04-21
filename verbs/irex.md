@@ -1,4 +1,19 @@
 
+#### Ser
+
+- Seré un estudiante de primer año en la universidad el año que viene.
+- I will be a freshman in college next year.
+- Yo fui el primero, I was the first.
+- Ella fue muy amable, She was very kind.
+- Nosotros fuimos a la fiesta, We were at the party.
+- No fui muy inteligente, I was not very intelligent.
+- Fuiste muy malo, You were very bad.
+- Ella fue amable, She was nice.
+- Fuimos buenos astronautas, We were good astronauts.
+- Fuisteis muy simpáticos, You guys were very kind.
+- Ustedes fueron muy imprudentes, You all were very imprudent.
+
+
 
 | S | E |
 | - | - |
