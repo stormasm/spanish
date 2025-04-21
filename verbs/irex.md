@@ -13,7 +13,7 @@
 - Fuisteis muy simpáticos, You guys were very kind.
 - Ustedes fueron muy imprudentes, You all were very imprudent.
 
-
+#### Ir
 
 | S | E |
 | - | - |
