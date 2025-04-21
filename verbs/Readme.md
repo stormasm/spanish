@@ -3,7 +3,7 @@
 
 - comer, [dar](./dar.md), [decir](./dar.md), dejar, escuchar, estar, gustar, haber, hablar, [hacer](./hacer.md)
 - ir, [llegar](./poder.md), mirar, necesitar, oir, oler, [poder](./poder.md), poner, quedar, querer
-- saber, sentir, ser, tener, tomar, trabajar, usar, [venir](./hacer.md), ver, vivir
+- saber, sentir, ser, tener, tomar, trabajar, usar, [venir](./hacer.md), [ver](./ver.md), vivir
 
 #### References
 
