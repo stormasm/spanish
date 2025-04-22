@@ -9,48 +9,21 @@ tú | vas | fuiste | ibas | irías | irás |
 nosotros | vamos | fuimos | íbamos | iríamos | iremos |
 ellos | van | fueron | iban | irían | irán |
 
-
 gustar
 
-
-yo
-gusto
-gusté
-gustaba
-gustaría
-gustaré
-tú
-gustas
-gustaste
-gustabas
-gustarías
-gustarás
-él/ella/Ud.
-gusta
-gustó
-gustaba
-gustaría
-gustará
-nosotros
-gustamos
-gustamos
-gustábamos
-gustaríamos
-gustaremos
-ellos/ellas/Uds.
-gustan
-gustaron
-gustaban
-gustarían
-gustarán
-
-
-
+| | Present | Preterite | Imperfect | Conditional | Future |
+|-|-|-|-|-|-|
+yo | gusto | gusté | gustaba | gustaría | gustaré |
+tú | gustas | gustaste | gustabas | gustarías | gustarás |
+él | gusta | gustó | gustaba | gustaría | gustará |
+nosotros | gustamos | gustamos | gustábamos | gustaríamos | gustaremos |
+ellos | gustan | gustaron | gustaban | gustarían | gustarán |
 
 
 poner
 
-
+| | Present | Preterite | Imperfect | Conditional | Future |
+|-|-|-|-|-|-|
 yo
 pongo
 puse
@@ -89,7 +62,8 @@ pondrán
 
 querer
 
-
+| | Present | Preterite | Imperfect | Conditional | Future |
+|-|-|-|-|-|-|
 yo
 quiero
 quise
@@ -125,7 +99,8 @@ querrán
 
 saber
 
-
+| | Present | Preterite | Imperfect | Conditional | Future |
+|-|-|-|-|-|-|
 Present
 Preterite
 Imperfect
@@ -166,7 +141,8 @@ sabrán
 
 sentir
 
-
+| | Present | Preterite | Imperfect | Conditional | Future |
+|-|-|-|-|-|-|
 yo
 siento
 sentí
