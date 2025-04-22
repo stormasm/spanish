@@ -103,46 +103,8 @@ sentir
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
-yo
-siento
-sentí
-sentía
-sentiría
-sentiré
-tú
-sientes
-sentiste
-sentías
-sentirías
-sentirás
-él/ella/Ud.
-siente
-sintió
-sentía
-sentiría
-sentirá
-nosotros
-sentimos
-sentimos
-sentíamos
-sentiríamos
-sentiremos
-ellos/ellas/Uds.
-sienten
-sintieron
-sentían
-sentirían
-sentirán
-
-
-
-
-ir
-
-| | Present | Preterite | Imperfect | Conditional | Future |
-|-|-|-|-|-|-|
-yo | voy | fui | iba | iría | iré |
-tú | vas | fuiste | ibas | irías | irás |
-él | va | fue | iba | iría | irá |
-nosotros | vamos | fuimos | íbamos | iríamos | iremos |
-ellos | van | fueron | iban | irían | irán |
+yo | siento | sentí | sentía | sentiría | sentiré |
+tú | sientes | sentiste | sentías | sentirías | sentirás |
+él | siente | sintió | sentía | sentiría | sentirá |
+nosotros | sentimos | sentimos | sentíamos | sentiríamos | sentiremos |
+ellos | sienten | sintieron | sentían | sentirían | sentirán |
