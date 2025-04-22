@@ -24,41 +24,11 @@ poner
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
-yo
-pongo
-puse
-ponía
-pondría
-pondré
-tú
-pones
-pusiste
-ponías
-pondrías
-pondrás
-él/ella/Ud.
-pone
-puso
-ponía
-pondría
-pondrá
-nosotros
-ponemos
-pusimos
-poníamos
-pondríamos
-pondremos
-ellos/ellas/Uds.
-ponen
-pusieron
-ponían
-pondrían
-pondrán
-
-
-
-
-
+yo | pongo | puse | ponía | pondría | pondré |
+tú | pones | pusiste | ponías | pondrías | pondrás |
+él | pone | puso | ponía | pondría | pondrá |
+nosotros | ponemos | pusimos | poníamos | pondríamos | pondremos |
+ellos | ponen | pusieron | ponían | pondrían | pondrán |
 
 querer
 
