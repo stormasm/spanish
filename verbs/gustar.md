@@ -9,7 +9,6 @@ tú | gustas | gustaste | gustabas | gustarías | gustarás |
 nosotros | gustamos | gustamos | gustábamos | gustaríamos | gustaremos |
 ellos | gustan | gustaron | gustaban | gustarían | gustarán |
 
-
 poner
 
 | | Present | Preterite | Imperfect | Conditional | Future |
@@ -24,80 +23,21 @@ querer
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
-yo
-quiero
-quise
-quería
-querría
-querré
-tú
-quieres
-quisiste
-querías
-querrías
-querrás
-él/ella/Ud.
-quiere
-quiso
-quería
-querría
-querrá
-nosotros
-queremos
-quisimos
-queríamos
-querríamos
-querremos
-ellos/ellas/Uds.
-quieren
-quisieron
-querían
-querrían
-querrán
-
-
+yo | quiero | quise | quería | querría | querré |
+tú | quieres | quisiste | querías | querrías | querrás |
+él | quiere | quiso | quería | querría | querrá |
+nosotros | queremos | quisimos | queríamos | querríamos | querremos |
+ellos | quieren | quisieron | querían | querrían | querrán |
 
 saber
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
-Present
-Preterite
-Imperfect
-Conditional
-Future
-yo
-sé
-supe
-sabía
-sabría
-sabré
-tú
-sabes
-supiste
-sabías
-sabrías
-sabrás
-él/ella/Ud.
-sabe
-supo
-sabía
-sabría
-sabrá
-nosotros
-sabemos
-supimos
-sabíamos
-sabríamos
-sabremos
-ellos/ellas/Uds.
-saben
-supieron
-sabían
-sabrían
-sabrán
-
-
+yo | sé | supe | sabía | sabría | sabré |
+tú | sabes | supiste | sabías | sabrías | sabrás |
+él | sabe | supo | sabía | sabría | sabrá |
+nosotros | sabemos | supimos | sabíamos | sabríamos | sabremos |
+ellos | saben | supieron | sabían | sabrían | sabrán |
 
 sentir
 
