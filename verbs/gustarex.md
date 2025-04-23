@@ -4,7 +4,7 @@
 |-|-|
 | me pondré la ropa más tarde | I will put my clothes on later |
 | guardaré mi ropa más tarde | I will put my clothes away later |
-| guarden los crayones y lávense las manos | put the crayons away and wash your hands |
+| guarden los ropas y lávense las manos | put away your clothes and wash your hands |
 
 ### Reference
 
