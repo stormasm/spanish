@@ -1,9 +1,9 @@
 
 ##### Top 30 spanish verbs
 
-- comer, [dar](./dar.md), [decir](./dar.md), dejar, escuchar, [estar](./ir.md), gustar, [haber](./ir.md), hablar, [hacer](./hacer.md)
-- [ir](./ir.md), [llegar](./poder.md), mirar, necesitar, oir, oler, [poder](./poder.md), poner, quedar, querer
-- saber, sentir, [ser](./ir.md), [tener](./ir.md), tomar, trabajar, usar, [venir](./hacer.md), [ver](./ver.md), vivir
+- comer, [dar](./dar.md), [decir](./dar.md), dejar, escuchar, [estar](./ir.md), [gustar](./gustar.md), [haber](./ir.md), hablar, [hacer](./hacer.md)
+- [ir](./ir.md), [llegar](./poder.md), mirar, necesitar, oir, oler, [poder](./poder.md), [poner](./gustar), quedar, [querer](./gustar.md)
+- [saber](./gustar), [sentir](./gustar.md), [ser](./ir.md), [tener](./ir.md), tomar, trabajar, usar, [venir](./hacer.md), [ver](./ver.md), vivir
 
 #### References
 
