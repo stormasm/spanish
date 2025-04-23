@@ -2,8 +2,8 @@
 
 | | |
 |-|-|
-| Me pondré la ropa más tarde | I will put my clothes on later |
-| Guardaré mi ropa más tarde | I will put my clothes away later |
+| me pondré la ropa más tarde | I will put my clothes on later |
+| guardaré mi ropa más tarde | I will put my clothes away later |
 
 ### Reference
 
