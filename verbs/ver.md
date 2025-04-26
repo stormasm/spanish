@@ -10,6 +10,7 @@ tú | das | diste | dabas | darías | darás |
 nosotros | damos | dimos | dábamos | daríamos | daremos |
 ellos | dan | dieron | daban | darían | darán |
 
+---
 decir
 
 | | Present | Preterite | Imperfect | Conditional | Future |
@@ -20,6 +21,18 @@ tú | dices | dijiste | decías | dirías | dirás |
 nosotros | decimos | dijimos | decíamos | diríamos | diremos |
 ellos | dicen | dijeron | decían | dirían | dirán |
 
+---
+querer
+
+| | Present | Preterite | Imperfect | Conditional | Future |
+|-|-|-|-|-|-|
+yo | quiero | quise | quería | querría | querré |
+tú | quieres | quisiste | querías | querrías | querrás |
+él | quiere | quiso | quería | querría | querrá |
+nosotros | queremos | quisimos | queríamos | querríamos | querremos |
+ellos | quieren | quisieron | querían | querrían | querrán |
+
+---
 ver
 
 | | Present | Preterite | Imperfect | Conditional | Future |
