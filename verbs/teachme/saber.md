@@ -2,13 +2,20 @@
 - Yo no sé cómo se llama.
 - No sé qué hacer.
 - Yo pescaría pero no sé cómo.
-
+- No nos dijo lo que queríamos saber.
+- No quiero saber nada de eso.
 ---
-
 - I don't know what it's called.
 - I don't know what to do.
 - I would fish, but I don’t know how.
-
+- She didn't tell us what we wanted to know.
+- I don't want to know anything about it.
+---
+- Eso no lo sé.
+- Supimos quién ganó enseguida.
+---
+- I don't know that.
+- We knew who won right away.
 ---
 
 ### Not yet processed
