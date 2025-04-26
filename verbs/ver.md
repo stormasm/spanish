@@ -22,6 +22,15 @@ nosotros | decimos | dijimos | decíamos | diríamos | diremos |
 ellos | dicen | dijeron | decían | dirían | dirán |
 
 ---
+quedar
+
+yo | quedo | quedé | quedaba | quedaría | quedaré |
+tú | quedas | quedaste | quedabas | quedarías | quedarás |
+él | queda | quedó | quedaba | quedaría | quedará |
+nosotros | quedamos | quedamos | quedábamos | quedaríamos | quedaremos |
+ellos	| quedan | quedaron | quedaban | quedarían | quedarán |
+
+---
 querer
 
 | | Present | Preterite | Imperfect | Conditional | Future |
