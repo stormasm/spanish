@@ -1,13 +1,13 @@
 
 - Yo no sé cómo se llama.
 - No sé qué hacer.
-- Yo esquiaría pero no sé cómo.
+- Yo pescaría pero no sé cómo.
 
 ---
 
 - I don't know what it's called.
 - I don't know what to do.
-- I would ski, but I don’t know how.
+- I would fish, but I don’t know how.
 
 ---
 
