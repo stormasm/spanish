@@ -1,11 +1,20 @@
-Yo no sé cómo se llama.
-I don't know what it's called.
+
+- I don't know what it's called.
+- I don't know what to do.
+- I would ski, but I don’t know how.
+
+---
+
+- Yo no sé cómo se llama.
+- No sé qué hacer.
+- Yo esquiaría pero no sé cómo.
+
+### Not yet processed
+
+---
+
 Ángel no sabe cuál es su signo.
 Angel doesn't know which his sign is.
-No sé qué hacer.
-I don't know what to do.
-Yo esquiaría pero no sé cómo.
-I would ski, but I don’t know how.
 No nos dijo lo que queríamos saber.
 She didn't tell us what we wanted to know.
 No quiero saber nada de eso.
