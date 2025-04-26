@@ -298,3 +298,7 @@ Me gustaría saber cuándo podemos esperar tenerla.
 I would like to know when we might expect to see that.
 Pero hago saber que solicitaremos un informe.
 But I should like to inform the House that we shall be putting in for a report.
+
+#### Reference
+
+- [saber](https://www.123teachme.com/translated_sentences/sp/saber)
