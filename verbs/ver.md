@@ -24,6 +24,8 @@ ellos | dicen | dijeron | decían | dirían | dirán |
 ---
 quedar
 
+| | Present | Preterite | Imperfect | Conditional | Future |
+|-|-|-|-|-|-|
 yo | quedo | quedé | quedaba | quedaría | quedaré |
 tú | quedas | quedaste | quedabas | quedarías | quedarás |
 él | queda | quedó | quedaba | quedaría | quedará |
