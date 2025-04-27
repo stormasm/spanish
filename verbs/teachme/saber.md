@@ -13,9 +13,21 @@
 ---
 - Eso no lo sé.
 - Supimos quién ganó enseguida.
+- Conoces algún buen libro para leer ?
+- Sabes quién rompió la ventana ?
 ---
 - I don't know that.
 - We knew who won right away.
+- Do you know any good books to read.
+- Do you know who broke the window.
+---
+- Me gustaría saber sólo una cosa más.
+- Él no sabe nada.
+- Lo sabemos todo.
+---
+- I would like to know just one more thing.
+- He knows nothing.
+- We know everything.
 ---
 
 ### Not yet processed
@@ -24,18 +36,7 @@
 
 Ángel no sabe cuál es su signo.
 Angel doesn't know which his sign is.
-No nos dijo lo que queríamos saber.
-She didn't tell us what we wanted to know.
-No quiero saber nada de eso.
-I don't want to know anything about it.
-Eso no lo sé.
-I don't know that.
-Supimos quién ganó enseguida.
-We knew who won right away.
-¿Sabes algún remedio casero?
-Do you know any home remedies?
-¿Sabes quién rompió la ventana?
-Do you know who broke the window?
+
 Sé contar hasta cien.
 I can count to one hundred.
 ¿Sabes quién la rompió?
@@ -48,18 +49,15 @@ No sabes aguantar una broma.
 You don't know how to take a joke.
 No sé como lo aguantas.
 I don't know how you put up with him.
+
+
 Cuanto más estudie, más sabrá.
 The more he studies, the more he will know.
 Ella ríe sin saber por qué.
 She laughs without knowing why.
 No sé qué ofrecerle.
 I don't know what to offer him.
-Me gustaría saber sólo una cosa más.
-I would like to know just one more thing.
-Él no sabe nada.
-He knows nothing.
-Lo sabemos todo.
-We know everything.
+
 No supisteis convencerla.
 You guys didn't know how to convince her.
 Porque no sabes nadar.
