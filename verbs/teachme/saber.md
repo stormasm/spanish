@@ -24,10 +24,12 @@
 - Me gustaría saber sólo una cosa más.
 - Él no sabe nada.
 - Lo sabemos todo.
+- Lo sabemos nada.
 ---
 - I would like to know just one more thing.
 - He knows nothing.
 - We know everything.
+- We know nothing
 ---
 
 ### Not yet processed
