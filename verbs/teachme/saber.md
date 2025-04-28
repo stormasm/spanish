@@ -24,7 +24,7 @@
 - Me gustaría saber sólo una cosa más.
 - Él no sabe nada.
 - Lo sabemos todo.
-- Lo sabemos nada.
+- No sabemos nada.
 ---
 - I would like to know just one more thing.
 - He knows nothing.
