@@ -1,4 +1,8 @@
 
+- [dejar](./../poder.md)
+- [saber](./../gustar.md)
+
+---
 
 - Dejes guiar por su instinto.   
 - Let your instinct guide you
