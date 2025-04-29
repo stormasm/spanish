@@ -1,5 +1,6 @@
 
 - [saber](./../gustar.md)
+- [saber spanish dict](https://www.spanishdict.com/conjugate/saber)
 
 ---
 
