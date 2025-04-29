@@ -23,13 +23,21 @@
 - Él no sabe nada.
 - Lo sabemos todo.
 - No sabemos nada.
-- Eso no lo sé.
 ---
 - I would like to know just one more thing.
 - He knows nothing.
 - We know everything.
 - We know nothing
-- I don't know that.
+---
+- lo sé
+- no lo sé
+- eso lo sé
+- eso no lo sé
+---
+- I know
+- I don't know
+- I know that
+- I don't know that
 ---
 
 ### Not yet processed
