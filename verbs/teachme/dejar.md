@@ -17,7 +17,7 @@
 
 ---
 
-### Not yet processed
+### Reviewed but not yet blessed
 
 ---
 
@@ -51,6 +51,12 @@ Let the garlic fry until they brown.
 La línea es continua, no deje de trabajar.  
 The line is continuous, do not stop working.
 
+
+---
+
+### Not yet processed
+
+---
 
 Aunque no rellenaras la ficha, tendrías que dejar el pasaporte.
 Although you didn't fill in the card, you would have to leave the passport.
