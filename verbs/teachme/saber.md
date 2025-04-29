@@ -11,12 +11,10 @@
 - She didn't tell us what we wanted to know.
 - I don't want to know anything about it.
 ---
-- Eso no lo sé.
 - Supimos quién ganó enseguida.
 - Conoces algún buen libro para leer ?
 - Sabes quién rompió la ventana ?
 ---
-- I don't know that.
 - We knew who won right away.
 - Do you know any good books to read.
 - Do you know who broke the window.
@@ -25,11 +23,13 @@
 - Él no sabe nada.
 - Lo sabemos todo.
 - No sabemos nada.
+- Eso no lo sé.
 ---
 - I would like to know just one more thing.
 - He knows nothing.
 - We know everything.
 - We know nothing
+- I don't know that.
 ---
 
 ### Not yet processed
