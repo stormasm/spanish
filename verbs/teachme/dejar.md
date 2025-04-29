@@ -1,29 +1,51 @@
 
 
+- Dejes guiar por su instinto.   
+- Let your instinct guide you
+- No me dejas hablar.
+- You don't let me speak.
+- ¿Por qué dejó su empleo anterior?
+- Why did you leave your last job?
+- Mi madre no me deja ver televisión entre semana.
+- My mother doesn't let me watch TV during the week.
+---
+- Déjame la llave.
+- Leave me the key.
+- Lo dejo, gracias.
+- I'll leave it, thank you.
+
+
+
+
+
 ¡Deja de perseguirme a todos lados!
 Quit following me everywhere!
 ¿Quiere dejar Ud. un mensaje?
 Do you want to leave a message?
-Déjese guiar por su instinto.
-Let yourself be guided by your instinct.
-No me dejas hablar.
-You don't let me speak.
+
+
+
+
+
+
 Era muy difícil conseguir a una persona de confianza con quien dejar a los niños.
 It was very hard to find a trustworthy person to leave the children with.
 ¿Quisiera dejar algún número?
 Were you wanting to leave any number?
 Déjeme que revise el manual de operador y le devolveré la llamada.
 Let me review the operator manual and return your call.
-¿Por qué dejó su empleo anterior?
-Why did you leave your last job?
+
+
+
+
 No está, ¿quieres dejar un recado?
 He's not here, do you want to leave a message?
-Mi madre no me deja ver televisión entre semana.
-My mother doesn't let me wath TV during the week.
-Déjame la llave.
-Leave me the key.
-Lo dejo, gracias.
-I'll leave it, thank you.
+
+
+
+
+
+
 Déjame presentarme. Mi nombre es...
 Let me introduce myself. My name is...
 Déjame presentarte a Susana.
