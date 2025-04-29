@@ -2,22 +2,21 @@
 - [dejar](./../poder.md)
 - [dejar sd](https://www.spanishdict.com/conjugate/dejar)
 ---
-
 - Dejes guiar por su instinto.   
-- Let your instinct guide you
 - No me dejas hablar.
-- You don't let me speak.
 - ¿Por qué dejó su empleo anterior?
-- Why did you leave your last job?
 - Mi madre no me deja ver televisión entre semana.
+---
+- Let your instinct guide you
+- You don't let me speak.
+- Why did you leave your last job?
 - My mother doesn't let me watch TV during the week.
 ---
 - Déjame la llave.
-- Leave me the key.
 - Lo dejo, gracias.
+---
+- Leave me the key.
 - I'll leave it, thank you.
-
-
 ---
 
 ### Reviewed but not yet blessed
