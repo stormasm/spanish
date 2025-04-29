@@ -4,6 +4,7 @@
 Vídeo de nueve minutos que habla sobre cómo los hábitos que creamos en la vida se pueden cambiar para mejor.
 
 - [El Poder del Hábito - Perlas de Sabiduría [Lección 6] (PARTE 3)| Lama Rinchen](https://www.youtube.com/watch?v=u86lw79VwIo)
+- [Más silencio, más paz - Perlas de Sabiduría [Lección 6] (PARTE 3)| Lama Rinchen](https://www.youtube.com/watch?v=Kb5TJaXAMBw)
 
 ### Explorando el Mundo
 
