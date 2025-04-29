@@ -21,35 +21,20 @@
 
 ---
 
-
-
-¡Deja de perseguirme a todos lados!
-Quit following me everywhere!
-¿Quiere dejar Ud. un mensaje?
+¡Deja de perseguirme a todos lados!   
+Quit following me everywhere!   
+¿Quiere dejar Ud. un mensaje?   
 Do you want to leave a message?
 
-
-
-
-
-
-Era muy difícil conseguir a una persona de confianza con quien dejar a los niños.
-It was very hard to find a trustworthy person to leave the children with.
-¿Quisiera dejar algún número?
-Were you wanting to leave any number?
-Déjeme que revise el manual de operador y le devolveré la llamada.
+Era muy difícil conseguir a una persona de confianza con quien dejar a los niños.   
+It was very hard to find a trustworthy person to leave the children with.   
+¿Quisiera dejar algún número?   
+Were you wanting to leave any number?   
+Déjeme que revise el manual de operador y le devolveré la llamada.   
 Let me review the operator manual and return your call.
 
-
-
-
-No está, ¿quieres dejar un recado?
+No está, ¿quieres dejar un recado?   
 He's not here, do you want to leave a message?
-
-
-
-
-
 
 Déjame presentarme. Mi nombre es...
 Let me introduce myself. My name is...
