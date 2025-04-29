@@ -5,6 +5,7 @@ Vídeo de nueve minutos que habla sobre cómo los hábitos que creamos en la vid
 
 - [El Poder del Hábito - Perlas de Sabiduría [Lección 6] (PARTE 3)| Lama Rinchen](https://www.youtube.com/watch?v=u86lw79VwIo)
 - [Más silencio, más paz - Perlas de Sabiduría [Lección 6] (PARTE 3)| Lama Rinchen](https://www.youtube.com/watch?v=Kb5TJaXAMBw)
+- [Controla tu mente - Perlas de Sabiduría [Lección 1] (PARTE 1)| Lama Rinchen](https://www.youtube.com/watch?v=g23-ThpNp_Y)
 
 ### Explorando el Mundo
 
