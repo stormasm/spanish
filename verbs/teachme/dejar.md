@@ -36,18 +36,22 @@ Let me review the operator manual and return your call.
 No está, ¿quieres dejar un recado?   
 He's not here, do you want to leave a message?
 
-Déjame presentarme. Mi nombre es...
-Let me introduce myself. My name is...
-Déjame presentarte a Susana.
+Déjame presentarme. Mi nombre es...   
+Let me introduce myself. My name is...  
+Déjame presentarte a Susana.  
 Let me introduce you to Susan.
-He dicho que lo dejaría el martes.
-I have said that I would leave it Tuesday.
-Añade dos huevos y déjalos freír.
-Add two eggs and let them fry.
-Deje freír los ajos hasta que se doren.
+
+He dicho que lo dejaría el martes.  
+I have said that I would leave it Tuesday.  
+Añade dos huevos y déjalos freír.  
+Add two eggs and let them fry.  
+Deje freír los ajos hasta que se doren.  
 Let the garlic fry until they brown.
-La línea es continua, no deje de trabajar.
+
+La línea es continua, no deje de trabajar.  
 The line is continuous, do not stop working.
+
+
 Aunque no rellenaras la ficha, tendrías que dejar el pasaporte.
 Although you didn't fill in the card, you would have to leave the passport.
 Las dejamos en la habitación.
