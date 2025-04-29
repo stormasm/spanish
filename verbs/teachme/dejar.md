@@ -1,6 +1,5 @@
 
 - [dejar](./../poder.md)
-- [saber](./../gustar.md)
 
 ---
 

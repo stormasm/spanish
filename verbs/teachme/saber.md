@@ -1,4 +1,8 @@
 
+- [saber](./../gustar.md)
+
+---
+
 - Yo no sé cómo se llama.
 - No sé qué hacer.
 - Yo pescaría pero no sé cómo.
