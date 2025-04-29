@@ -1,6 +1,6 @@
 
 - [dejar](./../poder.md)
-- [dejar spanish dict](https://www.spanishdict.com/conjugate/dejar)
+- [dejar sd](https://www.spanishdict.com/conjugate/dejar)
 ---
 
 - Dejes guiar por su instinto.   
