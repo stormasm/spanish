@@ -25,39 +25,8 @@ vivir
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
-yo
-vivo
-viví
-vivía
-viviría
-viviré
-tú
-vives
-viviste
-vivías
-vivirías
-vivirás
-él/ella/Ud.
-vive
-vivió
-vivía
-viviría
-vivirá
-nosotros
-vivimos
-vivimos
-vivíamos
-viviríamos
-viviremos
-vosotros
-vivís
-vivisteis
-vivíais
-viviríais
-viviréis
-ellos/ellas/Uds.
-viven
-vivieron
-vivían
-vivirían
-vivirán
+yo | vivo | viví | vivía | viviría | viviré |
+tú | vives | viviste | vivías | vivirías | vivirás |
+él | vive | vivió | vivía | viviría | vivirá |
+nosotros | vivimos | vivimos | vivíamos | viviríamos | viviremos |
+ellos | viven | vivieron | vivían | vivirían | vivirán |
