@@ -273,39 +273,42 @@ Tenemos que dar este paso.
 It is a step that we must take.
 Johannesburgo tiene que dar resultados.
 Johannesburg has to deliver results.
-. (SV) Quiero dar dos respuestas.
-I want to give two answers.
-Necesitamos dar impulso a esta cuestión.
-We need to kick-start this issue.
-En efecto, no nos limitamos a dar.
-We are not actually just the party that is giving something.
-Nuestro trabajo es dar ejemplo.
-It is our job to set an example.
-Si no da resultado, tiraremos a dar.
-If this fails to work, we shall use live rounds.
-Intentaré dar una explicación breve.
-I will try to give a short explanation.
-La Comisión debe dar impulso.
-The Commission needs to provide an impetus.
 
 ---
 
-Quisiera dar las gracias a todos.  
-I would like to thank you all.  
-Hemos de dar nuevos pasos.  
-We have more steps to take.  
-Se limita a dar respuestas formalistas.  
-He hardly confines himself to formalistic replies.  
-Además tenemos que dar ejemplo.  
-We must also lead by example.  
-Supone dar un paso importante.  
-That is an important step.  
-Europa tiene que dar ejemplo.  
-Europe must set an example.  
-Podría dar otros muchos ejemplos.  
-I could give many other examples.  
-Necesitamos dar una respuesta colectiva.  
-We need a collective response.
+- Quiero dar dos respuestas.
+- I want to give two answers.
+- Necesitamos dar impulso a esta cuestión.
+- We need to kick-start this issue.
+- En efecto, no nos limitamos a dar.
+- We are not actually just the party that is giving something.
+- Nuestro trabajo es dar ejemplo.
+- It is our job to set an example.
+- Si no da resultado, tiraremos a dar.
+- If this fails to work, we shall use live rounds.
+- Intentaré dar una explicación breve.
+- I will try to give a short explanation.
+- La Comisión debe dar impulso.
+- The Commission needs to provide an impetus.
+
+---
+
+- Quisiera dar las gracias a todos.  
+- I would like to thank you all.  
+- Hemos de dar nuevos pasos.  
+- We have more steps to take.  
+- Se limita a dar respuestas formalistas.  
+- He hardly confines himself to formalistic replies.  
+- Además tenemos que dar ejemplo.  
+- We must also lead by example.  
+- Supone dar un paso importante.  
+- That is an important step.  
+- Europa tiene que dar ejemplo.  
+- Europe must set an example.  
+- Podría dar otros muchos ejemplos.  
+- I could give many other examples.  
+- Necesitamos dar una respuesta colectiva.  
+- We need a collective response.
 
 ---
 
