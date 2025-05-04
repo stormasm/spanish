@@ -23,8 +23,6 @@
 ### Not yet reviewed
 
 
-La política es dar multas a los infractores.
-The policy is to give tickets to offenders.
 da vuelta a la derecha  
 turn right  
 ¿Qué tomates te dio?  
