@@ -2,14 +2,14 @@
 - el universo continuará ensenarme y guiarme mi toda vida
 - confía en ti mismo que todo estará bien
 - no te tomes todo (demasiado ) esto en serio
-
+- que la paz prevalezca en la tierra
 ---
 
 - its about the journey not the destination
 - the universe will continue to teach me and guide me my whole life
 - trust in yourself that everything will be ok
 - don't take this all too seriously
-
+- may peace prevail on earth
 ---
 
 - [verbs](./verbs/Readme.md)
