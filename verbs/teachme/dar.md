@@ -25,7 +25,6 @@
 
 La política es dar multas a los infractores.
 The policy is to give tickets to offenders.
-
 da vuelta a la derecha  
 turn right  
 ¿Qué tomates te dio?  
@@ -51,21 +50,24 @@ We gave it to them.
 
 
 Pedro me da el dinero.  
-Pedro gives me the money.  
-Deme un momento por favor.
-Give me a minute please.
-María te va a dar el dinero.
-Mary is going to give you the money.
-María me da el dinero.
-Maria gives me the money.
-¿A quién diste el dinero?
-To whom did you give the money?
-A veces nos dimos plantón.
-We sometimes stood ourselves up.
-María le va a dar el dinero.
-Mary is going to give him the money.
-María le va a dar el dinero.
-Mary is going to give her the money.
+Pedro gives me the money.    
+Deme un momento por favor.  
+Give me a minute please.  
+María te va a dar el dinero.  
+Mary is going to give you the money.  
+María me da el dinero.  
+Maria gives me the money.  
+¿A quién diste el dinero?  
+To whom did you give the money?  
+A veces nos dimos plantón.  
+We sometimes stood ourselves up.  
+María le va a dar el dinero.  
+Mary is going to give him the money.  
+María le va a dar el dinero.  
+Mary is going to give her the money.  
+
+---
+
 ¿Me pudiera dar un asiento de ventana, por favor?
 Would you be able to give me a window seat, please?
 María nos va a dar el dinero.
