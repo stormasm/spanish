@@ -306,21 +306,24 @@ We need a collective response.
 
 ---
 
-¡Queremos dar forma al futuro!   
-We want to shape the future!   
-No podemos dar la espalda a Bielorrusia.   
-We cannot turn our backs on Belarus.   
-¿Podemos dar entrada a medidas nacionalistas?   
-Can we accommodate nationalist measures?   
-Queríamos dar una señal contundente.   
-We wanted it to be a strong signal.  
-Me gustaría dar las gracias a todos.  
-I would like to thank everyone.  
-Debemos dar muestras de lucidez.  
-We have to be clear-sighted.  
-Hoy necesitamos dar tres pasos.  
-Today, we need to take three steps.  
-Se podrían dar varias respuestas.  
-One could give several answers.  
-No se la debemos dar culpablemente.  
-We should not owe that to the people as well!  
+- ¡Queremos dar forma al futuro!   
+- We want to shape the future!   
+- No podemos dar la espalda a Bielorrusia.   
+- We cannot turn our backs on Belarus.   
+- ¿Podemos dar entrada a medidas nacionalistas?   
+- Can we accommodate nationalist measures?   
+- Queríamos dar una señal contundente.   
+- We wanted it to be a strong signal.  
+
+---
+
+- Me gustaría dar las gracias a todos.  
+- I would like to thank everyone.  
+- Debemos dar muestras de lucidez.  
+- We have to be clear-sighted.  
+- Hoy necesitamos dar tres pasos.  
+- Today, we need to take three steps.  
+- Se podrían dar varias respuestas.  
+- One could give several answers.  
+- No se la debemos dar culpablemente.  
+- We should not owe that to the people as well!  
