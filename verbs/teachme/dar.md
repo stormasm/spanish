@@ -287,43 +287,52 @@ Intentaré dar una explicación breve.
 I will try to give a short explanation.
 La Comisión debe dar impulso.
 The Commission needs to provide an impetus.
-Quisiera dar las gracias a todos.
-I would like to thank you all.
-Hemos de dar nuevos pasos.
-We have more steps to take.
-Se limita a dar respuestas formalistas.
-He hardly confines himself to formalistic replies.
-Además tenemos que dar ejemplo.
-We must also lead by example.
-Supone dar un paso importante.
-That is an important step.
-Europa tiene que dar ejemplo.
-Europe must set an example.
-Podría dar otros muchos ejemplos.
-I could give many other examples.
-Necesitamos dar una respuesta colectiva.
+
+---
+
+Quisiera dar las gracias a todos.  
+I would like to thank you all.  
+Hemos de dar nuevos pasos.  
+We have more steps to take.  
+Se limita a dar respuestas formalistas.  
+He hardly confines himself to formalistic replies.  
+Además tenemos que dar ejemplo.  
+We must also lead by example.  
+Supone dar un paso importante.  
+That is an important step.  
+Europa tiene que dar ejemplo.  
+Europe must set an example.  
+Podría dar otros muchos ejemplos.  
+I could give many other examples.  
+Necesitamos dar una respuesta colectiva.  
 We need a collective response.
 
 ---
 
 - ¡Queremos dar forma al futuro!   
-- We want to shape the future!   
 - No podemos dar la espalda a Bielorrusia.   
-- We cannot turn our backs on Belarus.   
 - ¿Podemos dar entrada a medidas nacionalistas?   
-- Can we accommodate nationalist measures?   
 - Queríamos dar una señal contundente.   
+
+---
+
+- We want to shape the future!   
+- We cannot turn our backs on Belarus.   
+- Can we accommodate nationalist measures?   
 - We wanted it to be a strong signal.  
 
 ---
 
 - Me gustaría dar las gracias a todos.  
-- I would like to thank everyone.  
 - Debemos dar muestras de lucidez.  
-- We have to be clear-sighted.  
 - Hoy necesitamos dar tres pasos.  
-- Today, we need to take three steps.  
 - Se podrían dar varias respuestas.  
-- One could give several answers.  
 - No se la debemos dar culpablemente.  
+
+---
+
+- I would like to thank everyone.  
+- We have to be clear-sighted.  
+- Today, we need to take three steps.  
+- One could give several answers.  
 - We should not owe that to the people as well!  
