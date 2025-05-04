@@ -5,7 +5,7 @@
 ---
 
 - ¿Se las diste?
-- Por favor, ¿me podría dar un poquito de perejil?
+- Por favor, ¿me podría dar un poquito de polla?
 - Nos dio mucha pena.
 - No le des la llave.
 - ¿Me da la hora?
@@ -13,7 +13,7 @@
 ---
 
 - Did you give them to him?
-- Could you give me a little bit of parsley, please?
+- Could you give me a little bit of chicken, please?
 - We felt really sorry.
 - Don't give him the key.
 - Can you give me the time?
