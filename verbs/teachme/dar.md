@@ -66,28 +66,31 @@ Mary is going to give her the money.
 
 ---
 
-¿Me pudiera dar un asiento de ventana, por favor?
-Would you be able to give me a window seat, please?
-María nos va a dar el dinero.
-Mary is going to give us the money.
-Esta vez le voy a dar una advertencia.
-I am issuing you a warning this time.
-Te da igual.
-You don't mind.
-María les va a dar el dinero.
-Mary is going to give the money to you all.
-Yo se lo di.
-I gave it to her.
-Alguien te dio caramelos.
-Someone gave you candies.
-María les va a dar el dinero.
-Mary is going to give them the money.
-A mí me da lo mismo.
-It's the same to me.
-Sí, se lo he dado.
-Yes, I have given it to him.
-Te voy a dar el número de teléfono.
-I am going to give you the telephone number.
+¿Me pudiera dar un asiento de ventana, por favor?  
+Would you be able to give me a window seat, please?  
+María nos va a dar el dinero.  
+Mary is going to give us the money.  
+Esta vez le voy a dar una advertencia.  
+I am issuing you a warning this time.  
+Te da igual.  
+You don't mind.  
+María les va a dar el dinero.  
+Mary is going to give the money to you all.  
+Yo se lo di.  
+I gave it to her.  
+Alguien te dio caramelos.  
+Someone gave you candies.  
+María les va a dar el dinero.  
+Mary is going to give them the money.  
+A mí me da lo mismo.  
+It's the same to me.  
+Sí, se lo he dado.  
+Yes, I have given it to him.  
+Te voy a dar el número de teléfono.  
+I am going to give you the telephone number.  
+
+---
+
 Le dimos el bolso.
 We gave him the bag.
 Se lo doy a él.
@@ -300,21 +303,24 @@ Podría dar otros muchos ejemplos.
 I could give many other examples.
 Necesitamos dar una respuesta colectiva.
 We need a collective response.
-¡Queremos dar forma al futuro!
-We want to shape the future!
-No podemos dar la espalda a Bielorrusia.
-We cannot turn our backs on Belarus.
-¿Podemos dar entrada a medidas nacionalistas?
-Can we accommodate nationalist measures?
-Queríamos dar una señal contundente.
-We wanted it to be a strong signal.
-Me gustaría dar las gracias a todos.
-I would like to thank everyone.
-Debemos dar muestras de lucidez.
-We have to be clear-sighted.
-Hoy necesitamos dar tres pasos.
-Today, we need to take three steps.
-Se podrían dar varias respuestas.
-One could give several answers.
-No se la debemos dar culpablemente.
-We should not owe that to the people as well!
+
+---
+
+¡Queremos dar forma al futuro!   
+We want to shape the future!   
+No podemos dar la espalda a Bielorrusia.   
+We cannot turn our backs on Belarus.   
+¿Podemos dar entrada a medidas nacionalistas?   
+Can we accommodate nationalist measures?   
+Queríamos dar una señal contundente.   
+We wanted it to be a strong signal.  
+Me gustaría dar las gracias a todos.  
+I would like to thank everyone.  
+Debemos dar muestras de lucidez.  
+We have to be clear-sighted.  
+Hoy necesitamos dar tres pasos.  
+Today, we need to take three steps.  
+Se podrían dar varias respuestas.  
+One could give several answers.  
+No se la debemos dar culpablemente.  
+We should not owe that to the people as well!  
