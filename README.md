@@ -3,6 +3,7 @@
 - confía en ti mismo que todo estará bien
 - no te tomes todo (demasiado ) esto en serio
 - que la paz prevalezca en la tierra
+- estamos cuidado
 ---
 
 - its about the journey not the destination
@@ -10,6 +11,7 @@
 - trust in yourself that everything will be ok
 - don't take this all too seriously
 - may peace prevail on earth
+- we are taken care of
 ---
 
 - [verbs](./verbs/Readme.md)
