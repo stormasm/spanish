@@ -1,7 +1,9 @@
 - se trata del viaje, no del destino
 - el universo continuará ensenarme y guiarme mi toda vida
+- el universo continuara ensenandome y guiandome todo vida [alternate version]
 - confía en ti mismo que todo estará bien
 - no te tomes todo (demasiado ) esto en serio
+- no te tomes todo (demasiado) en serio [alternate version]
 - que la paz prevalezca en la tierra
 - estamos cuidado
 ---
