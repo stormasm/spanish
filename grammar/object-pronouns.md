@@ -2,8 +2,6 @@
 
 #### Spanish Object Pronouns
 
-
-- [Breakthrough Spanish: Understand Spanish Object Pronouns](https://www.youtube.com/watch?v=TUmuavAKLEI)
 - me las prestas, can you lend them to me, puedes prestarmelas
 - te la compré ayer, I bought it for you yesterday
 - se lo dije ayer, I told him yesterday
