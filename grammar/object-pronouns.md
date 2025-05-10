@@ -2,11 +2,21 @@
 
 #### Spanish Object Pronouns
 
-- me las prestas, can you lend them to me, puedes prestarmelas
+- me lo prestas, will you lend it to me, puedes prestarmelas
 - te la compré ayer, I bought it for you yesterday
-- se lo dije ayer, I told him yesterday
+- se la vendió, she sold it to him/her
+---
+
+- se la di, I gave it (the apple) to him
+- nos la prestó, she sent it to us
+- me los compraron, they bought them for me
+
+---
+
 - te lo dije ayer, I told you yesterday
 - te lo di ayer, I gave it to you yesterday
+- te lo envié ayer, I sent it (el mensaje) to you yesterday
+- se lo dije ayer, I told him yesterday
 
 
 #### Reference
