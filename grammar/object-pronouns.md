@@ -7,7 +7,8 @@
 - se la vendió, she sold it to him/her
 ---
 
-- se la di, I gave it (the apple) to him
+- se lo di, I gave it to him
+- se lo di a ella, I gave it to her
 - nos la prestó, she sent it to us
 - me los compraron, they bought them for me
 
