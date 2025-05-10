@@ -9,7 +9,7 @@
 
 - se lo di, I gave it to him
 - se lo di a ella, I gave it to her
-- nos la prestó, she sent it to us
+- nos la prestó, he lent it to us
 - me los compraron, they bought them for me
 
 ---
