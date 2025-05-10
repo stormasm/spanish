@@ -19,6 +19,15 @@
 - te lo envié ayer, I sent it (el mensaje) to you yesterday
 - se lo dije ayer, I told him yesterday
 
+---
+
+- me lo prestas, will you lend it to me
+- te la compré ayer, I bought it for you yesterday
+- se la vendió, she sold it to him
+- me los compraron, they bought them for me
+- se la envié, I sent it to her
+
+---
 
 #### Reference
 
