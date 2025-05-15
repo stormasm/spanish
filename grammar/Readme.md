@@ -1,2 +1,12 @@
 
+#### Prem Note of Wisdom
+
+- Ser = Who or What you are
+- Estar = Where or How you are
+-
+- Examples:
+- 
+- Soy Miguel. Soy Americano
+- Estoy en Oregon. Estoy feliz.
+
 [acabar de](https://studyspanish.com/grammar/lessons/acabarde)
