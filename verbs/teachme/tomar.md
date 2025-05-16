@@ -1,4 +1,14 @@
 
+- Nosotros no hemos tomado las pastillas.    
+- No hemos seguido el consejo
+
+---
+
+- We have not taken the pills
+- We have not taken the advice
+
+---
+
 Yo tomé la medicina.   
 I took the medicine.   
 María tomó la medicina.   
@@ -7,8 +17,6 @@ Nosotros tomamos la medicina.
 We took the medicine.    
 Las muchachas tomaron demasiado tiempo.    
 The girls took too much time.    
-Nosotros no hemos tomado las pastillas.    
-We haven't taken the pills.   
 No tome más que las pastillas que debe tomar.   
 Do not take more pills than you are supposed to.   
 Tómese dos pastillas antes de acostarse.   
