@@ -5,6 +5,7 @@
 
 #### Easy Spanish
 
+- [cien palabras y frases](https://www.youtube.com/watch?v=CFmfVQx6kP4)
 - [seven key meanings of quedar](https://www.youtube.com/watch?v=M9uY4QFZRK0)
 
 #### Flow
