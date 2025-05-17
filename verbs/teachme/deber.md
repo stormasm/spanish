@@ -1,75 +1,80 @@
 
 
-La muerte debió de ocurrir repentinamente.   
-Death must have occurred suddenly.
+- La muerte debió de ocurrir repentinamente.   
+- Death must have occurred suddenly.
 
 ---
 
-No debes insultarle, no le insultes.  
-You must not insult him, don't insult him.  
-No debió hacerlo, sin embargo lo hizo.  
-He should not have done it, however he did it.  
-No me debes nada.  
-You don't owe me anything.  
-Debes llevarte una tienda pequeña.  
-You must take yourself a small store.  
-No tome más que las pastillas que debe tomar.  
-Do not take more pills than you are supposed to.  
-Estas pastillas deberían aliviar las palpitaciones.  
-These pills should alleviate the throbbing.
-
-Yo debería haber manejado.  
-I should have driven.
-
-Usted debió haber llamado a la policía immediatamente.  
-You should have called the police immediately.  
-¿Por qué debería yo contratarlo?  
-Why should I hire you?  
-Lo deberías copiar.  
-You should copy it.  
-Lo deberías imprimir.  
-You should print it.  
-Lo deberías firmar.  
-You should sign it.  
+- No debes insultarle, no le insultes.  
+- You must not insult him, don't insult him.  
+- No debió hacerlo, sin embargo lo hizo.  
+- He should not have done it, however he did it.  
+- No me debes nada.  
+- You don't owe me anything.  
+- No tome más que las pastillas que debe tomar.  
+- Do not take more pills than you are supposed to.  
+- Estas pastillas deberían aliviar las palpitaciones.  
+- These pills should alleviate the throbbing.
 
 ---
 
-Debe ponerse su cinturón.
-You must wear your belt.
-Estas tareas deberían hacerse cada vez.
-These tasks should be done each time.
-Estas tareas deberían hacerse todos los dÍas.
-These tasks should be done every day.
-Estas tareas deberían hacerse semanalmente.
-These chores should be done weekly.
-Yo debería trabajar
-I ought to work
-Debe haber faltado a tres.
-He probably missed three.
-¿Deberíamos usar financiamiento de capital?
-Should we use equity financing?
-Puedes/ Deberías estar orgulloso de él.
-You may/should be proud of him.
-Usted debe embalar cada pieza en una caja.
-You must pack each part in a box.
-Debemos prepararnos para lo peor.
-We must prepare for the worst.
-Usted debe crear un archivo nuevo.
-You must create a new file.
-¿A quién se debe ésto? / ¿Quién tiene la culpa?
-Whose fault is it?
-No debe conducir.
-You are not allowed to drive.
-¿Debes estar aquí?
-Are you supposed to be here?
-Debemos contener el fuego.
-We must contain the fire.
-Tú debes mostrar el pasaporte en el aeropuerto.
-You have to show the passport at the airport.
-¿Qué le debo?
-How much do I owe you?
-Usted debe escribir un informe cada mes.
+- Yo debería haber manejado.  
+- I should have driven.
+- Usted debió haber llamado a la policía immediatamente.  
+- You should have called the police immediately.  
+
+---
+
+- ¿Por qué debería yo contratarlo?  
+- Why should I hire you?  
+- Lo deberías copiar.  
+- You should copy it.  
+- Lo deberías imprimir.  
+- You should print it.  
+- Lo deberías firmar.  
+- You should sign it.  
+
+---
+
+Debe ponerse su cinturón.  
+You must wear your belt.  
+Estas tareas deberían hacerse cada vez.  
+These tasks should be done each time.  
+Estas tareas deberían hacerse todos los dÍas.  
+These tasks should be done every day.  
+Estas tareas deberían hacerse semanalmente.  
+These chores should be done weekly.  
+Yo debería trabajar  
+I ought to work  
+Debe haber faltado a tres.  
+He probably missed three.  
+¿Deberíamos usar financiamiento de capital?  
+Should we use equity financing?  
+Puedes/ Deberías estar orgulloso de él.  
+You may/should be proud of him.  
+Usted debe embalar cada pieza en una caja.  
+You must pack each part in a box.  
+Debemos prepararnos para lo peor.  
+We must prepare for the worst.  
+Usted debe crear un archivo nuevo.  
+You must create a new file.  
+¿A quién se debe ésto? / ¿Quién tiene la culpa?  
+Whose fault is it?  
+No debe conducir.  
+You are not allowed to drive.  
+¿Debes estar aquí?  
+Are you supposed to be here?  
+Debemos contener el fuego.  
+We must contain the fire.  
+Tú debes mostrar el pasaporte en el aeropuerto.  
+You have to show the passport at the airport.  
+¿Qué le debo?  
+How much do I owe you?  
+Usted debe escribir un informe cada mes.  
 You must write a report every month.
+
+---
+
 Deberá dar pruebas de su valía.
 He should give proof of his worth.
 No debes broncearte todos los días.
