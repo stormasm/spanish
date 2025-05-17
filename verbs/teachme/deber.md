@@ -1,31 +1,39 @@
 
 
-La muerte debió de ocurrir repentinamente.
+La muerte debió de ocurrir repentinamente.   
 Death must have occurred suddenly.
-No debes insultarle, no le insultes.
-You must not insult him, don't insult him.
-No debió hacerlo, sin embargo lo hizo.
-He should not have done it, however he did it.
-No me debes nada.
-You don't owe me anything.
-Debes llevarte una tienda pequeña.
-You must take yourself a small store.
-No tome más que las pastillas que debe tomar.
-Do not take more pills than you are supposed to.
-Estas pastillas deberían aliviar las palpitaciones.
+
+---
+
+No debes insultarle, no le insultes.  
+You must not insult him, don't insult him.  
+No debió hacerlo, sin embargo lo hizo.  
+He should not have done it, however he did it.  
+No me debes nada.  
+You don't owe me anything.  
+Debes llevarte una tienda pequeña.  
+You must take yourself a small store.  
+No tome más que las pastillas que debe tomar.  
+Do not take more pills than you are supposed to.  
+Estas pastillas deberían aliviar las palpitaciones.  
 These pills should alleviate the throbbing.
-Yo debería haber manejado.
+
+Yo debería haber manejado.  
 I should have driven.
-Usted debió haber llamado a la policía immediatamente.
-You should have called the police immediately.
-¿Por qué debería yo contratarlo?
-Why should I hire you?
-Lo deberías copiar.
-You should copy it.
-Lo deberías imprimir.
-You should print it.
-Lo deberías firmar.
-You should sign it.
+
+Usted debió haber llamado a la policía immediatamente.  
+You should have called the police immediately.  
+¿Por qué debería yo contratarlo?  
+Why should I hire you?  
+Lo deberías copiar.  
+You should copy it.  
+Lo deberías imprimir.  
+You should print it.  
+Lo deberías firmar.  
+You should sign it.  
+
+---
+
 Debe ponerse su cinturón.
 You must wear your belt.
 Estas tareas deberían hacerse cada vez.
