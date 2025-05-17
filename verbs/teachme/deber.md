@@ -36,42 +36,42 @@
 
 ---
 
-Debe ponerse su cinturón.  
-You must wear your belt.  
-Estas tareas deberían hacerse cada vez.  
-These tasks should be done each time.  
-Estas tareas deberían hacerse todos los dÍas.  
-These tasks should be done every day.  
-Estas tareas deberían hacerse semanalmente.  
-These chores should be done weekly.  
-Yo debería trabajar  
-I ought to work  
-Debe haber faltado a tres.  
-He probably missed three.  
-¿Deberíamos usar financiamiento de capital?  
-Should we use equity financing?  
-Puedes/ Deberías estar orgulloso de él.  
-You may/should be proud of him.  
-Usted debe embalar cada pieza en una caja.  
-You must pack each part in a box.  
-Debemos prepararnos para lo peor.  
-We must prepare for the worst.  
-Usted debe crear un archivo nuevo.  
-You must create a new file.  
-¿A quién se debe ésto? / ¿Quién tiene la culpa?  
-Whose fault is it?  
-No debe conducir.  
-You are not allowed to drive.  
-¿Debes estar aquí?  
-Are you supposed to be here?  
-Debemos contener el fuego.  
-We must contain the fire.  
-Tú debes mostrar el pasaporte en el aeropuerto.  
-You have to show the passport at the airport.  
-¿Qué le debo?  
-How much do I owe you?  
-Usted debe escribir un informe cada mes.  
-You must write a report every month.
+- Debe ponerse su cinturón.  
+- You must wear your belt.  
+- Estas tareas deberían hacerse cada vez.  
+- These tasks should be done each time.  
+- Estas tareas deberían hacerse todos los dÍas.  
+- These tasks should be done every day.  
+- Estas tareas deberían hacerse semanalmente.  
+- These chores should be done weekly.  
+- Yo debería trabajar  
+- I ought to work  
+- Debe haber faltado a tres.  
+- He probably missed three.  
+- ¿Deberíamos usar financiamiento de capital?  
+- Should we use equity financing?  
+- Puedes/ Deberías estar orgulloso de él.  
+- You may/should be proud of him.  
+- Usted debe embalar cada pieza en una caja.  
+- You must pack each part in a box.  
+- Debemos prepararnos para lo peor.  
+- We must prepare for the worst.  
+- Usted debe crear un archivo nuevo.  
+- You must create a new file.  
+- ¿A quién se debe ésto? / ¿Quién tiene la culpa?  
+- Whose fault is it?  
+- No debe conducir.  
+- You are not allowed to drive.  
+- ¿Debes estar aquí?  
+- Are you supposed to be here?  
+- Debemos contener el fuego.  
+- We must contain the fire.  
+- Tú debes mostrar el pasaporte en el aeropuerto.  
+- You have to show the passport at the airport.  
+- ¿Qué le debo?  
+- How much do I owe you?  
+- Usted debe escribir un informe cada mes.  
+- You must write a report every month.
 
 ---
 
