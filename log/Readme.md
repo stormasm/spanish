@@ -1,5 +1,6 @@
 
 
+- sugiero que vayamos a México, I suggest we to to Mexico
 - a qué te dedicas, what is your work / job
 
 ## 2025 Spring
