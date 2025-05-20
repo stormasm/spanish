@@ -1,5 +1,5 @@
 
-##### Top 30 spanish verbs
+##### Top 32 spanish verbs
 
 - [comer](./hablar.md), [dar](./dar.md), deber, [decir](./dar.md), [dejar](./poder.md), escuchar, [estar](./ir.md), [gustar](./gustar.md), [haber](./ir.md), [hablar](./hablar.md)
 - [hacer](./hacer.md), [ir](./ir.md), [llegar](./poder.md), mirar, necesitar, oir, oler, [poder](./poder.md), [poner](./gustar.md), [quedar](./ver.md), [querer](./gustar.md)
