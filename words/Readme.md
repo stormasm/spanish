@@ -6,7 +6,7 @@
 #### Antonyms
 
 - [most important antonyms](https://www.youtube.com/watch?v=S01t7VTHksk)
-- [opposite words](https://www.youtube.com/watch?v=GNlvF9eE3l8)
+- [61 opposite words](https://www.youtube.com/watch?v=GNlvF9eE3l8)
 - [40 opposite verbs](https://www.youtube.com/watch?v=-RICcvMGjkw)
 
 #### Adjectives
