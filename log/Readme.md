@@ -1,5 +1,6 @@
 
 
+- me siento emocionado, I feel excited
 - extraño mi amiga, I miss my friend
 - sugiero que vayamos a México, I suggest we to to Mexico
 - a qué te dedicas, what is your work / job
