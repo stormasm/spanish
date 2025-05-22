@@ -38,6 +38,40 @@
 
 ---
 
+- [A New Hope](https://www.youtube.com/watch?v=tCXpKwygnU0)
+- tengo muchas deudas, I have a lot debt
+- me siento feliz, I feel happy
+- cada dia me despierto y me siento cansada, every day I wake up and feel tired
+- no tengo idea de qué hacer con mi vida, I have no idea what to do with my life
+- un dia mi amigo me visita, one day my friend visits me
+- ve que no soy feliz, he sees that I am not happy
+- el dice; ve a un terapeuta o consigue un perro, he says go to a therapist or get a dog
+- pienso por un momento, I think for a moment
+- un perro puede ser un amigo, a dog can be a friend
+- decido conseguir un perro, I decide to get a dog
+- me mira, she looks at me
+- mi corazón se siente cálido, my heart feels warm
+- la llevo a casa, I take her home
+- y la llamo Luna, and name her luna
+- huele todo y mueve la cola, she sniffs everything and wags her tail
+- las personas se detienen y le sonríen, people stop and smile at her
+- hb come mucho, hb eats a lot
+- me siento preocupada, I feel worried
+- veo un concurso en línea, I see a contest online
+- Se me ocurre un idea, I get an idea
+- le tomo muchas fotos a Luna, I take many pictures of Luna
+- elijo la mejor foto, I choose the best photo
+- y participo en el concurso, and enter the contest
+- no lo puedo creer, I cannot believe it
+- la gente compra las postales, people buy the postcards
+- y yo gano dinero, and I make money
+- puedo pagar mis cuentas, I can pay my bills
+- me da felicidad y amor, she gives me happiness and love
+- ella es más que una mascota, she is more than a pet
+- es mi mejor amiga, she is my best friend 
+
+---
+
 - [tengo miedo de conducir](https://www.youtube.com/watch?v=0jszpIeGbnw)
 - aprobo mi examen de conducir
 - me digo a mí misma, está bien.
