@@ -38,7 +38,7 @@
 
 ---
 
-- [A New Hope](https://www.youtube.com/watch?v=tCXpKwygnU0)
+- [new hope about a new puppy](https://www.youtube.com/watch?v=tCXpKwygnU0)
 - tengo muchas deudas, I have a lot debt
 - me siento feliz, I feel happy
 - cada dia me despierto y me siento cansada, every day I wake up and feel tired
@@ -68,7 +68,7 @@
 - puedo pagar mis cuentas, I can pay my bills
 - me da felicidad y amor, she gives me happiness and love
 - ella es más que una mascota, she is more than a pet
-- es mi mejor amiga, she is my best friend 
+- es mi mejor amiga, she is my best friend
 
 ---
 
