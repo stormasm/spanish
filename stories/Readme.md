@@ -42,6 +42,8 @@
 - tengo muchas deudas, I have a lot debt
 - me siento feliz, I feel happy
 - cada dia me despierto y me siento cansada, every day I wake up and feel tired
+- cada dia me despierto y me siento asustada, every day I wake up and feel scared
+- todos los días me despierto y tengo miedo
 - no tengo idea de qué hacer con mi vida, I have no idea what to do with my life
 - un dia mi amigo me visita, one day my friend visits me
 - ve que no soy feliz, he sees that I am not happy
@@ -69,6 +71,48 @@
 - me da felicidad y amor, she gives me happiness and love
 - ella es más que una mascota, she is more than a pet
 - es mi mejor amiga, she is my best friend
+
+---
+
+- [its a small world, afortunado](https://www.youtube.com/watch?v=-8lolTbKOWo)
+- un evento afortunado, lucky event
+- me despierto temprano, I wake up early
+- me visto de manera ordenada, dress neatly
+- y salgo de casa con anticipación, and leave home in advance
+- estoy un poco nervioso, I am a little nervous
+- en el camino, veo una pequeña cafetería, on the way I see a small coffee shop
+- tal vez un café me ayude, pienso, maybe a coffee will help, I think
+- entro y pido un cafe, I walk inside and order a coffee
+- el lugar es acogedor y cálido, the place is cozy and warm
+- mietras espero, as I wait
+- veo a un hombre en la mesa de al lado, I see a man at the next table
+- parece preocupado, he looks worried
+- derrama su café sobre sus papeles, he spills his coffee on his papers
+- rápidamente intenta limpiar el disorden, he quickly tries to clean up the mess
+- sin pensarlo, without thinking
+- agarro algunas servilletas, I grab some napkins
+- y me acerco corriendo, and run over
+- déjame ayudarte, digo, let me help, I say
+- sonriendo pero aún un poco estresado, smiling but still a little stressed
+- le ayudo a secar algunos de los papeles, I help him dry some of the papers
+- gran reunión hoy, big meeting today
+- lo harás genial, digo, you will do great, I say
+- él se ríe, he laughs
+- agarro mi café, I grab my coffee
+- mi corazón late rápido, my heart beats fast
+- por favor espere, please wait
+- la puerta se abre, the door opens
+- y ahí está él, and there he is
+- ambos nos reímos sorprendidos, we both laugh in surprise
+- qué pequeño es el mundo, digo, small world, I say
+- el esta relajado y es amigable, he is relaxed and friendly
+- hablamos sobre mis habilidades, we talk about my skills
+- cuando alguien ayuda a un extraño sin pensarlo, when someone helps a stranger without thinking
+- el se levanta y me da la mano, he stands up and shakes my hand
+- creo que eres la persona adecuada para este trabajo, I think you are the right person for this job
+- salgo del edificio, sonriendo, I walk out of the building smiling
+- a veces, las pequeñas cosas, sometimes small things
+- pueden abrir grades puertas, can open big doors
 
 ---
 
