@@ -1,5 +1,6 @@
 
 
+- espero saber de ti pronto, I hope to hear from you soon.
 - me siento emocionado, I feel excited
 - extraño mi amiga, I miss my friend
 - sugiero que vayamos a México, I suggest we to to Mexico
