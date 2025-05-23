@@ -54,7 +54,7 @@
 - me mira, she looks at me
 - mi corazón se siente cálido, my heart feels warm
 - la llevo a casa, I take her home
-- y la llamo Luna, and name her luna
+- y la llamo Luna, and name her Luna
 - huele todo y mueve la cola, she sniffs everything and wags her tail
 - las personas se detienen y le sonríen, people stop and smile at her
 - hb come mucho, hb eats a lot
