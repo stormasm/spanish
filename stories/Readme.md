@@ -84,7 +84,7 @@
 - tal vez un café me ayude, pienso, maybe a coffee will help, I think
 - entro y pido un cafe, I walk inside and order a coffee
 - el lugar es acogedor y cálido, the place is cozy and warm
-- mietras espero, as I wait
+- mientras espero, as I wait, while I wait
 - veo a un hombre en la mesa de al lado, I see a man at the next table
 - parece preocupado, he looks worried
 - derrama su café sobre sus papeles, he spills his coffee on his papers
