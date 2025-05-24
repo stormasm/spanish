@@ -113,7 +113,7 @@
 - creo que eres la persona adecuada para este trabajo, I think you are the right person for this job
 - salgo del edificio, sonriendo, I walk out of the building smiling
 - a veces, las pequeñas cosas, sometimes small things
-- pueden abrir grades puertas, can open big doors
+- pueden abrir grandes puertas, can open big doors
 
 ---
 
