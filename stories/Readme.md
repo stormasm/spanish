@@ -86,9 +86,8 @@
 - el lugar es acogedor y cálido, the place is cozy and warm
 - mientras espero, as I wait, while I wait
 - veo a un hombre en la mesa de al lado, I see a man at the next table
-- estoy preocupado, I am worried
-- paraces preocupado, you seem worried
-- parece preocupado, he looks worried
+- estoy preocupado, paraces preocupado, parece preocupado
+- I am worried, you seem worried, he looks worried
 - derrama su café sobre sus papeles, he spills his coffee on his papers
 - rápidamente intenta limpiar el disorden, he quickly tries to clean up the mess
 - sin pensarlo, without thinking
