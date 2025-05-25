@@ -112,7 +112,7 @@
 - el se levanta y me da la mano, he stands up and shakes my hand
 - creo que eres la persona adecuada para este trabajo, I think you are the right person for this job
 - salgo del edificio, sonriendo, I walk out of the building smiling
-- Salgo de casa por primera vez sonriendo
+- salgo de casa por primera vez sonriendo
 - a veces, las pequeñas cosas, sometimes small things
 - pueden abrir grandes puertas, can open big doors
 
