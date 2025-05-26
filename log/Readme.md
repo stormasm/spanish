@@ -1,5 +1,6 @@
 
 
+- añoro los días cuando estaba en el campamento de verano.
 - espero saber de ti pronto, I hope to hear from you soon.
 - me siento emocionado, I feel excited
 - extraño mi amiga, I miss my friend
