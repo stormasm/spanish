@@ -12,3 +12,6 @@
 | podar | to prune | el jardinero está podando el arbusto | the gardener is pruning the bush |
 | endulzar | to sweeten | endulcé el té con miel | I sweetened the tea with honey |
 | sonrojarse | to blush | me sonrojé cuando el anfitrión dijo mi nombre | I blushed when the host said my name |
+| la manada | herd | una manada de elefantes está cruzando el río | a herd of elephants is crossing the river |
+| el tímpano | eardrum | la doctora me examinó el tímpano | the doctor examined my eardrum |
+| el aguacate | avacado | me comí el aguacate entero, y no me arrepiento | I ate the whole avacado and I am not sorry |
