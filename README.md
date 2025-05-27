@@ -33,3 +33,5 @@ Same is true with Option + n + ñ
 - [prevalecer](https://www.spanishdict.com/translate/prevalecer)
 - [tratarse](https://www.spanishdict.com/translate/tratar) used with `de`
 - to be about, no se trata de dinero, its not about the money
+
+ok
