@@ -1,4 +1,6 @@
 
+The teach directory is for teachers who speak english whereas the [lessons directory](./../lessons/Readme.md) is for teachers who speak spanish.
+
 ## Teachers
 
 - [Butterfly](./butterfly)
