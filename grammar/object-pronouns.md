@@ -33,3 +33,4 @@
 
 - [understand spanish object pronouns in 8 minutes](https://www.youtube.com/watch?v=TUmuavAKLEI)
 - [reference document pdf](https://github.com/stormasm/pdf/blob/main/spanish/spanish-object-pronouns.pdf)
+- [pronombres de objeto directo y indirecto](https://www.youtube.com/watch?v=1fewSSf05xg)

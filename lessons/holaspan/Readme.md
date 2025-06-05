@@ -6,3 +6,4 @@
 - [100 common spanish questions and answers](https://www.youtube.com/watch?v=6GFv73raJbY)
 - [frases más usadas en una conversación](https://www.youtube.com/watch?v=ggr0MHr5hYE)
 - [verbs used in 90% of all spanish conversations](https://www.youtube.com/watch?v=epBEdPaLZQk)
+- [pronombres de objeto directo y indirecto](https://www.youtube.com/watch?v=1fewSSf05xg)
