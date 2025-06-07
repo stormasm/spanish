@@ -1,7 +1,13 @@
 
+| | | | |
+| - | - | - | - |
+| el pasatiempo | hobby | Mi pasatiempo favorito es la fotografía | Photography is my favorite hobby |
+| el hormigueo | tingling | Siento un hormigueo en la palma de mi mano | I feel a tingling in the palm of my hand |
+| la ola | wave | Una ola gigante se estrelló contra la costa | A giant wave crashed against the shore |
+| el muelle | pier | Estoy esperando el bote en el muelle | I'm waiting for the boat at the pier |
+| la tienda de campaña | tent | Me tomó media hora montar la tienda de campaña | It took me half an hour to put up the tent |
 
-
-
+---
 
 | | | | |
 | - | - | - | - |
