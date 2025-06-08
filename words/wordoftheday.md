@@ -34,3 +34,20 @@
 | la manada | herd | una manada de elefantes está cruzando el río | a herd of elephants is crossing the river |
 | el tímpano | eardrum | la doctora me examinó el tímpano | the doctor examined my eardrum |
 | el aguacate | avacado | me comí el aguacate entero, y no me arrepiento | I ate the whole avacado and I am not sorry |
+
+---
+
+| | | | |
+| - | - | - | - |
+| la frambuesa | rasberry | Te gusta echarle frambuesas al yogur | Do you like adding raspberries to yogurt |
+| el nubarrón | storm cloud | Mira ese nubarrón! Mejor entremos | Look at that storm cloud! We'd better go inside |
+| la sabiduría | wisdom | Mi abuelo era un hombre lleno de sabiduría | My grandfather was a man full of wisdom |
+| el césped | lawn | Tengo que cortar el césped | I have to mow the lawn |
+| la tinaja | large earthenware jar | Los aldeanos guardan el aceite en tinajas | The villagers store the oil in large earthenware jars |
+| embarazada | pregnant | Carolina está embarazada de gemelos | Carolina is pregnant with twins |
+| el ocio | leisure | Es importante dejar tiempo para el ocio | It is important to leave time for leisure |
+| el albaricoque | apricot | Compré albaricoques y duraznos en el mercado | I bought apricots and peaches at the market |
+| el renacuajo | tadpole | Este renacuajo se convertirá pronto en una rana | This tadpole will turn into a frog soon |
+| brotar | to sprout | Las plantas están comenzando a brotar | The plants are starting to sprout |
+
+---
