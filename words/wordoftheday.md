@@ -1,4 +1,8 @@
 
+- [Word of the Day](https://www.spanishdict.com/wordoftheday)
+
+---
+
 | | | | |
 | - | - | - | - |
 | soleado | sunny | Hoy hace un día muy soleado | It's really sunny today |
@@ -27,7 +31,7 @@
 | estar de luto | to be in mourning | La nación está de luto hoy | The nation is in mourning today |
 | añorar | to long for, yearning | Añoro los días en que estábamos juntos | I long for the days we were together |
 | chismear | to gossip | a Ana le encanta chismear sobre los demás | ana loves to gossip about others |
-| remolacha | beat | la remolacha tiene un color magenta intenso | beets are a deep magenta color |
+| la remolacha | beat | la remolacha tiene un color magenta intenso | beets are a deep magenta color |
 | podar | to prune | el jardinero está podando el arbusto | the gardener is pruning the bush |
 | endulzar | to sweeten | endulcé el té con miel | I sweetened the tea with honey |
 | sonrojarse | to blush | me sonrojé cuando el anfitrión dijo mi nombre | I blushed when the host said my name |
@@ -49,5 +53,20 @@
 | el albaricoque | apricot | Compré albaricoques y duraznos en el mercado | I bought apricots and peaches at the market |
 | el renacuajo | tadpole | Este renacuajo se convertirá pronto en una rana | This tadpole will turn into a frog soon |
 | brotar | to sprout | Las plantas están comenzando a brotar | The plants are starting to sprout |
+
+---
+
+| | | | |
+| - | - | - | - |
+| el alféizar | windowsill | Hay una pequeña planta en el alféizar | There's a little plant on the windowsill |
+| el ternero | calf | El ternero pasta en el campo | The calf grazes in the field |
+| la estrella fugaz | shooting star | Si ves una estrella fugaz, ¡pide un deseo | If you see a shooting star, make a wish |
+| la verdura | vegetable | Debo incorporar más verduras en mi dieta | I should add more vegetables to my diet |
+| el sauce | willow | Sauces enormes bordean el lago | Giant willows border the lake |
+| el alpiste | birdseed | Dejé alpiste para los cardenales afuera en el patio | I left birdseed for the cardinals out in the yard |
+| encariñarse | to grow fond of | Me he encariñado del perro de mi hermana | I've grown fond of my sister's dog |
+| la mueca | face | Clara hizo muecas para hacerme reír | Clara made faces to make me laugh |
+| forestal | forest | Este parque es un área forestal protegida | This park is a protected forest area |
+| la aguafiestas | party pooper | No seas un aguafiestas! Ven al parque con nosotros | Don't be a party pooper! Come to the park with us |
 
 ---
