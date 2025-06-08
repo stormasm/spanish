@@ -1,6 +1,12 @@
 
 | | | | |
 | - | - | - | - |
+| soleado | sunny | Hoy hace un día muy soleado | It's really sunny today |
+
+---
+
+| | | | |
+| - | - | - | - |
 | el pasatiempo | hobby | Mi pasatiempo favorito es la fotografía | Photography is my favorite hobby |
 | el hormigueo | tingling | Siento un hormigueo en la palma de mi mano | I feel a tingling in the palm of my hand |
 | la ola | wave | Una ola gigante se estrelló contra la costa | A giant wave crashed against the shore |
