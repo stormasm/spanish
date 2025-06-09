@@ -1,5 +1,12 @@
 
 
+- estoy esperando la paz en la tierra
+- dejar en paz a alguien o a algo
+- mi pasatiempo favorito es caminar
+- era totalmente feliz
+
+---
+
 - añoro los días cuando estaba en el campamento de verano.
 - espero saber de ti pronto, I hope to hear from you soon.
 - me siento emocionado, I feel excited
