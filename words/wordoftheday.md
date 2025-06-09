@@ -12,7 +12,7 @@
 
 | | | | |
 | - | - | - | - |
-| el pasatiempo | hobby | Mi pasatiempo favorito es la fotografía | Photography is my favorite hobby |
+| el pasatiempo | hobby | Mi pasatiempo favorito es caminar | Walking is my favorite hobby |
 | el hormigueo | tingling | Siento un hormigueo en la palma de mi mano | I feel a tingling in the palm of my hand |
 | la ola | wave | Una ola gigante se estrelló contra la costa | A giant wave crashed against the shore |
 | el muelle | pier | Estoy esperando el bote en el muelle | I'm waiting for the boat at the pier |
