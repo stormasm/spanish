@@ -1,5 +1,6 @@
 
 
+- me encanta el sabor
 - estoy esperando la paz en la tierra
 - dejar en paz a alguien o a algo
 - mi pasatiempo favorito es caminar
