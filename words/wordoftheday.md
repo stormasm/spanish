@@ -5,6 +5,7 @@
 
 | | | | |
 | - | - | - | - |
+| la maracuyá | passion fruit | Me encanta el sabor ácido y dulce de la maracuyá | I love the sweet-and-sour flavor of passion fruit |
 | el avestruz | ostrich | Los avestruces no vuelan, pero corren muy rápido | Ostriches don't fly, but they run really fast |
 | soleado | sunny | Hoy hace un día muy soleado | It's really sunny today |
 
