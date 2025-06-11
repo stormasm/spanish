@@ -1,12 +1,14 @@
 
-me gusta cocinar una gran comida todos los dias alrededor del mediodia.   
-cada vez que te veo sonreir.   
-hicimos una caminata de mi casa hasta el parque.   
-me siento bien con las cosas que háre en el nuevo año.    
-estoy buscando fraces (oraciones) en español que son (sean) fáciles de recordar.  
-estuve en casa cuando mi amigo vino a visitar.  
-viniste a la clase temprano ayer ?  
-ayer, yo vine a la clase temprano.  
+- Entonces, la única razón por que estoy pensando de Storm es porque no hay nada mas importante de contemplar.
+- Así que la única razón por la que pienso en Storm es porque no hay nada más importante que contemplar.
+- me gusta cocinar una gran comida todos los dias alrededor del mediodia.   
+- cada vez que te veo sonreir.   
+- hicimos una caminata de mi casa hasta el parque.   
+- me siento bien con las cosas que háre en el nuevo año.    
+- estoy buscando fraces (oraciones) en español que son (sean) fáciles de recordar.  
+- estuve en casa cuando mi amigo vino a visitar.  
+- viniste a la clase temprano ayer ?  
+- ayer, yo vine a la clase temprano.  
 
 ### spanish accents on macbook pro
 
