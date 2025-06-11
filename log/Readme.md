@@ -1,6 +1,6 @@
 
 - la única razón
-- no hay nada mas importante de contemplar.
+- no hay nada mas importante de contemplar
 - me encanta el sabor
 - estoy esperando la paz en la tierra
 - dejar en paz a alguien o a algo
