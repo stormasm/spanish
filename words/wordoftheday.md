@@ -5,6 +5,7 @@
 
 | | | | |
 | - | - | - | - |
+| la tiza | chalk | El profesor agarró un trozo de tiza y comenzó a escribir | The teacher grabbed a piece of chalk and started writing |
 | el cangrejo | crab | El cangrejo abrió y cerró sus tenazas | The crab opened and closed its pincers |
 | la maracuyá | passion fruit | Me encanta el sabor ácido y dulce de la maracuyá | I love the sweet-and-sour flavor of passion fruit |
 | el avestruz | ostrich | Los avestruces no vuelan, pero corren muy rápido | Ostriches don't fly, but they run really fast |
