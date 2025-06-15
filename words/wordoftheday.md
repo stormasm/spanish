@@ -5,6 +5,7 @@
 
 | | | | |
 | - | - | - | - |
+| el héroe | hero | No todos los héroes llevan capa, pero yo sí | Not all heroes wear capes, but I do |
 | veranear | spend the summer | Este año voy a veranear en Panamá | This year I'm spending the summer in Panama |
 | la tiza | chalk | El profesor agarró un trozo de tiza y comenzó a escribir | The teacher grabbed a piece of chalk and started writing |
 | el cangrejo | crab | El cangrejo abrió y cerró sus tenazas | The crab opened and closed its pincers |
