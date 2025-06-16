@@ -11,3 +11,4 @@
 ### Reference
 
 - [Qroo Paul: soler - A Great Spanish Verb That Many Students Overlook](https://www.youtube.com/watch?v=zZMtRQej-9Y)
+- [Soler in Spanish: One of the Most Useful Spanish Verbs, Explained in 3 Minutes](https://www.youtube.com/watch?v=87zrVjL7xdU)
