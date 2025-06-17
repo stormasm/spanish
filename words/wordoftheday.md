@@ -5,6 +5,7 @@
 
 | | | | |
 | - | - | - | - |
+| sediento | thirsty | Milo estaba sediento después de jugar por horas | Milo was thirsty after playing for hours |
 | la sandía | watermellon | Compré una sandía y varias ciruelas | I bought a watermelon and some plums |
 | el héroe | hero | No todos los héroes llevan capa, pero yo sí | Not all heroes wear capes, but I do |
 | veranear | spend the summer | Este año voy a veranear en Panamá | This year I'm spending the summer in Panama |
