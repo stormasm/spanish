@@ -1,6 +1,6 @@
 
 
-soler
+-[soler](https://www.spanishdict.com/translate/soler)
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
