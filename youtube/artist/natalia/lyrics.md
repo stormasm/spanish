@@ -482,6 +482,132 @@ Si yo encontrara un alma
 If I found a soul like mine, oh oh  
 Si yo encontrara un alma como la mía, oh oh
 
+### De todas las flores
+
+De todas las flores que sembramos   
+Solo quedan unas encendidas   
+Cada mañana se preguntan   
+Cuándo llegarás para cantarles   
+De todas las lunas que miramos   
+Solo quedan algunas memorias   
+Cuando nos reímos, cuando nos tuvimos   
+En las calles de Madrid, borrachos fuimos sin un rumbo fijo   
+Cuando nos bailamos, cuando nos perdimos   
+En esa canción que nuestro antiguo mundo juntos comprendimos   
+En ese jardín de rosas buganvilias donde compartimos   
+De todas las flores que sembramos   
+Solo quedan unas encendidas   
+Cada mañana se preguntan   
+Cuándo llegarás para cantarles   
+Las lunas menguantes que nos observaron   
+Sobre mares lloran lágrimas sagradas   
+Como tu caricia, dulce como amarga   
+Deliciosas las mañanas, laberintos en las madrugadas   
+Como tus caricias, suave como espina   
+Se me va clavando sobre el pecho toda esta melancolía   
+En este jardín de rosas buganvilias sin tu compañía   
+De todas las lunas que miramos juntos   
+Solo quedan algunas memorias   
+Cuando nos reímos, cuando nos tuvimos   
+En las calles de Madrid, borrachos fuimos sin un rumbo fijo   
+Cuando nos bailamos, cuando nos perdimos   
+En esa canción que nuestro antiguo mundo juntos comprendimos   
+En ese jardín de rosas buganvilias donde compartimos   
+En ese jardín de rosas buganvilias donde nos perdimos   
+
+### De todas las flores [mixed]
+
+Of all the flowers we plant   
+De todas las flores que sembramos
+
+There are only a few left lit   
+Solo quedan unas encendidas
+
+Every morning they wonder   
+Cada mañana se preguntan
+
+When will you arrive to sing to them  
+Cuándo llegarás para cantarles  
+
+Of all the moons we look at  
+De todas las lunas que miramos
+
+There are only a few memories left  
+Solo quedan algunas memorias
+
+When we laughed, when we had each other  
+Cuando nos reímos, cuando nos tuvimos
+
+In the streets of Madrid, drunk we went without a fixed direction  
+En las calles de Madrid, borrachos fuimos sin un rumbo fijo
+
+When we danced, when we got lost   
+Cuando nos bailamos, cuando nos perdimos
+
+In that song that our old world together we understood   
+En esa canción que nuestro antiguo mundo juntos comprendimos
+
+In that garden of bougainvillea roses where we share   
+En ese jardín de rosas buganvilias donde compartimos
+
+Of all the flowers we plant   
+De todas las flores que sembramos
+
+There are only a few left lit   
+Solo quedan unas encendidas
+
+Every morning they wonder   
+Cada mañana se preguntan
+
+When will you arrive to sing to them   
+Cuándo llegarás para cantarles
+
+The waning moons that watched us   
+Las lunas menguantes que nos observaron
+
+Sacred tears cry over seas   
+Sobre mares lloran lágrimas sagradas
+
+Like your caress, sweet as bitter   
+Como tu caricia, dulce como amarga
+
+Delicious mornings, labyrinths in the early mornings   
+Deliciosas las mañanas, laberintos en las madrugadas
+
+Like your caresses, soft as a thorn   
+Como tus caricias, suave como espina
+
+All this melancholy is sinking into my chest   
+Se me va clavando sobre el pecho toda esta melancolía
+
+In this garden of bougainvillea roses without your company   
+En este jardín de rosas buganvilias sin tu compañía
+
+Of all the moons we look at together   
+De todas las lunas que miramos juntos
+
+There are only a few memories left   
+Solo quedan algunas memorias
+
+When we laughed, when we had each other   
+Cuando nos reímos, cuando nos tuvimos
+
+In the streets of Madrid, drunk we went without a fixed direction   
+En las calles de Madrid, borrachos fuimos sin un rumbo fijo
+
+When we danced, when we got lost   
+Cuando nos bailamos, cuando nos perdimos
+
+In that song that our old world together we understood   
+En esa canción que nuestro antiguo mundo juntos comprendimos
+
+In that garden of bougainvillea roses where we share   
+En ese jardín de rosas buganvilias donde compartimos
+
+In that garden of bougainvillea roses where we got lost   
+En ese jardín de rosas buganvilias donde nos perdimos
+
+
 ### References
 [quererme](https://www.spanishdict.com/translate/quererme)  
 
