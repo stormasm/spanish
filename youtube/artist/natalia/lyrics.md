@@ -613,6 +613,148 @@ En ese jardín de rosas buganvilias donde compartimos
 In that garden of bougainvillea roses where we got lost   
 En ese jardín de rosas buganvilias donde nos perdimos
 
+### Pajarito colibrí
+
+Pajarito colibrí, no tengas miedo de salir
+Hoy el mundo quiere que despiertes para ser feliz
+Pajarito colibrí, no tengas miedo de vivir
+Que la noche oscura y misteriosa baila para ti
+Cuando sientas que infinito el mundo
+Se abre ante tus alas, dentro de tu pecho
+Pierdas el aliento, pídele al cielo
+Que te haga volar
+Y si sientes vértigo en el vuelo
+Que se enciende el fuego dentro de tu pecho
+Pide al universo, en tu ser entero
+Dulce libertad
+Todo va a estar bien, pajarito colibrí
+Ya no tengas miedo de vivir
+Todo va a estar bien, pajarito colibrí
+Tú llegaste al mundo para ser feliz
+Hoy los valles, bosques y montañas quieren verte ir
+Hoy senderos, mares y las nubes velarán por ti
+Si de amores andas sollozando, sin poder dormir
+Solo canta, quiebra la garganta, es hora de partir
+Cuando sientas que infinito el mundo
+Se abre ante tus alas, dentro de tu pecho
+Pierdas el aliento, pídele al cielo
+Que te haga volar
+Y si sientes vértigo en el vuelo
+Que se enciende el fuego con tu movimiento
+Pide al universo, en tu ser entero
+Dulce libertad
+Todo va a estar bien, pajarito colibrí
+Ya no tengas miedo de vivir
+Todo va a estar bien, pajarito colibrí
+Tú llegaste al mundo para ser feliz
+Bien, pajarito colibrí
+Ya no tengas miedo de vivir
+Todo va a estar bien, pajarito colibrí
+Tú llegaste al mundo para ser feliz
+
+### Pajarito colibrí [Mixed]
+
+Little hummingbird, don't be afraid to go out   
+Pajarito colibrí, no tengas miedo de salir
+
+Today the world wants you to wake up to be happy   
+Hoy el mundo quiere que despiertes para ser feliz
+
+Little hummingbird, don't be afraid to live   
+Pajarito colibrí, no tengas miedo de vivir
+
+May the dark and mysterious night dance for you  
+Que la noche oscura y misteriosa baila para ti   
+When you feel that the world is infinite   
+Cuando sientas que infinito el mundo
+
+It opens before your wings, inside your chest   
+Se abre ante tus alas, dentro de tu pecho
+
+Lose your breath, ask the sky   
+Pierdas el aliento, pídele al cielo
+
+that makes you fly  
+Que te haga volar
+
+And if you feel vertigo on the flight  
+Y si sientes vértigo en el vuelo
+
+That the fire lights up inside your chest  
+Que se enciende el fuego dentro de tu pecho
+
+Ask the universe, in your entire being   
+Pide al universo, en tu ser entero
+
+sweet freedom  
+Dulce libertad  
+Everything is going to be okay, little hummingbird  
+Todo va a estar bien, pajarito colibrí
+
+Don't be afraid to live anymore  
+Ya no tengas miedo de vivir
+
+Everything is going to be okay, little hummingbird   
+Todo va a estar bien, pajarito colibrí
+
+You came into the world to be happy   
+Tú llegaste al mundo para ser feliz   
+Today the valleys, forests and mountains want to see you go   
+Hoy los valles, bosques y montañas quieren verte ir
+
+Today trails, seas and clouds will watch over you  
+Hoy senderos, mares y las nubes velarán por ti
+
+If you are sobbing about love, unable to sleep  
+Si de amores andas sollozando, sin poder dormir
+
+Just sing, break your throat, it's time to go  
+Solo canta, quiebra la garganta, es hora de partir   
+When you feel that the world is infinite  
+Cuando sientas que infinito el mundo
+
+It opens before your wings, inside your chest  
+Se abre ante tus alas, dentro de tu pecho
+
+Lose your breath, ask the sky  
+Pierdas el aliento, pídele al cielo
+
+that makes you fly  
+Que te haga volar
+
+And if you feel vertigo on the flight  
+Y si sientes vértigo en el vuelo
+
+That the fire is lit with your movement  
+Que se enciende el fuego con tu movimiento
+
+Ask the universe, in your entire being  
+Pide al universo, en tu ser entero
+
+sweet freedom  
+Dulce libertad  
+Everything is going to be okay, little hummingbird  
+Todo va a estar bien, pajarito colibrí
+
+Don't be afraid to live anymore  
+Ya no tengas miedo de vivir
+
+Everything is going to be okay, little hummingbird  
+Todo va a estar bien, pajarito colibrí
+
+You came into the world to be happy  
+Tú llegaste al mundo para ser feliz  
+Well, little hummingbird  
+Bien, pajarito colibrí
+
+Don't be afraid to live anymore  
+Ya no tengas miedo de vivir
+
+Everything is going to be okay, little hummingbird  
+Todo va a estar bien, pajarito colibrí
+
+You came into the world to be happy  
+Tú llegaste al mundo para ser feliz
 
 ### References
 [quererme](https://www.spanishdict.com/translate/quererme)  
