@@ -488,16 +488,20 @@ De todas las flores que sembramos
 Solo quedan unas encendidas   
 Cada mañana se preguntan   
 Cuándo llegarás para cantarles   
+
 De todas las lunas que miramos   
 Solo quedan algunas memorias   
 Cuando nos reímos, cuando nos tuvimos   
-En las calles de Madrid, borrachos fuimos sin un rumbo fijo   
+En las calles de Madrid, borrachos fuimos sin un rumbo fijo  
+
 Cuando nos bailamos, cuando nos perdimos   
 En esa canción que nuestro antiguo mundo juntos comprendimos   
-En ese jardín de rosas buganvilias donde compartimos   
+En ese jardín de rosas buganvilias donde compartimos  
+
 De todas las flores que sembramos   
 Solo quedan unas encendidas   
 Cada mañana se preguntan   
+
 Cuándo llegarás para cantarles   
 Las lunas menguantes que nos observaron   
 Sobre mares lloran lágrimas sagradas   
@@ -505,11 +509,13 @@ Como tu caricia, dulce como amarga
 Deliciosas las mañanas, laberintos en las madrugadas   
 Como tus caricias, suave como espina   
 Se me va clavando sobre el pecho toda esta melancolía   
-En este jardín de rosas buganvilias sin tu compañía   
+En este jardín de rosas buganvilias sin tu compañía  
+
 De todas las lunas que miramos juntos   
 Solo quedan algunas memorias   
 Cuando nos reímos, cuando nos tuvimos   
 En las calles de Madrid, borrachos fuimos sin un rumbo fijo   
+
 Cuando nos bailamos, cuando nos perdimos   
 En esa canción que nuestro antiguo mundo juntos comprendimos   
 En ese jardín de rosas buganvilias donde compartimos   
