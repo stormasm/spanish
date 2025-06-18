@@ -621,35 +621,43 @@ En ese jardín de rosas buganvilias donde nos perdimos
 Pajarito colibrí, no tengas miedo de salir  
 Hoy el mundo quiere que despiertes para ser feliz  
 Pajarito colibrí, no tengas miedo de vivir  
-Que la noche oscura y misteriosa baila para ti  
+Que la noche oscura y misteriosa baila para ti
+
 Cuando sientas que infinito el mundo  
 Se abre ante tus alas, dentro de tu pecho  
 Pierdas el aliento, pídele al cielo  
 Que te haga volar  
+
 Y si sientes vértigo en el vuelo  
 Que se enciende el fuego dentro de tu pecho  
 Pide al universo, en tu ser entero  
 Dulce libertad  
+
 Todo va a estar bien, pajarito colibrí  
 Ya no tengas miedo de vivir  
 Todo va a estar bien, pajarito colibrí  
 Tú llegaste al mundo para ser feliz  
+
 Hoy los valles, bosques y montañas quieren verte ir  
 Hoy senderos, mares y las nubes velarán por ti  
 Si de amores andas sollozando, sin poder dormir  
 Solo canta, quiebra la garganta, es hora de partir  
+
 Cuando sientas que infinito el mundo  
 Se abre ante tus alas, dentro de tu pecho  
 Pierdas el aliento, pídele al cielo  
 Que te haga volar  
+
 Y si sientes vértigo en el vuelo  
 Que se enciende el fuego con tu movimiento  
 Pide al universo, en tu ser entero  
 Dulce libertad  
+
 Todo va a estar bien, pajarito colibrí  
 Ya no tengas miedo de vivir  
 Todo va a estar bien, pajarito colibrí  
 Tú llegaste al mundo para ser feliz  
+
 Bien, pajarito colibrí  
 Ya no tengas miedo de vivir  
 Todo va a estar bien, pajarito colibrí  
