@@ -667,7 +667,8 @@ Little hummingbird, don't be afraid to live
 Pajarito colibrí, no tengas miedo de vivir
 
 May the dark and mysterious night dance for you  
-Que la noche oscura y misteriosa baila para ti   
+Que la noche oscura y misteriosa baila para ti  
+
 When you feel that the world is infinite   
 Cuando sientas que infinito el mundo
 
@@ -691,6 +692,7 @@ Pide al universo, en tu ser entero
 
 sweet freedom  
 Dulce libertad  
+
 Everything is going to be okay, little hummingbird  
 Todo va a estar bien, pajarito colibrí
 
@@ -702,6 +704,7 @@ Todo va a estar bien, pajarito colibrí
 
 You came into the world to be happy   
 Tú llegaste al mundo para ser feliz   
+
 Today the valleys, forests and mountains want to see you go   
 Hoy los valles, bosques y montañas quieren verte ir
 
@@ -713,6 +716,7 @@ Si de amores andas sollozando, sin poder dormir
 
 Just sing, break your throat, it's time to go  
 Solo canta, quiebra la garganta, es hora de partir   
+
 When you feel that the world is infinite  
 Cuando sientas que infinito el mundo
 
@@ -736,6 +740,7 @@ Pide al universo, en tu ser entero
 
 sweet freedom  
 Dulce libertad  
+
 Everything is going to be okay, little hummingbird  
 Todo va a estar bien, pajarito colibrí
 
@@ -747,6 +752,7 @@ Todo va a estar bien, pajarito colibrí
 
 You came into the world to be happy  
 Tú llegaste al mundo para ser feliz  
+
 Well, little hummingbird  
 Bien, pajarito colibrí
 
