@@ -615,6 +615,8 @@ En ese jardín de rosas buganvilias donde nos perdimos
 
 ### Pajarito colibrí
 
+- [Pajarito colibrí (Live from Walt Disney Concert Hall, LA)](https://www.youtube.com/watch?v=Co5l95PvlaA)
+
 Pajarito colibrí, no tengas miedo de salir  
 Hoy el mundo quiere que despiertes para ser feliz  
 Pajarito colibrí, no tengas miedo de vivir  
