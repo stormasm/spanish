@@ -829,6 +829,154 @@ Y encuentre un campo lleno de caña
 No habrá manera, mi rayo de luna  
 Que tú te vayas
 
+### Hasta la Ruiz [Mixed]
+
+
+Sigo cruzando ríos  
+I keep on crossing rivers
+
+Andando selvas  
+Walking jungles
+
+Amando el sol  
+Loving the sun
+
+Cada día sigo sacando espinas  
+Every day I keep on taking out thorns
+
+De lo profundo del corazón  
+From the deepest parts of the heart
+
+En la noche sigo encendiendo sueños  
+At the night I keep lighting up dreams
+
+Para limpiar con el humo sagrado cada recuerdo  
+To clean with the sacred smoke every memory
+
+Cuando escriba tu nombre  
+When I write your name
+
+En la arena blanca con fondo azul  
+In the white sand with blue background
+
+Cuando mire el cielo en la forma cruel de una nube gris  
+When I look at the sky and in the cruel shape of a gray cloud
+
+Aparezcas tú  
+You appear
+
+Una tarde suba una alta loma  
+One afternoon I climb a tall mountain
+
+Mire el pasado  
+Looking to the past
+
+Sabrás que no te he olvidado  
+You will know that I haven't forgotten about you
+
+Yo te llevo dentro, hasta la raíz  
+I carry you inside, up to the root
+
+Y por más que crezca, vas a estar aquí  
+And no matter how much I grow, you will be here
+
+Aunque yo me oculte tras la montaña  
+Even if I hide behind the mountain
+
+Y encuentre un campo lleno de caña  
+And find a field filled with cane
+
+No habrá manera, mi rayo de luna  
+There will be no way, my moonshine
+
+Que tú te vayas  
+That you go away
+
+Pienso que cada instante sobrevivido al caminar  
+I think that every instant surviving walking
+
+Y cada segundo de incertidumbre  
+And every second of uncertainty
+
+Cada momento de no saber  
+Each moment of not knowing
+
+Son la clave exacta de este tejido  
+Are the exact clue of this fabric
+
+Que ando cargando bajo la piel  
+That I am carrying under my skin
+
+Así te protejo  
+That is how I protect you
+
+Aquí sigues dentro  
+You are here inside
+
+Yo te llevo dentro, hasta la raíz  
+I carry you inside, up to the root
+
+Y por más que crezca, vas a estar aquí  
+And no matter how much I grow, you will be here
+
+Aunque yo me oculte tras la montaña  
+Even if I hide behind the mountain
+
+Y encuentre un campo lleno de caña  
+And find a field filled with cane
+
+No habrá manera, mi rayo de luna  
+There will be no way, my moonshine
+
+Que tú te vayas, que tu te vayas  
+That you go away, that you go away
+
+Yo te llevo dentro, hasta la raíz  
+I carry you inside, up to the root
+
+Y por más que crezca, vas a estar aquí  
+And no matter how much I grow, you will be here
+
+Aunque yo me oculte tras la montaña  
+Even if I hide behind the mountain
+
+Y encuentre un campo lleno de caña  
+And find a field filled with cane
+
+No habrá manera, mi rayo de luna  
+There will be no way, my moonshine
+
+Que tú te vayas, que tu te vayas  
+That you go away, that you go away
+
+Yo te llevo dentro, hasta la raíz  
+I carry you inside, up to the root
+
+Y por más que crezca, vas a estar aquí  
+And no matter how much I grow, you will be here
+
+Aunque yo me oculte tras la montaña  
+Even if I hide behind the mountain
+
+Y encuentre un campo lleno de caña  
+And find a field filled with cane
+
+No habrá manera, mi rayo de luna  
+There will be no way, my moonshine
+
+Que tú te vayas  
+That you go away
+
+WRITERS
+
+Leonel Garcia Nunez De Caceres, Maria Natalia Lafourcade Silva
+
+PUBLISHERS
+
+Lyrics © Universal Music Publishing Group
+
+- [ref](lyrics.lyricfind.com/lyrics/natalia-lafourcade-hasta-la-raiz)
+
 
 
 ### References
