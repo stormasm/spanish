@@ -5,6 +5,7 @@
 
 | | | | |
 | - | - | - | - |
+| saludar | to say hello to | Vi a Sandra en la tienda ayer y la saludé | I saw Sandra at the store yesterday and said hello to her |
 | el trapeador | mop | Busca el trapeador y limpia este desastre | Get the mop and clean this mess |
 | sediento | thirsty | Milo estaba sediento después de jugar por horas | Milo was thirsty after playing for hours |
 | la sandía | watermellon | Compré una sandía y varias ciruelas | I bought a watermelon and some plums |
