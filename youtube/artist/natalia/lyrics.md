@@ -773,6 +773,62 @@ Todo va a estar bien, pajarito colibrí
 You came into the world to be happy  
 Tú llegaste al mundo para ser feliz
 
+### Hasta la Ruiz
+
+Sigo cruzando ríos  
+Andando selvas  
+Amando el sol  
+Cada día sigo sacando espinas  
+De lo profundo del corazón  
+En la noche sigo encendiendo sueños  
+Para limpiar con el humo sagrado cada recuerdo
+
+Cuando escriba tu nombre  
+En la arena blanca con fondo azul  
+Cuando mire el cielo en la forma cruel de una nube gris  
+Aparezcas tú  
+Una tarde suba una alta loma  
+Mire el pasado  
+Sabrás que no te he olvidado  
+
+Yo te llevo dentro, hasta la raíz  
+Y por más que crezca, vas a estar aquí  
+Aunque yo me oculte tras la montaña  
+Y encuentre un campo lleno de caña  
+No habrá manera, mi rayo de luna  
+Que tú te vayas  
+
+Pienso que cada instante sobrevivido al caminar  
+Y cada segundo de incertidumbre  
+Cada momento de no saber  
+Son la clave exacta de este tejido  
+Que ando cargando bajo la piel  
+Así te protejo  
+Aquí sigues dentro
+
+Yo te llevo dentro, hasta la raíz  
+Y por más que crezca, vas a estar aquí  
+Aunque yo me oculte tras la montaña  
+Y encuentre un campo lleno de caña  
+No habrá manera, mi rayo de luna  
+Que tú te vayas, que tu te vayas
+
+Yo te llevo dentro, hasta la raíz  
+Y por más que crezca, vas a estar aquí  
+Aunque yo me oculte tras la montaña  
+Y encuentre un campo lleno de caña  
+No habrá manera, mi rayo de luna  
+Que tú te vayas, que tu te vayas
+
+Yo te llevo dentro, hasta la raíz  
+Y por más que crezca, vas a estar aquí  
+Aunque yo me oculte tras la montaña  
+Y encuentre un campo lleno de caña  
+No habrá manera, mi rayo de luna  
+Que tú te vayas
+
+
+
 ### References
 [quererme](https://www.spanishdict.com/translate/quererme)  
 
