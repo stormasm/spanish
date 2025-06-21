@@ -5,6 +5,7 @@
 
 | | | | |
 | - | - | - | - |
+| el mochilero | backpacker | Conocí a muchos mochileros en mis viajes | I met many backpackers during my travels |
 | charlar | to chat | Nos pasamos la tarde charlando en el café | we spent the afternoon chatting at the cafe |
 | saludar | to say hello to | Vi a Sandra en la tienda ayer y la saludé | I saw Sandra at the store yesterday and said hello to her |
 | el trapeador | mop | Busca el trapeador y limpia este desastre | Get the mop and clean this mess |
