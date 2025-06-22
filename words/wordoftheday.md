@@ -5,6 +5,7 @@
 
 | | | | |
 | - | - | - | - |
+| descalzo | barefoot | Ando descalzo, y la arena me está quemando los pies | I'm barefoot, and the sand is burning my feet |
 | el mochilero | backpacker | Conocí a muchos mochileros en mis viajes | I met many backpackers during my travels |
 | charlar | to chat | Nos pasamos la tarde charlando en el café | we spent the afternoon chatting at the cafe |
 | saludar | to say hello to | Vi a Sandra en la tienda ayer y la saludé | I saw Sandra at the store yesterday and said hello to her |
