@@ -129,7 +129,7 @@ Amor, amor (Y tu mirada, oh-oh)
 Blessed is the clock and blessed is the place.  
 Bendito el reloj y bendito el lugar
 
-Blessed are your kisses near the sea (And your look, oh-oh)
+Blessed are your kisses near the sea (And your look, oh-oh)  
 Benditos tus besos cerquita del mar (Y tu mirada, oh-oh)
 
 Love, love  
