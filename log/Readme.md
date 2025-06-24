@@ -1,4 +1,7 @@
 
+- hoy el mundo quiere que despiertes para ser feliz, today the world wants you to wake up to be happy
+- Espero que lo pases bien en Fresno.
+- Espero que lo pases genial en Fresno.
 - la única razón por que estoy pensando de [whatever] es porque no hay nada mas importante de contemplar
 - me encanta el sabor
 - estoy esperando la paz en la tierra
