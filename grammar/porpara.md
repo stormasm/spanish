@@ -26,6 +26,8 @@
 - Juan lost his job because of his addiction
 - Trabajo todos los días por mis hijos
 - I work everyday for my kids
+- Mary está débil por su enfermedad
+- Mary is weak because of her illness
 
 ##### Youtube videos on the topic of porpara
 
