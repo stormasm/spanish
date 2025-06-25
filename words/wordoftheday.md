@@ -5,6 +5,8 @@
 
 | | | | |
 | - | - | - | - |
+| la hamaca | hammock | Voy a tomar una siesta en esta hamaca | I am going to take a nap in this hammock |
+| templado | mild | La zona goza de un clima templado todo el año | The area enjoys mild weather all year round |
 | descalzo | barefoot | Ando descalzo, y la arena me está quemando los pies | I'm barefoot, and the sand is burning my feet |
 | el mochilero | backpacker | Conocí a muchos mochileros en mis viajes | I met many backpackers during my travels |
 | charlar | to chat | Nos pasamos la tarde charlando en el café | we spent the afternoon chatting at the cafe |
