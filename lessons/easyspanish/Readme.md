@@ -2,6 +2,7 @@
 ### Easy Spanish Podcasts
 
 - [Why Do You Travel? | Easy Spanish Podcast 200](https://www.youtube.com/watch?v=QMI9YegGels)
+- [Keep Translating in Your Head ? | Easy Spanish Podcast 195](https://www.youtube.com/watch?v=deHBwolpfqE)
 
 ---
 
