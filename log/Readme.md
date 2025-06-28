@@ -1,6 +1,6 @@
 
 
-- [te aferras demasiado](./life.md)
+- [te aferras demasiado](./life.md) you hold on too tightly
 - genial: awesome, great, brilliant, fantastic
 - https://www.spanishdict.com/translate/genial
 
