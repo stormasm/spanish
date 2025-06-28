@@ -1,4 +1,10 @@
 
+
+- genial: awesome, great, brilliant, fantastic
+- https://www.spanishdict.com/translate/genial
+
+---
+
 - hoy el mundo quiere que despiertes para ser feliz, today the world wants you to wake up to be happy
 - Espero que lo pases bien en Fresno.
 - Espero que lo pases genial en Fresno.
