@@ -40,8 +40,7 @@ The Spanish word "aferrado" translates to English as "clinging," "clutched," "st
 
 ---
 
-2. (nautical)  
-a. to anchor  
+2. (nautical) to anchor  
 
 - Los marineros aferraron el barco al fondo del mar.
 - The sailors anchored the boat to the seabed.
