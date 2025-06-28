@@ -38,6 +38,8 @@ The Spanish word "aferrado" translates to English as "clinging," "clutched," "st
 - Gracias a una señora que me aferró el brazo, no me atropelló el coche.
 - Thanks to a woman who seized my arm, I wasn't run over.
 
+---
+
 2. (nautical)  
 a. to anchor  
 
