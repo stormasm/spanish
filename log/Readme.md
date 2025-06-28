@@ -1,5 +1,6 @@
 
 
+- [te aferras demasiado](./life.md)
 - genial: awesome, great, brilliant, fantastic
 - https://www.spanishdict.com/translate/genial
 
