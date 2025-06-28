@@ -21,7 +21,8 @@ The Spanish word "aferrado" translates to English as "clinging," "clutched," "st
 
 ---
 
-- 1. (to take hold of) to grasp
+1. (to take hold of) to grasp
+
 - Babe Ruth aferró el bate y le pegó la pelota.
 - Babe Ruth grasped the bat and then hit the ball.
 
@@ -39,4 +40,6 @@ The Spanish word "aferrado" translates to English as "clinging," "clutched," "st
 
 2. (nautical)  
 a. to anchor  
-Los marineros aferraron el barco al fondo del mar.The sailors anchored the boat to the seabed.
+
+- Los marineros aferraron el barco al fondo del mar.
+- The sailors anchored the boat to the seabed.
