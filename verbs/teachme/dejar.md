@@ -4,6 +4,7 @@
 ---
 - deja las puertas abiertas, apaga las luces, leave the doors open y turn off the lights
 - deja el libro en la mesa cuando acabes de leerlo, leave the book on the table when you are finished reading it.
+- Deja el libro sobre la mesa cuando termines de leerlo, leave the book on the table when you finish reading it.
 ---
 - Dejes guiar por su instinto.   
 - No me dejas hablar.
