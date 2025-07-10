@@ -1,4 +1,7 @@
 
+- deja las puertas abiertas, apaga las luces, leave the doors open y turn off the lights
+
+---
 
 - [te aferras demasiado](./life.md) you hold on too tightly
 - genial: awesome, great, brilliant, fantastic
