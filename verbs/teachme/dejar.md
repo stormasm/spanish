@@ -2,6 +2,9 @@
 - [dejar](./../poder.md)
 - [dejar sd](https://www.spanishdict.com/conjugate/dejar)
 ---
+- deja las puertas abiertas, apaga las luces, leave the doors open y turn off the lights
+- deja el libro en la mesa cuando acabes de leerlo, leave the book on the table when you are finished reading it.
+---
 - Dejes guiar por su instinto.   
 - No me dejas hablar.
 - ¿Por qué dejó su empleo anterior?
