@@ -1,15 +1,25 @@
 
+---
+- no te rindas, don't give up
+- no te rindas nunca, never give up
+- no te rindas ahora, don't give up now
+
+---
 
 - repasemos las frases de ayer, lets review the phrases from yesterday
 ---
+
 - deja las puertas abiertas, apaga las luces, leave the doors open y turn off the lights
 - deja el libro en la mesa cuando acabes de leerlo, leave the book on the table when you are finished reading it.
 - No dejes el refrigerador abierto, do not leave the refrigerator open.
 - la tienda está abierta por si quieres ir a comprar leche, the store is open in case you want to go buy milk.
+
 ---
+
 - Todo va a estar bien
 - Ya no tengas miedo de vivir
 - Tú llegaste al mundo para ser feliz
+
 ---
 - [te aferras demasiado](./life.md) you hold on too tightly
 - genial: awesome, great, brilliant, fantastic
@@ -47,6 +57,7 @@
 - [object pronouns](./../grammar/object-pronouns.md)
 
 ---
+
 - espero que hayas tenido un buen fin de semana, I hope that you had
 - estamos cuidados, we are taken care of
 - puedo hacerlo, I can do it
