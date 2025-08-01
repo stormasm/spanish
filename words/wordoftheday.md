@@ -150,6 +150,7 @@
 | | | | |
 | - | - | - | - |
 | veranear | spend the summer | Este año voy a veranear en Panamá | This year I'm spending the summer in Panama |
+| viviente | living | me gusta viviendo de dia a dia | I like living day to day |
 
 ### W
 
