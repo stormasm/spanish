@@ -100,7 +100,7 @@
 
 | | | | |
 | - | - | - | - |
-
+| el otoño | autumn | Las hojas cambian de color en el otoño | The leaves change color in the fall |
 
 ### P
 
