@@ -13,88 +13,169 @@
 
 | | | | |
 | - | - | - | - |
-
+| el babero | bib | Ian está estrenando su nuevo babero | Ian is wearing his new bib for the first time |
 
 ### C
 
 | | | | |
 | - | - | - | - |
+| el cangrejo | crab | El cangrejo abrió y cerró sus tenazas | The crab opened and closed its pincers |
 | charlar | to chat | Nos pasamos la tarde charlando en el café | we spent the afternoon chatting at the cafe |
 
 
 ### D
 
+| | | | |
+| - | - | - | - |
+| descalzo | barefoot | Ando descalzo, y la arena me está quemando los pies | I'm barefoot, and the sand is burning my feet |
+
 ### E
+
+| | | | |
+| - | - | - | - |
+
 
 ### F
 
+| | | | |
+| - | - | - | - |
+
+
 ### G
+
+| | | | |
+| - | - | - | - |
+
 
 ### H
 
 | | | | |
 | - | - | - | - |
 | la hamaca | hammock | Voy a tomar una siesta en esta hamaca | I am going to take a nap in this hammock |
+| el héroe | hero | No todos los héroes llevan capa, pero yo sí | Not all heroes wear capes, but I do |
 
 ### I
 
+| | | | |
+| - | - | - | - |
+
+
 ### J
+
+| | | | |
+| - | - | - | - |
+
 
 ### K
 
+| | | | |
+| - | - | - | - |
+
+
 ### L
+
+| | | | |
+| - | - | - | - |
+
 
 ### M
 
+| | | | |
+| - | - | - | - |
+| masticar | to chew | El panda está masticando unas hojas de bambú | The panda is chewing on some bamboo leaves |
+| el mochilero | backpacker | Conocí a muchos mochileros en mis viajes | I met many backpackers during my travels |
+
+
 ### N
+
+| | | | |
+| - | - | - | - |
+
 
 ### O
 
+| | | | |
+| - | - | - | - |
+
+
 ### P
+
+| | | | |
+| - | - | - | - |
+| el pasatiempo | hobby | Mi pasatiempo favorito es caminar | Walking is my favorite hobby |
+
 
 ### Q
 
+| | | | |
+| - | - | - | - |
+
+
 ### R
+
+| | | | |
+| - | - | - | - |
+
 
 ### S
 
+| | | | |
+| - | - | - | - |
+| saludar | to say hello to | Vi a Sandra en la tienda ayer y la saludé | I saw Sandra at the store yesterday and said hello to her |
+| la sandía | watermellon | Compré una sandía y varias ciruelas | I bought a watermelon and some plums |
+| sediento | thirsty | Milo estaba sediento después de jugar por horas | Milo was thirsty after playing for hours |
+| soleado | sunny | Hoy hace un día muy soleado | It's really sunny today |
+
 ### T
+
+| | | | |
+| - | - | - | - |
+| templado | mild | La zona goza de un clima templado todo el año | The area enjoys mild weather all year round |
+| la tiza | chalk | El profesor agarró un trozo de tiza y comenzó a escribir | The teacher grabbed a piece of chalk and started writing |
+| el trapeador | mop | Busca el trapeador y limpia este desastre | Get the mop and clean this mess |
+
 
 ### U
 
+| | | | |
+| - | - | - | - |
+
+
 ### V
+
+| | | | |
+| - | - | - | - |
+| veranear | spend the summer | Este año voy a veranear en Panamá | This year I'm spending the summer in Panama |
 
 ### W
 
+| | | | |
+| - | - | - | - |
+
+
 ### X
 
+| | | | |
+| - | - | - | - |
+
+
 ### Y
+
+| | | | |
+| - | - | - | - |
+
 
 ### Z
 
 | | | | |
 | - | - | - | - |
-| templado | mild | La zona goza de un clima templado todo el año | The area enjoys mild weather all year round |
-| descalzo | barefoot | Ando descalzo, y la arena me está quemando los pies | I'm barefoot, and the sand is burning my feet |
-| el mochilero | backpacker | Conocí a muchos mochileros en mis viajes | I met many backpackers during my travels |
-| saludar | to say hello to | Vi a Sandra en la tienda ayer y la saludé | I saw Sandra at the store yesterday and said hello to her |
-| el trapeador | mop | Busca el trapeador y limpia este desastre | Get the mop and clean this mess |
-| sediento | thirsty | Milo estaba sediento después de jugar por horas | Milo was thirsty after playing for hours |
-| la sandía | watermellon | Compré una sandía y varias ciruelas | I bought a watermelon and some plums |
-| el héroe | hero | No todos los héroes llevan capa, pero yo sí | Not all heroes wear capes, but I do |
-| el babero | bib | Ian está estrenando su nuevo babero | Ian is wearing his new bib for the first time |
-| veranear | spend the summer | Este año voy a veranear en Panamá | This year I'm spending the summer in Panama |
-| la tiza | chalk | El profesor agarró un trozo de tiza y comenzó a escribir | The teacher grabbed a piece of chalk and started writing |
-| el cangrejo | crab | El cangrejo abrió y cerró sus tenazas | The crab opened and closed its pincers |
 | la maracuyá | passion fruit | Me encanta el sabor ácido y dulce de la maracuyá | I love the sweet-and-sour flavor of passion fruit |
 | el avestruz | ostrich | Los avestruces no vuelan, pero corren muy rápido | Ostriches don't fly, but they run really fast |
-| soleado | sunny | Hoy hace un día muy soleado | It's really sunny today |
 
 ---
 
 | | | | |
 | - | - | - | - |
-| el pasatiempo | hobby | Mi pasatiempo favorito es caminar | Walking is my favorite hobby |
 | el hormigueo | tingling | Siento un hormigueo en la palma de mi mano | I feel a tingling in the palm of my hand |
 | la ola | wave | Una ola gigante se estrelló contra la costa | A giant wave crashed against the shore |
 | el muelle | pier | Estoy esperando el bote en el muelle | I'm waiting for the boat at the pier |
@@ -103,7 +184,6 @@
 | el faro | lighthouse | El faro indicaba la entrada al puerto | The lighthouse showed the way into the harbor |
 | la trucha | trout | Las truchas nadan río arriba | The trout are swimming upstream |
 | la lila | lilac | Las lilas florecieron temprano este año | The lilacs flowered early this year |
-| masticar | to chew | El panda está masticando unas hojas de bambú | The panda is chewing on some bamboo leaves |
 | el tramposo | cheater | Nunca juegues ajedrez con Tom. Es un tramposo | Never play chess with Tom. He's a cheater |
 | el gorrión | sparrow | El gorrión notó que tenía comida en mi mano | The sparrow noticed I had food in my hand |
 
