@@ -66,7 +66,7 @@
 
 | | | | |
 | - | - | - | - |
-
+| el jengibre | ginger | El jengibre tiene muchos beneficios para la salud | Ginger has a lot of health benefits |
 
 ### K
 
