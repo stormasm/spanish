@@ -7,6 +7,7 @@
 
 | | | | |
 | - | - | - | - |
+| adornado | decorated | El árbol de Navidad está bien adornado | The Christmas tree is decorated well |
 
 
 ### B
