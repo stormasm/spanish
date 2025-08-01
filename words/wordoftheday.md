@@ -87,14 +87,13 @@
 | | | | |
 | - | - | - | - |
 | masticar | to chew | El panda está masticando unas hojas de bambú | The panda is chewing on some bamboo leaves |
+| a menudo | often | Vengo a esta tienda a menudo | I come to this store often |
 | el mochilero | backpacker | Conocí a muchos mochileros en mis viajes | I met many backpackers during my travels |
-
 
 ### N
 
 | | | | |
 | - | - | - | - |
-
 
 ### O
 
@@ -108,12 +107,10 @@
 | - | - | - | - |
 | el pasatiempo | hobby | Mi pasatiempo favorito es caminar | Walking is my favorite hobby |
 
-
 ### Q
 
 | | | | |
 | - | - | - | - |
-
 
 ### R
 
@@ -138,12 +135,10 @@
 | la tiza | chalk | El profesor agarró un trozo de tiza y comenzó a escribir | The teacher grabbed a piece of chalk and started writing |
 | el trapeador | mop | Busca el trapeador y limpia este desastre | Get the mop and clean this mess |
 
-
 ### U
 
 | | | | |
 | - | - | - | - |
-
 
 ### V
 
@@ -157,18 +152,15 @@
 | | | | |
 | - | - | - | - |
 
-
 ### X
 
 | | | | |
 | - | - | - | - |
 
-
 ### Y
 
 | | | | |
 | - | - | - | - |
-
 
 ### Z
 
@@ -177,7 +169,10 @@
 | la maracuyá | passion fruit | Me encanta el sabor ácido y dulce de la maracuyá | I love the sweet-and-sour flavor of passion fruit |
 | el avestruz | ostrich | Los avestruces no vuelan, pero corren muy rápido | Ostriches don't fly, but they run really fast |
 
----
+------
+
+### These words still need to be filed at a later date...
+
 
 | | | | |
 | - | - | - | - |
