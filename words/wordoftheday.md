@@ -15,6 +15,7 @@
 | | | | |
 | - | - | - | - |
 | el babero | bib | Ian está estrenando su nuevo babero | Ian is wearing his new bib for the first time |
+| el bastón | cane | Mi abuelo usa un bastón para caminar | My grandpa uses a cane to walk |
 
 ### C
 
