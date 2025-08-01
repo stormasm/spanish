@@ -115,7 +115,7 @@
 
 | | | | |
 | - | - | - | - |
-
+| el reto | challenge | El maratón será un gran reto para mí | The marathon will be a great challenge for me |
 
 ### S
 
