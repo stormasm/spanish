@@ -5,9 +5,22 @@
 
 ### A
 
+| | | | |
+| - | - | - | - |
+
+
 ### B
 
+| | | | |
+| - | - | - | - |
+
+
 ### C
+
+| | | | |
+| - | - | - | - |
+| charlar | to chat | Nos pasamos la tarde charlando en el café | we spent the afternoon chatting at the cafe |
+
 
 ### D
 
@@ -18,6 +31,10 @@
 ### G
 
 ### H
+
+| | | | |
+| - | - | - | - |
+| la hamaca | hammock | Voy a tomar una siesta en esta hamaca | I am going to take a nap in this hammock |
 
 ### I
 
@@ -57,11 +74,9 @@
 
 | | | | |
 | - | - | - | - |
-| la hamaca | hammock | Voy a tomar una siesta en esta hamaca | I am going to take a nap in this hammock |
 | templado | mild | La zona goza de un clima templado todo el año | The area enjoys mild weather all year round |
 | descalzo | barefoot | Ando descalzo, y la arena me está quemando los pies | I'm barefoot, and the sand is burning my feet |
 | el mochilero | backpacker | Conocí a muchos mochileros en mis viajes | I met many backpackers during my travels |
-| charlar | to chat | Nos pasamos la tarde charlando en el café | we spent the afternoon chatting at the cafe |
 | saludar | to say hello to | Vi a Sandra en la tienda ayer y la saludé | I saw Sandra at the store yesterday and said hello to her |
 | el trapeador | mop | Busca el trapeador y limpia este desastre | Get the mop and clean this mess |
 | sediento | thirsty | Milo estaba sediento después de jugar por horas | Milo was thirsty after playing for hours |
