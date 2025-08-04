@@ -1,5 +1,13 @@
 
+
 ---
+
+- conducir, to lead or drive
+- este pasillo conduce a la salida, this hallway leads to the exit
+- del edificio, of the building
+
+---
+
 - no te rindas, don't give up
 - no te rindas nunca, never give up
 - no te rindas ahora, don't give up now
@@ -7,6 +15,7 @@
 ---
 
 - repasemos las frases de ayer, lets review the phrases from yesterday
+
 ---
 
 - deja las puertas abiertas, apaga las luces, leave the doors open y turn off the lights
