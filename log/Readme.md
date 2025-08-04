@@ -1,5 +1,14 @@
 
-
+---
+- ser: who or what you are
+- estar: where or how you are
+---
+- para: to talk about our opinions
+- por: to talk about the time of day
+- por: because of
+- por: cause or motive
+- para: in order to do something
+- para: purpose or destination
 ---
 
 - conducir, to lead or drive
