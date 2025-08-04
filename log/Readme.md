@@ -15,6 +15,7 @@
 ---
 
 - conducir, to lead or drive
+- note that to conduct is a person who leads an orchestra :)
 - este pasillo conduce a la salida, this hallway leads to the exit
 - del edificio, of the building
 
