@@ -95,7 +95,7 @@
 | | | | |
 | - | - | - | - |
 | pasillo | hallway | este pasillo conduce a la salida del edificio | this hallway goes to the exit of the building |
-| pastel | cake | michele hornea un pastel para la fiesta de michael | maria bakes a cake for michaels birthday |
+| pastel | cake | michele hornea un pastel para la fiesta de michael | michele bakes a cake for michaels birthday |
 | payaso | clown | los payasos son siempre parte del circo | the clowns are always part of the circus |
 
 ### Q
