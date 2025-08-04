@@ -12,6 +12,7 @@
 - para: in order to do something
 - para: purpose or destination
 - [por vs para](https://github.com/stormasm/spanish/blob/main/grammar/porpara.md)
+- [por vs para](./../grammar/porpara.md)
 ---
 
 - conducir, to lead or drive
