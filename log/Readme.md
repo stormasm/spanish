@@ -1,4 +1,6 @@
 
+## 2025 Summer
+
 ---
 - ser: who or what you are
 - estar: where or how you are
@@ -66,14 +68,8 @@
 
 ## 2025 Spring
 
-#### My Daily Spanish
-
-- [cien frases](https://www.youtube.com/watch?v=vyrXC5JDGTc)
-
-#### Flow
-
+---
 - [object pronouns](./../grammar/object-pronouns.md)
-
 ---
 
 - espero que hayas tenido un buen fin de semana, I hope that you had
