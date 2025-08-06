@@ -2,6 +2,7 @@
 - [aprendemos junto 2030](https://aprendemosjuntos.bbva.com/)
 
 ---
+- 25.08 [Elena Poniatowska: Una vida dando voz a la gente](https://www.youtube.com/watch?v=VPxlc02KVZA)
 - 25.07 [Cristina Rivera Garza, escritora: Escribir para acercar fronteras](https://www.youtube.com/watch?v=-HCBd3qQoBo) - [wikipedia](https://en.wikipedia.org/wiki/Cristina_Rivera_Garza)
 - 25.07 [Natalia Lafourcade: "Que cada uno vaya a su ritmo"](https://www.youtube.com/watch?v=JpMq92fS6Z8)
 ---
