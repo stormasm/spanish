@@ -21,7 +21,7 @@
 
 ---
 
-- el asombro cambia como vemos el mundo, wonder changes how we see the world
+- [el asombro](https://www.youtube.com/watch?v=-WASV3r38Y4) cambia como vemos el mundo, wonder changes how we see the world
 - asombrar to amaze
 - el asombro, wonder - amazement
 
