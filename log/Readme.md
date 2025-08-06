@@ -21,6 +21,12 @@
 
 ---
 
+- el asombro cambia como vemos el mundo, wonder changes how we see the world
+- asombrar to amaze
+- el asombro, wonder - amazement
+
+---
+
 - no te rindas, don't give up
 - no te rindas nunca, never give up
 - no te rindas ahora, don't give up now
