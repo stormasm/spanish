@@ -2,6 +2,7 @@
 - [aprendemos junto 2030](https://aprendemosjuntos.bbva.com/)
 
 ---
+- 25.08 [José Gordon, periodista y escritor: El asombro cambia cómo vemos el mundo](https://www.youtube.com/watch?v=-WASV3r38Y4) - [wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Gordon)
 - 25.08 [Elena Poniatowska: Una vida dando voz a la gente](https://www.youtube.com/watch?v=VPxlc02KVZA) - [wikipedia](https://en.wikipedia.org/wiki/Elena_Poniatowska)
 - 25.07 [Cristina Rivera Garza, escritora: Escribir para acercar fronteras](https://www.youtube.com/watch?v=-HCBd3qQoBo) - [wikipedia](https://en.wikipedia.org/wiki/Cristina_Rivera_Garza)
 - 25.07 [Natalia Lafourcade: "Que cada uno vaya a su ritmo"](https://www.youtube.com/watch?v=JpMq92fS6Z8)
