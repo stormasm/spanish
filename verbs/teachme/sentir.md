@@ -4,16 +4,18 @@
 - [sentir spanishdict](https://www.spanishdict.com/conjugate/sentir)
 - [sentir teachme](https://www.123teachme.com/translated_sentences/sp/sentir)
 
-Siento mucho haberle causado a usted tantas molestias.
-I'm very sorry to have caused you so much trouble.
-Él oye nuestro llanto, pero no sabe el dolor que sentimos.
-He hears our cry, but doesn't know the pain we feel.
-No se debe tratar a los animales como si no sintieran dolor.
-Animals should not be treated as if they didn't feel any pain.
-Se sentía atraído por aquel personaje desde hacía tiempo.
-For a long time he had been attracted to that character.
-Lo siento, Oficial.
-I am sorry Officer.
+---
+
+- Siento mucho haberle causado a usted tantas molestias.
+- I'm very sorry to have caused you so much trouble.
+- Él oye nuestro llanto, pero no sabe el dolor que sentimos.
+- He hears our cry, but doesn't know the pain we feel.
+- No se debe tratar a los animales como si no sintieran dolor.
+- Animals should not be treated as if they didn't feel any pain.
+- Se sentía atraído por aquel personaje desde hacía tiempo.
+- For a long time he had been attracted to that character.
+- Lo siento, Oficial.
+- I am sorry Officer.
 
 ---
 
