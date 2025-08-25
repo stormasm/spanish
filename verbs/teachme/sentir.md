@@ -11,14 +11,20 @@ Se sentía atraído por aquel personaje desde hacía tiempo.
 For a long time he had been attracted to that character.
 Lo siento, Oficial.
 I am sorry Officer.
-¿Siente usted que no puede oír bien?
-Do you feel that you cannot hear well?
-Sentimos mucho haber perdido su equipaje.
-We're very sorry we lost your baggage.
-¿Siente algo en el ojo?
-Do you feel something in your eye?
-¿Dónde siente el dolor?
-Where do you feel the pain?
+
+---
+
+- ¿Siente usted que no puede oír bien?
+- Do you feel that you cannot hear well?
+- Sentimos mucho haber perdido su equipaje.
+- We're very sorry we lost your baggage.
+- ¿Siente algo en el ojo?
+- Do you feel something in your eye?
+- ¿Dónde siente el dolor?
+- Where do you feel the pain?
+
+---
+
 ¡He comido demasiado¡ Me siento muy pesado...
 I've eaten too much! I feel very heavy.
 ¿Ha sentido que le falta la respiración?
