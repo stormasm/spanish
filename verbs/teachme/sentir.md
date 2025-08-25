@@ -1,5 +1,8 @@
 
-- [sentir](https://www.123teachme.com/translated_sentences/sp/sentir)
+- [sentir](./../sentir.md)
+- [sentir rae](https://dle.rae.es/sentir)
+- [sentir spanishdict](https://www.spanishdict.com/conjugate/sentir)
+- [sentir teachme](https://www.123teachme.com/translated_sentences/sp/sentir)
 
 Siento mucho haberle causado a usted tantas molestias.
 I'm very sorry to have caused you so much trouble.
