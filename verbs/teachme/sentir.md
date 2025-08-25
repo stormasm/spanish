@@ -10,8 +10,6 @@
 - I'm very sorry to have caused you so much trouble.
 - Él oye nuestro llanto, pero no sabe el dolor que sentimos.
 - He hears our cry, but doesn't know the pain we feel.
-- No se debe tratar a los animales como si no sintieran dolor.
-- Animals should not be treated as if they didn't feel any pain.
 - Se sentía atraído por aquel personaje desde hacía tiempo.
 - For a long time he had been attracted to that character.
 - Lo siento, Oficial.
@@ -27,6 +25,11 @@
 - Do you feel something in your eye?
 - ¿Dónde siente el dolor?
 - Where do you feel the pain?
+
+---
+
+- No se debe tratar a los animales como si no sintieran dolor.
+- Animals should not be treated as if they didn't feel any pain.
 
 ---
 
