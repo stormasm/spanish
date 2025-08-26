@@ -33,40 +33,48 @@
 
 ---
 
-¡He comido demasiado¡ Me siento muy pesado...
-I've eaten too much! I feel very heavy.
-¿Ha sentido que le falta la respiración?
-Have you had shortness of breath?
-Lo siento mucho, pero no tenemos habitaciones libres.
-I am very sorry, but we have no rooms available.
-¿Siente falta de aire al caminar o subir escaleras?
-Do you feel short of breath when you walk or go upstairs?
-Me siento mejor.
-I feel better.
-¿Se siente las piernas?
-Do you feel your legs?
-¿Se ha sentido desorientado alguna vez?
-Have you ever been disoriented?
-Lo siento, usted me parecía sospechoso parado en la puerta de afuera.
+- ¡He comido demasiado¡ Me siento muy pesado...
+- I've eaten too much! I feel very heavy.
+- ¿Ha sentido que le falta la respiración?
+- Have you had shortness of breath?
+- Lo siento mucho, pero no tenemos habitaciones libres.
+- I am very sorry, but we have no rooms available.
+- ¿Siente falta de aire al caminar o subir escaleras?
+- Do you feel short of breath when you walk or go upstairs?
+- Me siento mejor.
+- I feel better.
+- ¿Se siente las piernas?
+- Do you feel your legs?
+- ¿Se ha sentido desorientado alguna vez?
+- Have you ever been disoriented?
+- Yo no me sentía bien.
+- I didn't feel well.
+- Me siento muy bien.
+- I feel very well.
+- Me siento muy mal.
+- I feel very bad.
+- Me siento mal.
+- I feel bad.
+
+---
+Lo siento, usted me parecía sospechoso parado en la puerta de afuera.   
 I'm sorry, you looked suspicious standing outside the door.
-Yo no me sentía bien.
-I didn't feel well.
-Me siento muy bien.
-I feel very well.
-Me siento muy mal.
-I feel very bad.
-Me siento mal.
-I feel bad.
-¿Me harás mi tarea? Que va!, lo siento pero no te haré tu tarea.
+
+¿Me harás mi tarea? Que va!, lo siento pero no te haré tu tarea.   
 Will you do my homework for me? No way! I’m sorry but I will not do your homework for you.
-Sentimos mucho que estés enfermo.
+
+Sentimos mucho que estés enfermo.   
 We're very sorry that you're ill.
-¿Cuándo empezó a sentir falta de aire?
+
+¿Cuándo empezó a sentir falta de aire?   
 When did you start getting short of breath?
-Lo siento mucho, pero no estoy libre.
+
+Lo siento mucho, pero no estoy libre.   
 I'm very sorry, but I'm not free.
-Para las mujeres, es muy importante sentirnos bellas.
+
+Para las mujeres, es muy importante sentirnos bellas.   
 For us women, it is very important to feel beautiful.
+
 ¡ No se sienten en estas sillas !
 Don't you all sit in these chairs!
 Lo siento, eso es incorrecto. Lea la siguiente línea de letras más grandes.
