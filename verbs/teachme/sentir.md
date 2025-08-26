@@ -75,26 +75,40 @@ I'm very sorry, but I'm not free.
 Para las mujeres, es muy importante sentirnos bellas.   
 For us women, it is very important to feel beautiful.
 
-¡ No se sienten en estas sillas !
+---
+
+¡ No se sienten en estas sillas !   
 Don't you all sit in these chairs!
-Lo siento, eso es incorrecto. Lea la siguiente línea de letras más grandes.
+
+Lo siento, eso es incorrecto. Lea la siguiente línea de letras más grandes.   
 I'm sorry, that is incorrect. Please read the next line with bigger letters.
-Lo siento, no puedo ahora ¿Puede regresar en veinte minutos?
+
+Lo siento, no puedo ahora ¿Puede regresar en veinte minutos?   
 I am sorry, I can’t right now. Can you come back in 20 minutes?
-Sentímos que no pudiste asistir a nuestra reunión.
+
+Sentímos que no pudiste asistir a nuestra reunión.   
 We're sorry you couldn't attend our reunion.
-¿Siente falta de aire cuando le da el dolor?
+
+¿Siente falta de aire cuando le da el dolor?   
 Do you feel short of breath when you have the pain?
-¿Le da nausea o vómitos cuando siente el dolor?
+
+¿Le da nausea o vómitos cuando siente el dolor?   
 Do you get nausea or vomiting when you have the pain?
-Sentimos haber tenido que cancelar la cena; habría sido un placer conocerlos.
+
+Sentimos haber tenido que cancelar la cena; habría sido un placer conocerlos.   
 We were so sorry that we had to cancel the dinner; it would have been such a pleasure to meet you.
-Cuando la supervisora se jubile, se va a sentir mejor.
+
+Cuando la supervisora se jubile, se va a sentir mejor.   
 When the supervisor retires, she's going to feel better.
-Lo siento, pero no puedo pagar más.
+
+Lo siento, pero no puedo pagar más.   
 I'm sorry, but I'm not able to pay more.
-Me siento muy bien. Vamos a dar un paseo.
+
+Me siento muy bien. Vamos a dar un paseo.   
 I feel great. Let's go for a walk.
+
+---
+
 Sentí mucho que usted no hubiera podido ir a la conferencia.
 I was very sorry that you hadn't been able to go to the lecture.
 ¿Ha sentido hoy que el bebé se mueve?
