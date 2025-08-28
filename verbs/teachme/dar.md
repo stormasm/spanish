@@ -25,22 +25,31 @@
 
 da vuelta a la derecha  
 turn right  
+
 ¿Qué tomates te dio?  
 What tomatoes did he/she give you?  
+
 A ustedes les apetece dar un paseo.  
 You all feel like going for a walk.  
+
 Juan se lo dio.  
 John gave it to her.  
+
 Le vamos a dar medicina por vía intravenosa.  
 We are going to give you an intravenous medicine.  
+
 dar una alegría a una persona  
 to make someone happy  
+
 Ellos nos lo dieron.  
 They gave it to us.  
+
 Dimos la bienvenida a nuestros amigos.  
 We welcomed our friends.  
+
 María me va a dar el dinero.  
 Mary is going to give me the money.  
+
 Nosotros se los dimos.  
 We gave it to them.  
 
@@ -48,19 +57,26 @@ We gave it to them.
 
 
 Pedro me da el dinero.  
-Pedro gives me the money.    
+Pedro gives me the money.   
+
 Deme un momento por favor.  
 Give me a minute please.  
+
 María te va a dar el dinero.  
 Mary is going to give you the money.  
+
 María me da el dinero.  
 Maria gives me the money.  
+
 ¿A quién diste el dinero?  
 To whom did you give the money?  
+
 A veces nos dimos plantón.  
 We sometimes stood ourselves up.  
+
 María le va a dar el dinero.  
 Mary is going to give him the money.  
+
 María le va a dar el dinero.  
 Mary is going to give her the money.  
 
@@ -68,53 +84,77 @@ Mary is going to give her the money.
 
 ¿Me pudiera dar un asiento de ventana, por favor?  
 Would you be able to give me a window seat, please?  
+
 María nos va a dar el dinero.  
 Mary is going to give us the money.  
+
 Esta vez le voy a dar una advertencia.  
 I am issuing you a warning this time.  
+
 Te da igual.  
 You don't mind.  
+
 María les va a dar el dinero.  
-Mary is going to give the money to you all.  
+Mary is going to give the money to you all.
+
 Yo se lo di.  
 I gave it to her.  
+
 Alguien te dio caramelos.  
 Someone gave you candies.  
+
 María les va a dar el dinero.  
 Mary is going to give them the money.  
+
 A mí me da lo mismo.  
 It's the same to me.  
+
 Sí, se lo he dado.  
 Yes, I have given it to him.  
+
 Te voy a dar el número de teléfono.  
 I am going to give you the telephone number.  
 
 ---
 
-Le dimos el bolso.
+Le dimos el bolso.  
 We gave him the bag.
-Se lo doy a él.
+
+Se lo doy a él.  
 I give it to him.
-Se lo doy a ella.
+
+Se lo doy a ella.  
 I give it to her.
-Dará el apaño.
+
+Dará el apaño.  
 He will manage the situation.
-Deberá dar pruebas de su valía.
+
+Deberá dar pruebas de su valía.  
 He should give proof of his worth.
-Me dieron más de veinte pesos.
+
+Me dieron más de veinte pesos.  
 They gave me more than twenty pesos.
-Dale un beso.
+
+Dale un beso.  
 Give her a kiss.
-Yo se lo daré.
+
+Yo se lo daré.  
 I will give it to them.
-Yo di una mano.
+
+Yo di una mano.  
 I gave a hand.
-María, danos el dinero.
+
+María, danos el dinero.  
 Mary, give us the money.
-Si, me dieron muchos.
+
+Si, me dieron muchos.  
 Yes, they gave me a lot.
-Se lo dimos ayer.
+
+Se lo dimos ayer.  
 We gave it to them yesterday.
+
+---
+
 Yo no te puedo dar el dinero hoy, pero te lo voy a poder dar mañana.
 I can't give you the money today but I am going to be able to give it to you tomorrow.
 Ella me dio el dinero.
