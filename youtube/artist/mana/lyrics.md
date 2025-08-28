@@ -146,3 +146,9 @@ Tu mirada, amor
 Source: Musixmatch  
 Songwriters: Jose Fernando Emilio Olvera Sierra / Sergio Vallin  
 Bendita Tu Luz lyrics © Warner-tamerlane Publishing Corp., Tulum Music, Vallincito Songs
+
+---
+
+- [Maná - Ojala Pudiera Borrarte](https://www.youtube.com/watch?v=3pkWeWDn25I)
+
+---
