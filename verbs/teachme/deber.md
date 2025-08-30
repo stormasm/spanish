@@ -1,4 +1,5 @@
 
+- [deber](./../deber.md)
 - [deber sd](https://www.spanishdict.com/conjugate/deber)
 - [deber teachme](https://www.123teachme.com/translated_sentences/sp/deber)
 
