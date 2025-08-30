@@ -1,4 +1,8 @@
 
+- [deber sd](https://www.spanishdict.com/conjugate/deber)
+- [deber teachme](https://www.123teachme.com/translated_sentences/sp/deber)
+
+---
 
 - La muerte debió de ocurrir repentinamente.   
 - Death must have occurred suddenly.
