@@ -36,6 +36,7 @@
 
 | | | | |
 | - | - | - | - |
+| exhaustivo | comprehensive | Se terminó un año completo de monitoreo exhaustivo en Veracruz | Completed a full year of comprehensive monitoring in Veracruz |
 
 
 ### F
