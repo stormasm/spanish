@@ -9,6 +9,8 @@ tú | das | diste | dabas | darías | darás |
 nosotros | damos | dimos | dábamos | daríamos | daremos |
 ellos | dan | dieron | daban | darían | darán |
 
+---
+
 deber
 
 | | Present | Preterite | Imperfect | Conditional | Future |
@@ -18,6 +20,12 @@ tú | debes | debiste | debías | deberías | deberás |
 él | debe | debió | debía | debería | deberá |
 nosotros | debemos | debimos | debíamos | deberíamos | deberemos |
 ellos | deben | debieron | debían | deberían | deberán |
+
+---
+
+- debes estudiar español, you must study spanish
+- tienes que estudiar español, you have to study spanish
+- deberias estudiar español, you should study spanish
 
 ### References
 
