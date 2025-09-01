@@ -10,155 +10,227 @@
 ---
 
 Yo tomé la medicina.   
-I took the medicine.   
+I took the medicine.  
+
 María tomó la medicina.   
 Mary took the medicine.   
+
 Nosotros tomamos la medicina.    
 We took the medicine.    
+
 Las muchachas tomaron demasiado tiempo.    
 The girls took too much time.    
+
 No tome más que las pastillas que debe tomar.   
 Do not take more pills than you are supposed to.   
+
 Tómese dos pastillas antes de acostarse.   
 Take two pills before bed.   
+
 No lo toméis.    
 You all don't take it.    
+
 No lo tomes.   
 Don't take it.   
+
 Tome la segunda calle a la derecha.   
 Take the second street to the right.   
+
 ¿Quieren tomar algo ? ¿ Quieren ustedes tomar algo ?   
 Do you all want to drink something?   
+
 Tome una dosis cada ocho horas.   
 Take one dose every 8 hours.   
+
 ¿Qué autobús tengo que tomar?   
 Which bus do I have to take?   
 
 ---
 
 Y vosotros, ¿ qué queréis tomar ?   
-And you all, what do you want to drink?   
+And you all, what do you want to drink?
+
 Tome esta medicina con alimentos.   
 Take this medicine with food.   
+
 ¿Qué medicina toma?   
 What medicine do you take?   
+
 Me gustaría tomar un aperitivo sin alcohol.   
-I would like a non-alcoholic aperitif.   
+I would like a non-alcoholic aperitif.  
+
 No apetecía tomarnos algo.   
 We didn't feeling like drinking anything.   
+
 Lo/Los tomaré.   
 I'll take it / them.   
+
 ¿Qué medicina toma?   
 What medicine do you take?   
+
 ¿ Deseas tomar un aperitivo ?   
 Do you want to have an appetizer?   
+
 ¿Quieres tomar postre ?  
 Do you want to have dessert?  
+
 Vamos a tomar el sol.  
 We're going to sunbathe.  
+
 Vamos a tomar unas radiografías.  
 We are going to take some X-rays.  
+
 Nadie te obligó a tomar vodka anoche.  
 No one made you drink vodka last night.  
+
 Nosotros vamos a tomar un taxi.  
 We are going to take a taxi.  
+
 ¿ Han tomado un aperitivo ?  
 Have they had an appetizer?  
 
 ---
 
-A Pedro no le gusta tomar el metro.
+A Pedro no le gusta tomar el metro.  
 Pedro doesn't like to take the subway.
-Tome la escoba.
+
+Tome la escoba.  
 Take the broom
-Tomaré un café sin azúcar.
+
+Tomaré un café sin azúcar.  
 I will have a coffee without sugar.
-¿Qué quiere tomar?
+
+¿Qué quiere tomar?  
 What would you like to drink?
-¿Está tomando algún medicamento?
+
+¿Está tomando algún medicamento?  
 Are you taking any medication?
-¿Qué hay para tomar?
+
+¿Qué hay para tomar?  
 What do you have to drink?
-No tomamos café.
+
+No tomamos café.  
 We don't drink coffee.
-Nosotros volvemos a tomar aspirinas.
+
+Nosotros volvemos a tomar aspirinas.  
 We take aspirin again.
-¿Quién más tomará la decisión?
+
+¿Quién más tomará la decisión?  
 Who else will make the decision?
-Generalmente tomo Tilenol.
+
+Generalmente tomo Tilenol.  
 Usually I take Tylenol.
-No tomaste el libro de la biblioteca.
+
+No tomaste el libro de la biblioteca.  
 You did not take the book from the library.
-Yo la tengo que tomar.
+
+Yo la tengo que tomar.  
 I have to take it.
-Él tomó el bus a su trabajo.
+
+Él tomó el bus a su trabajo.  
 He took the bus to his work.
-Yo tomé las pastillas.
+
+Yo tomé las pastillas.  
 I took the pills.
-No tomó nada más.
+
+No tomó nada más.  
 He did not take more.
-Tómelo usted.
+
+Tómelo usted.  
 You take it.
-Yo tomé tanta limonada como tú.
+
+Yo tomé tanta limonada como tú.  
 I drank as much lemonade as you did.
-Lo tomo prestado de él
+
+Lo tomo prestado de él  
 I borrow it from him
-¿Qué medicina toma?
+
+¿Qué medicina toma?  
 What medicine do you take?
-¿Tomas el café?
+
+¿Tomas el café?  
 Do you drink coffee?
-¿Toma usted diuréticos?
+
+¿Toma usted diuréticos?  
 Do you take diuretics?
-¿Puedo tomarlos juntos?
+
+¿Puedo tomarlos juntos?  
 Can I take them together?
-¿Quieres tomar un café?
+
+¿Quieres tomar un café?  
 Do you want to drink a coffee?
-¿Tomaste un taxi?
+
+¿Tomaste un taxi?  
 Did you take a taxi?
-Yo tomé un taxi.
+
+Yo tomé un taxi.  
 I took a taxi.
-¿Quiere tomar algo?
+
+¿Quiere tomar algo?  
 Would you like to drink something?
-Tomo el desayuno a las ocho.
+
+Tomo el desayuno a las ocho.  
 I eat (have) breakfast at eight o'clock.
-Tomamos el almuerzo en la cafetería.
+
+Tomamos el almuerzo en la cafetería.  
 We took lunch in the cafeteria.
-Los niños no toman café.
+
+Los niños no toman café.  
 Children don't drink coffee.
-¿Tomaste algunas fotografias del desfile?
+
+¿Tomaste algunas fotografias del desfile?  
 Did you take any photos of the parade?
-Toma este tenedor.
+
+Toma este tenedor.  
 Take this fork.
-Y usted, ¿qué toma ?
+
+Y usted, ¿qué toma ?  
 And you, what do you drink?
-Seguro, tomará 30 minutos.
+
+Seguro, tomará 30 minutos.  
 Sure, it will take 30 minutes
-¿Toma medicinas para la presión alta?
+
+¿Toma medicinas para la presión alta?  
 Do you take high blood pressure medications?
-Él necesita tomar una siesta.
+
+Él necesita tomar una siesta.  
 He needs to take a nap.
-Tomar algún medicamento.
+
+Tomar algún medicamento.  
 To take some medication.
-¿Puedo tomar su orden señor?
+
+¿Puedo tomar su orden señor?  
 Can I take your order, sir?
-¿Puedo ofrecerle algo para tomar?
+
+¿Puedo ofrecerle algo para tomar?  
 May I offer you something to drink?
-Él toma la medicina poco a poco.
+
+Él toma la medicina poco a poco.  
 He takes the medicine little by little.
-¿Toma medicamento recetado?
+
+¿Toma medicamento recetado?  
 Do you take prescription medicine?
-No, tomo ibuprofeno de ochocientos miligramos.
+
+No, tomo ibuprofeno de ochocientos miligramos.  
 No, I take ibuprofen, 800 milligrams
-Nosotros podemos tomar el bus.
+
+Nosotros podemos tomar el bus.  
 We can take the bus.
-¿Come antes de tomar la medicina?
+
+¿Come antes de tomar la medicina?  
 Do you eat before taking the medicine?
-¡Tomaos estas pastillas!
+
+¡Tomaos estas pastillas!  
 You all take these pills!
-Ha tomado algún medicamento?
+
+Ha tomado algún medicamento?  
 Have you taken any medicine?
-No tomes el autobús.
+
+No tomes el autobús.  
 Don't take the bus.
+
+---
+
 Va a tomar aproximadamente veinte minutos.
 It'll take about 20 minutes.
 ¿Tomaste la medicina?
@@ -271,6 +343,9 @@ Immediate action must be taken.
 What action shall we now take?
 Hay que tomar una decisión.
 A decision has to be made.
+
+---
+
 Nuestros negociadores debieran tomar nota.
 Our negotiators should take note of it.
 Debemos tomar una decisión jurídica.
@@ -291,6 +366,9 @@ La crisis no ayudará a tomar medidas.
 The crisis will not help us to take measures.
 Así que necesitamos tomar medidas.
 Therefore, we need to take action.
+
+---
+
 Reducir costes significa tomar atajos.
 Cutting costs is about cutting corners.
 Habrá que tomar una decisión.
