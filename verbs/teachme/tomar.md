@@ -10,7 +10,7 @@ Nosotros no hemos tomado las pastillas.
 We have not taken the pills
 
 No hemos seguido el consejo   
-We have not taken the advice
+We have not followed / taken the advice
 
 ---
 
