@@ -3,7 +3,7 @@
 
 - [comer](./hablar.md), [dar](./dar.md), [deber](./deber.md), [decir](./dar.md), [dejar](./poder.md), escuchar, [estar](./ir.md), [gustar](./gustar.md), [haber](./ir.md), [hablar](./hablar.md)
 - [hacer](./hacer.md), [ir](./ir.md), [llegar](./poder.md), mirar, necesitar, oir, oler, [paracer](./salir.md), [poder](./poder.md), [poner](./gustar.md)
-- [quedar](./ver.md), [querer](./gustar.md), [saber](./gustar.md), [salir](./salir.md), [sentir](./gustar.md), [ser](./ir.md), [soler](./soler.md), [tener](./ir.md), tomar, trabajar
+- [quedar](./ver.md), [querer](./gustar.md), [saber](./gustar.md), [salir](./salir.md), [sentir](./gustar.md), [ser](./ir.md), [soler](./soler.md), [tener](./ir.md), [tomar](./tomar.md), trabajar
 - usar, [venir](./hacer.md), [ver](./ver.md), [vivir](./hablar.md)
 
 #### References
