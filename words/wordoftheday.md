@@ -63,7 +63,7 @@
 
 | | | | |
 | - | - | - | - |
-
+| la inmersión | immersion | Un baño de Gong es una inmersión completa en el sonido | A Gong bath is a full immersion in the sound | 
 
 ### J
 
