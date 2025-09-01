@@ -1,4 +1,11 @@
 
+
+- [tomar](./../tomar.md)
+- [tomar sd](https://www.spanishdict.com/conjugate/tomar)
+- [tomar teachme](https://www.123teachme.com/translated_sentences/sp/tomar)
+
+---
+
 Nosotros no hemos tomado las pastillas.  
 We have not taken the pills
 
