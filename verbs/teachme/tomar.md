@@ -1,11 +1,9 @@
 
-- Nosotros no hemos tomado las pastillas.    
-- No hemos seguido el consejo
+Nosotros no hemos tomado las pastillas.  
+We have not taken the pills
 
----
-
-- We have not taken the pills
-- We have not taken the advice
+No hemos seguido el consejo   
+We have not taken the advice
 
 ---
 
