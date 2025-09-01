@@ -36,6 +36,7 @@
 
 | | | | |
 | - | - | - | - |
+| eficaz | effective | En muchos casos esta práctica resulta para ser muy eficaz | In many instances this practice proves to be very effective |
 | exhaustivo | comprehensive | Se terminó un año completo de monitoreo exhaustivo en Veracruz | Completed a full year of comprehensive monitoring in Veracruz |
 
 
