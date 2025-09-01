@@ -1,4 +1,24 @@
 
+dar
+
+| | Present | Preterite | Imperfect | Conditional | Future |
+|-|-|-|-|-|-|
+yo | doy | di | daba | daría | daré |
+tú | das | diste | dabas | darías | darás |
+él | da | dio | daba | daría | dará | 	
+nosotros | damos | dimos | dábamos | daríamos | daremos |
+ellos | dan | dieron | daban | darían | darán |
+
+deber
+
+| | Present | Preterite | Imperfect | Conditional | Future |
+|-|-|-|-|-|-|
+yo | debo | debí | debía | debería | deberé |
+tú | debes | debiste | debías | deberías | deberás |
+él | debe | debió | debía | debería | deberá |
+nosotros | debemos | debimos | debíamos | deberíamos | deberemos |
+ellos | deben | debieron | debían | deberían | deberán |
+
 ### References
 
 - [Butterfly: Should/must/have to - debes, debes de, deberías](https://www.youtube.com/watch?v=gdZNvl7TKyY)
