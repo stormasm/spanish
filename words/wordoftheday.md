@@ -87,6 +87,7 @@
 
 | | | | |
 | - | - | - | - |
+| la manga | sleeve | Tengo un hueco en mi manga | My sleeve has a hole in it |
 | masticar | to chew | El panda está masticando unas hojas de bambú | The panda is chewing on some bamboo leaves |
 | a menudo | often | Vengo a esta tienda a menudo | I come to this store often |
 | meterse | to go in, to enter | Empezó a llover y se metieron en la casa | It started raining and they went in the house - ref: caluroso |
