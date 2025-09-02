@@ -1,5 +1,6 @@
 
 - [aprendemos junto 2030](https://aprendemosjuntos.bbva.com/)
+- [all videos: aprendemos juntos mex](https://www.youtube.com/@AprendemosJuntos_mex/videos)
 
 ---
 - 25.09 [Luis Jorge Arnau, escritor y editor: Creer en México para poder crearlo](https://www.youtube.com/watch?v=OI8wnZzlxbM)
