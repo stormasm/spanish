@@ -1,6 +1,7 @@
 
 - [aprendemos junto 2030](https://aprendemosjuntos.bbva.com/)
 
+- 25.09 [Luis Jorge Arnau, escritor y editor: Creer en México para poder crearlo](https://www.youtube.com/watch?v=OI8wnZzlxbM)
 - 25.09 [Ignacio March, biólogo: La gran aventura de cruzar la selva maya](https://www.youtube.com/watch?v=PvkKaVLF_e4)
 ---
 - 25.08 [José Gordon, periodista y escritor: El asombro cambia cómo vemos el mundo](https://www.youtube.com/watch?v=-WASV3r38Y4) - [wikipedia](https://en.wikipedia.org/wiki/Jos%C3%A9_Gordon)
