@@ -1,6 +1,7 @@
 
 - [aprendemos junto 2030](https://aprendemosjuntos.bbva.com/)
 
+---
 - 25.09 [Luis Jorge Arnau, escritor y editor: Creer en México para poder crearlo](https://www.youtube.com/watch?v=OI8wnZzlxbM)
 - 25.09 [Ignacio March, biólogo: La gran aventura de cruzar la selva maya](https://www.youtube.com/watch?v=PvkKaVLF_e4)
 ---
