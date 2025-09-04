@@ -113,6 +113,7 @@
 | | | | |
 | - | - | - | - |
 | el pasatiempo | hobby | Mi pasatiempo favorito es caminar | Walking is my favorite hobby |
+| la piña | pineapple | Me encanta ponerle piña a mi pizza | I love to put pineapple on my pizza |
 | la planta baja | first floor | Tome el elevador para ir a la planta baja | Take the elevator to go to the first floor |
 
 ### Q
