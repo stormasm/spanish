@@ -31,3 +31,10 @@ Throughout the series of stories about Heredia, we have been able to increasingl
 ### References
 
 - http://www.letras.mysite.com/eterovic050302.htm
+- https://lom.cl/products/el-ojo-del-alma-2a-edicion
+
+---
+
+### Youtube
+
+- https://www.youtube.com/results?search_query=Heredia+y+Asociados+chile
