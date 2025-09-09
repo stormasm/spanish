@@ -88,7 +88,7 @@
 
 | | | | |
 | - | - | - | - |
-
+| lloviznar | to drizzle | Está comenzando a lloviznar | It is starting to drizzle |
 
 ### M
 
