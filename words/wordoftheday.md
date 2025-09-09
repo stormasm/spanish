@@ -129,6 +129,7 @@
 | | | | |
 | - | - | - | - |
 | el reto | challenge | El maratón será un gran reto para mí | The marathon will be a great challenge for me |
+| rumbear | to party | Mis amigos y yo salimos a rumbear el sábado | My friends and I went out partying on Saturday |
 
 ### S
 
