@@ -35,6 +35,7 @@
 | | | | |
 | - | - | - | - |
 | descalzo | barefoot | Ando descalzo, y la arena me está quemando los pies | I'm barefoot, and the sand is burning my feet |
+| despejado | clear | El cielo está completamente despejado | The sky is completely clear |
 
 ### E
 
