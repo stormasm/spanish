@@ -7,6 +7,7 @@
 
 | | | | |
 | - | - | - | - |
+| el acantilado | cliff | Me detuve a ver el mar desde el acantilado | I stopped to watch the sea from the cliff |
 | adornado | decorated | El árbol de Navidad está bien adornado | The Christmas tree is decorated well |
 | almorzar | to have lunch | Almorcé con mi amigo | I had lunch with my friend |
 | el aventón | ride | ¿Me puedes dar un aventón? | Can you give me a ride |
