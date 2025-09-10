@@ -126,3 +126,19 @@ llevaba seis meses tratando de no fumar, I had been trying not to smoke for six 
 #### page 22
 
 habia subido unos gramos en los ultimos meses, pero aun me sentia agil capaz de andar, I had gained a few grams in the last few months, but I still felt agile, able to walk.
+
+## Chapter 5
+
+#### page 24
+
+desperte con el recuerdo de traverso
+
+habia sonado durante todo la noche
+
+I woke up with the memory of Traverso
+
+He had been on my mind all night.
+
+lo vi dar unos pasos y luego detenerse junto a la puerte del dormitorio - I saw him take a few steps and then stop by the bedroom door.
+
+conversar de negocios me abre el apetito - Talking about business makes me hungry
