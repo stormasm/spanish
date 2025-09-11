@@ -11,6 +11,7 @@
 | adornado | decorated | El árbol de Navidad está bien adornado | The Christmas tree is decorated well |
 | la almeja | clam | La almeja fue arrastrada a la playa por la corriente | The clam was washed up on the beach by the current |
 | almorzar | to have lunch | Almorcé con mi amigo | I had lunch with my friend |
+| el aprendizaje | learning | El aprendizaje de matematica es un pan comido con un buen maestro | Learning mathematics is a piece of cake with a good teacher |
 | el aventón | ride | ¿Me puedes dar un aventón? | Can you give me a ride |
 | el apio | celery | Voy a echarle apio a la ensalada | I'm going to add celery to the salad |
 | ardiente | burning | La palmera me protege del sol ardiente |The palm tree protects me from the burning sun |
