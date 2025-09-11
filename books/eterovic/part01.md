@@ -142,3 +142,13 @@ He had been on my mind all night.
 lo vi dar unos pasos y luego detenerse junto a la puerte del dormitorio - I saw him take a few steps and then stop by the bedroom door.
 
 conversar de negocios me abre el apetito - Talking about business makes me hungry
+
+#### page 25
+
+Diez de la manana, escuche decir a Campbell.   
+acabo de ganar una cena   
+aposte con vinas a que llamarias antes del mediodia
+
+Ten in the morning, I heard Campbell say.   
+I just won a dinner.   
+I bet you'd call before noon.
