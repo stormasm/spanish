@@ -17,6 +17,7 @@
 | el aventón | ride | ¿Me puedes dar un aventón? | Can you give me a ride |
 | el apio | celery | Voy a echarle apio a la ensalada | I'm going to add celery to the salad |
 | ardiente | burning | La palmera me protege del sol ardiente |The palm tree protects me from the burning sun |
+| el azulejo | tile | Las paredes están adornadas con azulejos preciosos | The walls are adorned with beautiful tiles |
 
 ### B
 
@@ -148,7 +149,7 @@
 | la sandía | watermellon | Compré una sandía y varias ciruelas | I bought a watermelon and some plums |
 | sediento | thirsty | Milo estaba sediento después de jugar por horas | Milo was thirsty after playing for hours |
 | soleado | sunny | Hoy hace un día muy soleado | It's really sunny today |
-| el sorbo | sip | Edgar tomó un sorbo de su café | Edgar took a sip of his coffee | 
+| el sorbo | sip | Edgar tomó un sorbo de su café | Edgar took a sip of his coffee |
 
 ### T
 
