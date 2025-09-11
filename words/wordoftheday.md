@@ -30,6 +30,7 @@
 | caluroso | hot | Nos metemos en el río en días calurosos | We go into the river on hot days |
 | el cangrejo | crab | El cangrejo abrió y cerró sus tenazas | The crab opened and closed its pincers |
 | charlar | to chat | Nos pasamos la tarde charlando en el café | we spent the afternoon chatting at the cafe |
+| la clara | egg white | Necesito tres claras para hacer los merengues | I need three egg whites to make the meringues |
 | la corazonada | hunch | Tengo la corazonada de que algo va a pasar | I have a hunch that something will happen |
 
 ### D
