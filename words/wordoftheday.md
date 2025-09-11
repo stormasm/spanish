@@ -148,6 +148,7 @@
 | la sandía | watermellon | Compré una sandía y varias ciruelas | I bought a watermelon and some plums |
 | sediento | thirsty | Milo estaba sediento después de jugar por horas | Milo was thirsty after playing for hours |
 | soleado | sunny | Hoy hace un día muy soleado | It's really sunny today |
+| el sorbo | sip | Edgar tomó un sorbo de su café | Edgar took a sip of his coffee | 
 
 ### T
 
