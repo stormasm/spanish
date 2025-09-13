@@ -103,6 +103,7 @@
 
 | | | | |
 | - | - | - | - |
+| magro | lean | El doctor me dijo que comiera más carnes magras | The doctor told me to eat more lean meats |
 | la malteada | milkshake | Pedí una hamburguesa y una malteada de fresa | I ordered a burger and a strawberry milkshake |
 | la manga | sleeve | Tengo un hueco en mi manga | My sleeve has a hole in it |
 | masticar | to chew | El panda está masticando unas hojas de bambú | The panda is chewing on some bamboo leaves |
