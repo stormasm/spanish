@@ -152,3 +152,31 @@ aposte con vinas a que llamarias antes del mediodia
 Ten in the morning, I heard Campbell say.   
 I just won a dinner.   
 I bet you'd call before noon.
+
+#### page 27
+
+tras de la camara habia estado galvez, galvez had been behind the camera
+
+una huella notalgia
+
+la advertencia de alguien que cobra sus cuentas
+
+y que seria de cada uno de los que aparecian retratados en la foto
+
+noticias vagas
+
+siempre apremiados por la prisa y los compromisos de las nuevas vidas
+
+pablo prolongando su ignoto final
+
+A trace of nostalgia
+
+The warning from someone who collects their bills
+
+And what would become of each of those portrayed in the photo
+
+Vague news
+
+Always pressed by the rush and commitments of new lives
+
+Pablo prolonging his unknown end
