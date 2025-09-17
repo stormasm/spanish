@@ -23,7 +23,7 @@ Que nos puso puntual ahí
 Blessed be your presence  
 Bendita sea tu presencia
 
-Blessed God for finding us  
+Blessed God for joining us  
 Bendito Dios por encontrarnos
 
 On the way  
