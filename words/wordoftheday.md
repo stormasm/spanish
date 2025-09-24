@@ -72,7 +72,7 @@
 | la hamaca | hammock | Voy a tomar una siesta en esta hamaca | I am going to take a nap in this hammock |
 | el héroe | hero | No todos los héroes llevan capa, pero yo sí | Not all heroes wear capes, but I do |
 | el higo | fig | Me gustan los higos porque son dulces | I like figs because they're sweet |
-
+| hogareño | home loving | Soy una persona hogareña. Me gusta quedarme en casa | I'm a home-loving person. I like staying in |
 
 ### I
 
