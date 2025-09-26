@@ -112,6 +112,7 @@
 | a menudo | often | Vengo a esta tienda a menudo | I come to this store often |
 | meterse | to go in, to enter | Empezó a llover y se metieron en la casa | It started raining and they went in the house - ref: caluroso |
 | el mochilero | backpacker | Conocí a muchos mochileros en mis viajes | I met many backpackers during my travels |
+| el murciélago | bat | Los murciélagos son los únicos mamíferos que vuelan | Bats are the only mammals that fly |
 
 ### N
 
