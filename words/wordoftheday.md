@@ -51,8 +51,8 @@
 | | | | |
 | - | - | - | - |
 | eficaz | effective | En muchos casos esta práctica resulta para ser muy eficaz | In many instances this practice proves to be very effective |
+| embrujado | haunted | La gente dice que esa casa está embrujada | People say that house is haunted |
 | exhaustivo | comprehensive | Se terminó un año completo de monitoreo exhaustivo en Veracruz | Completed a full year of comprehensive monitoring in Veracruz |
-
 
 ### F
 
