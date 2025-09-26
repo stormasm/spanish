@@ -31,6 +31,7 @@
 
 | | | | |
 | - | - | - | - |
+| la calavera | skull | Las paredes de las catacumbas están cubiertas de calaveras | The walls of the catacombs are covered in skulls |
 | caluroso | hot | Nos metemos en el río en días calurosos | We go into the river on hot days |
 | el cangrejo | crab | El cangrejo abrió y cerró sus tenazas | The crab opened and closed its pincers |
 | canoso | gray haired | El dueño del hotel es un señor alto y canoso | The hotels owner is a tall, gray-haired man |
@@ -70,6 +71,7 @@
 | | | | |
 | - | - | - | - |
 | la hamaca | hammock | Voy a tomar una siesta en esta hamaca | I am going to take a nap in this hammock |
+| hechizar | to cast a spell on | El hechicero trató de hechizarme | The wizard tried to cast a spell on me |
 | el héroe | hero | No todos los héroes llevan capa, pero yo sí | Not all heroes wear capes, but I do |
 | el higo | fig | Me gustan los higos porque son dulces | I like figs because they're sweet |
 | hogareño | home loving | Soy una persona hogareña. Me gusta quedarme en casa | I'm a home-loving person. I like staying in |
