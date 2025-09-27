@@ -38,6 +38,7 @@
 | charlar | to chat | Nos pasamos la tarde charlando en el café | we spent the afternoon chatting at the cafe |
 | la clara | egg white | Necesito tres claras para hacer los merengues | I need three egg whites to make the meringues |
 | la corazonada | hunch | Tengo la corazonada de que algo va a pasar | I have a hunch that something will happen |
+| cosechar | to harvest | Ya es casi tiempo de cosechar la calabaza de invierno | It's almost time to harvest the winter squash |
 
 ### D
 
