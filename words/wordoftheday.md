@@ -19,6 +19,7 @@
 | el apio | celery | Voy a echarle apio a la ensalada | I'm going to add celery to the salad |
 | ardiente | burning | La palmera me protege del sol ardiente |The palm tree protects me from the burning sun |
 | azucarado | sugary | Los jugos azucarados son malos para tus dientes | Sugary juices are bad for your teeth |
+||| No me gusta el té azucarado; lo tomo solo con leche | I don't like sweet tea | I just have it with milk |
 | el azulejo | tile | Las paredes están adornadas con azulejos preciosos | The walls are adorned with beautiful tiles |
 
 ### B
