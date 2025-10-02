@@ -18,6 +18,7 @@
 | el aventón | ride | ¿Me puedes dar un aventón? | Can you give me a ride |
 | el apio | celery | Voy a echarle apio a la ensalada | I'm going to add celery to the salad |
 | ardiente | burning | La palmera me protege del sol ardiente |The palm tree protects me from the burning sun |
+| azucarado | sugary | Los jugos azucarados son malos para tus dientes | Sugary juices are bad for your teeth |
 | el azulejo | tile | Las paredes están adornadas con azulejos preciosos | The walls are adorned with beautiful tiles |
 
 ### B
