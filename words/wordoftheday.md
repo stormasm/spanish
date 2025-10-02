@@ -171,6 +171,7 @@
 | templado | mild | La zona goza de un clima templado todo el año | The area enjoys mild weather all year round |
 | la tiza | chalk | El profesor agarró un trozo de tiza y comenzó a escribir | The teacher grabbed a piece of chalk and started writing |
 | el trapeador | mop | Busca el trapeador y limpia este desastre | Get the mop and clean this mess |
+| trasnochar | to stay up late | No quiero trasnochar porque mañana tengo que madrugar | I don't want to stay up late because tomorrow I have to get up early |
 
 ### U
 
