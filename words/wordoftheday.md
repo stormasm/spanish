@@ -75,6 +75,7 @@
 | | | | |
 | - | - | - | - |
 | la hamaca | hammock | Voy a tomar una siesta en esta hamaca | I am going to take a nap in this hammock |
+| la hebilla | buckle | Tengo un cinturón negro con una hebilla plateada | I have a black belt with a silver buckle |
 | hechizar | to cast a spell on | El hechicero trató de hechizarme | The wizard tried to cast a spell on me |
 | el héroe | hero | No todos los héroes llevan capa, pero yo sí | Not all heroes wear capes, but I do |
 | el higo | fig | Me gustan los higos porque son dulces | I like figs because they're sweet |
