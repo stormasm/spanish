@@ -133,6 +133,7 @@
 | | | | |
 | - | - | - | - |
 | el pasatiempo | hobby | Mi pasatiempo favorito es caminar | Walking is my favorite hobby |
+| el patinaje | skating | El patinaje artístico es mi deporte olímpico favorito | Figure skating is my favorite Olympic sport |
 | la piña | pineapple | Me encanta ponerle piña a mi pizza | I love to put pineapple on my pizza |
 | la piragua | canoe | Cruzamos el río en piragua | We crossed the river by canoe |
 | la planta baja | first floor | Tome el elevador para ir a la planta baja | Take the elevator to go to the first floor |
