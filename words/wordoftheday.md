@@ -135,6 +135,7 @@
 
 | | | | |
 | - | - | - | - |
+| parpadear | to blink | Sé que no puedes hablar, así que parpadea una vez para contestar si, y dos veces para contestar no | I know you can not talk, so blink once for yes and twice for no |
 | el pasatiempo | hobby | Mi pasatiempo favorito es caminar | Walking is my favorite hobby |
 | el patinaje | skating | El patinaje artístico es mi deporte olímpico favorito | Figure skating is my favorite Olympic sport |
 | la piña | pineapple | Me encanta ponerle piña a mi pizza | I love to put pineapple on my pizza |
