@@ -27,3 +27,5 @@
 - x equis
 - y e griega
 - z setah
+- ñ enyeah
+- ll elay o la
