@@ -1,0 +1,29 @@
+
+### Alphabet
+
+- a ah
+- b bay
+- c say
+- d day
+- e a
+- f effay
+- g hey
+- h ache
+- i e
+- j hota
+- k kah
+- l elle
+- m emme
+- n enne
+- o oh
+- p pay
+- q koo
+- r erre
+- s esse
+- t tay
+- u ooo
+- v vey
+- w doble vey
+- x equis
+- y e griega
+- z setah
