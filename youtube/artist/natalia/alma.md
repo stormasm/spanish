@@ -63,3 +63,13 @@ Si yo encontrara un alma
 
 If I found a soul like mine, oh oh   
 Si yo encontrara un alma como la mía, oh oh
+
+### References
+
+- [Natalia Lafourcade - Alma Mía - En Manos de Los Macorinos](https://www.youtube.com/watch?v=zZGF3vRDyIE)
+- [Natalia Lafourcade - Los Macorinos - Alma Mía (Letra)](https://www.youtube.com/watch?v=NgQ4L1P4WEA)
+- [Another version with Lyrics](https://www.youtube.com/watch?v=b3gw8KgRi3c)
+
+### google lyrics
+
+- [google lyrics](https://www.google.com/search?q=natalia+lafourcade+lyrics+alma+mia&rlz=1C5OZZY_enUS1141US1141&oq=natalia+lafourcade+lyrics+alma+mia&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMgcIBBAAGO8FMgcIBRAAGO8F0gEJMTYwMzRqMWo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
