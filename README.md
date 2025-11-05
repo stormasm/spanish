@@ -1,10 +1,12 @@
 
 - who, what, where, how
-- 
+-
 - ser = who you are
 - ser = what you are
 - estar = where you are
 - estar = how you are
+- permanent versus temporary
+- [I was in spanish](https://www.youtube.com/watch?v=RubvgfZEVus)
 
 ---
 
