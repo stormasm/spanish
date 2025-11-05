@@ -1,3 +1,13 @@
+
+- who, what, where, how
+- 
+- ser = who you are
+- ser = what you are
+- estar = where you are
+- estar = how you are
+
+---
+
 - se trata del viaje, no del destino
 - el universo continuará ensenarme y guiarme mi toda vida
 - el universo continuara ensenandome y guiandome todo vida [alternate version]
