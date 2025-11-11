@@ -155,6 +155,7 @@
 | el reto | challenge | El maratón será un gran reto para mí | The marathon will be a great challenge for me |
 | el retrato | portrait | Hay muchos retratos en la galería | There are many portraits in the gallery |
 | risueño | smiling |  Su cara risueña delata su felicidad | His smiling face broadcasts his happiness |
+| roncar | to snore | El cachorro ronca cuando duerme | The puppy snores when he's asleep |
 | rumbear | to party | Mis amigos y yo salimos a rumbear el sábado | My friends and I went out partying on Saturday |
 
 ### S
