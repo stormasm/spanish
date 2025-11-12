@@ -33,8 +33,8 @@
 &nbsp;
 [V](./wordoftheday.md#v)
 [W](./wordoftheday.md#w)
-[X](./wordoftheday.md#x)
 &nbsp;
+[X](./wordoftheday.md#x)
 [Y](./wordoftheday.md#y)
 [Z](./wordoftheday.md#z)
 
