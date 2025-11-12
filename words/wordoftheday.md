@@ -9,7 +9,6 @@
 &nbsp;
 [D](./wordoftheday.md#d)
 [E](./wordoftheday.md#e)
-&nbsp;
 [F](./wordoftheday.md#f)
 &nbsp;
 [G](./wordoftheday.md#g)
