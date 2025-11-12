@@ -79,6 +79,7 @@
 
 | | | | |
 | - | - | - | - |
+| el cachorro | puppy | El cachorro se durmió en mis brazos | The puppy fell asleep in my arms |
 | la calavera | skull | Las paredes de las catacumbas están cubiertas de calaveras | The walls of the catacombs are covered in skulls |
 | caluroso | hot | Nos metemos en el río en días calurosos | We go into the river on hot days |
 | el cangrejo | crab | El cangrejo abrió y cerró sus tenazas | The crab opened and closed its pincers |
