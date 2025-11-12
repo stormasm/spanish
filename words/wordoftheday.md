@@ -1,8 +1,8 @@
 
 - [Word of the Day](https://www.spanishdict.com/wordoftheday)
 
-[A](./#a)
-[B](./#b)
+[A](./wordoftheday.md#a)
+[B](./wordoftheday.md#b)
 
 ---
 
