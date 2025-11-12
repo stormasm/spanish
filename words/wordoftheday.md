@@ -46,9 +46,6 @@
 [Y](./wordoftheday.md#y)
 [Z](./wordoftheday.md#z)
 
-
-
-
 ---
 
 ### A
@@ -330,3 +327,47 @@
 | la aguafiestas | party pooper | No seas un aguafiestas! Ven al parque con nosotros | Don't be a party pooper! Come to the park with us |
 
 ---
+
+
+- [A](./wordoftheday.md#a)
+[B](./wordoftheday.md#b)
+[C](./wordoftheday.md#c)
+&nbsp;
+&nbsp;
+[D](./wordoftheday.md#d)
+[E](./wordoftheday.md#e)
+[F](./wordoftheday.md#f)
+&nbsp;
+&nbsp;
+[G](./wordoftheday.md#g)
+[H](./wordoftheday.md#h)
+[I](./wordoftheday.md#i)
+&nbsp;
+&nbsp;
+[J](./wordoftheday.md#j)
+[K](./wordoftheday.md#k)
+[L](./wordoftheday.md#l)
+&nbsp;
+&nbsp;
+[M](./wordoftheday.md#m)
+[N](./wordoftheday.md#n)
+[O](./wordoftheday.md#o)
+&nbsp;
+&nbsp;
+[P](./wordoftheday.md#p)
+[Q](./wordoftheday.md#q)
+[R](./wordoftheday.md#r)
+&nbsp;
+&nbsp;
+[S](./wordoftheday.md#s)
+[T](./wordoftheday.md#t)
+[U](./wordoftheday.md#u)
+&nbsp;
+&nbsp;
+[V](./wordoftheday.md#v)
+[W](./wordoftheday.md#w)
+&nbsp;
+&nbsp;
+[X](./wordoftheday.md#x)
+[Y](./wordoftheday.md#y)
+[Z](./wordoftheday.md#z)
