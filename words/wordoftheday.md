@@ -8,7 +8,7 @@
 [C](./wordoftheday.md#c)
 [D](./wordoftheday.md#d)
 [E](./wordoftheday.md#e)
-&npsp;
+&nbsp;
 [F](./wordoftheday.md#f)
 [G](./wordoftheday.md#g)
 [H](./wordoftheday.md#h)
