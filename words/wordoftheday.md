@@ -3,6 +3,14 @@
 
 [A](./wordoftheday.md#a)
 [B](./wordoftheday.md#b)
+[C](./wordoftheday.md#c)
+[D](./wordoftheday.md#d)
+[E](./wordoftheday.md#e)
+[F](./wordoftheday.md#f)
+[G](./wordoftheday.md#g)
+[H](./wordoftheday.md#h)
+[I](./wordoftheday.md#i)
+[J](./wordoftheday.md#j)
 
 ---
 
