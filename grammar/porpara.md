@@ -31,5 +31,6 @@
 
 ##### Youtube videos on the topic of porpara
 
+- [Real Fast Spanish: 12 Essential Anchor Phrases](https://www.youtube.com/watch?v=y75CgjmrLnQ)
 - [Real Fast Spanish](https://www.youtube.com/watch?v=dBY2HEWyOEQ)
 - [Qroo Paul](https://www.youtube.com/watch?v=D3hnQuaKK_8)
