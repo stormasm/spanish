@@ -1,4 +1,8 @@
 
+### Spanish with Diana Palafox
+
+- [I Moved to Guanajuato!](https://www.youtube.com/watch?v=IuxWoIYUjP8)
+
 ### Spanish Meditation
 
 Vídeo de nueve minutos que habla sobre cómo los hábitos que creamos en la vida se pueden cambiar para mejor.
