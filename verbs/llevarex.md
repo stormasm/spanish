@@ -27,3 +27,4 @@
 - [Qroo Paul: Llevar + gerundio ](https://www.youtube.com/watch?v=qryYrFVtnWo)
 - [Hola Spanish: Llevar 5 Usos y Expresiones](https://www.youtube.com/watch?v=NuiaC6DyACI)
 - [Easy Spanish: 6 Essential Uses of Llevar](https://www.youtube.com/watch?v=V03xCKHn7u8)
+- [Butterfly Spanish: to bring - Llevar or Traer](https://www.youtube.com/watch?v=Q4cLOkuCA2k)
