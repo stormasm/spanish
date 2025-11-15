@@ -28,3 +28,8 @@
 - [Hola Spanish: Llevar 5 Usos y Expresiones](https://www.youtube.com/watch?v=NuiaC6DyACI)
 - [Easy Spanish: 6 Essential Uses of Llevar](https://www.youtube.com/watch?v=V03xCKHn7u8)
 - [Butterfly Spanish: to bring - Llevar or Traer](https://www.youtube.com/watch?v=Q4cLOkuCA2k)
+- [The Language Tutor: Llevar](https://www.youtube.com/watch?v=1LDGt_lrBgo)
+- [Llevar - 12 meanings and expressions](https://www.youtube.com/watch?v=R6OZ7LSkkVQ)
+- [Quick Spanish - 7 common uses of Llevar](https://www.youtube.com/watch?v=DAI8jAg0p9I)
+- [Spanish with Ana - in Spanish](https://www.youtube.com/watch?v=1PHvfyWjLPg)
+- [Spanish with Hoani](https://www.youtube.com/watch?v=8tB5qDjWlzA)
