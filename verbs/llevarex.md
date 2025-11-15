@@ -22,3 +22,5 @@
 ## References
 
 - [Real Fast Spanish: 9 Must-Know Uses of Llevar](https://www.youtube.com/watch?v=zCvk_vut3b8)
+- [Qroo Paul: Different ways to use llevar](https://www.youtube.com/watch?v=kcEY7LuxKbs)
+- [Qroo Paul: Llevar + gerundio ](https://www.youtube.com/watch?v=qryYrFVtnWo)
