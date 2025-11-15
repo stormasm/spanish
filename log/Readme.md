@@ -1,4 +1,14 @@
 
+## 2025 Autumn
+
+- Todo lo que puedes hacer es vivir en el momento - All that you can do is live in the moment
+- Cuanto tiempo llevas - How long have you been here
+- Cuanto tiempo llevas viviendo aquí - How long have you been living here
+- Llevo tres años - I have been here 3 years
+- Llevo tres años estudiando español - I have been studying Spanish for 3 years
+
+---
+
 ## 2025 Summer
 
 ---
