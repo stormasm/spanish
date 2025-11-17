@@ -1,7 +1,8 @@
 
 ## 2025 Autumn
 
-- Todo lo que puedes hacer es vivir en el momento - All that you can do is live in the moment
+- Vamos a pasar el fin de semana a la playa - We are going to spend the weekend at the beach.
+- Todo lo que puedes hacer es vivir en el momento - All that you can do is live in the moment.
 
 #### Llevar Core
 
