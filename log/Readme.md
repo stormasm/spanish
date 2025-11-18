@@ -10,7 +10,6 @@
 - me levanto temprano - I get up early
 - me acuesto temprano - I go to bed late
 -
--
 - Si nos levantamos temprano, podremos ver la salida del sol - If we get up early, we'll be able to watch the sunrise.
 - Si quieres despertarte temprano por la mañana, debes acostarte temprano - If you want to wake up early in the morning, you must go to bed early
 - Anoche estuve viendo la tele y me acosté tarde.I was watching TV last night and went to bed late.
