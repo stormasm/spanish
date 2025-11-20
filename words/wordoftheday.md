@@ -179,6 +179,7 @@
 
 | | | | |
 | - | - | - | - |
+| el ocio | leisure | Es importante dejar tiempo para el ocio | It is important to leave time for leisure |
 | el otoño | autumn | Las hojas cambian de color en el otoño | The leaves change color in the fall |
 
 ### P
