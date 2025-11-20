@@ -154,6 +154,7 @@
 | | | | |
 | - | - | - | - |
 | lloviznar | to drizzle | Está comenzando a lloviznar | It is starting to drizzle |
+| el luto | mourning | La nación está de luto hoy | The nation is in mourning today |
 
 ### M
 
