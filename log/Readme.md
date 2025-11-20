@@ -33,6 +33,7 @@
 ## 2025 Summer
 
 ---
+- ser = permanent, estar = temporary [one way to look at this]
 - ser: who or what you are
 - estar: where or how you are
 ---
