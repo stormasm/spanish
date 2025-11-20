@@ -111,6 +111,7 @@
 | - | - | - | - |
 | el faro | lighthouse | El faro alumbraba la entrada al puerto | The lighthouse lit the way into the harbor |
 | la fuente | fountain | Hay una fuente en medio del jardín | There is a fountain in the middle of the garden |
+| fluir | to flow | El agua del río fluye hacia el lago | The water from the river flows into the lake |
 
 ### G
 
