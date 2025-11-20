@@ -12,8 +12,8 @@ Yes, "fui" in Spanish can mean either "I went" or "I was" because it is the firs
 
 The correct meaning is determined by the context of the sentence.
 
-- ir (to go)	I went	Fui a la tienda ayer (I went to the store yesterday.)
-- ser (to be)	I was	  Fui profesor por 10 años. (I was a teacher for 10 years
+- ir (to go) - I went - Fui a la tienda ayer - I went to the store yesterday
+- ser (to be)	- I was - Fui profesor por 10 años - I was a teacher for 10 years
 
 #### acostarse, despertarse, levantarse
 
