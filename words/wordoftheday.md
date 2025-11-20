@@ -117,8 +117,8 @@
 
 | | | | |
 | - | - | - | - |
+| chismear | to gossip | Ana le encanta chismear sobre los demás | Ana loves to gossip about others |
 | la golosina | candy | podemos comer golosinas después de la cena | Can we eat candy after dinner |
-
 
 ### H
 
