@@ -9,7 +9,7 @@
 google search term: does fui in spanish mean I went and I was ?
 
 Yes, fui in Spanish can mean either `I went` or `I was`     
-because it is the first-person preterite (past tense) form for both the verbs ir ("to go") and ser ("to be").
+because it is the first-person preterite (past tense) form for both the verbs ir and ser
 
 The correct meaning is determined by the context of the sentence.
 
