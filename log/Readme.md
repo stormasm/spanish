@@ -4,6 +4,17 @@
 - Vamos a pasar el fin de semana a la playa - We are going to spend the weekend at the beach.
 - Todo lo que puedes hacer es vivir en el momento - All that you can do is live in the moment.
 
+#### fui can mean I went or I was
+
+google search term: does fui in spanish mean I went and I was ?
+
+Yes, "fui" in Spanish can mean either "I went" or "I was" because it is the first-person preterite (past tense) form for both the verbs ir ("to go") and ser ("to be").
+
+The correct meaning is determined by the context of the sentence.
+
+- ir (to go)	I went	Fui a la tienda ayer (I went to the store yesterday.)
+- ser (to be)	I was	  Fui profesor por 10 años. (I was a teacher for 10 years
+
 #### acostarse, despertarse, levantarse
 
 - me despierto temprano - I wake up early
