@@ -85,6 +85,7 @@
 | el cangrejo | crab | El cangrejo abrió y cerró sus tenazas | The crab opened and closed its pincers |
 | canoso | gray haired | El dueño del hotel es un señor alto y canoso | The hotels owner is a tall, gray-haired man |
 | charlar | to chat | Nos pasamos la tarde charlando en el café | we spent the afternoon chatting at the cafe |
+| chismear | to gossip | Ana le encanta chismear sobre los demás | Ana loves to gossip about others |
 | la clara | egg white | Necesito tres claras para hacer los merengues | I need three egg whites to make the meringues |
 | la corazonada | hunch | Tengo la corazonada de que algo va a pasar | I have a hunch that something will happen |
 | cosechar | to harvest | Ya es casi tiempo de cosechar la calabaza de invierno | It's almost time to harvest the winter squash |
@@ -117,7 +118,6 @@
 
 | | | | |
 | - | - | - | - |
-| chismear | to gossip | Ana le encanta chismear sobre los demás | Ana loves to gossip about others |
 | la golosina | candy | podemos comer golosinas después de la cena | Can we eat candy after dinner |
 
 ### H
