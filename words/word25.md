@@ -1,8 +1,8 @@
 
 ### enlace - link
 
-1. (connection) - link - 
-¿Cuál es el enlace entre este libro y tu reporte - What is the link between this book and your report?
+1. (connection) - link -
+Cuál es el enlace entre este libro y tu reporte - What is the link between this book and your report
 2. (chemistry) - bond -
 El enlace iónico es el tipo más fuerte de enlace químico - The ionic bond is the strongest type of chemical bond.
 3. (hyperlink)
