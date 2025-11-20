@@ -18,7 +18,7 @@ El enlace de estas ciudades beneficiará los ciudadanos de ambos lugares - The l
 masculine or feminine noun
 7. (connecting person) - liason -
 Él tuvo la difícil tarea de ser un enlace con el Mosad por 20 años - He had the difficult job of being liaison to Mossad for 20 years.   
-(go-between)  Cometió el error fatal de matar al enlace de Gengis Kan, por lo cual él y su gente fueron ejecutados.He made the fatal mistake of killing Genghis Khan's go-between, for which he and his people were executed.
+(go-between)  -  Cometió el error fatal de matar al enlace de Gengis Kan, por lo cual él y su gente fueron ejecutados.He made the fatal mistake of killing Genghis Khan's go-between, for which he and his people were executed.
 
 ---
 
