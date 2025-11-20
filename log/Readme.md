@@ -4,6 +4,11 @@
 - Vamos a pasar el fin de semana a la playa - We are going to spend the weekend at the beach.
 - Todo lo que puedes hacer es vivir en el momento - All that you can do is live in the moment.
 
+#### dejar
+
+- siempre `dejo` mi tele en casa cuando `salgo` - I always leave my phone at home when I go out
+- voy a `dejar` un `enlace` en la descripción - I will leave a link in the description
+
 ### fui can mean I went or I was
 
 google search term: does fui in spanish mean I went and I was ?
