@@ -7,7 +7,7 @@
 #### dejar
 
 - siempre `dejo` mi tele en casa cuando `salgo` - I always leave my phone at home when I go out
-- voy a `dejar` un `enlace` en la descripción - I will leave a link in the description
+- voy a `dejar` un [`enlace`](https://github.com/stormasm/spanish/blob/main/words/word25.md#enlace---link) en la descripción - I will leave a link in the description
 
 ### fui can mean I went or I was
 
