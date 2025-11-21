@@ -9,3 +9,4 @@
 ### References
 
 - [RFS @ 2:40](https://www.youtube.com/watch?v=DO4azB5hJp8)
+- [log dejar](https://github.com/stormasm/spanish/tree/main/log#dejar)
