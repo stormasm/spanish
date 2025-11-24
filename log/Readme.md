@@ -1,6 +1,8 @@
 
 ## 2025 Autumn
 
+- Gabriela Muñoz, Chula the Clown
+- El silencio me dio voz - silence gave me a voice
 - No mires el mercado de valores esta semana
 - A veces estoy muy inspirado por mi vida
 - amor por el idioma español
