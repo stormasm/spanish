@@ -20,3 +20,12 @@ The use of the subjunctive is often summarized by the acronym WEIRDO:
 - Recommendations and requests
 - Doubt and denial
 - Order/commands (specifically negative commands and formal commands)
+
+no mires el noticias esta semana
+
+The subjunctive mood is used in no mires el mercado de valores esta semana because it is a negative command or prohibition.
+
+In Spanish, the subjunctive mood is used for commands (imperative mood) when they are in the negative form (e.g., "do not look").
+
+A veces estoy muy inspirado por mi vida
+amor por el idioma español
