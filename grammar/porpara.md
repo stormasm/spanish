@@ -1,4 +1,9 @@
 
+### Every day examples that I come across for por
+
+- A veces estoy muy inspirado por mi vida
+- amor por el idioma español
+
 #### The Rules
 
 - use para to talk about our opinions
