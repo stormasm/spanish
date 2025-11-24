@@ -180,3 +180,7 @@ Vague news
 Always pressed by the rush and commitments of new lives
 
 Pablo prolonging his unknown end
+
+#### page 29
+
+campbell esperaba junto a la puerta de una casona - Campbell waited by the door of a large house

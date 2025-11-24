@@ -26,6 +26,3 @@ no mires el noticias esta semana
 The subjunctive mood is used in no mires el mercado de valores esta semana because it is a negative command or prohibition.
 
 In Spanish, the subjunctive mood is used for commands (imperative mood) when they are in the negative form (e.g., "do not look").
-
-A veces estoy muy inspirado por mi vida
-amor por el idioma español

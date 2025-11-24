@@ -4,8 +4,9 @@
 - Gabriela Muñoz, Chula the Clown
 - El silencio me dio voz - silence gave me a voice
 - No mires el mercado de valores esta semana
-- A veces estoy muy inspirado por mi vida
-- amor por el idioma español
+- a veces estoy muy inspirado por mi vida
+- a veces me siento muy inspirada por mi vida - sometimes I feel very inspired by my life.
+- sobre todo por mi amor por el idioma español - especially by my love for Spanish
 
 ---
 
