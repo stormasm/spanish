@@ -3,6 +3,7 @@
 
 - esperar junto la puerta - wait by the door
 - No mires el mercado de valores esta semana
+- No mires la bolsa de valores esta semana
 
 ---
 
@@ -11,6 +12,7 @@
 
 ---
 
+- todos están haciendo lo mejor que pueden - everyone is doing the best that they can
 - a veces estoy muy inspirado por mi vida
 - a veces me siento muy inspirada por mi vida - sometimes I feel very inspired by my life.
 - sobre todo por mi amor por el idioma español - especially by my love for Spanish
