@@ -1,8 +1,10 @@
 
 ### Every day examples that I come across for por
 
-- A veces estoy muy inspirado por mi vida
-- amor por el idioma español
+- esperare por ti - I will wait for you
+- a veces estoy muy inspirado por mi vida - sometimes I am
+- a veces me siento muy inspirada por mi vida - sometimes I feel very inspired by my life.
+- sobre todo por mi amor por el idioma español - especially by my love for Spanish
 
 #### The Rules
 
