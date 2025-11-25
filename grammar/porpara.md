@@ -6,6 +6,10 @@
 - a veces me siento muy inspirada por mi vida - sometimes I feel very inspired by my life.
 - sobre todo por mi amor por el idioma español - especially by my love for Spanish
 
+### Every day examples that I come across for para
+
+- algo para beber
+
 #### The Rules
 
 - use para to talk about our opinions
