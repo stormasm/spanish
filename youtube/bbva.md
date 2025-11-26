@@ -3,6 +3,7 @@
 - [all videos: aprendemos juntos mex](https://www.youtube.com/@AprendemosJuntos_mex/videos)
 
 ---
+- 25.11 [Viridiana Álvarez, alpinista. Con miedo también se suben las montañas](https://www.youtube.com/watch?v=ckXP8mwO1ko)
 - 25.11 [Gabriela Muñoz, Chula the Clown. "El silencio me dio voz"](https://www.youtube.com/watch?v=X1MYXTGcav0)
 ---
 - 25.09 [Iván Carrillo, periodista. Historias que nos enseñan a creer en el cambio](https://www.youtube.com/watch?v=8tQmYt12wmE)
