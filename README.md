@@ -10,6 +10,7 @@
 
 ---
 
+- estoy agradecido por todo lo que tengo - I am grateful for all I have
 - se trata del viaje, no del destino
 - el universo continuará ensenarme y guiarme mi toda vida
 - el universo continuara ensenandome y guiandome todo vida [alternate version]
