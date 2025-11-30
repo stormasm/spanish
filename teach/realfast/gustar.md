@@ -4,9 +4,10 @@
 The results of the data analysis showed the most commonly occurring ‘verbs like gustar’ in Spanish in order are:
 
 Order	English	Español
-1	To give	Dar
-2	To like	Gustar
-3	To make / do	Hacer
+
+1.	To give	Dar
+2.	To like	Gustar
+3.	To make / do	Hacer
 4	To seem	Parecer
 5	To go	Ir
 6	To permit / allow	Permitir
