@@ -4,6 +4,7 @@
 ### Blogs and Books
 
 - [Definitive Guide to Real Fast Spanish](https://www.realfastspanish.com/conversation-hacking-guide)
+- [The 25 Most Common Verbs Like Gustar](https://www.realfastspanish.com/vocabulary/verbs-like-gustar)
 
 ### Youtube
 
