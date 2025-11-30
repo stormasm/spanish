@@ -1,6 +1,12 @@
 
 ## Andrew Barr: Real Fast Spanish
 
+### Blogs and Books
+
+- [Definitive Guide to Real Fast Spanish](https://www.realfastspanish.com/conversation-hacking-guide)
+
+### Youtube
+
 - [n gram analysis por lo que](https://www.youtube.com/watch?v=4URFWAOaL64)
 - [por vs para](https://www.youtube.com/watch?v=dBY2HEWyOEQ)
 - [por vs para - the other uses](https://www.youtube.com/watch?v=Sh8YV3jT9JY)
