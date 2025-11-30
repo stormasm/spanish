@@ -1,4 +1,8 @@
 
+- [preply: how to conjugate gustar](https://preply.com/en/blog/gustar-conjugation/)
+- [realfast: gustar youtube](https://www.youtube.com/watch?v=2g6TmTBCgLg) -- [realfast: verbs like gustar](https://www.realfastspanish.com/vocabulary/verbs-like-gustar)
+
+---
 
 | | |
 |-|-|
