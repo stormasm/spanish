@@ -1,18 +1,17 @@
 
 ## November 2025
 
-### bueno / bien
+### [bueno](https://www.spanishdict.com/translate/bueno) - [bien](https://www.spanishdict.com/translate/bien)
 
-##### bien is an adjective
+##### bien is an adverb meaning well or good
 
-- bien - well / good
+- todo bien is a shortened form of 'todo esta bien' where bien modifies the verb
 
 ##### bueno is an adjective   
 `Bueno` becomes `buen` before masculine singular nouns.
 
 - la vida es buena
 - estamos teniendo un buen dia
-- todo bien is a shortened form of 'todo esta bien' where bien modifies the verb
 
 ### todo lo que
 
