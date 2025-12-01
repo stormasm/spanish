@@ -1,5 +1,27 @@
 
-### verbs like gustar
+### dar
+
+- me da igual - I don't care
+- me da igual la verdad - I don't really care
+- me da igual todo - I don't care about anything
+- me da miedo hablar en público - I'm afraid to speak in public
+- me da vergüenza - I am ashamed / embarrassed
+- me da vergüenza decirlo - I am ashamed / embarrassed to say it
+- me da vergüenza contigo - I am embarrassed in front of you
+- me da pena - I feel sorry for you
+- me da pena irme - I am sad to leave - I feel bad leaving
+- me da pena ver al viejo solo en el parque - It makes me sad to see the old man alone in the park
+- Ella está a punto de dar a luz - She is about to give birth
+- darse cuenta de - to realize something
+- Acabo de darme cuenta de que he olvidado mi cartera - I just realised that I have forgot my wallet
+- En ese momento me di cuenta que tenía un gran problema - in that moment I realised I had a big problem
+- me puedes dar un consejo - can you give me some advice
+
+#### past tense
+
+- en ese momento le dio miedo pedir ayuda - at that moment it gave him fear to ask for help.
+
+# verbs like gustar
 
 The results of the data analysis showed the most commonly occurring ‘verbs like gustar’ in Spanish in order are:
 
