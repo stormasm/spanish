@@ -31,6 +31,11 @@
 
 - en ese momento le dio miedo pedir ayuda - at that moment it gave him fear to ask for help.
 
+### dar references
+
+- [darex](./../../verbs/darex.md)
+
+
 # verbs like gustar
 
 The results of the data analysis showed the most commonly occurring ‘verbs like gustar’ in Spanish in order are:

@@ -1,4 +1,12 @@
 
+- me da pena contigo - I feel sorry for you
+- le - he feels sorry for you
+- la - she
+- nos - we
+- les - they
+- te da pena contigo - you feel sorry for yourself
+
+---
 
 | | |
 |-|-|
