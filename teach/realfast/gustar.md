@@ -14,21 +14,32 @@ The results of the data analysis showed the most commonly occurring ‘verbs lik
 
 ---
 
-6.	To permit / allow	Permitir
-7.	To interest	Interesar
-8.	To remain	Quedar
-9.	To pass	Pasar
-10.	To call	Llamar
+| | E | S |
+| - | - | - |
+| 6. |	To permit / allow	| Permitir |
+| 7. |	To interest	| Interesar |
+| 8. |	To remain	| Quedar |
+| 9. |	To pass	| Pasar |
+| 10. |	To call	| Llamar |
+
+---
+
 11.	To occur	Ocurrir
 12.	To be important	Importar
 13.	To leave	Dejar
 14.	To take	Llevar
 15.	To put	Poner
+
+---
+
 16.	To lack	Faltar
 17.	To touch	Tocar
 18.	To cost / be difficult	Costar
 19.	To come	Venir
 20.	To delight / love	Encantar
+
+---
+
 21.	To offer	Ofrecer
 22.	To serve	Servir
 23.	To arrive	Llegar
