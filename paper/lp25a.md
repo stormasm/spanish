@@ -18,8 +18,6 @@
 - todo lo que puedes hacer es vivir en el momento - all that you can do is to live in the moment
 - estoy [agradecido](https://www.spanishdict.com/translate/agradecido) por todo lo que tengo - I am grateful for all that I have
 
----
-
 ### tratarse - to be about
 
 - no se trata de dinero - its not about the money
