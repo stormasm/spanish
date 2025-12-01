@@ -25,7 +25,7 @@
 - no se trata de dinero - its not about the money
 - se trata del viaje no del destino - its all about the journey not the destination
 
----
+## Verbs
 
 ### dejar
 
