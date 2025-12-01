@@ -160,4 +160,4 @@ The correct meaning is determined by the context of the sentence.
 
 ### Local References
 
-- [little paper](./paper)
+- [little paper](./../paper)
