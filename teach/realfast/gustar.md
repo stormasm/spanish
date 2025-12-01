@@ -11,10 +11,10 @@
 - me da pena - I feel sorry for you
 - me da pena irme - I am sad to leave - I feel bad leaving
 - me da pena ver al viejo solo en el parque - It makes me sad to see the old man alone in the park
-- Ella está a punto de dar a luz - She is about to give birth
+- ella está a punto de dar a luz - She is about to give birth
 - darse cuenta de - to realize something
-- Acabo de darme cuenta de que he olvidado mi cartera - I just realised that I have forgot my wallet
-- En ese momento me di cuenta que tenía un gran problema - in that moment I realised I had a big problem
+- acabo de darme cuenta de que he olvidado mi cartera - I just realised that I have forgot my wallet
+- en ese momento me di cuenta que tenía un gran problema - in that moment I realised I had a big problem
 - me puedes dar un consejo - can you give me some advice
 
 #### past tense
