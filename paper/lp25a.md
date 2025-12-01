@@ -1,6 +1,19 @@
 
 ## November 2025
 
+### bueno / bien
+
+##### bien is an adjective
+
+- bien - well / good
+
+##### bueno is an adjective   
+`Bueno` becomes `buen` before masculine singular nouns.
+
+- la vida es buena
+- estamos teniendo un buen dia
+- todo bien is a shortened form of 'todo esta bien' where bien modifies the verb
+
 ### todo lo que
 
 - todo lo que puedes hacer es vivir en el momento
@@ -44,3 +57,7 @@
 ### pasar
 
 - vamos a pasar el fin de semana a la playa - we are going to spend the weekend at the beach
+
+### saber
+
+- sabré más mañana - I will know more tomorrow
