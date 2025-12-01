@@ -6,11 +6,11 @@ The results of the data analysis showed the most commonly occurring ‘verbs lik
 
 | | E | S |
 | - | - | - |
-| 1. |	To give	| Dar |
-| 2. |  To like	| Gustar |
-| 3. |	To make / do	| Hacer |
-| 4. |	To seem	| Parecer |
-| 5. |	To go	| Ir |
+| 1. |	to give	| dar |
+| 2. |  to like	| gustar |
+| 3. |	to make / do	| hacer |
+| 4. |	to seem	| parecer |
+| 5. |	to go	| ir |
 
 ---
 
