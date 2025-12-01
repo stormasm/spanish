@@ -6,6 +6,10 @@
 - les - they
 - te da pena contigo - you feel sorry for yourself
 
+### references
+
+- [verbs like gustar for dar](./../teach/realfast/gustar.md#dar)
+
 ---
 
 | | |
