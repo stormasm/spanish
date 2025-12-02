@@ -3,7 +3,7 @@
 
 note that we use a noun with dar and an adjective with poner
 
-#### Emotions or physical reactions with dar and poner
+### Emotions or physical reactions with dar and poner
 
 - me pone contento - it makes (puts) me happy
 - me da alegría - it makes me happy - it gives me happiness
