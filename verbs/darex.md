@@ -31,21 +31,13 @@ note that we use a noun with dar and an adjective with poner
 ---
 
 - me da pena contigo - I feel sorry for you
+- te da pena contigo - you feel sorry for yourself
 - le - he feels sorry for you
 - la - she
 - nos - we
 - les - they
-- te da pena contigo - you feel sorry for yourself
-- me da felicidad, amor, y un nuevo trabajo - she gives me happiness, love, and a new job.
 
-### references
-
-- [7 must know uses of dar](https://www.youtube.com/watch?v=vjo6Qfn5GkI)
-- [the 25 most common verbs like gustar](https://www.realfastspanish.com/vocabulary/verbs-like-gustar)
-- [verbs like gustar for dar](./../teach/realfast/gustar.md#dar)
-- [ponerex.md](./ponerex.md)
-
----
+### more examples
 
 | | |
 |-|-|
@@ -61,6 +53,15 @@ note that we use a noun with dar and an adjective with poner
 | me da miedo | it scares me |
 | dar un paseo | to go for a walk |
 | daba regalos a mis hermanos | I used to give presents to my siblings |
+| me da felicidad, amor, y un nuevo trabajo | she gives me happiness, love, and a new job |
+
+### references
+
+- [7 must know uses of dar](https://www.youtube.com/watch?v=vjo6Qfn5GkI)
+- [the 25 most common verbs like gustar](https://www.realfastspanish.com/vocabulary/verbs-like-gustar)
+- [verbs like gustar for dar](./../teach/realfast/gustar.md#dar)
+- [ponerex.md](./ponerex.md)
+
 
 ### Notes
 
