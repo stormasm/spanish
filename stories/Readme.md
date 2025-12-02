@@ -68,7 +68,7 @@
 - la gente compra las postales, people buy the postcards
 - y yo gano dinero, and I make money
 - puedo pagar mis cuentas, I can pay my bills
-- me da felicidad y amor, she gives me happiness and love
+- me da felicidad y amor y un nuevo trabajo , she gives me happiness, love and a new job.
 - ella es más que una mascota, she is more than a pet
 - es mi mejor amiga, she is my best friend
 
