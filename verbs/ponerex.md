@@ -22,4 +22,5 @@
 ### References
 
 - [7 must know uses of poner](https://www.youtube.com/watch?v=79biN1Nkbl4)
+- [verbs like gustar for poner](./../teach/realfast/gustar.md#poner)
 - [darex.md](./darex.md)
