@@ -10,6 +10,7 @@
 ### references
 
 - [7 must know uses of dar](https://www.youtube.com/watch?v=vjo6Qfn5GkI)
+- [the 25 most common verbs like gustar](https://www.realfastspanish.com/vocabulary/verbs-like-gustar)
 - [verbs like gustar for dar](./../teach/realfast/gustar.md#dar)
 - [ponerex.md](./ponerex.md)
 
