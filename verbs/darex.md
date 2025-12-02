@@ -9,7 +9,8 @@
 
 ### references
 
-- [verbs like gustar for dar](./../teach/realfast/gustar.md#dar)
+- [realfast: 7 Must-Know Uses of dar](https://www.youtube.com/watch?v=vjo6Qfn5GkI)
+- [realfast: verbs like gustar for dar](./../teach/realfast/gustar.md#dar)
 
 ---
 
