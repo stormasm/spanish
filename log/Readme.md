@@ -1,4 +1,26 @@
 
+### me pone
+
+- contento
+- triste
+- tenso
+- celoso
+- emocionado
+- nervioso
+
+### me da
+
+- alegría
+- tristeza
+- miedo
+- vergüenza
+- risa
+- pena
+- sed
+- hambre
+- calor
+- frio
+
 ## 2025 Autumn
 
 - esperar junto la puerta - wait by the door
