@@ -9,8 +9,9 @@
 
 ### references
 
-- [realfast: 7 must know uses of dar](https://www.youtube.com/watch?v=vjo6Qfn5GkI)
-- [realfast: verbs like gustar for dar](./../teach/realfast/gustar.md#dar)
+- [7 must know uses of dar](https://www.youtube.com/watch?v=vjo6Qfn5GkI)
+- [verbs like gustar for dar](./../teach/realfast/gustar.md#dar)
+- [ponerex.md](./ponerex.md)
 
 ---
 
