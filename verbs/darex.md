@@ -5,7 +5,7 @@
 - nos - we
 - les - they
 - te da pena contigo - you feel sorry for yourself
-- me da felicidad, amor, y un nuevo trabajo - she give me happiness, love, and a new job.
+- me da felicidad, amor, y un nuevo trabajo - she gives me happiness, love, and a new job.
 
 ### references
 
