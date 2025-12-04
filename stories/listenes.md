@@ -26,5 +26,4 @@
 - lo miro y siento algo cálido en mi pecho - I look at him and feel something warm in my chest
 - pero es profundo - but deep
 - eso es felicidad - that is happiness
-
 - [ser feliz](https://www.youtube.com/watch?v=245RCAuFACg)
