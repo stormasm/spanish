@@ -1,4 +1,11 @@
 
+### Exchange Student
+
+
+
+
+- [exchange student](https://www.youtube.com/watch?v=F_JoTX7xKDg)
+
 ### Ser feliz
 
 - ser feliz - to be happy
