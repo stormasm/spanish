@@ -1,9 +1,32 @@
 
-### Exchange Student
+### Exchange Student - Estudiante de Intercambio
 
-
-
-
+- me siento emocionada - I feel excited
+- pero también asustada - but also afraid
+- el clima está caluroso y soleado - the weather is hot and sunny
+- me dan una habitación en el dormitorio - I get a room in the dormitory
+- pero no tengo compañera de cuarto - but I don't have a roommate
+- miro por la ventana - I look out the window
+- me siento sola - I feel lonely
+- pero no los entiendo - but I do not understand them
+- en clase, trato se escuchar - in class, I try to listen
+- tomo apuntes y leo mi libro - I take notes and read my book
+- pero me siento perdida - but I feel lost
+- nadie me habla - nobody talks to me
+- en el almuerzo, me siento sola
+- me siento muy triste - I feel very sad
+- me ve y sonríe - he sees me and smiles
+- me da un bolígrafo y dice - he gives me a pen and says
+- le doy las gracias - I thank him
+- él es amigable y amable - he is friendly and kind
+- diego se sienta a mi lado en clase - diego sits next to me in class
+- él me ayuda con la tarea - he helps me with homework
+- él me enseña nuevas palabra - he teaches me new words
+- ven con nosotros esta semana - come with us this week
+- él me presenta a sus amigos - he introduces me to his friends
+- ellos sonríen y me hacen preguntas - they smile and ask me questions
+- en el aeropuerto, me despido - at the airport I say goodbye
+- me río - I laugh
 - [exchange student](https://www.youtube.com/watch?v=F_JoTX7xKDg)
 
 ### Ser feliz
@@ -34,3 +57,7 @@
 - pero es profundo - but deep
 - eso es felicidad - that is happiness
 - [ser feliz](https://www.youtube.com/watch?v=245RCAuFACg)
+
+### References
+
+Yes, `me siento` can mean both "I feel" and "I sit down" because it is the first-person singular conjugation for two different verbs: `sentirse` y `sentarse`. The specific meaning is determined by the context in which it is used, such as the words that follow it. 
