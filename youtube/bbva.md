@@ -3,6 +3,8 @@
 - [all videos: aprendemos juntos mex](https://www.youtube.com/@AprendemosJuntos_mex/videos)
 
 ---
+- 25.12 [Valeria Luiselli, escritora. Los sonidos de la migración](https://www.youtube.com/watch?v=jFU3KpQfDKU)
+---
 - 25.11 [Viridiana Álvarez, alpinista. Con miedo también se suben las montañas](https://www.youtube.com/watch?v=ckXP8mwO1ko)
 - 25.11 [Gabriela Muñoz, Chula the Clown. "El silencio me dio voz"](https://www.youtube.com/watch?v=X1MYXTGcav0)
 ---
