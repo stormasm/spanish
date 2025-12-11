@@ -1,4 +1,34 @@
 
+### My Hobby
+
+- pero no sé qué es lo que me gusta - but I do not know what it is that I like
+- intento tocar la guitarra - I try to play the guitar
+- pero me duelen los dedos - but my fingers hurt
+- mi perro se ecconde debajo de la cama - my dog hides under the bed
+- dejo de hacerlo después de una semana - I stop after one week
+- parece fácil, pero no lo es - it looks easy, but it's not
+- pierdo todas las partidas - I lose every game
+- me duele la cabeza de tanto pasar - my head hurts from thinking too much
+- me levanto temprano - I wake up early
+- me siento y espero durante mucho tiempo - I sit down and wait for a long time
+- no pasa nada - nothing happens
+- me río y vuelvo a casa - I laugh and go home
+- quiero preparar una paella - I want to make paella
+- la cocina huela mal - the kitchen smells bad
+- abro la ventana y pido una pizza - I open the window and order pizza
+- me siento cansado - I feel tired
+- tal vez no necesito un pasatiempo - perhaps / maybe I do not need a hobby
+- me siento en el sofá - I sit on the sofa
+- empiezo a leer - I start to read
+- leo una página - I read one page
+- sonrío - I smile
+- el tiempo pasa rápido - time goes fast
+- me olvido de todo - I forget about everything
+- entonces entiendo - then I understand
+- me río y digo - I laugh and say
+- por fin encontré mi pasatiempo perfecto - I finally found my perfect hobby
+- [mi pasatiempo - my hobby](https://www.youtube.com/watch?v=N4tVhSuI4ng)
+
 ### Exchange Student - Estudiante de Intercambio
 
 - me siento emocionada - I feel excited
