@@ -1,5 +1,14 @@
 
-## November 2025
+### December 2025
+
+- parece fácil, pero no lo es - it looks easy, but its not
+- me duele la cabeza - my head hurts
+- de tanto pensar - from thinking too much
+- me despierto temprano - I wake up early
+- me levanto temprano - I get up early
+- intento tocar la guitarra - I try to play the guitar
+
+### November 2025
 
 ### [bueno](https://www.spanishdict.com/translate/bueno) - [bien](https://www.spanishdict.com/translate/bien)
 
