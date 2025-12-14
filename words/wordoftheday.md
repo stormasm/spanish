@@ -60,6 +60,7 @@
 | almorzar | to have lunch | Almorcé con mi amigo | I had lunch with my friend |
 | anoche | last night | anoche me quedé dormido | last night I fell asleep |
 | antenoche | the night before last | Salí a contemplar las estrellas antenoche | I went stargazing the night before last |
+| aprender | to learn | estoy usando SpanishDict para aprender español | I am using SpanishDict to learn Spanish |
 | el aprendizaje | learning | El aprendizaje de matematica es un pan comido con un buen maestro | Learning mathematics is a piece of cake with a good teacher |
 | el aventón | ride | ¿Me puedes dar un aventón? | Can you give me a ride |
 | el apio | celery | Voy a echarle apio a la ensalada | I'm going to add celery to the salad |
