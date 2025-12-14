@@ -5,6 +5,8 @@
 - I get up early
 - I try to play the guitar
 
+---
+
 - parece fácil, pero no lo es
 - me duele la cabeza de tanto pensar
 - me depierto temprano todos los dias
