@@ -1,6 +1,6 @@
 
 | | Present | Preterite |
-|-|-|
+|-|-|-|
 me llevo | me llevé |
 te llevas | te llevaste |
 se lleva | se llevó |
