@@ -132,6 +132,7 @@
 | el héroe | hero | No todos los héroes llevan capa, pero yo sí | Not all heroes wear capes, but I do |
 | el higo | fig | Me gustan los higos porque son dulces | I like figs because they're sweet |
 | hogareño | home loving | Soy una persona hogareña. Me gusta quedarme en casa | I'm a home-loving person. I like staying in |
+| el huerto | orchard | Plantamos manzanos en nuestro huerto | We planted apple trees in our orchard |
 
 ### I
 
