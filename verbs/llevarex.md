@@ -50,17 +50,17 @@
 - I was really surprised - me llevé una gran sorpresa
 - we got a huge scare - nos llevamos un susto enorme
 
-## Note: Real Fast Spanish (RFS) add the idiomatic expressions later
+#### Note: Real Fast Spanish (RFS) add the idiomatic expressions later
 
 At the end of the video there are bunch more idiomatic expressions.
 I will add those here once we arrive in Mexico.
 But for now I have enough to learn
 
-### Reference for this video
+#### Reference for this video
 
 - [Real Fast Spanish: 9 Must-Know Uses of Llevar](https://www.youtube.com/watch?v=zCvk_vut3b8)
 
-### References
+#### References
 
 - [Real Fast Spanish: Llevar vs traer](https://www.youtube.com/watch?v=v1mlG9Uwd50)
 - [Qroo Paul: Different ways to use llevar](https://www.youtube.com/watch?v=kcEY7LuxKbs)
