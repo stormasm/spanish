@@ -1,27 +1,67 @@
 
 #### To carry or transport something
 
+- I am carrying a heavy backpack - `llevo` una mochilla pesada
+- estoy llevando una mochilla pesado - correct also but not used as much
+- What are you carrying in the bag - Qué `llevas` en la bolsa
+
 #### To take someone somewhere
+
+- Can you take me to the airport - me llevas al aeropuerto
+- I took my grandma to the doctor - llevé a mi abuela al médico
 
 #### To wear (clothes)
 
+- He always wears a hat - siempre lleva sombrero
+- You are wearing a very stylish jacket today - Hoy llevas una chaqueta muy elegante
+
 #### To lead to - (ie) where does something go
+
+- That door leads to the kitchen - esa puerta lleva a cocina
+- do you know where the street leads to - sabes adónde lleva esta calle
 
 #### To talk about how long something has been happening
 
+- I have been studying Spanish for 3 years - llevo tres años estudiando español
+- How long have you been working here - cuanto tiempo llevas trabajando aquí
+
 #### To describe what something contains
+
+- What is in the paella - qué lleva la paella
+- does this cake have nuts in it - este pastel lleva frutos secas
+- I am allergic to wheat flour - soy alérgico a la harina de trigo
 
 ## Reflexive Form - me llevo
 
-#### To get along with someone well (or not)
+#### To get along with someone well (or not) - llevarse bien (mal) con alguien
+
+- I get along really well with my neighbors - me llevo muy bien con mis vecinos
+- they do not get along well - no se llevan bien
+- they get along terribly - se llevan fatal
 
 #### To take something away often without asking permission
 
+- he took my pen without asking - se llevó mi bolígrafo sin preguntar
+- they took everything from the apartment - se llevaron todo del apartamento
+
 #### To win or unexpectedly receive something (good or bad)
 
-## References
+- she won first prize - se llevó el primer premio
+- I was really surprised - me llevé una gran sorpresa
+- we got a huge scare - nos llevamos un susto enorme
+
+## Note: Real Fast Spanish (RFS) add the idiomatic expressions later
+
+At the end of the video there are bunch more idiomatic expressions.
+I will add those here once we arrive in Mexico.
+But for now I have enough to learn
+
+### Reference for this video
 
 - [Real Fast Spanish: 9 Must-Know Uses of Llevar](https://www.youtube.com/watch?v=zCvk_vut3b8)
+
+### References
+
 - [Real Fast Spanish: Llevar vs traer](https://www.youtube.com/watch?v=v1mlG9Uwd50)
 - [Qroo Paul: Different ways to use llevar](https://www.youtube.com/watch?v=kcEY7LuxKbs)
 - [Qroo Paul: Llevar + gerundio ](https://www.youtube.com/watch?v=qryYrFVtnWo)
