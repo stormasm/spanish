@@ -52,9 +52,9 @@
 
 #### Note: Real Fast Spanish (RFS) add the idiomatic expressions later
 
-At the end of the video there are bunch more idiomatic expressions.   
-I will add those here once we arrive in Mexico.   
-But for now I have enough to learn.
+- At the end of the video there are bunch more idiomatic expressions.   
+- I will add those here once we arrive in Mexico.   
+- But for now I have enough to learn.
 
 #### Reference for this video
 
