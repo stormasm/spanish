@@ -1,14 +1,4 @@
 
-| Present | Preterite |
-|-|-|
-| me llevo | me llevé |
-| te llevas | te llevaste |
-| se lleva | se llevó |
-| nos llevamos | nos llevamos |
-| se llevan | se llevaron |
-
----
-
 #### To carry or transport something
 
 - I am carrying a heavy backpack - `llevo` una mochilla pesada
@@ -42,6 +32,16 @@
 - I am allergic to wheat flour - soy alérgico a la harina de trigo
 
 ## Reflexive Form - me llevo
+
+| Present | Preterite |
+|-|-|
+| me llevo | me llevé |
+| te llevas | te llevaste |
+| se lleva | se llevó |
+| nos llevamos | nos llevamos |
+| se llevan | se llevaron |
+
+---
 
 #### To get along with someone well (or not) - llevarse bien (mal) con alguien
 
