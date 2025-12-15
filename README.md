@@ -1,6 +1,8 @@
 
 - soy alérgico a la harina de trigo - I am allergic to wheat flour
 - harina = flour - trigo = wheat - harina de arroz = rice flour
+- harina de avena - oatmeall flour
+- haces pan con harina de arroz - do you make bread with rice flour
 
 ---
 
