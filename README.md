@@ -1,4 +1,9 @@
 
+- soy alérgico a la harina de trigo - I am allergic to wheat flour
+- harina = flour - trigo = wheat - harina de arroz = rice flour
+
+---
+
 - who, what, where, how
 -
 - ser = who you are
