@@ -36,6 +36,8 @@
 #### To get along with someone well (or not) - llevarse bien (mal) con alguien
 
 - I get along really well with my neighbors - me llevo muy bien con mis vecinos
+- Nos llevamos bien con nuestras vecinas.
+- Nos llevamos bien con nuestros vecinos.
 - they do not get along well - no se llevan bien
 - they get along terribly - se llevan fatal
 
