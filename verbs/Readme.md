@@ -9,3 +9,4 @@
 #### References
 
 - [Top 25 spanish verbs](https://www.youtube.com/watch?v=-AV5LSve7Jc)
+- [Barrons 55 Essential Verbs](https://www.spanishdict.com/lists/265317/55-top-essential-verbs-by-barrons)
