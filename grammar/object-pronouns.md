@@ -32,14 +32,18 @@
 
 - se las di, I gave them to him
 - se las diste, Did you give them to him
-- me las dio, he gave them to me
 - se las dimos, we gave them to him
+- me las dio, he gave them to me
+
 ---
+
 - jan se las dio, jan gave them to him
 - me dio el libro, he gave me the book
 - me dio la pelicula, he spoiled the movie for me
 - dame las llaves, give me the keys
+
 ---
+
 - dar las gracias, to give thanks
 - me da miedo, it scares me
 - dar un paseo, to go for a walk
