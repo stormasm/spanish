@@ -78,6 +78,7 @@ We may need to delete some of the stuff below here so it is not duplicated !
 
 #### Reference
 
+- [real fast spanish: word order with object pronouns](https://www.youtube.com/watch?v=jX7kV7XPOiA)
 - [understand spanish object pronouns in 8 minutes](https://www.youtube.com/watch?v=TUmuavAKLEI)
 - [reference document pdf](https://github.com/stormasm/pdf/blob/main/spanish/spanish-object-pronouns.pdf)
 - [pronombres de objeto directo y indirecto](https://www.youtube.com/watch?v=1fewSSf05xg)
