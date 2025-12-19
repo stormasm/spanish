@@ -1,4 +1,29 @@
 
+### te with a verb
+
+| E | S |
+|-|-|
+| I have it | lo tengo |
+| I see it | la veo |
+| I understand you | te entiendo |
+| I gave you | te di |
+| I told you | te dije |
+| I am telling you | te digo |
+| I will take you | te llevo |
+| I will call you | te llamo |
+| I saw you | te vi |
+
+---
+
+- I have it - lo tengo
+- I see it - la veo
+- I understand you - te entiendo
+- I gave you - te di
+- I told you - te dije
+- I am telling you - te digo
+- I will take you - te llevo
+- I will call you - te llamo
+- I saw you - te vi
 
 #### Spanish Object Pronouns
 
