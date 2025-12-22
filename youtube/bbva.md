@@ -7,6 +7,7 @@
 ---
 - 25.11 [Viridiana Álvarez, alpinista. Con miedo también se suben las montañas](https://www.youtube.com/watch?v=ckXP8mwO1ko)
 - 25.11 [Gabriela Muñoz, Chula the Clown. "El silencio me dio voz"](https://www.youtube.com/watch?v=X1MYXTGcav0)
+- 25.11 [Gabriela Muñoz mentions Alondra de la Parra - here is her documentary](https://www.youtube.com/watch?v=XWQree1vqBA)
 ---
 - 25.09 [Iván Carrillo, periodista. Historias que nos enseñan a creer en el cambio](https://www.youtube.com/watch?v=8tQmYt12wmE)
 - 25.09 [Luis Jorge Arnau, escritor y editor: Creer en México para poder crearlo](https://www.youtube.com/watch?v=OI8wnZzlxbM)
