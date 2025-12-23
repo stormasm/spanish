@@ -18,9 +18,6 @@ Means the same thing whether it comes before or after the noun.
 
 If bueno comes before a masculine noun you are going to want to drop the "O"
 
-- @ 9 minutes
-
-
 ### Reference
 
 - [Learn Spanish Word Order in 25 Minutes](https://www.youtube.com/watch?v=jX7kV7XPOiA)
