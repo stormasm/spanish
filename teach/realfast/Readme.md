@@ -6,6 +6,8 @@
 - [blog: Definitive Guide to Real Fast Spanish](https://www.realfastspanish.com/conversation-hacking-guide)
 - [blog: The 25 Most Common Verbs Like Gustar](https://www.realfastspanish.com/vocabulary/verbs-like-gustar)
 - [pdf: Spanish Word Order](https://www.realfastspanish.com/wp-content/uploads/2025/07/Real-Fast-Spanish-The-Definitive-Guide-to-Spanish-Word-Order.pdf) - [youtube: Spanish Word Order](https://www.youtube.com/watch?v=jX7kV7XPOiA)
+- [youtube: Spanish Word Order](https://www.youtube.com/watch?v=jX7kV7XPOiA) - [pdf: Spanish Word Order](https://www.realfastspanish.com/wp-content/uploads/2025/07/Real-Fast-Spanish-The-Definitive-Guide-to-Spanish-Word-Order.pdf)
+
 
 ### Youtube
 
