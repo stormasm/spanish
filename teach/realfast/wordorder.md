@@ -28,6 +28,8 @@ The meaning of the word does change depending on its location
 - una casa grande - a big house - in physical size
 - una gran casa - a great house - cultural importance or emotional impact
 
+Note how you drop the `de` if it comes before the noun
+
 ### Reference
 
 - [Learn Spanish Word Order in 25 Minutes](https://www.youtube.com/watch?v=jX7kV7XPOiA)
