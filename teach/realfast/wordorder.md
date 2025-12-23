@@ -18,6 +18,16 @@ Means the same thing whether it comes before or after the noun.
 
 If bueno comes before a masculine noun you are going to want to drop the "O"
 
+- una buena receta - a good recipe
+- una receta buena
+
+#### Grande
+
+The meaning of the word does change depending on its location
+
+- una casa grande - a big house - in physical size
+- una gran casa - a great house - cultural importance or emotional impact
+
 ### Reference
 
 - [Learn Spanish Word Order in 25 Minutes](https://www.youtube.com/watch?v=jX7kV7XPOiA)
