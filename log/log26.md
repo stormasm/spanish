@@ -1,4 +1,11 @@
 
+
+- todo lo que tengo - all that I have
+- todo lo que tengo es este momento - all that I have is this moment
+- todo lo que sé - All I know
+- lo único que sé
+- lo único que sé es que tengo este momento - All I know is that I have this moment.
+
 ### chiripa
 
 - It was purely by chance, fue por pura [chiripada](https://lachiripada.com/)
