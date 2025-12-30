@@ -1,4 +1,10 @@
 
+- si estoy bien - yes I am fine
+- si estoy trabanjando - If I am working
+- si estoy interesado - If I am interested - yes I am interested
+- si estoy sano, soy feliz --- If I am healthy, I am happy
+
+---
 
 - todo lo que tengo - all that I have
 - todo lo que tengo es este momento - all that I have is this moment
