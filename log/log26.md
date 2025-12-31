@@ -1,4 +1,9 @@
 
+- la luz del atardecer se queda mas tiempo
+- ahora estamos al otro lado de la oscuridad
+
+---
+
 - si estoy bien - yes I am fine
 - si estoy trabanjando - If I am working
 - si estoy interesado - If I am interested - yes I am interested
@@ -9,6 +14,7 @@
 - todo lo que quiero - all that I want
 - todo lo que quiero es estar contigo - all that I want is to be with you
 - Lo único que quiero es estar contigo.
+- Lo único que hay temer es al miedo mismo - The only thing we have to fear is fear itself
 
 ---
 
