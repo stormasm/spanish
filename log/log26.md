@@ -6,11 +6,20 @@
 
 ---
 
+- todo lo que quiero - all that I want
+- todo lo que quiero es estar contigo - all that I want is to be with you
+- Lo único que quiero es estar contigo.
+
+---
+
 - todo lo que tengo - all that I have
 - todo lo que tengo es este momento - all that I have is this moment
 - todo lo que sé - All I know
 - lo único que sé
 - lo único que sé es que tengo este momento - All I know is that I have this moment.
+
+
+---
 
 ### chiripa
 
