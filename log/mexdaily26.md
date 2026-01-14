@@ -18,6 +18,11 @@
 - puedo tomar prestado - can I borrow
 - lo tomé prestado de mi amigo - I borrowed it from my friend
 
+### to ask a question
+
+- puedo pedirte algo - can I ask you something
+- tengo una pregunta para ti - I have a question for you
+
 ### volver vs devolver
 
 Volver means to return to a place or do something again (come back), while devolver means to give something back to someone (return an object) or, less commonly, to throw up. The key difference is that volver involves returning oneself or an action, whereas devolver involves returning a specific item or concept to its original owner or location, often something borrowed or received.
