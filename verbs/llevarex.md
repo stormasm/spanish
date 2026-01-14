@@ -10,7 +10,7 @@
 #### To take someone somewhere
 
 - te llevo al aeropuerto - I will take you to the airport
-- ella se llevo al aeropuerto - she took him to the airport
+- se llevo al aeropuerto - I will take her to the airport
 - me llevas al aeropuerto - Can you take me to the airport
 - ella se llevas al aeropuerto - she takes you to the airport
 - ella me lleva al aeropuerto - she takes me to the airport
