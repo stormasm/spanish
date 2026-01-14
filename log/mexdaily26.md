@@ -12,6 +12,11 @@
 - sabré a dónde iremos después en unas semanas
 - a dónde vamos - where are we going
 
+### borrow
+
+- puedo pedir prestado - can I borrow
+- puedo tomar prestado - can I borrow
+- lo tomé prestado de mi amigo - I borrowed it from my friend
 
 ### volver vs devolver
 
