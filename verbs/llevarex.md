@@ -11,8 +11,12 @@
 
 - te llevo al aeropuerto - I will take you to the airport
 - me llevas al aeropuerto - Can you take me to the airport
-- ella te lleva al aeropuerto - She takes you to the airport
+- ella se llevas al aeropuerto - she takes you to the airport
 - ella me lleva al aeropuerto - she takes me to the airport
+- ella te lleva al aeropuerto - she takes you to the airport
+- ella se lleva al aeropuerto - she takes him to the airport
+- me llevan al aeropuerto - they are taking me to the airport
+- te llevan al aeropuerto - they are taking you to the airport
 - ella se llevan al aeropuerto - they take her to the airport
 - ella se llevo al aeropuerto - she took him to the airport
 - ella se lleva al aeropuerto - she takes him to the airport
