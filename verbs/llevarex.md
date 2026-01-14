@@ -19,8 +19,6 @@
 - me llevan al aeropuerto - they are taking me to the airport
 - te llevan al aeropuerto - they are taking you to the airport
 - ella se llevan al aeropuerto - they take her to the airport
-- ella se lleva al aeropuerto - she takes him to the airport
-- ella me lleva al aeropuerto - she takes me to the airport
 - I took my grandma to the doctor - llevé a mi abuela al médico
 
 #### To wear (clothes)
