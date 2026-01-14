@@ -7,7 +7,14 @@
 
 #### To take someone somewhere
 
-- Can you take me to the airport - me llevas al aeropuerto
+- te llevo al aeropuerto - I will take you to the airport
+- me llevas al aeropuerto - Can you take me to the airport
+- ella te lleva al aeropuerto - She takes you to the airport
+- ella me lleva al aeropuerto - she takes me to the airport
+- ella se llevan al aeropuerto - they take her to the airport
+- ella se llevo al aeropuerto - she took him to the airport
+- ella se lleva al aeropuerto - she takes him to the airport
+- ella me lleva al aeropuerto - she takes me to the airport
 - I took my grandma to the doctor - llevé a mi abuela al médico
 
 #### To wear (clothes)
