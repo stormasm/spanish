@@ -1,4 +1,6 @@
 
+- [llevarse](https://www.spanishdict.com/conjugate/llevarse)
+
 #### To carry or transport something
 
 - I am carrying a heavy backpack - `llevo` una mochilla pesada
