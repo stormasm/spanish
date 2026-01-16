@@ -1,4 +1,22 @@
 
+### More random examples
+
+- me llevo - I will take it
+- me llevo bien - I get along well
+- me llevo este - I will take this one
+- te llevo - I will take you
+- te llevo en mi corazón - I carry you in my heart
+
+---
+
+- me llevó - he took me
+- ella me llevó - she took me
+- el me llevó - he took me
+- el me dio por sentado - he took me for granted
+- el me tomó en sus brazos - he took me in his arms
+
+---
+
 - [llevarse](https://www.spanishdict.com/conjugate/llevarse)
 
 #### To carry or transport something
