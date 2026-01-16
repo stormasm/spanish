@@ -3,6 +3,7 @@
 
 - me llevo - I will take it
 - me llevo bien - I get along well
+- me llevo bien con mis vecinos - I get along well with my neighbors
 - me llevo este - I will take this one
 - te llevo - I will take you
 - te llevo en mi corazón - I carry you in my heart
@@ -13,6 +14,8 @@
 - ella me llevó - she took me
 - el me llevó - he took me
 - el me dio por sentado - he took me for granted
+- me dieron por sentado - they took me for granted
+- ella te dio por sentado - she took you for granted
 - el me tomó en sus brazos - he took me in his arms
 
 ---
