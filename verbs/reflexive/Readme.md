@@ -16,5 +16,5 @@
 
 ### Reference
 
-- [llevar](./../llevarex.md)
+- [llevarex](./../llevarex.md)
 - [Real Fast Spanish: The 25 Most Common Spanish Reflexive Verbs](https://www.realfastspanish.com/vocabulary/spanish-reflexive-verbs)
