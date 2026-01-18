@@ -4,7 +4,7 @@
 ---
 
 - me acuerdo de tu cumpleaños - I remember your birthday   
-- te acuerdas de la pelicular - Do you remember the movie ?
+- te acuerdas de la pelicula - Do you remember the movie ?
 
 ---
 
