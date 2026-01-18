@@ -3,8 +3,8 @@
 
 ---
 
-me acuerdo de tu cumpleaños - I remember your birthday   
-te acuerdas de la pelicular - Do you remember the movie ?
+- me acuerdo de tu cumpleaños - I remember your birthday   
+- te acuerdas de la pelicular - Do you remember the movie ?
 
 ---
 
