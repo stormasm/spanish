@@ -1,6 +1,11 @@
 
 ### Reflexive Verbs
 
+me acuerdo de tu cumpleaños - I remember your birthday
+te acuerdas de la pelicular - Do you remember the movie ?
+
+---
+
 - [Real Fast Spanish: The 25 Most Common Spanish Reflexive Verbs](https://www.realfastspanish.com/vocabulary/spanish-reflexive-verbs)
 
 ---
