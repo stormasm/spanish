@@ -1,7 +1,7 @@
 
 ### Reflexive Verbs
 
-me acuerdo de tu cumpleaños - I remember your birthday
+me acuerdo de tu cumpleaños - I remember your birthday   
 te acuerdas de la pelicular - Do you remember the movie ?
 
 ---
