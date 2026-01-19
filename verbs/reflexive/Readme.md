@@ -5,7 +5,7 @@
 
 - me acuerdo de tu cumpleaños - I remember your birthday   
 - te acuerdas de la pelicula - Do you remember the movie ?
-
+- Aeroméxico te lleva a descubrir París - Aeroméxico takes you to discover Paris.
 ---
 
 - Ella se ríe mucho. (She laughs a lot.)
