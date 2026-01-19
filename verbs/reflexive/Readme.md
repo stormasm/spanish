@@ -17,4 +17,5 @@
 ### Reference
 
 - [llevarex](./../llevarex.md)
+- [acordar vs acordarse](https://spanish.kwiziq.com/revision/grammar/acordar-vs-acordarse-pronominal-verbs)
 - [Real Fast Spanish: The 25 Most Common Spanish Reflexive Verbs](https://www.realfastspanish.com/vocabulary/spanish-reflexive-verbs)
