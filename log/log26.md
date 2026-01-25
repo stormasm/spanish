@@ -1,4 +1,8 @@
 
+- como eliges vivir tu vida - how do you choose to live your life
+
+---
+
 - sigue adelante, nunca te rindas - keep on going, never give up
 - adelante forward, atrás backward
 - live music - música en vivo
