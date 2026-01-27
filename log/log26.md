@@ -1,4 +1,8 @@
 
+---
+
+- nos encanta que estés aqui - we are so glad that you are here
+- estamos muy contentos de que estés aquí
 - como eliges vivir tu vida - how do you choose to live your life
 
 ---
