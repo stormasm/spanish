@@ -1,8 +1,19 @@
 
+
+---
+
+- la mejor manera de contactarme es por correo electrónico.
+
 ---
 
 - nos encanta que estés aqui - we are so glad that you are here
+- me encanta que te guste - I am so glad you like it
+- te encanta este libro - Do you love this book ?
 - estamos muy contentos de que estés aquí
+- no importa de donde eres estamos contentos que seas nuestra vecino
+
+---
+
 - como eliges vivir tu vida - how do you choose to live your life
 
 ---
