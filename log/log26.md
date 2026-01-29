@@ -1,5 +1,7 @@
 
 
+- [Counting in Spanish](https://baselang.com/blog/vocabulary/counting-in-spanish/)
+
 ---
 
 - la mejor manera de contactarme es por correo electrónico.
