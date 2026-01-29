@@ -1,4 +1,10 @@
 
+start working on...
+
+- alojar
+- mandar
+
+---
 
 - [Counting in Spanish](https://baselang.com/blog/vocabulary/counting-in-spanish/)
 
