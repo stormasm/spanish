@@ -8,6 +8,10 @@
 - Puedes darme una tapa para mi botella de agua - can you please give me a lid for my water bottle.
 - dónde está mi recipiente grande de ensalada de papas - where is my big container of potato salad.
 
+### 1/26/2026
+
+- la mejor manera de contactarme es por correo electrónico
+
 ### 1/25/2026
 
 - como eliges vivir tu vida - how do you choose to live your life
