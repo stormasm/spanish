@@ -1,4 +1,12 @@
 
+---
+
+- no estoy seguro - I am not sure
+- no estoy seguro de eso - I am not sure about that
+- no estoy seguro todavia - I am not sure yet
+
+---
+
 start working on...
 
 - alojar
