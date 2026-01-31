@@ -1,4 +1,18 @@
 
+### 1/31/2026
+
+- no estamos seguros de cuánto tiempo nos quedaremos aquí - we are not sure how long we are going to stay here.
+
+### 1/30/2026
+
+- Puedes darme una tapa para mi botella de agua - can you please give me a lid for my water bottle.
+- dónde está mi recipiente grande de ensalada de papas - where is my big container of potato salad.
+
+### 1/25/2026
+
+- como eliges vivir tu vida - how do you choose to live your life
+- nos encanta que estés aquí - we are happy you are here
+
 ### 1/20/2026
 
 - ¿Puedes cortarme el pelo sólo con tijeras y no usar una afeitadora eléctrica? - Can you cut my hair with just scissors and not use an electric razor?
