@@ -11,3 +11,4 @@
 - [Top 25 spanish verbs](https://www.youtube.com/watch?v=-AV5LSve7Jc)
 - [Barrons 55 Essential Verbs](https://www.spanishdict.com/lists/265317/55-top-essential-verbs-by-barrons)
 - [Transitive vs Intransitive Verbs](https://mydailyspanish.com/spanish-transitive-intransitive-verbs/)
+- [SpanishDict: Hablar vs Decir vs Contar](https://www.spanishdict.com/guide/hablar-vs-decir-vs-contar)
