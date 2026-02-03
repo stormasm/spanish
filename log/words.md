@@ -1,5 +1,38 @@
 
 
+---
+
+### casi
+
+- casi - almost
+- casi llegamos - almost there
+- casi terminado - almost done
+
+---
+
+### darse cuenta
+
+2/2/2026
+
+"Darse cuenta" is a common Spanish phrase meaning "to realize," "to notice," or "to become aware" of something.
+
+It is frequently followed by the preposition "de" (darse cuenta de) to connect with the object of awareness. Examples include me di cuenta (I realized) and no me di cuenta (I didn't notice).
+
+Key Aspects of "Darse Cuenta":
+Definition: It implies a sudden realization, discovery, or understanding of a fact or situation.
+
+Common Translations:
+
+- To realize
+- To notice
+- To become aware of
+- To find out or figure out
+
+Usage with "De": When mentioning what was realized, the preposition de is used (e.g., Me di cuenta de que era tarde - I realized that it was late).
+
+
+---
+
 ## aferrar
 
 - Estas colgando demasiado apretado - You are hanging on too tight
