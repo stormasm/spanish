@@ -25,8 +25,9 @@ Y como ellas forman parte de nuestras vidas, pasan también a querer modificar n
 
 Porque todas las personas saben exactamente cómo debemos vivir nuestra vida.
 
-Y nunca tienen idea de cómo deben vivir sus propias vidas. Como la mujer de los
-sueños, que no sabía transformarlos en realidad.
+Y nunca tienen idea de cómo deben vivir sus propias vidas.
+
+Como la mujer de los sueños, que no sabía transformarlos en realidad.
 
 Decidió esperar a que el sol estuviera un poco más bajo antes de seguir con sus
 ovejas en dirección al campo.
