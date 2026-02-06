@@ -197,6 +197,7 @@
 | el pasatiempo | hobby | Mi pasatiempo favorito es caminar | Walking is my favorite hobby |
 | el patinaje | skating | El patinaje artístico es mi deporte olímpico favorito | Figure skating is my favorite Olympic sport |
 | pernoctar | to stay overnight | Nuestro plan es pernoctar en Madrid y luego tomar un tren a Paris el día siguiente | Our plan is to stay overnight in Madrid, and then take a train to Paris the next day |
+| picar | to sting | | ¡Cuidado! No quieres que te pique una abeja | Careful! You don't want to be stung by a bee |
 | picotear | to peck | Las gallinas andan picoteando el suelo | The hens are pecking the ground |
 | la piña | pineapple | Me encanta ponerle piña a mi pizza | I love to put pineapple on my pizza |
 | la piragua | canoe | Cruzamos el río en piragua | We crossed the river by canoe |
