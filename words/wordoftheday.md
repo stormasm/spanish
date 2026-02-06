@@ -99,6 +99,7 @@
 | derretirse | to melt | El hielo se está derritiendo | The ice is melting |
 | descalzo | barefoot | Ando descalzo, y la arena me está quemando los pies | I'm barefoot, and the sand is burning my feet |
 | despejado | clear | El cielo está completamente despejado | The sky is completely clear |
+| digno | worthy | El lazo entre las dos hermanas es digno de admirar | The bond between the two sisters is worthy of admiration |
 
 ### E
 
