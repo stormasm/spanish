@@ -166,6 +166,7 @@
 
 | | | | |
 | - | - | - | - |
+| la maceta | flowerpot | Necesito una maceta para plantar mis geranios | I need a flowerpot to plant my geraniums |
 | magro | lean | El doctor me dijo que comiera más carnes magras | The doctor told me to eat more lean meats |
 | la malteada | milkshake | Pedí una hamburguesa y una malteada de fresa | I ordered a burger and a strawberry milkshake |
 | la manada | herd | Una manada de elefantes está cruzando el río | A herd of elephants is crossing the river |
