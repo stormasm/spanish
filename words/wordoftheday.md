@@ -105,8 +105,7 @@
 | | | | |
 | - | - | - | - |
 | eficaz | effective | En muchos casos esta práctica resulta para ser muy eficaz | In many instances this practice proves to be very effective |
-| la emboscada | ambush | El general le dijo al rey que sus tropas estaban dirigiéndose a una emboscada.
-| The general told the king that his troops were heading into an ambush |
+| la emboscada | ambush | El general le dijo al rey que sus tropas estaban dirigiéndose a una emboscada | The general told the king that his troops were heading into an ambush |
 | embrujado | haunted | La gente dice que esa casa está embrujada | People say that house is haunted |
 | la escultura | sculpture | La pintura y la escultura florecieron durante el Siglo de Oro español | Painting and sculpture flourished during the Spanish Golden Age |
 | exhaustivo | comprehensive | Se terminó un año completo de monitoreo exhaustivo en Veracruz | Completed a full year of comprehensive monitoring in Veracruz |
