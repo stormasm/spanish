@@ -185,7 +185,9 @@ conversación con el padre y se sintió alegre; ya había conocido muchos castil
 muchas mujeres (aunque ninguna como aquella que lo esperaba dentro de dos días).
 Tenía una chaqueta, un libro que podía cambiar por otro y un rebaño de ovejas. Lo
 más importante, sin embargo, era que cada día realizaba el gran sueño de su vida:
-viajar. Cuando se cansara de los campos de Andalucía podía vender sus ovejas y
+viajar.
+
+Cuando se cansara de los campos de Andalucía podía vender sus ovejas y
 hacerse marinero. Cuando se cansara del mar ya habría conocido muchas ciudades, a
 muchas mujeres y muchas oportunidades de ser feliz.
 
