@@ -3,6 +3,9 @@
 
 ### 2/6/26
 
+- se tarda más acabar - it takes longer to finish
+- Tarda más en terminar - it takes longer to finish
+- se tardaba más en acabarlos - it took longer to finish them
 - how is the spanish verb tardar and buenas tardes related ?
 
 The Spanish verb tardar (to delay/take a long time) and the phrase buenas tardes (good afternoon/evening) are directly related through their common etymological root, the Latin word tardus, meaning "slow," "late," or "sluggish".
