@@ -1,4 +1,8 @@
 
+### 2/6/26
+
+- te veré esta tarde después del trabajo - I will see you this evening after work.
+
 ### 1/31/2026
 
 - no estamos seguros de cuánto tiempo nos quedaremos aquí - we are not sure how long we are going to stay here.

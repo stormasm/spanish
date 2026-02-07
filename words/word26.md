@@ -1,10 +1,10 @@
 
 
 
-### 2/6/26
+### 2/6/26 - tardar
 
 - se tarda más acabar - it takes longer to finish
-- Tarda más en terminar - it takes longer to finish
+- tarda más en terminar - it takes longer to finish
 - se tardaba más en acabarlos - it took longer to finish them
 - how is the spanish verb tardar and buenas tardes related ?
 
