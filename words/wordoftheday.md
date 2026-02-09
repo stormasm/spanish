@@ -55,6 +55,7 @@
 | el acantilado | cliff | Me detuve a ver el mar desde el acantilado | I stopped to watch the sea from the cliff |
 | adornado | decorated | El árbol de Navidad está bien adornado | The Christmas tree is decorated well |
 | agitar | to shake | El bartender agitó la coctelera | The bartender shook the cocktail shaker |
+| ahumado | smoked | En Navidad preparamos tostadas con salmón ahumado y limón | At Christmas we make toasts with smoked salmon and lemon |
 | la algarabía | racket, loud noise | Cerré la ventana para no escuchar la algarabía de los manifestantes que estaban afuera | I closed the windows so as not to hear the racket of the protesters outside. |
 | el alivio | relief | Para el alivio de su madre, Jorge no reprobó la clase | To his mother's relief, Jorge didn't fail the class |
 | la almeja | clam | La almeja fue arrastrada a la playa por la corriente | The clam was washed up on the beach by the current |
