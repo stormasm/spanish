@@ -183,6 +183,7 @@
 | la manada | herd | Una manada de elefantes está cruzando el río | A herd of elephants is crossing the river |
 | la manga | sleeve | Tengo un hueco en mi manga | My sleeve has a hole in it |
 | masticar | to chew | El panda está masticando unas hojas de bambú | The panda is chewing on some bamboo leaves |
+| media naranja | soulmate | Conocí a mi media naranja cuando era joven | I met my soulmate when I was young |
 | a menudo | often | Vengo a esta tienda a menudo | I come to this store often |
 | meterse | to go in, to enter | Empezó a llover y se metieron en la casa | It started raining and they went in the house - ref: caluroso |
 | el mochilero | backpacker | Conocí a muchos mochileros en mis viajes | I met many backpackers during my travels |
