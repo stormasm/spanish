@@ -116,6 +116,7 @@
 | embrujado | haunted | La gente dice que esa casa está embrujada | People say that house is haunted |
 | la escultura | sculpture | La pintura y la escultura florecieron durante el Siglo de Oro español | Painting and sculpture flourished during the Spanish Golden Age |
 | esparcir | to spread or scatter | Leo esparció las bolitas antes de comérselas | Leo scattered the kibble before eating it |
+| el escribano | scribe | El escribano le leyó al rey el mensaje que había recibido | The scribe read the message he had received from the king |
 | exhaustivo | comprehensive | Se terminó un año completo de monitoreo exhaustivo en Veracruz | Completed a full year of comprehensive monitoring in Veracruz |
 
 ### F
