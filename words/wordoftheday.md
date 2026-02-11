@@ -198,6 +198,7 @@
 | | | | |
 | - | - | - | - |
 | el ocio | leisure | Es importante dejar tiempo para el ocio | It is important to leave time for leisure |
+| oscuro | dark | El cuarto está oscuro, y no puedo ver nada | The room is dark, and I can not see anything |
 | el otoño | autumn | Las hojas cambian de color en el otoño | The leaves change color in the fall |
 
 ### P
