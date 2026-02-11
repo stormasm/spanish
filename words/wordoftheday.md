@@ -87,6 +87,8 @@
 | el cachorro | puppy | El cachorro se durmió en mis brazos | The puppy fell asleep in my arms |
 | la calavera | skull | Las paredes de las catacumbas están cubiertas de calaveras | The walls of the catacombs are covered in skulls |
 | caluroso | hot | Nos metemos en el río en días calurosos | We go into the river on hot days |
+| la campanada | chime | Sancho escuchó las campanadas que provenían del campanario de la iglesia |
+Sancho heard the chimes coming from the church belfry |
 | el cangrejo | crab | El cangrejo abrió y cerró sus tenazas | The crab opened and closed its pincers |
 | canoso | gray haired | El dueño del hotel es un señor alto y canoso | The hotels owner is a tall, gray-haired man |
 | charlar | to chat | Nos pasamos la tarde charlando en el café | we spent the afternoon chatting at the cafe |
