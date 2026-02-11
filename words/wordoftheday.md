@@ -188,6 +188,7 @@
 
 | | | | |
 | - | - | - | - |
+| el nido | nest | Un pajarito hizo su nido en nuestra terraza | A little bird made its nest on our deck |
 
 ### O
 
