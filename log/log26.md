@@ -1,6 +1,11 @@
 
 ---
 
+Nunca podré entender esta situación así que no creas que puedes.
+I will never be able to understand this situation so do not think you can.
+
+---
+
 - no estoy seguro - I am not sure
 - no estoy seguro de eso - I am not sure about that
 - no estoy seguro todavia - I am not sure yet
