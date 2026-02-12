@@ -1,8 +1,8 @@
 
 ---
 
-Nunca podré entender esta situación así que no creas que puedas.
-I will never be able to understand this situation so do not think you can.
+- Nunca podré entender esta situación así que no creas que puedas.
+- I will never be able to understand this situation so do not think you can.
 
 ---
 
