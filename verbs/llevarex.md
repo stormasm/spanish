@@ -61,6 +61,7 @@
 
 - What is in the paella - qué lleva la paella
 - does this cake have nuts in it - este pastel lleva frutos secas
+- este comida lleva harina de trigo - does this food contain wheat flour ?
 - I am allergic to wheat flour - soy alérgico a la harina de trigo
 
 ## Reflexive Form - me llevo
