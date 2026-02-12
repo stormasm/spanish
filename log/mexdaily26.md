@@ -1,4 +1,13 @@
 
+### 2/12/26
+
+- cuanta tiempo dura el viaje en autobus a puebla - How long does the bus trip to Puebla take ?
+- cuanta tiempo dura el viaje - how long does the trip last ?
+- cuanta tiempo dura el viaje en autobus - how long does the bus trip take ?
+- este comida lleva harina de trigo - does this food contain wheat flour ?
+- nunca podré entender esta situación así que no creas que puedas
+- I will never understand this situation, so don't think you can.
+
 ### 2/6/26
 
 - te veré esta tarde después del trabajo - I will see you this evening after work.
