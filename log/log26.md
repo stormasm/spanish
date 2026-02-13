@@ -1,7 +1,7 @@
 
 ---
 
-todo lo que necesitas hacer es nada - all you need to do is nothing
+- todo lo que necesitas hacer es nada - all you need to do is nothing
 
 ---
 
