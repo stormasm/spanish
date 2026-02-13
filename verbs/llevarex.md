@@ -1,4 +1,10 @@
 
+### Focus
+
+- este comida lleva harina de trigo - does this food contain wheat flour ?
+- cuánto tiempo llevas trabajando aquí - how long have you been working here ?
+- sabes adónde lleva esta calle - do you know where the street leads to
+
 ### More random examples
 
 - me llevo - I will take it
