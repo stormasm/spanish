@@ -1,10 +1,11 @@
 
 ---
 
+- este comida lleva harina de trigo - does this food contain wheat flour ?
+- cuánto tiempo llevas trabajando aquí - how long have you been working here ?
+- sabes adónde lleva esta calle - do you know where the street leads to
 - todo lo que necesitas hacer es nada - all you need to do is nothing
-
----
-
+- te veré esta tarde después del trabajo - I will see you this afternoon after work.
 - Nunca podré entender esta situación así que no creas que puedas.
 - I will never be able to understand this situation so do not think you can.
 
