@@ -6,6 +6,10 @@
 - [quedar](./ver.md), [querer](./gustar.md), [saber](./gustar.md), [salir](./salir.md), [sentir](./gustar.md), [ser](./ir.md), [soler](./soler.md), [tener](./ir.md), [tomar](./tomar.md), trabajar
 - usar, [venir](./hacer.md), [ver](./ver.md), [vivir](./hablar.md)
 
+### Popular verbs with lots of different meanings
+
+- [meterse](https://www.spanishdict.com/translate/meterse)
+
 #### References
 
 - [Top 25 spanish verbs](https://www.youtube.com/watch?v=-AV5LSve7Jc)
@@ -35,7 +39,3 @@ For example:
 These verbs cannot stand alone in a sentence without specifying what or whom the action is directed toward.  They can also be used with direct object pronouns (e.g., lo, la, los, las) to replace the noun.
 
 ✅ Key rule: If you can ask "What?" or "Whom?" after the verb and get a meaningful answer, the verb is likely transitive.
-
-### Popular verbs with lots of different meanings
-
-- [meterse](https://www.spanishdict.com/translate/meterse)
