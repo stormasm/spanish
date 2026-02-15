@@ -2,7 +2,7 @@
 ---
 
 - soy afortunado de estar en mexico
-- tengo suerte de ser en mexico
+- tengo suerte de estar en mexico
 
 ---
 
