@@ -1,6 +1,11 @@
 
 ---
 
+- Cuál es la diferencia entre - what is the difference between
+- los dos autobuses
+
+---
+
 - soy afortunado de estar en mexico
 - tengo suerte de estar en mexico
 
