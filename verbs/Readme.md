@@ -38,4 +38,4 @@ These verbs cannot stand alone in a sentence without specifying what or whom the
 
 ### Popular verbs with lots of different meanings
 
-- meterse
+- [meterse](https://www.spanishdict.com/translate/meterse)
