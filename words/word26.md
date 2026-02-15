@@ -2,6 +2,7 @@
 ### 2/15/26 - chapulín, chapulínes
 
 - [grasshopper](https://www.spanishdict.com/translate/chapul%C3%ADn)
+- [Chapulines en Cdmx: Un manjar crujiente y sabroso](https://mexicanfoodtours.com/chapulines-mexico/)
 
 ### 2/6/26 - tardar
 
