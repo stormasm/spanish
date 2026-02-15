@@ -35,3 +35,7 @@ For example:
 These verbs cannot stand alone in a sentence without specifying what or whom the action is directed toward.  They can also be used with direct object pronouns (e.g., lo, la, los, las) to replace the noun.
 
 ✅ Key rule: If you can ask "What?" or "Whom?" after the verb and get a meaningful answer, the verb is likely transitive.
+
+### Popular verbs with lots of different meanings
+
+- meterse
