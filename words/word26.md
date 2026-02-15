@@ -1,5 +1,7 @@
 
+### 2/15/26 - chapulín, chapulínes
 
+- [grasshopper](https://www.spanishdict.com/translate/chapul%C3%ADn)
 
 ### 2/6/26 - tardar
 
