@@ -81,6 +81,7 @@
 | | | | |
 | - | - | - | - |
 | el babero | bib | Ian está estrenando su nuevo babero | Ian is wearing his new bib for the first time |
+| barbudo | bearded | Ese tipo barbudo en la foto era tu bisabuelo | That bearded guy in the picture was your great-grandfather |
 | el bastón | cane | Mi abuelo usa un bastón para caminar | My grandpa uses a cane to walk |
 | el bosque | forest | Escuché que un hombre lobo vive en este bosque | I heard a werewolf lives in this forest |
 
