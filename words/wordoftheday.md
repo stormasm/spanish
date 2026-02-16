@@ -178,6 +178,7 @@
 | | | | |
 | - | - | - | - |
 | lloviznar | to drizzle | Está comenzando a lloviznar | It is starting to drizzle |
+| lluvioso | rainy | Me quedo en casa en los días lluviosos | I stay in on rainy days |
 | el luto | mourning | La nación está de luto hoy | The nation is in mourning today |
 
 ### M
