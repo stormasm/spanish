@@ -158,6 +158,7 @@
 | - | - | - | - |
 | el idioma | language | Nuestro idioma no tiene una buena palabra para este sentimiento | Our language doesn't have a good word for this feeling |
 | la inmersión | immersion | Un baño de Gong es una inmersión completa en el sonido | A Gong bath is a full immersion in the sound |
+| inusual | unusual | Aquí es algo inusual ver nieve entrado ya el verano | It is quite unusual here to see snow at the start of the summer |
 
 ### J
 
