@@ -220,6 +220,7 @@
 | la piña | pineapple | Me encanta ponerle piña a mi pizza | I love to put pineapple on my pizza |
 | la piragua | canoe | Cruzamos el río en piragua | We crossed the river by canoe |
 | la planta baja | first floor | Tome el elevador para ir a la planta baja | Take the elevator to go to the first floor |
+| el ponche | punch | Ya compraste la caña de azúcar y el piloncillo para el ponche | Did you buy the sugarcane and brown sugar for the punch yet |
 
 ### Q
 
