@@ -69,6 +69,7 @@
 | el aprendizaje | learning | El aprendizaje de matematica es un pan comido con un buen maestro | Learning mathematics is a piece of cake with a good teacher |
 | el aventón | ride | ¿Me puedes dar un aventón? | Can you give me a ride |
 | el apio | celery | Voy a echarle apio a la ensalada | I'm going to add celery to the salad |
+| el arco iris | rainbow | Qué hay al final del arco iris | What is there at the end of the rainbow |
 | ardiente | burning | La palmera me protege del sol ardiente |The palm tree protects me from the burning sun |
 | azucarado | sugary | Los jugos azucarados son malos para tus dientes | Sugary juices are bad for your teeth |
 ||| No me gusta el té azucarado; lo tomo solo con leche | I don't like sweet tea, I just have it with milk |
