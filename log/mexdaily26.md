@@ -1,4 +1,8 @@
 
+### 2/15/26
+
+- Este es nuestro último fin de semana en CDMX - this is our last weekend in cdmx
+
 ### 2/12/26
 
 - cuanta tiempo dura el viaje en autobus a puebla - How long does the bus trip to Puebla take ?
