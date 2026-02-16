@@ -1,7 +1,7 @@
 
 ### 2/15/26 - chapulín, chapulínes, saludable
 
-- [saludable](https://www.spanishdict.com/translate/saludable) - learned from luis sunday evening 2/15/2026 upon returning home from Walmart with my ensalada
+- [saludable](https://www.spanishdict.com/translate/saludable) - learned from luis sunday evening 2/15/26 upon returning home from wmt with my ensalada
 - [grasshopper](https://www.spanishdict.com/translate/chapul%C3%ADn)
 - [Chapulines en Cdmx: Un manjar crujiente y sabroso](https://mexicanfoodtours.com/chapulines-mexico/)
 
