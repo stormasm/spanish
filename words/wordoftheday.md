@@ -250,6 +250,7 @@
 | el sastre | tailor | El sastre está haciendo un saco | The tailor is making a suit |
 | sediento | thirsty | Milo estaba sediento después de jugar por horas | Milo was thirsty after playing for hours |
 | soleado | sunny | Hoy hace un día muy soleado | It's really sunny today |
+| sonrojarse | to blush | Me sonrojé cuando el anfitrión dijo mi nombre | I blushed when the host said my name |
 | el sorbo | sip | Edgar tomó un sorbo de su café | Edgar took a sip of his coffee |
 
 ### T
