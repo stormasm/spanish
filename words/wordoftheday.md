@@ -54,6 +54,7 @@
 | - | - | - | - |
 | el acantilado | cliff | Me detuve a ver el mar desde el acantilado | I stopped to watch the sea from the cliff |
 | adornado | decorated | El árbol de Navidad está bien adornado | The Christmas tree is decorated well |
+| el adorno | ornament | Compré estos adornos en un mercado navideño en Berlín | I bought these ornaments at a Christmas market in Berlin |
 | afortunado | lucky | Soy afortunada de tener tan buenas amigas | I'm lucky to have such good friends |
 | agitar | to shake | El bartender agitó la coctelera | The bartender shook the cocktail shaker |
 | el aguacero | downpour | Me agarró un aguacero regresando a casa | I got caught in a downpour on the way home |
