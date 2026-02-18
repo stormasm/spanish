@@ -10,3 +10,4 @@ So this will continue to be my journey as long as I am studying this language :)
 | - | - |
 | [despedir](https://www.spanishdict.com/translate/despedir) | 26 02 17 |
 | [saber](https://www.spanishdict.com/translate/saber) | 26 02 16 |
+| [suceder](https://www.spanishdict.com/translate/suceder) | 26 02 16 |
