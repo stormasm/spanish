@@ -1,4 +1,10 @@
 
+I want to be able to track the last time I studied a particular verb.
+The spanish language is all about knowing the verbs and how to conjugate
+them not to mention knowing the meaning of the word and being able to
+translate to the spanish verb when you are speaking.
+
+So this will continue to be my journey as long as I am studying this language :)
 
 | | |
 | - | - |
