@@ -2,6 +2,8 @@
 ### 2/27/26
 
 - a que hora puedo desayunar, what time can I eat breakfast to
+- queremos salir por el día así que estamos esperando el agua, we want to go
+out for the day so we are waiting for the water
 
 ### 2/15/26
 
