@@ -1,4 +1,8 @@
 
+### 2/27/26
+
+- a que hora puedo desayunar, what time can I eat breakfast to
+
 ### 2/15/26
 
 - Este es nuestro último fin de semana en CDMX - this is our last weekend in cdmx
