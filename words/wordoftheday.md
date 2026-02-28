@@ -86,6 +86,7 @@
 | barbudo | bearded | Ese tipo barbudo en la foto era tu bisabuelo | That bearded guy in the picture was your great-grandfather |
 | la ballena | whale | Vimos una ballena azul desde nuestro barco | We saw a blue whale from our ship |
 | el bastón | cane | Mi abuelo usa un bastón para caminar | My grandpa uses a cane to walk |
+| el bolsillo | pocket | Tengo las llaves en mi bolsillo | I have the keys in my pocket |
 | el bosque | forest | Escuché que un hombre lobo vive en este bosque | I heard a werewolf lives in this forest |
 
 ### C
