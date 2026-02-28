@@ -141,6 +141,7 @@
 
 | | | | |
 | - | - | - | - |
+| el globo | balloon | Vi globos rojos flotando en el cielo | I saw red balloons floating in the sky |
 | la golosina | candy | podemos comer golosinas después de la cena | Can we eat candy after dinner |
 
 ### H
