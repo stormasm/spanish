@@ -136,6 +136,7 @@
 | el faro | lighthouse | El faro alumbraba la entrada al puerto | The lighthouse lit the way into the harbor |
 | fluir | to flow | El agua del río fluye hacia el lago | The water from the river flows into the lake |
 | fresco | fresh | Se venden vegetales frescos en el mercado agrícola | Fresh vegetables are sold at the farmer's market |
+| friolento | sensitive to the cold | El perrito es muy friolento | The puppy is very sensitive to the cold |
 | la fuente | fountain | Hay una fuente en medio del jardín | There is a fountain in the middle of the garden |
 
 ### G
