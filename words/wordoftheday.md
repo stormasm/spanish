@@ -127,6 +127,7 @@
 | la escultura | sculpture | La pintura y la escultura florecieron durante el Siglo de Oro español | Painting and sculpture flourished during the Spanish Golden Age |
 | esparcir | to spread or scatter | Leo esparció las bolitas antes de comérselas | Leo scattered the kibble before eating it |
 | el escribano | scribe | El escribano le leyó al rey el mensaje que había recibido | The scribe read the message he had received from the king |
+| la estrella fugaz | shooting star | Si ves una estrella fugaz, pide un deseo | If you see a shooting star, make a wish |
 | exhaustivo | comprehensive | Se terminó un año completo de monitoreo exhaustivo en Veracruz | Completed a full year of comprehensive monitoring in Veracruz |
 
 ### F
