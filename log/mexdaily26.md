@@ -1,4 +1,8 @@
 
+### 2/28/26
+
+- ¿El precio incluye impuestos, does the price include taxes
+
 ### 2/27/26
 
 - a que hora puedo desayunar, what time can I eat breakfast to
