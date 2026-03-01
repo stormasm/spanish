@@ -97,6 +97,7 @@
 | la calavera | skull | Las paredes de las catacumbas están cubiertas de calaveras | The walls of the catacombs are covered in skulls |
 | el calcetín | sock | Cada vez que lavo la ropa, pierdo un calcetín | Every time I do laundry, I lose a sock |
 | caluroso | hot | Nos metemos en el río en días calurosos | We go into the river on hot days |
+| la camarera | maid | La camarera limpió la habitación y trajo toallas | The maid cleaned the room and brought towels |
 | la campanada | chime | Sancho escuchó las campanadas que provenían del campanario de la iglesia | Sancho heard the chimes coming from the church belfry |
 | el cangrejo | crab | El cangrejo abrió y cerró sus tenazas | The crab opened and closed its pincers |
 | canoso | gray haired | El dueño del hotel es un señor alto y canoso | The hotels owner is a tall, gray-haired man |
