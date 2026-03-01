@@ -264,6 +264,7 @@
 
 | | | | |
 | - | - | - | - |
+| saludable | healthy | Corro para mantenerme saludable | I run to keep myself healthy |
 | saludar | to say hello to | Vi a Sandra en la tienda ayer y la saludé | I saw Sandra at the store yesterday and said hello to her |
 | salvaje | wild | El tigre es un animal salvaje | The tiger is a wild animal |
 | la sandía | watermellon | Compré una sandía y varias ciruelas | I bought a watermelon and some plums |
