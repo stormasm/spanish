@@ -1,7 +1,7 @@
 
 ### 3/1/26
 
-- No entiendes que el hombre dijo que no salpiquemos el agua, don't you understand the man said not to splash the water
+- No entienden que el hombre dijo que no salpiquemos el agua, don't you understand the man said not to splash the water
 
 ### 2/28/26
 
