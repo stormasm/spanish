@@ -1,7 +1,8 @@
 
 ### 2/28/26
 
-- ¿El precio incluye impuestos, does the price include taxes
+- El precio incluye impuestos, does the price include taxes
+- Puedes decirme cuándo llegamos, can you please tell me when we arrive at
 
 ### 2/27/26
 
