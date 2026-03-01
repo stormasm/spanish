@@ -112,6 +112,7 @@
 
 | | | | |
 | - | - | - | - |
+| demás | other | Los demás niños pueden leer | The other children can read |
 | derretirse | to melt | El hielo se está derritiendo | The ice is melting |
 | descalzo | barefoot | Ando descalzo, y la arena me está quemando los pies | I'm barefoot, and the sand is burning my feet |
 | despejado | clear | El cielo está completamente despejado | The sky is completely clear |
