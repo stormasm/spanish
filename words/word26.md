@@ -1,4 +1,8 @@
 
+### 3/2 - entusiasmado
+
+- [entusiasmado](https://www.spanishdict.com/translate/entusiasmado) - excited - me alegra que estés entusiasmado con este tema.
+
 ### 3/1/26 - pregonar
 
 - [pregonar](https://www.spanishdict.com/translate/pregonar) - to proclaim - Los artistas pregonaron que este sería su último concierto.The artists proclaimed that this would be their last concert.
