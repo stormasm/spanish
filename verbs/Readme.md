@@ -39,3 +39,21 @@ For example:
 These verbs cannot stand alone in a sentence without specifying what or whom the action is directed toward.  They can also be used with direct object pronouns (e.g., lo, la, los, las) to replace the noun.
 
 ✅ Key rule: If you can ask "What?" or "Whom?" after the verb and get a meaningful answer, the verb is likely transitive.
+
+### Imperfect vs Preterite
+
+- Éramos estudiantes hace cinco años
+- We were students five years ago
+
+We use "éramos" (imperfect tense) instead of "fuimos" (preterite tense) because you are describing a continuous situation, a state, or a background scenario in the past, not a single, completed action.
+
+Here's a detailed breakdown of why "éramos" is correct:
+
+1. The imperfect tense describes states or situations. "Being a student" is a state that lasted for a period of time (years) and not a one-time event (like "buying a book" or "being born"). The imperfect tense is used to create the "scenario" or describe what things were like five years ago.
+
+2. The imperfect vs. the preterite tense
+
+"Éramos estudiantes" (Imperfect): Defines a stage of life. It focuses on duration ("we spent time being students").
+"Fuimos estudiantes" (Preterite): Would sound as if they were students for just one day or a very specific event that started and ended instantly five years ago, which is not usually the case.
+
+In short: When describing a period of time, a background characteristic, or how things used to be, the imperfect tense (we were) is the natural choice.
