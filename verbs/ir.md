@@ -1,5 +1,5 @@
 
-ir
+#### ir
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
@@ -9,7 +9,7 @@ tú | vas | fuiste | ibas | irías | irás |
 nosotros | vamos | fuimos | íbamos | iríamos | iremos |
 ellos | van | fueron | iban | irían | irán |
 
-estar
+#### estar
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
@@ -19,7 +19,7 @@ tú | estás | estuviste | estabas | estarías | estarás |
 nosotros | estamos | estuvimos | estábamos | estaríamos | estaremos |
 ellos | están | estuvieron | estaban | estarían | estarán |
 
-ser
+#### ser
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
@@ -29,7 +29,7 @@ tú | eres | fuiste | eras | serías | serás |
 nosotros | somos | fuimos | éramos | seríamos | seremos |
 ellos | son | fueron | eran | serían | serán |
 
-haber
+#### haber
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
@@ -39,7 +39,7 @@ tú | has | hubiste | habías | habrías | habrás |
 nosotros | hemos | hubimos | habíamos | habríamos | habremos |
 ellos | han | hubieron | habían | habrían | habrán |
 
-tener
+#### tener
 
 | | Present | Preterite | Imperfect | Conditional | Future |
 |-|-|-|-|-|-|
