@@ -1,4 +1,8 @@
 
+### 3/1/26 - pregonar
+
+- [pregonar](https://www.spanishdict.com/translate/pregonar) - to proclaim - Los artistas pregonaron que este sería su último concierto.The artists proclaimed that this would be their last concert.
+
 ### 2/15/26 - chapulín, chapulínes, saludable
 
 - [saludable](https://www.spanishdict.com/translate/saludable) - learned from luis sunday evening 2/15/26 upon returning home from wmt with my ensalada
