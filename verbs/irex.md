@@ -1,4 +1,14 @@
 
+### ser fui
+
+This indicates a completed, defining state or role in the past, rather than a location.
+
+- Fui maestro - I was a teacher
+- Fui el primero en llegar - I was the first to arrive
+- Fui afortunado - I was lucky
+
+### ser conditional
+
 - [ser conditional blog post](https://spanish.kwiziq.com/revision/grammar/conjugate-ser-in-el-condicional-simple-conditional-tense)
 - [ser conjugation](https://github.com/stormasm/spanish/blob/main/verbs/ir.md#ser)
 
