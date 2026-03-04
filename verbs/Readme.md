@@ -57,3 +57,7 @@ Here's a detailed breakdown of why "éramos" is correct:
 "Fuimos estudiantes" (Preterite): Would sound as if they were students for just one day or a very specific event that started and ended instantly five years ago, which is not usually the case.
 
 In short: When describing a period of time, a background characteristic, or how things used to be, the imperfect tense (we were) is the natural choice.
+
+### References for Preterite vs Imperfect
+
+- [Qroo Paul](https://www.youtube.com/watch?v=eQo1QLAyS8M)
