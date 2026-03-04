@@ -58,6 +58,27 @@ Here's a detailed breakdown of why "éramos" is correct:
 
 In short: When describing a period of time, a background characteristic, or how things used to be, the imperfect tense (we were) is the natural choice.
 
+---
+
+Ambas frases son gramaticalmente correctas, pero se usan en contextos diferentes según el sentido que quieras darle a la experiencia pasada en México.
+
+1. "Era afortunado de estar en México" (Pretérito Imperfecto)
+Cuándo usarlo: Cuando describes una situación continua o una descripción de fondo. Indica que durante tu estancia, te sentías afortunado constantemente.
+Enfoque: Describe el estado emocional o la situación mientras estabas allí.
+Ejemplo: Era afortunado de estar en México, cada día descubría algo nuevo. 
+2. "Fui afortunado de estar en México" (Pretérito Perfecto Simple)
+Cuándo usarlo: Cuando te refieres a tu estancia como una experiencia completa y terminada. Indica un reconocimiento puntual o general de que esa experiencia fue afortunada.
+Enfoque: Considera la experiencia en México como un evento concluido y evaluado en su totalidad.
+Ejemplo: Fui afortunado de estar en México el año pasado; fue la mejor experiencia.
+
+Resumen:
+
+- Era = Enfoque en la emoción continua/descripción (estaba sucediendo).
+- Fui = Enfoque en la experiencia concluida (evaluación final).
+
+Fui afortunado tiende a sonar un poco más natural para cerrar una reflexión sobre un viaje específico que ya terminó.
+
+
 ### References for Preterite vs Imperfect
 
 - [Qroo Paul](https://www.youtube.com/watch?v=eQo1QLAyS8M)
