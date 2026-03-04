@@ -1,4 +1,9 @@
 
+### 3/4/26
+
+- quiero saber que tengo una reservacion por dos semanas más - I want to know that I have a reservation for two more weeks.
+- quiero saber que tengo reserva por dos semanas más.
+
 ### 3/1/26
 
 - No entienden que el hombre dijo que no salpiquemos el agua, don't you understand the man said not to splash the water
