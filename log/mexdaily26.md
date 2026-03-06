@@ -1,4 +1,9 @@
 
+### 3/6/26
+
+- me gusta estar aqui - I like being here
+- soy afortunado de estar en mexico - I am lucky to be in Mexico 
+
 ### 3/4/26
 
 - quiero saber que tengo una reservacion por dos semanas más - I want to know that I have a reservation for two more weeks.
