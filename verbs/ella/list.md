@@ -68,17 +68,17 @@
 18	Acordar	to agree, to agree on or upon	Irregular    
 19	Acordarse	to remember	Irregular    
 20	Acostar	to put to bed, to lay down	Irregular    
-21	Acostarse	to go to bed, to lie down	Irregular	View conjugations
-22	Acostumbrar	to accustom, to habituate	Regular AR	View conjugations
-23	Actualizar	to update, to refresh	Irregular	View conjugations
-24	Actualizarse	to update (oneself)	Irregular	View conjugations
-25	Actuar	to act, to perform	Irregular	View conjugations
-26	Acudir	to go, to turn up	Regular IR	View conjugations
-27	Acumular	to accumulate	Regular AR	View conjugations
-28	Acusar	to accuse	Regular AR	View conjugations
-29	Adaptar	to adapt	Regular AR	View conjugations
-30	Adelantar	to go ahead, to move forward, to overtake	Regular AR	View conjugations
-31	Adelgazar	to slim down, to lose weight	Irregular	View conjugations
+21	Acostarse	to go to bed, to lie down	Irregular    
+22	Acostumbrar	to accustom, to habituate	Regular  
+23	Actualizar	to update, to refresh	Irregular   
+24	Actualizarse	to update (oneself)	Irregular  
+25	Actuar	to act, to perform	Irregular  
+26	Acudir	to go, to turn up	Regular  
+27	Acumular	to accumulate	Regular  
+28	Acusar	to accuse	Regular  
+29	Adaptar	to adapt	Regular   
+30	Adelantar	to go ahead, to move forward, to overtake	Regular   
+31	Adelgazar	to slim down, to lose weight	Irregular   
 32	Admirar	to admire	Regular AR	View conjugations
 33	Admitir	to admit	Regular IR	View conjugations
 34	Adoptar	to adopt	Regular AR	View conjugations
@@ -127,26 +127,26 @@
 77	Arreglar	to fix, to mend, to arrange	Regular AR	View conjugations
 78	Arreglarse	to get ready	Regular AR	View conjugations
 79	Arrendar	to lease, to rent	Irregular	View conjugations
-80	Asegurar	to ensure, to secure, to insure	Regular AR	View conjugations
-81	Asegurarse	to ensure, to be sure	Regular AR	View conjugations
-82	Asistir	to assist, to attend	Regular IR	View conjugations
-83	Atender	to attend to, to serve, to tend to	Irregular	View conjugations
-84	Aumentar	to increase, to enlarge	Regular AR	View conjugations
-85	Avanzar	to advance, to proceed, to move	Irregular	View conjugations
-86	Averiguar	to find out, to ascertain	Irregular	View conjugations
-87	Ayudar	to help, to assist	Regular AR	View conjugations
+80	Asegurar	to ensure, to secure, to insure	Regular   
+81	Asegurarse	to ensure, to be sure	Regular  
+82	Asistir	to assist, to attend	Regular   
+83	Atender	to attend to, to serve, to tend to	Irregular   
+84	Aumentar	to increase, to enlarge	Regular   
+85	Avanzar	to advance, to proceed, to move	Irregular   
+86	Averiguar	to find out, to ascertain	Irregular   
+87	Ayudar	to help, to assist	Regular   
 
 ### B
 
-88	Bailar	to dance	Regular AR	View conjugations
-89	Bajar	to go down, to lower, to bring down	Regular AR	View conjugations
-90	Beber	to drink	Regular ER	View conjugations
-91	Buscar	to search (for), to look (for)	Irregular	View conjugations
+88	Bailar	to dance	Regular   
+89	Bajar	to go down, to lower, to bring down	Regular    
+90	Beber	to drink	Regular   
+91	Buscar	to search (for), to look (for)	Irregular   
 
 ### C
 
-92	Caber	to fit	Irregular	View conjugations
-93	Caer	to fall, to fall down	Irregular	View conjugations
+92	Caber	to fit	Irregular  
+93	Caer	to fall, to fall down	Irregular   
 94	Caerse	to fall, to fall down	Irregular	View conjugations
 95	Calcular	to calculate, to estimate	Regular AR	View conjugations
 96	Calentar	to warm (up), to heat (up)	Irregular	View conjugations
