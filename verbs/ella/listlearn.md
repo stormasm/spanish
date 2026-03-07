@@ -85,9 +85,11 @@ Guau, estas botas de goma sí que aguantan.Wow, these rubber boots really last.
 
 11. (to wait)
 - a. to hold on  
-¡Aguanta, mamá! Casi estoy lista.Hold on, mom! I'm almost ready.
+¡Aguanta, mamá! Casi estoy lista.  
+Hold on, mom! I'm almost ready.
 - b. to hang on  
-Aguanta, amigo. Tengo que contestar este correo.Hang on, dude. I need to answer this email.
+Aguanta, amigo. Tengo que contestar este correo.  
+Hang on, dude. I need to answer this email.
 
 
 ### alcanzar - to reach
