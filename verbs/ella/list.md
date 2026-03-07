@@ -79,55 +79,55 @@
 29	Adaptar	to adapt	Regular   
 30	Adelantar	to go ahead, to move forward, to overtake	Regular   
 31	Adelgazar	to slim down, to lose weight	Irregular   
-32	Admirar	to admire	Regular AR	View conjugations
-33	Admitir	to admit	Regular IR	View conjugations
-34	Adoptar	to adopt	Regular AR	View conjugations
-35	Adquirir	to acquire, to purchase	Irregular	View conjugations
-36	Advertir	to warn, to note, to caution, to notice	Irregular	View conjugations
-37	Afirmar	to affirm	Regular AR	View conjugations
-38	Agradecer	to thank, to be grateful for	Irregular	View conjugations
-39	Aguantar	to endure, to put up with	Regular AR	View conjugations
-40	Ahorrar	to save (money), to spare	Regular AR	View conjugations
-41	Aislar	to isolate	Irregular	View conjugations
-42	Alcanzar	to reach, to attain, to achieve, to accomplish	Irregular	View conjugations
-43	Alegrar	to be happy, to be glad	Regular AR	View conjugations
-44	Alegrarse	to be happy (oneself), to be glad (oneself)	Regular AR	View conjugations
-45	Alejar	to move (away)	Regular AR	View conjugations
-46	Alimentar	to feed, to nourish	Regular AR	View conjugations
-47	Almacenar	to store, to stock up	Regular AR	View conjugations
-48	Almorzar	to lunch, to eat lunch	Irregular	View conjugations
-49	Alquilar	to rent, to hire	Regular AR	View conjugations
-50	Alterar	to alter	Regular AR	View conjugations
-51	Amanecer	to dawn	Irregular	View conjugations
-52	Amar	to love	Regular AR	View conjugations
-53	Amarse	to love (each other)	Regular AR	View conjugations
-54	Amenazar	to threaten, to menace	Irregular	View conjugations
-55	Añadir	to add	Regular IR	View conjugations
-56	Analizar	to analyse, to analyze	Irregular	View conjugations
-57	Andar	to walk, to go, to go around	Irregular	View conjugations
-58	Animar	to encourage, to animate	Regular AR	View conjugations
-59	Anochecer	to become night, to get dark	Irregular	View conjugations
-60	Añorar	to yearn	Regular AR	View conjugations
-61	Anotar	to annotate, to make a note	Regular AR	View conjugations
-62	Anular	to cancel	Regular AR	View conjugations
-63	Anunciar	to announce, to advertise	Regular AR	View conjugations
-64	Apagar	to turn off, to extinguish	Irregular	View conjugations
-65	Aparecer	to appear	Irregular	View conjugations
-66	Aplaudir	to applaud	Regular IR	View conjugations
-67	Aplicar	to apply	Irregular	View conjugations
-68	Apoyar	to support	Regular AR	View conjugations
-69	Apoyarse	to be supported	Regular AR	View conjugations
-70	Aprender	to learn	Regular ER	View conjugations
-71	Apretar	to tighten	Irregular	View conjugations
-72	Aprobar	to approve, to pass	Irregular	View conjugations
-73	Aprovechar	to take advantage of	Regular AR	View conjugations
-74	Aprovecharse	to take advantage (when used with "de")	Regular AR	View conjugations
-75	Apuntar	to point, to aim, to make a note, to record	Regular AR	View conjugations
-76	Armar	to assemble, to arm	Regular AR	View conjugations
-77	Arreglar	to fix, to mend, to arrange	Regular AR	View conjugations
-78	Arreglarse	to get ready	Regular AR	View conjugations
-79	Arrendar	to lease, to rent	Irregular	View conjugations
-80	Asegurar	to ensure, to secure, to insure	Regular   
+32	Admirar	to admire	Regular  
+33	Admitir	to admit	Regular  
+34	Adoptar	to adopt	Regular   
+35	Adquirir	to acquire, to purchase	Irregular  
+36	Advertir	to warn, to note, to caution, to notice	Irregular  
+37	Afirmar	to affirm	Regular  
+38	Agradecer	to thank, to be grateful for	Irregular  
+39	Aguantar	to endure, to put up with	Regular  
+40	Ahorrar	to save (money), to spare	Regular  
+41	Aislar	to isolate	Irregular  
+42	Alcanzar	to reach, to attain, to achieve, to accomplish	Irregular  
+43	Alegrar	to be happy, to be glad	Regular  
+44	Alegrarse	to be happy (oneself), to be glad (oneself)	Regular  
+45	Alejar	to move (away)	Regular  
+46	Alimentar	to feed, to nourish	Regular  
+47	Almacenar	to store, to stock up	Regular  
+48	Almorzar	to lunch, to eat lunch	Irregular  
+49	Alquilar	to rent, to hire	Regular  
+50	Alterar	to alter	Regular  
+51	Amanecer	to dawn	Irregular  
+52	Amar	to love	Regular  
+53	Amarse	to love (each other)	Regular  
+54	Amenazar	to threaten, to menace	Irregular  
+55	Añadir	to add	Regular  
+56	Analizar	to analyse, to analyze	Irregular  
+57	Andar	to walk, to go, to go around	Irregular  
+58	Animar	to encourage, to animate	Regular  
+59	Anochecer	to become night, to get dark	Irregular  
+60	Añorar	to yearn	Regular  
+61	Anotar	to annotate, to make a note	Regular  
+62	Anular	to cancel	Regular  
+63	Anunciar	to announce, to advertise	Regular  
+64	Apagar	to turn off, to extinguish	Irregular  
+65	Aparecer	to appear	Irregular  
+66	Aplaudir	to applaud	Regular  
+67	Aplicar	to apply	Irregular  
+68	Apoyar	to support	Regular  
+69	Apoyarse	to be supported	Regular  
+70	Aprender	to learn	Regular  
+71	Apretar	to tighten	Irregular  
+72	Aprobar	to approve, to pass	Irregular   
+73	Aprovechar	to take advantage of	Regular  
+74	Aprovecharse	to take advantage (when used with "de")	Regular  
+75	Apuntar	to point, to aim, to make a note, to record	Regular  
+76	Armar	to assemble, to arm	Regular  
+77	Arreglar	to fix, to mend, to arrange	Regular  
+78	Arreglarse	to get ready	Regular  
+79	Arrendar	to lease, to rent	Irregular  
+80	Asegurar	to ensure, to secure, to insure	Regular
 81	Asegurarse	to ensure, to be sure	Regular  
 82	Asistir	to assist, to attend	Regular   
 83	Atender	to attend to, to serve, to tend to	Irregular   
