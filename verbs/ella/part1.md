@@ -1,6 +1,7 @@
 
+### A
 
-Abandonar	to abandon, to leave	Regular AR	View conjugations
+1 Abandonar	to abandon, to leave	Regular AR	View conjugations
 2	Abrazar	to hug, to embrace	Irregular	View conjugations
 3	Abrir	to open	Irregular	View conjugations
 4	Absorber	to absorb	Regular ER	View conjugations
@@ -87,10 +88,16 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 85	Avanzar	to advance, to proceed, to move	Irregular	View conjugations
 86	Averiguar	to find out, to ascertain	Irregular	View conjugations
 87	Ayudar	to help, to assist	Regular AR	View conjugations
+
+### B
+
 88	Bailar	to dance	Regular AR	View conjugations
 89	Bajar	to go down, to lower, to bring down	Regular AR	View conjugations
 90	Beber	to drink	Regular ER	View conjugations
 91	Buscar	to search (for), to look (for)	Irregular	View conjugations
+
+### C
+
 92	Caber	to fit	Irregular	View conjugations
 93	Caer	to fall, to fall down	Irregular	View conjugations
 94	Caerse	to fall, to fall down	Irregular	View conjugations
@@ -212,6 +219,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 210	Cultivar	to cultivate, to grow, to farm	Regular AR	View conjugations
 211	Cumplir	to carry out, to fulfil	Regular IR	View conjugations
 212	Curar	to cure, to heal	Regular AR	View conjugations
+
+### D
+
 213	Dar	to give	Irregular	View conjugations
 214	Darse	to give (oneself)	Irregular	View conjugations
 215	Deber	to owe, to must, to should	Regular ER	View conjugations
@@ -276,6 +286,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 274	Ducharse	to shower (oneself)	Regular AR	View conjugations
 275	Dudar	to doubt	Regular AR	View conjugations
 276	Durar	to last, to endure, to continue	Regular AR	View conjugations
+
+### E
+
 277	Echar	to throw, to put, to drop	Regular AR	View conjugations
 278	Echarse	to throw (oneself), to lean, to lie down	Regular AR	View conjugations
 279	Editar	to edit	Regular AR	View conjugations
@@ -369,6 +382,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 367	Extraer	to extract	Irregular	View conjugations
 368	Extrañar	to surprise, to miss	Regular AR	View conjugations
 369	Extrañarse	to be surprised	Regular AR	View conjugations
+
+### F
+
 370	Fabricar	to manufacture, to make	Irregular	View conjugations
 371	Facilitar	to facilitate	Regular AR	View conjugations
 372	Faltar	to lack, to fail, to fall short (of)	Regular AR	View conjugations
@@ -387,10 +403,7 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 385	Fumar	to smoke	Regular AR	View conjugations
 386	Funcionar	to function, to work	Regular AR	View conjugations
 
-
-
-
----
+### G
 
 387	Ganar	to win, to gain, to earn	Regular AR	View conjugations
 388	Garantizar	to guarantee	Irregular	View conjugations
@@ -405,6 +418,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 397	Guardar	to save (information), to keep, to guard, to hold	Regular AR	View conjugations
 398	Guiar	to guide	Irregular	View conjugations
 399	Gustar	to like, to be pleased by	Regular AR	View conjugations
+
+### H
+
 400	Haber	to have (auxiliary)	Irregular	View conjugations
 401	Habilitar	to enable	Regular AR	View conjugations
 402	Habitar	to inhabit	Regular AR	View conjugations
@@ -418,6 +434,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 410	Hervir	to boil	Irregular	View conjugations
 411	Hornear	to cook in the oven, to bake, to roast	Regular AR	View conjugations
 412	Huir	to run away, to escape, to flee	Irregular	View conjugations
+
+### I
+
 413	Identificar	to identify	Irregular	View conjugations
 414	Ignorar	to ignore	Regular AR	View conjugations
 415	Imaginar	to imagine	Regular AR	View conjugations
@@ -455,9 +474,15 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 447	Invitar	to invite	Regular AR	View conjugations
 448	Ir	to go	Irregular	View conjugations
 449	Irse	to go (oneself)	Irregular	View conjugations
+
+### J
+
 450	Jubilarse	to retire	Regular AR	View conjugations
 451	Jugar	to play	Irregular	View conjugations
 452	Juzgar	to judge	Irregular	View conjugations
+
+### L
+
 453	Lamentar	to regret, to lament	Regular AR	View conjugations
 454	Lanzar	to throw, to launch	Irregular	View conjugations
 455	Lavar	to wash	Regular AR	View conjugations
@@ -478,6 +503,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 470	Llorar	to cry	Regular AR	View conjugations
 471	Lograr	to achieve, to accomplish, to attain	Regular AR	View conjugations
 472	Luchar	to struggle, to fight	Regular AR	View conjugations
+
+### M
+
 473	Manchar	to stain	Regular AR	View conjugations
 474	Mandar	to send, to command, to order	Regular AR	View conjugations
 475	Manejar	to drive, to manage, to handle, to operate	Regular AR	View conjugations
@@ -504,6 +532,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 496	Mostrar	to show	Irregular	View conjugations
 497	Mover	to move (something)	Irregular	View conjugations
 498	Moverse	to move (oneself)	Irregular	View conjugations
+
+### N
+
 499	Nacer	to be born	Irregular	View conjugations
 500	Nadar	to swim	Regular AR	View conjugations
 501	Navegar	to sail, to navigate, to surf	Irregular	View conjugations
@@ -512,6 +543,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 504	Negociar	to negotiate	Regular AR	View conjugations
 505	Notar	to note	Regular AR	View conjugations
 506	Numerar	to number	Regular AR	View conjugations
+
+### O
+
 507	Obligar	to force, to bind, to oblige	Irregular	View conjugations
 508	Observar	to observe	Regular AR	View conjugations
 509	Obtener	to get, to obtain	Irregular	View conjugations
@@ -529,6 +563,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 521	Organizar	to organise, to arrange	Irregular	View conjugations
 522	Orientar	to orientate	Regular AR	View conjugations
 523	Originar	to originate	Regular AR	View conjugations
+
+### P
+
 524	Pagar	to pay (for)	Irregular	View conjugations
 525	Parar	to stop	Regular AR	View conjugations
 526	Parecer	to seem, to appear, to look like	Irregular	View conjugations
@@ -591,6 +628,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 583	Provocar	to provoke	Irregular	View conjugations
 584	Proyectar	to project	Regular AR	View conjugations
 585	Publicar	to publish, to publicise	Irregular	View conjugations
+
+### Q
+
 586	Quedar	to remain, to be left, to meet (a person)	Regular AR	View conjugations
 587	Quedarse	to stay	Regular AR	View conjugations
 588	Quejarse	to complain, to moan	Regular AR	View conjugations
@@ -598,6 +638,10 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 590	Querer	to want, to love	Irregular	View conjugations
 591	Quitar	to take away, to remove, to take from	Regular AR	View conjugations
 592	Quitarse	to take off (something)	Regular AR	View conjugations
+
+
+### R
+
 593	Razonar	to reason	Regular AR	View conjugations
 594	Realizar	to perform, to carry out, to realise	Irregular	View conjugations
 595	Rechazar	to refuse, to reject	Irregular	View conjugations
@@ -660,6 +704,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 652	Rogar	to pray, to beg, to request (formal)	Irregular	View conjugations
 653	Romper	to break	Irregular	View conjugations
 654	Romperse	to break (oneself), to break down	Irregular	View conjugations
+
+### S
+
 655	Saber	to know (things)	Irregular	View conjugations
 656	Saborear	to savour, to savor	Regular AR	View conjugations
 657	Sacar	to take, to get, to take out	Irregular	View conjugations
@@ -717,6 +764,9 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 709	Surfear	to surf	Regular AR	View conjugations
 710	Surgir	to emerge, to arise	Irregular	View conjugations
 711	Sustituir	to substitute	Irregular	View conjugations
+
+### T
+
 712	Tardar	to delay, to be slow	Regular AR	View conjugations
 713	Temblar	to tremble	Irregular	View conjugations
 714	Temer	to fear	Regular ER	View conjugations
@@ -725,10 +775,6 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 717	Terminar	to end, to terminate, to finish	Regular AR	View conjugations
 718	Tirar	to throw, to drop, to shoot	Regular AR	View conjugations
 719	Tirarse	to throw (oneself)	Regular AR	View conjugations
-
-
----
-
 720	Tocar	to play (an instrument), to touch	Irregular	View conjugations
 721	Tolerar	to tolerate	Regular AR	View conjugations
 722	Tomar	to drink, to take	Regular AR	View conjugations
@@ -747,12 +793,18 @@ Abandonar	to abandon, to leave	Regular AR	View conjugations
 735	Tratar	to treat, to try	Regular AR	View conjugations
 736	Triunfar	to succeed, to triumph	Regular AR	View conjugations
 737	Tropezar	to trip, to stumble	Irregular	View conjugations
+
+### U
+
 738	Ubicar	to locate, to situate	Irregular	View conjugations
 739	Ubicarse	to be located	Irregular	View conjugations
 740	Unir	to unite, to join	Regular IR	View conjugations
 741	Unirse	to join	Regular IR	View conjugations
 742	Usar	to use	Regular AR	View conjugations
 743	Utilizar	to use, to utilize	Irregular	View conjugations
+
+### V
+
 744	Vaciar	to empty	Irregular	View conjugations
 745	Vacunar	to vaccinate	Regular AR	View conjugations
 746	Valer	to value, to be worth	Irregular	View conjugations
