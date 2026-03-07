@@ -48,15 +48,15 @@
 
 ### A
 
-1 Abandonar	to abandon, to leave	Regular AR	View conjugations
-2	Abrazar	to hug, to embrace	Irregular	View conjugations
-3	Abrir	to open	Irregular	View conjugations
-4	Absorber	to absorb	Regular ER	View conjugations
-5	Abundar	to abound	Regular AR	View conjugations
-6	Aburrir	to bore	Regular IR	View conjugations
-7	Aburrirse	to get bored	Regular IR	View conjugations
-8	Abusar	to abuse	Regular AR	View conjugations
-9	Acabar	to finish, to end, to complete	Regular AR	View conjugations
+1 Abandonar	to abandon, to leave	Regular    
+2	Abrazar	to hug, to embrace	Irregular   
+3	Abrir	to open	Irregular   
+4	Absorber	to absorb	Regular     
+5	Abundar	to abound	Regular   
+6	Aburrir	to bore	Regular   
+7	Aburrirse	to get bored	Regular   
+8	Abusar	to abuse	Regular    
+9	Acabar	to finish, to end, to complete	Regular   
 10	Acampar	to camp	Regular AR	View conjugations
 11	Acceder	to access	Regular ER	View conjugations
 12	Acelerar	to accelerate	Regular AR	View conjugations
