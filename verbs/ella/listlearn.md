@@ -7,7 +7,7 @@ transitive verb
 1. (to get to)   
 to reach
 - a. to reach   
-Me pasas ese libro No lo alcanzo. Can you pass me that book? I can't reach it.
+Me pasas ese libro ? No lo alcanzo. Can you pass me that book? I can't reach it.
 - b. to catch    
 A que no me alcanzas.  Bet you can't catch me.
 - c. to catch up with   
