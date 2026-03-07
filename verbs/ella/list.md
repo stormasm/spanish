@@ -57,7 +57,8 @@
 7	Aburrirse	to get bored	Regular   
 8	Abusar	to abuse	Regular    
 9	Acabar	to finish, to end, to complete	Regular   
-10	Acampar	to camp	Regular    
+10	Acampar	to camp	Regular  
+
 11	Acceder	to access	Regular    
 12	Acelerar	to accelerate	Regular   
 13	Aceptar	to accept	Regular    
@@ -67,7 +68,8 @@
 17	Aconsejar	to advise, to suggest, to counsel	Regular    
 18	Acordar	to agree, to agree on or upon	Irregular    
 19	Acordarse	to remember	Irregular    
-20	Acostar	to put to bed, to lay down	Irregular    
+20	Acostar	to put to bed, to lay down	Irregular
+
 21	Acostarse	to go to bed, to lie down	Irregular    
 22	Acostumbrar	to accustom, to habituate	Regular  
 23	Actualizar	to update, to refresh	Irregular   
@@ -77,7 +79,8 @@
 27	Acumular	to accumulate	Regular  
 28	Acusar	to accuse	Regular  
 29	Adaptar	to adapt	Regular   
-30	Adelantar	to go ahead, to move forward, to overtake	Regular   
+30	Adelantar	to go ahead, to move forward, to overtake	Regular  
+
 31	Adelgazar	to slim down, to lose weight	Irregular   
 32	Admirar	to admire	Regular  
 33	Admitir	to admit	Regular  
@@ -87,6 +90,7 @@
 37	Afirmar	to affirm	Regular  
 38	Agradecer	to thank, to be grateful for	Irregular  
 39	Aguantar	to endure, to put up with	Regular  
+
 40	Ahorrar	to save (money), to spare	Regular  
 41	Aislar	to isolate	Irregular  
 42	Alcanzar	to reach, to attain, to achieve, to accomplish	Irregular  
@@ -97,6 +101,7 @@
 47	Almacenar	to store, to stock up	Regular  
 48	Almorzar	to lunch, to eat lunch	Irregular  
 49	Alquilar	to rent, to hire	Regular  
+
 50	Alterar	to alter	Regular  
 51	Amanecer	to dawn	Irregular  
 52	Amar	to love	Regular  
@@ -107,6 +112,7 @@
 57	Andar	to walk, to go, to go around	Irregular  
 58	Animar	to encourage, to animate	Regular  
 59	Anochecer	to become night, to get dark	Irregular  
+
 60	Añorar	to yearn	Regular  
 61	Anotar	to annotate, to make a note	Regular  
 62	Anular	to cancel	Regular  
@@ -117,6 +123,7 @@
 67	Aplicar	to apply	Irregular  
 68	Apoyar	to support	Regular  
 69	Apoyarse	to be supported	Regular  
+
 70	Aprender	to learn	Regular  
 71	Apretar	to tighten	Irregular  
 72	Aprobar	to approve, to pass	Irregular   
@@ -128,6 +135,7 @@
 78	Arreglarse	to get ready	Regular  
 79	Arrendar	to lease, to rent	Irregular  
 80	Asegurar	to ensure, to secure, to insure	Regular
+
 81	Asegurarse	to ensure, to be sure	Regular  
 82	Asistir	to assist, to attend	Regular   
 83	Atender	to attend to, to serve, to tend to	Irregular   
