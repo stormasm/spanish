@@ -57,17 +57,17 @@
 7	Aburrirse	to get bored	Regular   
 8	Abusar	to abuse	Regular    
 9	Acabar	to finish, to end, to complete	Regular   
-10	Acampar	to camp	Regular AR	View conjugations
-11	Acceder	to access	Regular ER	View conjugations
-12	Acelerar	to accelerate	Regular AR	View conjugations
-13	Aceptar	to accept	Regular AR	View conjugations
-14	Acercar	to bring closer	Irregular	View conjugations
-15	Acercarse	to approach (oneself)	Irregular	View conjugations
-16	Acompañar	to accompany	Regular AR	View conjugations
-17	Aconsejar	to advise, to suggest, to counsel	Regular AR	View conjugations
-18	Acordar	to agree, to agree on or upon	Irregular	View conjugations
-19	Acordarse	to remember	Irregular	View conjugations
-20	Acostar	to put to bed, to lay down	Irregular	View conjugations
+10	Acampar	to camp	Regular    
+11	Acceder	to access	Regular    
+12	Acelerar	to accelerate	Regular   
+13	Aceptar	to accept	Regular    
+14	Acercar	to bring closer	Irregular    
+15	Acercarse	to approach (oneself)	Irregular    
+16	Acompañar	to accompany	Regular    
+17	Aconsejar	to advise, to suggest, to counsel	Regular    
+18	Acordar	to agree, to agree on or upon	Irregular    
+19	Acordarse	to remember	Irregular    
+20	Acostar	to put to bed, to lay down	Irregular    
 21	Acostarse	to go to bed, to lie down	Irregular	View conjugations
 22	Acostumbrar	to accustom, to habituate	Regular AR	View conjugations
 23	Actualizar	to update, to refresh	Irregular	View conjugations
