@@ -8,7 +8,7 @@
 - [alejar](./listlearn.md#alejar---to-move-away)
 - [almacenar](./listlearn.md#almacenar---to-save-to-store)
 - [apagar](./listlearn.md#apagar---turn-off-extinguish)
-- [arreglar](./listlearn.md#arreglar---fix-arrange-mend)
+- [arreglar](./listlearn.md#arreglar---fix-arrange-mend-repair)
 - [averiguar](./listlearn.md#averiguar---to-find-out-to-discover-to-ascertain)
 &nbsp;&nbsp; [averiguarse](./listlearn.md#averiguarse)
 
