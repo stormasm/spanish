@@ -9,7 +9,8 @@
 - [almacenar](./listlearn.md#almacenar---to-save-to-store)
 - [apagar](./listlearn.md#apagar---turn-off-extinguish)
 - [arreglar](./listlearn.md#arreglar---fix-arrange-mend)
-- [averiguar](./listlearn.md#averiguar---to-find-out-to-discover-to-ascertain) [averiguarse](./listlearn.md#averiguarse)
+- [averiguar](./listlearn.md#averiguar---to-find-out-to-discover-to-ascertain)
+&nbsp;&nbsp; [averiguarse](./listlearn.md#averiguarse)
 
 ### acabar - finish, end, complete
 
