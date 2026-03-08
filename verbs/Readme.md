@@ -17,6 +17,26 @@
 - [Transitive vs Intransitive Verbs](https://mydailyspanish.com/spanish-transitive-intransitive-verbs/)
 - [SpanishDict: Hablar vs Decir vs Contar](https://www.spanishdict.com/guide/hablar-vs-decir-vs-contar)
 
+### Intransitive Verbs
+
+Un verbo intransitivo en español es aquel que no requiere un objeto directo (complemento directo) para tener sentido completo en la oración. La acción recae sobre el sujeto mismo o expresa un estado, sin pasar a otra entidad. Ejemplos comunes incluyen: dormir, sonreír, ir, vivir, morir, salir, nadar.
+
+- Características y Ejemplos Clave:
+- Sentido completo: No necesitas preguntar "¿qué?" o "¿a quién?" después del verbo. Ejemplo: El bebé duerme.
+
+Ejemplos en frases:
+- María sonríe. (María sonríe)
+- Los piratas rieron. (Los piratas rieron)
+- Mi madre trabaja. (Mi madre trabaja)
+
+Concepts:
+- Diferencia con transitivos: Los transitivos necesitan un objeto (ej. "Compré pan"), mientras que los intransitivos no (ej. "Yo vivo").
+- Contexto: Algunos verbos pueden ser intransitivos o transitivos según la frase. Por ejemplo, "caminar" es intransitivo en "Ella camina" pero puede ser transitivo si se usa con un objeto directo en contextos específicos.
+- Verbos de movimiento/estado: Muchos intransitivos expresan llegar, nacer, ir, o vivir.
+
+En resumen, si la frase completa se entiende con solo el sujeto y el verbo, es un verbo intransitivo.
+
+
 ### Transitive Verbs
 
 A transitive verb in Spanish is a verb that requires a direct object to complete its meaning.  The action of the verb is transferred to or affects something or someone specific—this is the direct object. Without a direct object, the sentence feels incomplete or lacks full meaning.
@@ -65,7 +85,7 @@ Ambas frases son gramaticalmente correctas, pero se usan en contextos diferentes
 1. "Era afortunado de estar en México" (Pretérito Imperfecto)
 Cuándo usarlo: Cuando describes una situación continua o una descripción de fondo. Indica que durante tu estancia, te sentías afortunado constantemente.
 Enfoque: Describe el estado emocional o la situación mientras estabas allí.
-Ejemplo: Era afortunado de estar en México, cada día descubría algo nuevo. 
+Ejemplo: Era afortunado de estar en México, cada día descubría algo nuevo.
 2. "Fui afortunado de estar en México" (Pretérito Perfecto Simple)
 Cuándo usarlo: Cuando te refieres a tu estancia como una experiencia completa y terminada. Indica un reconocimiento puntual o general de que esa experiencia fue afortunada.
 Enfoque: Considera la experiencia en México como un evento concluido y evaluado en su totalidad.
