@@ -419,13 +419,16 @@ pronominal verb
 
 8. (to be solved)
 - a. to get sorted out
-Ya verás como todo se arregla.You will see; it will all get sorted out.
+Ya verás como todo se arregla.   
+You will see; it will all get sorted out.
 - b. to make up (couple)
-Mi hermano se arregló con su novia después de una pelea.My brother made up with his girlfriend after a fight.
+Mi hermano se arregló con su novia después de una pelea.   
+My brother made up with his girlfriend after a fight.
 
 9. (to do with or without)
 - a. to manage
-No ganamos mucho dinero, pero nos arreglamos.We do not earn a lot of money, but we manage.
+No ganamos mucho dinero, pero nos arreglamos.   
+We do not earn a lot of money, but we manage.
 
 ### averiguar - to find out, to discover, to ascertain
 
