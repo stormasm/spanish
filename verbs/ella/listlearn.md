@@ -413,6 +413,7 @@ reflexive verb
 7. (to get tidied up)   
 - a. to get ready   
 Me estoy arreglando para salir.   
+Me estoy preparando para partir.   
 I'm getting ready to go out.
 
 pronominal verb
