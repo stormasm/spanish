@@ -12,19 +12,22 @@ I finish my classes in June.
 - a. to finish   
 Quién acabó la leche ?   
 Who finished the milk?
-- b. to use up
+- b. to use up   
 Deberíamos acabar estas sobras en vez de cocinar hoy.   
 We should use up these leftovers rather than cook today.
 
 intransitive verb
 
 3. (to come to an end)
-- a. to end
-Te llamaré después de que acabe la película.I'll call you after the movie ends.
-- b. to be over
-Ya descansaremos cuando acabe el proyecto.We can rest when the project is over.
-- c. to be done
-Acabaremos cuando acabemos.We'll be done when we're done.
+- a. to end   
+Te llamaré después de que acabe la película.   
+I'll call you after the movie ends.
+- b. to be over   
+Ya descansaremos cuando acabe el proyecto.   
+We can rest when the project is over.
+- c. to be done  
+Acabaremos cuando acabemos.   
+We'll be done when we're done.
 
 4. (colloquial) (to achieve sexual climax) (Latin America)
 a. come (colloquial)
