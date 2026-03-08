@@ -368,7 +368,7 @@ transitive verb
 - a. to fix   
 Tengo que arreglar mi computador para poder terminar el proyecto.   
 I need to fix my computer in order to finish the project.
-- b. to repair
+- b. to repair   
 Nos arreglaron el coche después del accidente.   
 Our car was repaired after the accident.   
 - c. to mend   
