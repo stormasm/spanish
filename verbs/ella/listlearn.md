@@ -1,15 +1,15 @@
 
 - [acabar](./listlearn.md#acabar---finish-end-complete)
 - [acabarse](./listlearn.md#acabarse)
-- [acudir](./listlearn.md#acudir)
-- [aguantar](./listlearn.md#aguantar)
-- [aguantarse](./listlearn.md#aguantarse)
-- [alcanzar](./listlearn.md#alcanzar)
-- [alejar](./listlearn.md#alejar)
-- [almacenar](./listlearn.md#almacenar)
-- [apagar](./listlearn.md#apagar)
-- [arreglar](./listlearn.md#arreglar)
-- [averiguar](./listlearn.md#averiguar)
+- [acudir](./listlearn.md#acudir---to-go-to)
+- [aguantar](./listlearn.md#aguantarse---to-hang-on)
+- [aguantarse](./listlearn.md#aguantar)
+- [alcanzar](./listlearn.md#alcanzar---to-reach-attain-achieve-acomplish)
+- [alejar](./listlearn.md#alejar---to-move-away)
+- [almacenar](./listlearn.md#almacenar---to-save-to-store)
+- [apagar](./listlearn.md#apagar---turn-off-extinguish)
+- [arreglar](./listlearn.md#arreglar---fix-arrange-mend)
+- [averiguar](./listlearn.md#averiguar---to-find-out-to-discover-to-ascertain)
 
 ### acabar - finish, end, complete
 
