@@ -268,4 +268,25 @@ There isn't enough funding to continue supporting the project.
 
 ### averiguar - to find out, to discover, to ascertain
 
-- ok 5
+transitive verb
+
+1. (to uncover)   
+to find out   
+- a. to find out   
+Averiguaste qué era lo que le pasaba ?   
+Did you find out what was wrong with him ?   
+No me sé el número de Gabriela, pero te lo puedo averiguar.  
+I don't know Gabriela's number, but I can find out for you.  
+- b. to discover   
+Los niños averiguaron dónde sus papás habían escondido los regalos.   
+The kids discovered where their parents had hidden the presents.
+
+### averiguarse
+
+reflexive verb
+
+2. (to make do) (Mexico)   
+to get by   
+- a. to get by    
+Nos vamos a averiguar con los ahorros del año pasado.   
+We will get by with our savings from last year.
