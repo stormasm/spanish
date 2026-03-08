@@ -376,7 +376,7 @@ Arreglarán tu bicicleta en la tienda de bicis.
 They will mend your bicycle in the bike shop.
 
 2. (to organize)   
-a. to arrange   
+- a. to arrange   
 Lo hemos arreglado todo para poder irnos una semana de vacaciones.   
 We have arranged everything so we can go on vacation for a week.
 
@@ -396,13 +396,13 @@ The mother settled the discussion by scolding both kids.
 Quiero arreglar este asunto antes del almuerzo.   
 I want this matter sorted out before lunch.
 
-5. (to agree)
-a. to arrange   
+5. (to agree)   
+- a. to arrange   
 Seguro que él puede arreglarte un buen precio.   
 I'm sure he can arrange a good price for you.
 
 6. (music)   
-a. to arrange   
+- a. to arrange   
 Vamos a arreglar esta melodía para varias voces.     
 We will arrange this melody for multiple voices.
 
@@ -411,7 +411,7 @@ We will arrange this melody for multiple voices.
 reflexive verb
 
 7. (to get tidied up)   
-a. to get ready   
+- a. to get ready   
 Me estoy arreglando para salir.   
 I'm getting ready to go out.
 
@@ -424,7 +424,7 @@ Ya verás como todo se arregla.You will see; it will all get sorted out.
 Mi hermano se arregló con su novia después de una pelea.My brother made up with his girlfriend after a fight.
 
 9. (to do with or without)
-a. to manage
+- a. to manage
 No ganamos mucho dinero, pero nos arreglamos.We do not earn a lot of money, but we manage.
 
 ### averiguar - to find out, to discover, to ascertain
