@@ -1,4 +1,67 @@
 
+### acabar - finish, end, complete
+
+transitive verb
+
+1. (to complete)
+to finish
+a. to finish   
+Yo acabo mis clases en junio.   
+I finish my classes in June.
+
+2. (to exhaust supplies of)
+- a. to finish   
+Quién acabó la leche ?   
+Who finished the milk?
+- b. to use up
+Deberíamos acabar estas sobras en vez de cocinar hoy.   
+We should use up these leftovers rather than cook today.
+
+intransitive verb
+
+3. (to come to an end)
+- a. to end
+Te llamaré después de que acabe la película.I'll call you after the movie ends.
+- b. to be over
+Ya descansaremos cuando acabe el proyecto.We can rest when the project is over.
+- c. to be done
+Acabaremos cuando acabemos.We'll be done when we're done.
+
+4. (colloquial) (to achieve sexual climax) (Latin America)
+a. come (colloquial)
+Si tienes problemas para acabar, deberías consultar el médico.If you have problems coming, you should see a doctor.
+acabarse
+pronominal verb
+
+5. (to be used up)
+to run out
+a. to run out
+Se le acabaron las barras de pan a la panadería.The bakery's run out of baguettes.
+
+6. (to consume completely)
+a. to finish
+Voy a acabarme el café y luego nos vamos.I'm going to finish my coffee and then we can go.
+
+7. (to run its course)
+- a. to end
+Siguieron bailando aun después de que se acabara la música.   
+They kept dancing even after the music ended.
+- b. to finish
+La película se acabó temprano.   
+The movie finished early.
+- c. to be over
+Cuando se acabe todo esto, tendremos que darnos algún capricho.   
+When all this is over, we'll have to treat ourselves to something.
+- d. to be done
+Será un alivio cuando se acaben las obras.   
+It will be a relief when the building work is done.
+
+8. (to perish)
+- a. to die
+Se acabó tres días después de haber sido herido en el campo de batalla.   
+He died three days after being wounded on the battlefield.
+
+
 ### acudir - to go to
 
 intransitive verb
@@ -137,7 +200,7 @@ Aguanta, amigo. Tengo que contestar este correo.
 Hang on, dude. I need to answer this email.
 
 
-### alcanzar - to reach
+### alcanzar - to reach, attain, achieve, acomplish
 
 transitive verb
 
@@ -169,3 +232,13 @@ intransitive verb
 - a. to be enough   
 No alcanzan los fondos para seguir apoyando el proyecto.  
 There isn't enough funding to continue supporting the project.
+
+### alejar - to move (away)
+
+### almacenar - to save, to store
+
+### apagar - turn off, extinguish
+
+### arreglar - fix, arrange, mend
+
+### averiguar - to find out, to discover, to ascertain
