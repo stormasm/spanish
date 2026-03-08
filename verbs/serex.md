@@ -1,4 +1,9 @@
 
+### ser futuro
+
+- La temperatura máxima de hoy será de 30 grados.
+- A high of 30 degrees is expected today.
+
 ### ser fui
 
 This indicates a completed, defining state or role in the past, rather than a location.
