@@ -7,6 +7,11 @@ This indicates a completed, defining state or role in the past, rather than a lo
 - Fui el primero en llegar - I was the first to arrive
 - Fui afortunado - I was lucky
 
+### ser fue
+
+- My grandmother was a person of great wisdom.   
+- Mi abuela fue una persona de mucha sabiduría.
+
 ### ser conditional
 
 - [ser conditional blog post](https://spanish.kwiziq.com/revision/grammar/conjugate-ser-in-el-condicional-simple-conditional-tense)
