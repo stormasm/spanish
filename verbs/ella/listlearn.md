@@ -34,7 +34,7 @@ a. come (colloquial)
 Si tienes problemas para acabar, deberías consultar el médico.   
 If you have problems coming, you should see a doctor.
 
-acabarse   
+### acabarse   
 pronominal verb
 
 5. (to be used up)   
