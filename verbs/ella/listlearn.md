@@ -5,17 +5,17 @@ intransitive verb
 
 1. (to attend)
 to go to
-- a. to go to
+- a. to go to  
 No podemos acudir a la fiesta debido a un compromiso previo.   
 We can't go to the party due to a prior commitment.
 
 2. (to consult)
-- a. to turn to
+- a. to turn to   
 Cada vez que tiene dudas, acude a su madre para que la aconseje.   
 Whenever she's in doubt, she turns to her mother for advice.
 
 3. (to occur to)
-- a. to come
+- a. to come   
 Cuando ella vio la foto, muchos recuerdos acudieron a su mente.   
 When she saw the picture, many memories came to mind.
 
