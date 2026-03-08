@@ -3,8 +3,7 @@
 
 transitive verb
 
-1. (to complete)
-to finish
+1. (to complete)   
 a. to finish   
 Yo acabo mis clases en junio.   
 I finish my classes in June.
