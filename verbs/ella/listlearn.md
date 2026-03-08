@@ -1,5 +1,5 @@
 
-- [acabar](./listlearn.md#acabar)
+- [acabar](./listlearn.md#acabar---finish-end-complete)
 - [acabarse](./listlearn.md#acabarse)
 - [acudir](./listlearn.md#acudir)
 - [aguantar](./listlearn.md#aguantar)
