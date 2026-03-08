@@ -253,8 +253,8 @@ There isn't enough funding to continue supporting the project.
 
 ### alejar - to move away from
 
-
 transitive verb
+
 1. (to remove; used with "de")
 to move away from
 a. to move away from
@@ -285,13 +285,10 @@ reciprocal verb
 a. to drift apart
 Con el correr de los años, se alejaron.As the years went by, they drifted apart.
 
-
-
-
 ### almacenar - to save, to store
 
-
 transitive verb
+
 1. (to save)
 to store
 a. to store
@@ -314,8 +311,8 @@ En este disco puedes almacenar hasta dos terabytes.You can store up to two terab
 
 ### apagar - turn off, extinguish
 
-
 transitive verb
+
 1. (to disconnect)
 to turn off
 a. to turn off
