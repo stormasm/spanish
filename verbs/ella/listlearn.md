@@ -29,7 +29,7 @@ We can rest when the project is over.
 Acabaremos cuando acabemos.   
 We'll be done when we're done.
 
-4. (colloquial) (to achieve sexual climax) (Latin America)
+4. (colloquial) (to achieve sexual climax) (Latin America)   
 a. come (colloquial)   
 Si tienes problemas para acabar, deberías consultar el médico.   
 If you have problems coming, you should see a doctor.
@@ -43,12 +43,12 @@ a. to run out
 Se le acabaron las barras de pan a la panadería.   
 The bakery's run out of baguettes.
 
-6. (to consume completely)
+6. (to consume completely)   
 a. to finish   
 Voy a acabarme el café y luego nos vamos.   
 I'm going to finish my coffee and then we can go.
 
-7. (to run its course)
+7. (to run its course)   
 - a. to end   
 Siguieron bailando aun después de que se acabara la música.   
 They kept dancing even after the music ended.
