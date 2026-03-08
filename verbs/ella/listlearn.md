@@ -251,21 +251,171 @@ intransitive verb
 No alcanzan los fondos para seguir apoyando el proyecto.  
 There isn't enough funding to continue supporting the project.
 
-### alejar - to move (away)
+### alejar - to move away from
 
-- ok 1
+
+transitive verb
+1. (to remove; used with "de")
+to move away from
+a. to move away from
+Aleja la taza del borde de la mesa. Puede caerse.Move the cup away from the edge of the table. It might fall.
+2. (to fend off)
+a. to keep away
+El perro alejaba los pájaros.The dog kept the birds away.
+3. (to dissipate)
+a. to dispel
+El objetivo de la asistencia financiera fue alejar las preocupaciones concernientes a las finanzas de los países de la zona euro.The goal of the financial assistance was to dispel worries about eurozone countries' finances.
+alejarse
+pronominal verb
+4. (to remove yourself)
+to move away
+a. to move away
+En caso de incendio, aléjate del área y cierra tantas puertas como puedas.In case of fire, move away from the area and close as many doors as you can.
+5. (to walk away; used with "de")
+a. to go far from
+¡Niños tengan cuidado! ¡No se alejen mucho de la cabaña!Children be careful! Don't go too far from our cabin!
+6. (to leave)
+a. to go away
+Si te molesta, dile que se aleje.If he’s bothering you, tell him to go away.
+7. (to stop taking part; used with "de")
+a. to withdraw from
+Después de perder las elecciones, se alejó de la política.After losing the election, she withdrew from politics.
+reciprocal verb
+8. (to grow apart)
+a. to drift apart
+Con el correr de los años, se alejaron.As the years went by, they drifted apart.
+
+
+
 
 ### almacenar - to save, to store
 
-- ok 2
+
+transitive verb
+1. (to save)
+to store
+a. to store
+Almacenamos las herramientas en esta zona del taller.We store the tools in this area of the workshop.
+b. to keep
+Almaceno toda la comida enlatada en este armario.I keep all the canned food in this cupboard.
+c. to warehouse
+Los rebeldes almacenan armas que roban de los cuarteles del ejército.The rebels are warehousing weapons they steal from the army barracks.
+2. (to accumulate)
+a. to stock up with
+Los soldados almacenaron suministros para la campaña.The soldiers stocked up with provisions for the campaign.
+b. to stock up on
+Habíamos almacenado comida y agua por si pasaba un tornado.We had stocked up on food and water in case a tornado touched down in the area.
+c. to collect
+El gobierno almacena datos de todos los ciudadanos.The government collects data from every citizen.
+3. (computing)
+a. to store
+En este disco puedes almacenar hasta dos terabytes.You can store up to two terabytes on this disk.
+
 
 ### apagar - turn off, extinguish
 
-- ok 3
 
-### arreglar - fix, arrange, mend
+transitive verb
+1. (to disconnect)
+to turn off
+a. to turn off
+Apaga la luz y vete a dormir.Turn off the light and go to sleep.
+b. to switch off
+Hijo, apaga el radio por favor.Son, switch off the radio please.
+c. to put out
+Acuérdate de apagar las luces antes de acostarte.Remember to put the lights out before you go to bed.
+2. (to cause to stop burning)
+a. to put out
+Ron apagó las velas del candelabro.Ron put out the candles on the candelabra.
+b. to blow out
+Apaga las velas del pastel y pide un deseo.Blow out the candles on the cake and make a wish.
+c. extinguish (formal)
+Por favor apaga tu cigarro antes de entrar al hospital.Please extinguish your cigarette before entering the hospital.
+3. (to satisfy)
+a. to quench
+Con este calor, ni diez litros de agua podrían apagar mi sed.With this heat, not even ten liters of water could quench my thirst.
+4. (to pacify)
+a. to calm
+Nada le podría apagar la ira que sentía.Nothing would be able to calm his anger.
+b. to soothe
+Esta crema apagará el ardor del piquete.This cream will soothe the burning sensation from the bite.
+5. (to tone down)
+a. to muffle
+La cantante puso unos tapones en los oídos para apagar el ruido de la banda de la fiesta.The singer put earplugs in her ears to muffle the noise of the band at the festival.
+b. to soften
+Usé un filtro en el lente para apagar los colores.I used a filter on the lens to soften the colors.
+apagarse
+pronominal verb
+6. (to blow out)
+a. to go out
+Una ráfaga pasó por una grieta y la vela se apagó.A gust of wind came in through a crack, and the candle went out.
+7. (to stop working)
+a. to go off
+Escuché una explosión y en enseguida se apagaron las luces.I heard an explosion, and then the lights went off straightaway.
+8. (to abate)
+a. to die down
+Por fin, el viento empezaba a apagarse.At last, the wind was dying down.
+9. (to dissipate)
+a. to fade
+Después de tantos años de luchar sin conseguir nada, los anhelos ya se le habían apagado.After so many years of struggling to no avail, her dreams had faded.
+b. to go out
+La chispa en los ojos de mi abuelo no se apagó hasta el último momento de su vida.The spark in my grandfather's eyes didn't go out until his dying moments.
+c. to wane
+El deseo de quitar al dictador no se está apagando frente a la represión.The desire to remove the dictator isn't waning in the face of repression.
 
-- ok 4
+
+
+### arreglar - fix, arrange, mend, repair
+
+
+
+arreglar(ah-rreh-glahr)
+transitive verb
+1. (to restore)
+to fix
+a. to fix
+Tengo que arreglar mi computador para poder terminar el proyecto.I need to fix my computer in order to finish the project.
+b. to repair
+Nos arreglaron el coche después del accidente.Our car was repaired after the accident.
+c. to mend
+Arreglarán tu bicicleta en la tienda de bicis.They will mend your bicycle in the bike shop.
+2. (to organize)
+a. to arrange
+Lo hemos arreglado todo para poder irnos una semana de vacaciones.We have arranged everything so we can go on vacation for a week.
+3. (to clean)
+a. to tidy
+Arregla la cocina cuando termines de cocinar.Tidy the kitchen once you've finished cooking.
+b. to tidy up
+Estoy enseñando a mis hijos a arreglar su cuarto.I am teaching my children to tidy up their room.
+4. (to solve)
+a. to settle
+La madre arregló la discusión regañando a ambos niños.The mother settled the discussion by scolding both kids.
+b. to sort out
+Quiero arreglar este asunto antes del almuerzo.I want this matter sorted out before lunch.
+5. (to agree)
+a. to arrange
+Seguro que él puede arreglarte un buen precio.I'm sure he can arrange a good price for you.
+6. (music)
+a. to arrange
+Vamos a arreglar esta melodía para varias voces.We will arrange this melody for multiple voices.
+arreglarse
+reflexive verb
+7. (to get tidied up)
+to get ready
+a. to get ready
+Me estoy arreglando para salir.I'm getting ready to go out.
+pronominal verb
+8. (to be solved)
+a. to get sorted out
+Ya verás como todo se arregla.You will see; it will all get sorted out.
+b. to make up (couple)
+Mi hermano se arregló con su novia después de una pelea.My brother made up with his girlfriend after a fight.
+9. (to do with or without)
+a. to manage
+No ganamos mucho dinero, pero nos arreglamos.We do not earn a lot of money, but we manage.
+
+
+
 
 ### averiguar - to find out, to discover, to ascertain
 
