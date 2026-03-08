@@ -1,4 +1,16 @@
 
+- [acabar](./listlearn.md#acabar)
+- [acabarse](./listlearn.md#acabarse)
+- [acudir](./listlearn.md#acudir)
+- [aguantar](./listlearn.md#aguantar)
+- [aguantarse](./listlearn.md#aguantarse)
+- [alcanzar](./listlearn.md#alcanzar)
+- [alejar](./listlearn.md#alejar)
+- [almacenar](./listlearn.md#almacenar)
+- [apagar](./listlearn.md#apagar)
+- [arreglar](./listlearn.md#arreglar)
+- [averiguar](./listlearn.md#averiguar)
+
 ### acabar - finish, end, complete
 
 transitive verb
@@ -240,10 +252,20 @@ There isn't enough funding to continue supporting the project.
 
 ### alejar - to move (away)
 
+- ok 1
+
 ### almacenar - to save, to store
+
+- ok 2
 
 ### apagar - turn off, extinguish
 
+- ok 3
+
 ### arreglar - fix, arrange, mend
 
+- ok 4
+
 ### averiguar - to find out, to discover, to ascertain
+
+- ok 5
