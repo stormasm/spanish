@@ -506,6 +506,7 @@ pronominal verb
 4. to be situated   
 - a. to be  
 La playa se encuentra al otro lado de la calle.  
+La playa está al otro lado de la calle.   
 The beach is on the opposite side of the street.
 
 5. to sense    
@@ -514,9 +515,11 @@ No me encuentro muy animado.
 I'm not feeling too lively.  
 - b. to be  
 Ya me encuentro mucho mejor.  
+Ya me siento mucho mejor ahora.   
 I'm a lot better already.  
 - c. to be doing  
-Me encuentro mucho mejor que el año pasado.  
+Me encuentro mucho mejor que el año pasado.   
+Me siento mucho mejor que el año pasado.   
 I'm doing a lot better than last year.
 
 6. to get together  
