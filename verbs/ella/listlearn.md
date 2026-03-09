@@ -544,7 +544,9 @@ Don't give us away! We're organizing a surprise party for Imelda.
 
 9. (to make visible)  
 - a. to reveal  
-La luz de la luna descubrió el contorno de la montaña en la distancia.   
+La luz de la luna descubrió el contorno de la montaña en la distancia.  
+La luz de la luna [reveló](./listlearn.md###revelar)
+el contorno de la montaña en la distancia.  
 The moonlight revealed the outline of the mountain in the distance.
 
 ### encontrar
@@ -660,3 +662,43 @@ We found ourselves somewhat tired after walking for 16 hours.
 - a. to find oneself   
 Se halló durante un viaje espiritual a la India.   
 She found herself while on a spiritual journey to India.
+
+### revelar
+
+transitive verb
+
+1. (to divulge)  
+- a. to reveal   
+Se negó a revelar el secreto de la familia.  
+She refused to reveal the family's secret.  
+- b. to disclose  
+No reveles información personal a desconocidos.  
+Don't disclose any personal information to strangers.
+
+2. (to show signs of)  
+- a. to reveal  
+Su descuidada redacción revelaba falta de profesionalidad.  
+His sloppy writing revealed a lack of professionalism.  
+- b. to show  
+Sus ojos revelaban pena.  
+Her eyes showed sorrow.
+
+3. (photography)  
+- a. to develop  
+El fotógrafo reveló las fotos que tomó en la boda.  
+The photographer developed the photos he took at the wedding.
+
+### revelarse  
+
+pronominal verb  
+
+4. (to show oneself)  
+to reveal oneself  
+- a. to reveal oneself  
+Pablo se reveló como un gran cantante de ópera.  
+Pablo revealed himself as a great opera singer.
+
+5. (to show itself)  
+- a. to prove to be  
+Pronto el Internet se reveló indispensable para la vida moderna.  
+The Internet soon proved to be indispensable for modern life.
