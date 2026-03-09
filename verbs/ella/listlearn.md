@@ -545,7 +545,7 @@ Don't give us away! We're organizing a surprise party for Imelda.
 9. (to make visible)  
 - a. to reveal  
 La luz de la luna descubrió el contorno de la montaña en la distancia.  
-La luz de la luna [reveló](./listlearn.md###revelar)
+La luz de la luna [reveló](./listlearn.md#revelar)
 el contorno de la montaña en la distancia.  
 The moonlight revealed the outline of the mountain in the distance.
 
