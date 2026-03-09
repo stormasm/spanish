@@ -24,3 +24,25 @@ did they wish to overthrow their government? Because it had disregarded the Cons
 it had abolished the civil rights that, according to the consensus of all enlightened men. They are
 necessary for the development of a nation: because he had dispossessed the people of their lands:
 because he had turned poor workers into serfs, laborers, and some of them even into veritable slaves.
+
+“'Slavery'? Do you want me to believe that there is still real slavery in the Western Hemisphere?” I replied mockingly. “Bah! You talk like any American socialist. You mean 'wage slavery,' or the slavery of miserable living conditions. You don't mean human slavery.”
+
+But those four exiled Mexicans insisted:
+
+“Yes, slavery,” they said, “real human slavery. Men and boys bought and sold like mules, exactly like mules, and as such belong to their masters: they are slaves.”
+
+“Human beings bought and sold like mules in America? In the 20th century! Well,” I told myself, “if this is true, I have to see it.”
+
+And so it was that, in early September 1908, I crossed the Rio Grande on my first trip, passing through the checkpoints of Old Mexico. On this, my first trip, I was accompanied by L. Gutiérrez de Lara, a Mexican from a distinguished family, whom I also met in Los Angeles. De Lara opposed the existing government in Mexico, a fact that my critics have pointed to as evidence of bias in my research. On the contrary, I did not depend on De Lara or any other interested source for information. Rather, I took every precaution to learn the exact truth through every possible avenue. Each of the fundamental facts mentioned regarding slavery in Mexico I saw with my own eyes or heard with my own ears, and almost always from the lips of people perhaps inclined to downplay their own cruelties: the slave overseers themselves. However, in Mr. De Lara's defense, I must say that he provided me with invaluable assistance in gathering materials. His knowledge of the country and its people, his affable sociability, and... Above all, because of my personal relationships with valuable sources of information throughout the country—with well-informed people—
+I was able to observe and hear things that are almost
+inaccessible to the ordinary researcher.
+
+Slavery in Mexico? Yes, I found it. I found it first in Yucatán. The Yucatán Peninsula is a bend in Central America that juts out northeast, in the direction
+of Florida. It belongs to Mexico, and its area of ​​about 120,000 km²
+is divided almost equally
+between the states of Yucatán and Campeche and the territory of Quintana Roo.
+
+The coast of Yucatán, which comprises the north-central part of the peninsula, is located almost
+1,500 km directly south of New Orleans. The surface of the state is almost entirely solid rock, so hard that, in general, it is impossible to plant a tree without first making a hole, blasting away the rock, so that the roots can develop.
+
+The secret of these peculiar conditions lies in the fact that the soil and climate of northern Yucatán are perfectly suited to the cultivation of those hardy, centuries-old plant species that produce henequen, or sisal fiber. There lies Mérida, a beautiful, modern city with a population of 60,000, surrounded and sustained by vast henequen plantations, where rows of gigantic green agave plants stretch for many kilometers. The haciendas are so large that each one has its own small town, with 500 to 2,500 inhabitants depending on the size of the estate, and the owners of these large tracts are the main slave owners, since the inhabitants of these towns are all slaves. The annual export of henequen is approximately 113,250 tons. The state's population is around 300,000, of whom 250,000 form the group of slave owners. But the largest area and the majority of the slaves are concentrated in the hands of 50 henequen kings. There are more than 100,000 slaves.
