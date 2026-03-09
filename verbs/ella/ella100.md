@@ -1,8 +1,12 @@
 
 ## Ella 100
 
-- [abrir](https://ellaverbs.com/spanish-verbs/abrir-conjugation/)
-[acabar](https://ellaverbs.com/spanish-verbs/acabar-conjugation/)
-[aceptar](https://ellaverbs.com/spanish-verbs/aceptar-conjugation/)
-[alcanzar](https://ellaverbs.com/spanish-verbs/alcanzar-conjugation/)
-[ayudar](https://ellaverbs.com/spanish-verbs/ayudar-conjugation/)
+- [abrir](https://www.spanishdict.com/conjugate/abrir)
+[acabar](https://www.spanishdict.com/conjugate/acabar)
+[aceptar](https://www.spanishdict.com/conjugate/aceptar)
+[alcanzar](https://www.spanishdict.com/conjugate/alcanzar)
+[ayudar](https://www.spanishdict.com/conjugate/ayudar)
+
+---
+
+- [encontrar](https://www.spanishdict.com/conjugate/encontrar)
