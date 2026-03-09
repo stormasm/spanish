@@ -26,3 +26,4 @@ The Yucatecan "Green Gold", much like the wealth of many communities worldwide, 
 ### Ref
 
 - [The History of Henequén, Yucatán’s Green Gold](https://yucatantoday.com/en/blog/history-of-henequen-yucatans-green-gold)
+- [Yucatan Today](https://yucatantoday.com/hubfs/No459/Yucatan%20Today%20Marzo%202026.pdf)
