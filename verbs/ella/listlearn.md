@@ -2,15 +2,15 @@
 - [acabar](./listlearn.md#acabar)
 [acabarse](./listlearn.md#acabarse)
 [acudir](./listlearn.md#acudir)
-[aguantar](./listlearn.md#aguantarse)
-[aguantarse](./listlearn.md#aguantar)
+[aguantar](./listlearn.md#aguantar)
+[aguantarse](./listlearn.md#aguantarse)
 [alcanzar](./listlearn.md#alcanzar)
 [alejar](./listlearn.md#alejar)
 [almacenar](./listlearn.md#almacenar)
 [apagar](./listlearn.md#apagar)
 [arreglar](./listlearn.md#arreglar)
 [averiguar](./listlearn.md#averiguar)
-&nbsp;&nbsp; [averiguarse](./listlearn.md#averiguarse)
+[averiguarse](./listlearn.md#averiguarse)
 - [encontrar](./listlearn.md#encontrar)
 
 ### acabar
