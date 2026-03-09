@@ -546,7 +546,7 @@ Don't give us away! We're organizing a surprise party for Imelda.
 - a. to reveal  
 La luz de la luna descubrió el contorno de la montaña en la distancia.  
 La luz de la luna [reveló](./listlearn.md#revelar)
-el contorno de la montaña en la distancia.  
+el [contorno](https://www.spanishdict.com/translate/contorno) de la montaña en la distancia.  
 The moonlight revealed the outline of the mountain in the distance.
 
 ### encontrar
