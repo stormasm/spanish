@@ -542,3 +542,49 @@ I ran across Francisca yesterday. I didn't know she was pregnant.
 - c. to bump into  
 La semana pasada me encontré con tu hermano. Se ve más sano.  
 I bumped into your brother last week. He looks healthier.  
+
+### hallar
+
+transitive verb
+
+1. (to find)  
+- a. to find  
+Hallaste el restaurante que te mencioné cuando fuiste a Argentina  
+Did you find the restaurant I mentioned when you went to Argentina
+
+2. (to uncover)  
+- a. to discover  
+Hallé un restaurante precioso en Puerto Vallarta.   
+I discovered a lovely little restaurant in Puerto Vallarta.
+
+3. (to receive a reaction)   
+- a. to meet with  
+El plan de Obama halló resistencia del congreso.  
+Obama’s plan was met with resistance from Congress.
+
+### hallarse
+
+pronominal verb
+
+4. (to be situated)  
+- a. to be  
+El cine se halla al extremo norte del centro comercial.  
+The theater is at the far north end of the mall.
+
+5. (to be part of)  
+- a. to be  
+Se halló entre los alumnos más inteligentes de su escuela.  
+She was among the smartest students in her school.
+
+6. (to experience a state or emotion)   
+- a. to feel  
+Se halló lleno de energía después de ganar el premio.  
+He felt full of energy after winning the prize.  
+- b. to find oneself  
+Nos hallamos algo cansados después de caminar por 16 horas.   
+We found ourselves somewhat tired after walking for 16 hours.
+
+7. (to discover oneself)   
+- a. to find oneself   
+Se halló durante un viaje espiritual a la India.   
+She found herself while on a spiritual journey to India.
