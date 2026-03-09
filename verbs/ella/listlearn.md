@@ -498,7 +498,8 @@ We encountered a fork in the road and didn't know which path to take.
 - a. to find  
 ¿No te gusta ir al teatro? - No, lo encuentro muy aburrido.  
 Don't you like to go to the theater? - No, I find it very boring.
-encontrarse
+
+### encontrarse
 
 pronominal verb
 
