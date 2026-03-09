@@ -478,3 +478,52 @@ We will get by with our savings from last year.
 ### encontrar
 
 to find
+
+transitive verb
+
+1. (to retrieve)
+to find
+- a. to find
+Al fin encontré las llaves del coche.I finally found my car keys.
+
+2. (to uncover)
+- a. to discover
+Ellos encontraron una caja vieja en el bosque.They discovered an old box in the forest.
+- b. to encounter
+Encontramos una bifurcación en el sendero y no sabíamos qué dirección tomar.We encountered a fork in the road and didn't know which path to take.
+
+3. (to consider)
+- a. to find
+¿No te gusta ir al teatro? - No, lo encuentro muy aburrido.Don't you like to go to the theater? - No, I find it very boring.
+encontrarse
+
+pronominal verb
+
+4. (to be situated)
+to be
+- a. to be
+La playa se encuentra al otro lado de la calle.The beach is on the opposite side of the street.
+
+5. (to sense)
+- a. to feel
+No me encuentro muy animado.I'm not feeling too lively.
+- b. to be
+Ya me encuentro mucho mejor.I'm a lot better already.
+- c. to be doing
+Me encuentro mucho mejor que el año pasado.I'm doing a lot better than last year.
+
+6. (to get together)
+- a. to meet
+Nos encontraremos en el bar para una copa.We'll meet at the bar for a drink.
+
+7. (to experience a state or situation)
+- a. to find oneself
+Me encuentro en un dilema.I find myself in a dilemma.
+
+8. (to meet unexpectedly; often used with "con")
+- a. to run into
+¿Has visto a tu ex recientemente? - Sí. Nos encontramos en el metro hace unas semanas.Have you seen your ex recently? - Yes. We ran into each other on the metro a couple of weeks ago.
+- b. to run across
+Ayer me encontré con Francisca. No sabía que estaba embarazada.I ran across Francisca yesterday. I didn't know she was pregnant.
+- c. to bump into
+La semana pasada me encontré con tu hermano. Se ve más sano.I bumped into your brother last week. He looks healthier.
