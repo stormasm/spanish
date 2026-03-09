@@ -1,18 +1,21 @@
 
-- [acabar](./listlearn.md#acabar---finish-end-complete)
-- [acabarse](./listlearn.md#acabarse)
-- [acudir](./listlearn.md#acudir---to-go-to)
-- [aguantar](./listlearn.md#aguantarse---to-hang-on)
-- [aguantarse](./listlearn.md#aguantar)
-- [alcanzar](./listlearn.md#alcanzar---to-reach-attain-achieve-acomplish)
-- [alejar](./listlearn.md#alejar---to-move-away)
-- [almacenar](./listlearn.md#almacenar---to-save-to-store)
-- [apagar](./listlearn.md#apagar---turn-off-extinguish)
-- [arreglar](./listlearn.md#arreglar---fix-arrange-mend-repair)
-- [averiguar](./listlearn.md#averiguar---to-find-out-to-discover-to-ascertain)
+- [acabar](./listlearn.md#acabar)
+[acabarse](./listlearn.md#acabarse)
+[acudir](./listlearn.md#acudir)
+[aguantar](./listlearn.md#aguantarse)
+[aguantarse](./listlearn.md#aguantar)
+[alcanzar](./listlearn.md#alcanzar)
+[alejar](./listlearn.md#alejar)
+[almacenar](./listlearn.md#almacenar)
+[apagar](./listlearn.md#apagar)
+[arreglar](./listlearn.md#arreglar)
+[averiguar](./listlearn.md#averiguar)
 &nbsp;&nbsp; [averiguarse](./listlearn.md#averiguarse)
+- [encontrar](./listlearn.md#encontrar)
 
-### acabar - finish, end, complete
+### acabar
+
+finish, end, complete
 
 transitive verb
 
@@ -80,7 +83,9 @@ It will be a relief when the building work is done.
 Se acabó tres días después de haber sido herido en el campo de batalla.   
 He died three days after being wounded on the battlefield.
 
-### acudir - to go to
+### acudir
+
+to go to
 
 intransitive verb
 
@@ -101,7 +106,9 @@ Cuando ella vio la foto, muchos recuerdos acudieron a su mente.
 When she saw the picture, many memories came to mind.
 
 
-### aguantarse - to hang on
+### aguantarse
+
+to hang on
 
 pronominal verb
 
@@ -218,7 +225,9 @@ Aguanta, amigo. Tengo que contestar este correo.
 Hang on, dude. I need to answer this email.
 
 
-### alcanzar - to reach, attain, achieve, acomplish
+### alcanzar
+
+to reach, attain, achieve, acomplish
 
 transitive verb
 
@@ -251,7 +260,9 @@ intransitive verb
 No alcanzan los fondos para seguir apoyando el proyecto.  
 There isn't enough funding to continue supporting the project.
 
-### alejar - to move away from
+### alejar
+
+to move away from
 
 transitive verb
 
@@ -285,7 +296,9 @@ reciprocal verb
 a. to drift apart
 Con el correr de los años, se alejaron.As the years went by, they drifted apart.
 
-### almacenar - to save, to store
+### almacenar
+
+to save, to store
 
 transitive verb
 
@@ -309,7 +322,9 @@ a. to store
 En este disco puedes almacenar hasta dos terabytes.You can store up to two terabytes on this disk.
 
 
-### apagar - turn off, extinguish
+### apagar
+
+turn off, extinguish
 
 transitive verb
 
@@ -360,7 +375,9 @@ La chispa en los ojos de mi abuelo no se apagó hasta el último momento de su v
 c. to wane
 El deseo de quitar al dictador no se está apagando frente a la represión.The desire to remove the dictator isn't waning in the face of repression.
 
-### arreglar - fix, arrange, mend, repair
+### arreglar
+
+fix, arrange, mend, repair
 
 transitive verb
 
@@ -431,7 +448,9 @@ My brother made up with his girlfriend after a fight.
 No ganamos mucho dinero, pero nos arreglamos.   
 We do not earn a lot of money, but we manage.
 
-### averiguar - to find out, to discover, to ascertain
+### averiguar
+
+to find out, to discover, to ascertain
 
 transitive verb
 
@@ -455,3 +474,7 @@ to get by
 - a. to get by    
 Nos vamos a averiguar con los ahorros del año pasado.   
 We will get by with our savings from last year.
+
+### encontrar
+
+to find
