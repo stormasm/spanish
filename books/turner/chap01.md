@@ -155,8 +155,6 @@ But I found that this was not the custom.
 
 The only man in the country I heard of who had allowed a slave to buy his freedom was an architect from Mérida:
 
-Library of the Politician. INEP AC
-Barbarous Mexico. John Kenneth Turner
 "I bought a worker for a thousand pesos," he explained. "He was a good man,
 and helped me a lot in my office. When I thought it was convenient, I set him a certain
 weekly wage, and after eight years the thousand pesos were paid off, and I let him go. But
