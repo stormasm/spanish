@@ -475,6 +475,78 @@ to get by
 Nos vamos a averiguar con los ahorros del año pasado.   
 We will get by with our savings from last year.
 
+### descubrirse
+
+reflexive verb
+
+1. (to remove one's hat)  
+- a. to take one's hat off   
+Me descubro ante usted.  
+I take my hat off to you.
+
+2. (to make visible)
+- a. to uncover
+La novia se descubrió el rostro para besarle al novio.   
+The bride uncovered her face to kiss the groom.  
+b. to bare  
+Esteban se descubrió la espalda para enseñar su tatuaje.  
+Estaban bared his back to show his tatoo.
+
+3. (to reveal the truth)  
+- a. to give oneself away  
+Mi hermano intentó asustarme, pero se descubrió al reírse.   
+My brother tried to scare me, but he gave himself away by laughing.
+
+### descubrir
+
+transitive verb
+
+4. (to unearth)  
+to discover  
+- a. to discover  
+Descubrieron una cueva en la montaña durante la excursión.   
+They discovered a cave in the mountain during their trip.  
+- b. to find  
+Isaac descubrió un tesoro enterrado en el jardín de su abuelo.  
+Isaac found a buried treasure in his grandfather's garden.
+
+5. (to uncover)  
+- a. to find out  
+He descubierto que van a despedir a la secretaria.  
+I've found out that the secretary is going to be fired.
+- b. to discover
+Hugo descubrió que su esposa tuvo un amorío con su socio.  
+Hugo discovered that his wife had an affair with his partner.
+
+6. (to make known)  
+- a. to reveal  
+Eduardo descubrió la identidad del espía.  
+Eduardo revealed the spy's identity.  
+- b. to uncover   
+La policía descubrió el complot de atracar el banco justo a tiempo.  
+The police uncovered the plot to rob the bank just in time.
+
+7. (to expose)   
+- a. to uncover    
+En su cultura no puede descubrir la cara si está en la presencia de hombres que no sean familiares.  
+In her culture, she can't uncover her face if she's in the presence of men who are not relatives.  
+- b. to take the lid off  
+Descubre la olla antes de que hierva.  
+Take the lid off the pot before it boils.  
+- c. to unveil  
+Descubrieron una estatua en la ceremonia inaugural.  
+They unveiled a statue at the opening ceremony.
+
+8. (to disclose)  
+- a. to give away  
+¡No nos descubran! Estamos preparando una fiesta sorpresa para Imelda.  
+Don't give us away! We're organizing a surprise party for Imelda.  
+
+9. (to make visible)  
+- a. to reveal  
+La luz de la luna descubrió el contorno de la montaña en la distancia.   
+The moonlight revealed the outline of the mountain in the distance.
+
 ### encontrar
 
 to find
