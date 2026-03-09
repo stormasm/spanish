@@ -481,8 +481,7 @@ to find
 
 transitive verb
 
-1. to retrieve     
-to find   
+1. to retrieve   
 - a. to find  
 Al fin encontré las llaves del coche.  
 I finally found my car keys.
@@ -504,7 +503,6 @@ encontrarse
 pronominal verb
 
 4. to be situated   
-to be  
 - a. to be  
 La playa se encuentra al otro lado de la calle.  
 The beach is on the opposite side of the street.
