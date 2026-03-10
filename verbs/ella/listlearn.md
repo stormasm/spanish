@@ -653,7 +653,6 @@ Now let's focus on aspects of a more practical nature.
 pronominal verb
 
 4. (to concentrate)  
-to pay attention  
 - a. to pay attention  
 Fíjate bien en todo lo que dice y luego me lo cuentas.  
 Pay close attention to everything he says and then tell me afterwards.
