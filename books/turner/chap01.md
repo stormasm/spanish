@@ -395,19 +395,24 @@ Seasonal laborers are found on only about a third of the haciendas and are a cla
 
 From what has been said, it will be seen that the amount credited to a part-time worker in a year, for six months of labor, is $22.50, as total payment, which is what the slave's family relies on to live on for the year.
 
-In a single room of the main building of San Antonio Yaxché, surrounded by the stone wall, we found more than three hundred hammocks almost touching one another, which was the dormitory for the part-time laborers and the single men. We entered the compound precisely at dusk, when the workers, wiping the sweat from their brows, were arriving. Behind the dormitory, half a dozen women were cooking on primitive stoves. The ragged workers, like hungry wolves, circled the simple kitchen and held out their dirty hands to receive their supper as a reward, which the poor creatures ate standing up. I tasted the slaves' supper. That is to say, I only tasted part of it with my tongue; the rest was with my nose, since my nose advised me not to put it in my mouth. The meal consisted of two large corn tortillas, which is the bread of the poor in Mexico; A cup of cooked beans, without seasoning, and a plate of rancid fish that gave off such a strong stench that it lingered in my nostrils for several days. How could they possibly eat that?
+In a single room of the main building of San Antonio Yaxché, surrounded by the stone wall, we found more than three hundred hammocks almost touching one another, which was the dormitory for the part-time laborers and the single men. We entered the compound precisely at dusk, when the workers, wiping the sweat from their brows, were arriving.
+
+Behind the dormitory, half a dozen women were cooking on primitive stoves. The ragged workers, like hungry wolves, circled the simple kitchen and held out their dirty hands to receive their supper as a reward, which the poor creatures ate standing up. I tasted the slaves' supper. That is to say, I only tasted part of it with my tongue; the rest was with my nose, since my nose advised me not to put it in my mouth.
+
+The meal consisted of two large corn tortillas, which is the bread of the poor in Mexico; A cup of cooked beans, without seasoning, and a plate of rancid fish that gave off such a strong stench that it lingered in my nostrils for several days. How could they possibly eat that?
+
 Perhaps, to break up a boring and endless series of meals consisting only of beans and tortillas, there comes a time when even the most refined palate's mouth waters for something different, even if that something is just fish whose stench reaches the heavens.
 
 Beans, tortillas, fish,
 "I suppose they can at least live on that," I reflected, "provided they don't fare worse with the other two meals."
 
 By the way, I said, turning to the steward who was acting as our guide, "What are they given for the other two meals?"
+
 "The other two meals?" The steward was perplexed. "The other two meals? There are no other meals. This is the only one they are given."
 
 Beans, tortillas, and fish once a day, and twelve hours of work under the scorching sun.
 
-But, the manager didn't change his mind; they're given something more; something very good, something they can take
-to the fields and eat whenever they want. Here you are.
+But, the manager didn't change his mind; they're given something more; something very good, something they can take to the fields and eat whenever they want. Here you are.
 
 #### page 12
 
@@ -445,11 +450,18 @@ Yucatán has been compared to Russian Siberia.
 
 But I didn't find many points of convergence between the two countries. It is true that the Yaquis are
 exiles, in a certain sense, and moreover, political exiles; but they are also slaves.
-The political exiles of Russia are not slaves. According to Kennan, they are allowed to bring their families with them, choose their own dwelling, live their own lives, and are often given a monthly stipend to support themselves. I cannot imagine that distant Siberia is as bad as Yucatán. The slave in Yucatán does not cry for food, as the North American farm laborer does. He goes out to the fields at dawn and eats his sour dough ball along the way. He grabs his machete and attacks the first thorny leaf as soon as there is enough light to see the thorns, and he does not put the machete down until dusk. Thousands of large green leaves per day constitute his task,
 
-and besides cutting, trimming, and stacking them, he has to count them, as well as the number of leaves remaining on each plant, making sure he hasn't overcounted or undercounted. It is estimated that each plant produces 36 new leaves a year; twelve of these, the largest, are cut every four months; but whatever number are cut, there must be exactly 30 left after the cutting. If the slave leaves 31 or 29, he is whipped; if he doesn't cut 2,000, he is whipped; if he doesn't trim the edges of the leaves well, he is whipped; if he is late for roll call, he is whipped; he is whipped for any other fault that one of the chiefs imagines he has discovered in his character or appearance.
-Siberia? It seems.
-Siberia is like an orphanage compared to Yucatán.
+The political exiles of Russia are not slaves. According to Kennan, they are allowed to bring their families with them, choose their own dwelling, live their own lives, and are often given a monthly stipend to support themselves. I cannot imagine that distant Siberia is as bad as Yucatán.
+
+The slave in Yucatán does not cry for food, as the North American farm laborer does. He goes out to the fields at dawn and eats his sour dough ball along the way. He grabs his machete and attacks the first thorny leaf as soon as there is enough light to see the thorns, and he does not put the machete down until dusk.
+
+Thousands of large green leaves per day constitute his task,  and besides cutting, trimming, and stacking them, he has to count them, as well as the number of leaves remaining on each plant, making sure he hasn't overcounted or undercounted.
+
+It is estimated that each plant produces 36 new leaves a year; twelve of these, the largest, are cut every four months; but whatever number are cut, there must be exactly 30 left after the cutting.
+
+If the slave leaves 31 or 29, he is whipped; if he doesn't cut 2,000, he is whipped; if he doesn't trim the edges of the leaves well, he is whipped; if he is late for roll call, he is whipped; he is whipped for any other fault that one of the chiefs imagines he has discovered in his character or appearance.
+
+Siberia? It seems.  Siberia is like an orphanage compared to Yucatán.
 
 #### page 13
 
