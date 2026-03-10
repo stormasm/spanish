@@ -298,40 +298,29 @@ one of the richest landowners in Yucatán, a professional told me:
 One of X's favorite pastimes was riding his horse and witnessing the "cleansing" (the
 punishment) of his slaves. He would light his cigar, and as he exhaled the first puff of
 smoke, the wet whip would fall upon the victim's bare back. He would continue smoking
-calmly, quite content, as the blows fell one after another. When, at
-finally, he grew bored with the spectacle, he would throw away the cigar, and the man with the whip would stop striking, since the
+calmly, quite content, as the blows fell one after another. When, at finally, he grew bored with the spectacle, he would throw away the cigar, and the man with the whip would stop striking, since the
 end of the cigar was the signal for the lashes to end.
+
 The large haciendas of Yucatán are reached via privately owned Decauville railways,
 built and operated specifically for the benefit of the henequen barons. The first hacienda
 we visited is typical. It is located 20 km west of Mérida; It has approximately 3,000 hectares,
-25% of which are planted with henequen, and the rest is abandoned pastureland. In the
-center of the hacienda is the "casco,"
+25% of which are planted with henequen, and the rest is abandoned pastureland.
 
-which consists of a courtyard overgrown with grass,
-around which are the main buildings: the warehouse, the henequen processing plant, the administrator's house, the first steward's house, the second steward's houses, and the small
-chapel. Behind these buildings are the corrals, the henequen drying sheds, the stable, the
-community jail, and finally, surrounding all of this, rows of single-room huts, in
-small plots of land, where married slaves and their families live.
+In the center of the hacienda is the "casco," which consists of a courtyard overgrown with grass,
+around which are the main buildings: the warehouse, the henequen processing plant, the administrator's house, the first steward's house, the second steward's houses, and the small chapel. Behind these buildings are the corrals, the henequen drying sheds, the stable, the community jail, and finally, surrounding all of this, rows of single-room huts, in small plots of land, where married slaves and their families live.
 
 On the hacienda, there are about 1,500 laborers and about 30 foremen for various tasks; 30 of
-the slaves were Korean, about 200 Yaqui, and the rest Maya. These latter, in my
-view, were distinguished from the free Maya I had seen in the city, mainly by their
-clothing and their general appearance of neglect and fatigue. Undoubtedly, they were cut from the same cloth; their garments were poor and torn, but generally very clean. The women's dresses were made of calico, and the men's shirts and trousers of ordinary cotton, suitable
-for the tropics. They often rolled their trousers up to the knee. Their
+the slaves were Korean, about 200 Yaqui, and the rest Maya. These latter, in my view, were distinguished from the free Maya I had seen in the city, mainly by their clothing and their general appearance of neglect and fatigue. Undoubtedly, they were cut from the same cloth; their garments were poor and torn, but generally very clean. The women's dresses were made of calico, and the men's shirts and trousers of ordinary cotton, suitable for the tropics. They often rolled their trousers up to the knee. Their
 hats were made of palm, and they always went barefoot.
-About 700 slaves were men fit for work, and the rest were women and children; 380 of them
-were married and lived with their families in one-room huts, built on small
-plots of about 50 square meters, which, despite being stony and barren, allowed
-women and children to cultivate something. Besides the produce from their meager garden, each family
-receives daily credit at the company store for 25 cents worth of goods. They are not
-paid in cash: everything is on credit, and this same system prevails on almost half
-of the haciendas. The other half simply distributes rations, which amounts to the same thing;
 
-but some of the landowners adhere to the credit system to maintain the appearance
-of paying wages. I inquired about the prices of some goods in the store—corn,
-beans, salt, chili peppers, blankets, and throws were all that was available—and I noticed that these prices were
-high. I don't understand how a family could live on the goods they were given
-worth 25 cents a day, especially considering they work so hard.
+About 700 slaves were men fit for work, and the rest were women and children; 380 of them
+were married and lived with their families in one-room huts, built on small plots of about 50 square meters, which, despite being stony and barren, allowed women and children to cultivate something. Besides the produce from their meager garden, each family receives daily credit at the company store for 25 cents worth of goods.
+
+They are not paid in cash: everything is on credit, and this same system prevails on almost half
+of the haciendas. The other half simply distributes rations, which amounts to the same thing;
+but some of the landowners adhere to the credit system to maintain the appearance of paying wages.
+
+I inquired about the prices of some goods in the store—corn, beans, salt, chili peppers, blankets, and throws were all that was available—and I noticed that these prices were high. I don't understand how a family could live on the goods they were given worth 25 cents a day, especially considering they work so hard.
 
 The slaves get up when the large bell in the courtyard rings at 3:45 in the morning, and
 their work begins as soon as they can reach the fields. Work in the fields ends
@@ -339,13 +328,11 @@ when it gets too dark to see, and in the "house" it sometimes continues for many
 hours into the night.
 
 The main work on the hacienda consists of cutting henequen leaves and clearing the land
-of weeds that grow among the plants. Each slave is assigned a task
-of cutting a certain number of leaves or clearing plants, and the landowner tends to
-set quotas so high that the slave is forced to call his wife and children to help him; in this way, almost all the women and children on the hacienda spend part of the
-day in the fields. Single women are in the fields all day, and when a
-boy reaches twelve years old, he is considered a working man and is given a quota
-that he must fulfill on his own. On Sundays, the laborers do not work for their master; they spend
-the time in their gardens, resting, or visiting each other. Sundays are the days when the young men and women meet and make plans to marry. Sometimes the farmhands are allowed to leave the estate to visit the neighbor's slaves; but they are never allowed to marry people from other estates, because that would mean one or the other of the landowners would have to buy the wife or husband, which would create difficulties.
+of weeds that grow among the plants. Each slave is assigned a task of cutting a certain number of leaves or clearing plants, and the landowner tends to set quotas so high that the slave is forced to call his wife and children to help him; in this way, almost all the women and children on the hacienda spend part of the day in the fields.
+
+Single women are in the fields all day, and when a boy reaches twelve years old, he is considered a working man and is given a quota that he must fulfill on his own.
+
+On Sundays, the laborers do not work for their master; they spend the time in their gardens, resting, or visiting each other. Sundays are the days when the young men and women meet and make plans to marry. Sometimes the farmhands are allowed to leave the estate to visit the neighbor's slaves; but they are never allowed to marry people from other estates, because that would mean one or the other of the landowners would have to buy the wife or husband, which would create difficulties.
 
 #### page 10
 
