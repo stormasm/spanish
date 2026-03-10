@@ -374,8 +374,15 @@ being spared the whip. Women and children, and sometimes girls, who looked about
 
 but I was told that in other haciendas it reaches up to three thousand.
 
-Once cut, the henequen leaves are taken to a large building constructed in the middle of the main hacienda, where they are lifted by forklifts and placed on a conveyor belt that takes them to the shredder. This is a machine with strong steel teeth that scrape the thick leaves, resulting in two products: a green powder, which is waste, and long, hair-like, greenish fibers, which is henequen. The fiber is then taken by streetcar to the drying shed, where it acquires the color of the sun. It is then transported by streetcar, pressed into bales, and a few days or weeks later, the observer can see it in Progreso, the port of Yucatán, about 35 km north of Mérida, where it is loaded onto a ship, usually British. The United States buys almost all the henequen from Yucatán, of which our rope-making trust, considered an affiliate of Standard Oil, absorbs more than half. In 1908, the price of henequen fiber in bales was eight cents per pound, and a slave trader told me that its cost of production was no more than one cent. Near the fiber-removal plant, we saw many children working; in the drying yard, we found boys and men; the latter impressed me with their indifference and their gaunt, feverish appearance. The foreman explained: "When the men are sick, we let them work here... and he added, 'at half pay!'" That, then, was the men's hospital. We discovered the women's hospital in the basement of the Library of the Politician. INEP AC
-Barbarous Mexico. John Kenneth Turner
+Once cut, the henequen leaves are taken to a large building constructed in the middle of the main hacienda, where they are lifted by forklifts and placed on a conveyor belt that takes them to the shredder. This is a machine with strong steel teeth that scrape the thick leaves, resulting in two products: a green powder, which is waste, and long, hair-like, greenish fibers, which is henequen. The fiber is then taken by streetcar to the drying shed, where it acquires the color of the sun. It is then transported by streetcar, pressed into bales, and a few days or weeks later, the observer can see it in Progreso, the port of Yucatán, about 35 km north of Mérida, where it is loaded onto a ship, usually British.
+
+The United States buys almost all the henequen from Yucatán, of which our rope-making trust, considered an affiliate of Standard Oil, absorbs more than half. In 1908, the price of henequen fiber in bales was eight cents per pound, and a slave trader told me that its cost of production was no more than one cent.
+
+Near the fiber-removal plant, we saw many children working; in the drying yard, we found boys and men; the latter impressed me with their indifference and their gaunt, feverish appearance.
+
+The foreman explained: "When the men are sick, we let them work here... and he added, 'at half pay!'"
+
+That, then, was the men's hospital. We discovered the women's hospital in the basement of the 
 one of the main buildings; it was a row of windowless rooms with dirt floors, resembling dungeons; in each one, a woman lay on a board without even a sheet to soften the roughness.
 
 #### page 11
