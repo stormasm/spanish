@@ -12,6 +12,8 @@
 [averiguar](./listlearn.md#averiguar)
 [averiguarse](./listlearn.md#averiguarse)
 - [encontrar](./listlearn.md#encontrar)
+[hallar](./listlearn.md#hallar)
+[revelar](./listlearn.md#revelar)
 
 ### acabar
 
@@ -669,7 +671,7 @@ transitive verb
 
 1. (to divulge)  
 - a. to reveal   
-Se [negó](https://www.spanishdict.com/conjugate/negar) 
+Se [negó](https://www.spanishdict.com/conjugate/negar)
 a [revelar](https://www.spanishdict.com/conjugate/revelar)
 el secreto de la familia.  
 She refused to reveal the family's secret.  
