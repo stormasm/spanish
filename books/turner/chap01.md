@@ -382,7 +382,7 @@ Near the fiber-removal plant, we saw many children working; in the drying yard, 
 
 The foreman explained: "When the men are sick, we let them work here... and he added, 'at half pay!'"
 
-That, then, was the men's hospital. We discovered the women's hospital in the basement of the 
+That, then, was the men's hospital. We discovered the women's hospital in the basement of the
 one of the main buildings; it was a row of windowless rooms with dirt floors, resembling dungeons; in each one, a woman lay on a board without even a sheet to soften the roughness.
 
 #### page 11
@@ -390,6 +390,7 @@ one of the main buildings; it was a row of windowless rooms with dirt floors, re
 More than 300 slaves sleep in a large stone and mortar structure, surrounded by a solid four-meter-high wall, topped with shards of glass. This enclosure is accessed through a single door, guarded by a man armed with a club, saber, and pistol.
 
 This was the dormitory for the single men of the hacienda—Mayans, Yaquis, and Chinese—and also for the part-time workers, slaves employed for only half the year, some of whom are married and whose families live in small villages surrounding the hacienda.
+
 Seasonal laborers are found on only about a third of the haciendas and are a class of workers created entirely for the convenience of the masters. They become permanent workers at the masters' discretion and are then allowed to have their families on the hacienda. They are obligated to work more than half the year, if needed, and during the time they are not working on the estate they are not allowed to look for work elsewhere; generally their annual work is divided into two periods: three months in the spring and three in the fall, during which they cannot visit their families. They are kept locked up at night, their food is provided by the estate, and the amount of twelve cents and half a real that they are credited daily is given in small installments to their families so that they do not starve.
 
 From what has been said, it will be seen that the amount credited to a part-time worker in a year, for six months of labor, is $22.50, as total payment, which is what the slave's family relies on to live on for the year.
