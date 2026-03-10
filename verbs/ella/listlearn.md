@@ -669,7 +669,8 @@ transitive verb
 
 1. (to divulge)  
 - a. to reveal   
-Se negó a revelar el secreto de la familia.  
+Se negó a [revelar](https://www.spanishdict.com/conjugate/revelar) 
+el secreto de la familia.  
 She refused to reveal the family's secret.  
 - b. to disclose  
 No reveles información personal a desconocidos.  
