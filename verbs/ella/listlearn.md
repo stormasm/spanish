@@ -12,6 +12,7 @@
 [averiguar](./listlearn.md#averiguar)
 [averiguarse](./listlearn.md#averiguarse)
 - [encontrar](./listlearn.md#encontrar)
+[fijar](./listlearn.md#fijar)
 [hallar](./listlearn.md#hallar)
 [revelar](./listlearn.md#revelar)
 
@@ -618,6 +619,53 @@ I ran across Francisca yesterday. I didn't know she was pregnant.
 - c. to bump into  
 La semana pasada me encontré con tu hermano. Se ve más sano.  
 I bumped into your brother last week. He looks healthier.  
+
+### fijar
+
+transitive verb
+
+1. (to put)  
+- a. to fix  
+Tienes que fijar la lámpara al techo con los tornillos.  
+You have to fix the lamp to the ceiling using the screws.
+
+2. (to determine)
+- a. to set
+Nos falta fijar una hora para la entrevista.  
+We have yet to set a time for the interview.  
+- b. to establish  
+Ha fijado su residencia en Londres por cuestiones de trabajo.  
+He has established his residence in London because of his job.  
+- c. to fix  
+Antes de decidirnos por una estrategia, debemos fijar nuestros objetivos.  
+We need to fix our objectives before deciding on any strategy.
+
+3. (to concentrate)
+- a. to fix  
+Para no perder el equilibrio, fija la mirada en un punto de la pared.  
+In order not to lose your balance, fix your eyes on a point on the wall.  
+- b. to focus  
+Ahora pasemos a fijar nuestra atención en aspectos de índole más práctica.  
+Now let's focus on aspects of a more practical nature.
+
+### fijarse
+
+pronominal verb
+
+4. (to concentrate)  
+to pay attention  
+- a. to pay attention  
+Fíjate bien en todo lo que dice y luego me lo cuentas.  
+Pay close attention to everything he says and then tell me afterwards.
+
+5. (to become aware of)  
+- a. to notice  
+No me había fijado en el escalón y casi me caigo.  
+I hadn't noticed the step and almost fell.
+
+
+
+
 
 ### hallar
 
