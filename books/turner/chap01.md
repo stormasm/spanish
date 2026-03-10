@@ -449,7 +449,6 @@ Time and again I compared, in my imagination, the condition of the slaves in our
 Wonderful Mexican palaces! Wonderful Mexican gardens! A marvelous fairy-tale park born from the conjuring of the enslavement of the Maya and the Yaqui. Among the slaves of Yucatán, there are ten Maya for every Yaqui; but it is the story of the Yaqui that most captivated me.
 
 The Maya die in their own land, among their own people, but the Yaqui are exiled;
-
 they die in a foreign land and die more quickly and alone, far from their families, since
 all the Yaqui families sent to Yucatán are torn apart along the way: the husbands
 are separated from the wives and the children are torn from their mothers' breasts.
