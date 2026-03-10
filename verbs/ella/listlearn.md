@@ -629,8 +629,8 @@ transitive verb
 Tienes que fijar la lámpara al techo con los tornillos.  
 You have to fix the lamp to the ceiling using the screws.
 
-2. (to determine)
-- a. to set
+2. (to determine)   
+- a. to set  
 Nos falta fijar una hora para la entrevista.  
 We have yet to set a time for the interview.  
 - b. to establish  
