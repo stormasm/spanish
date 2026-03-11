@@ -1,4 +1,10 @@
 
+### 3/11 - cuyo
+
+- [cuyo](https://www.spanishdict.com/translate/cuyo) - whose
+- [relative adjectives](https://www.spanishdict.com/guide/relative-adjectives-like-cuyo-in-spanish)
+- [relative pronouns](https://www.spanishdict.com/guide/relative-pronouns-donde-lo-que-lo-cual-and-cuyo)
+
 ### 3/11 - encima
 
 - [encima](https://www.spanishdict.com/translate/encima?langFrom=es&showOnlyResult=true) - above - on top   
