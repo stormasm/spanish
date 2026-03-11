@@ -1,9 +1,10 @@
 
+## CAPÍTULO VI: LOS PEONES DEL CAMPO Y LOS POBRES DE LA CIUDAD
+
+ok
+
 ### Page 48
 
-CAPÍTULO VI
-LOS PEONES DEL CAMPO Y LOS POBRES DE LA
-CIUDAD
 Se podría escribir todo un libro muy grueso y que dejara grandes ganancias acerca de la
 esclavitud en México. Pero, aunque el asunto es importante, no lo es tanto como para dedicarle
 mayor espacio en esta obra que el que le he reservado. Es más necesario que ahonde más
@@ -11,6 +12,7 @@ bajo la superficie y revele las horribles causas que han hecho posible y están 
 bárbara institución. Confío en que con lo expuesto en los capítulos anteriores, haya quedado
 suficientemente clara e indudable la completa participación del Gobierno mexicano en la trata
 de esclavos.
+
 En ciertas esferas se admite que existe la esclavitud; pero se niega la culpabilidad del
 Gobierno. Sin embargo, es absurdo suponer que éste pueda ignorar una situación en la que la
 tercera parte de la población de un gran Estado está esclavizada. Además, es bien sabido que
@@ -23,6 +25,7 @@ soldados del ejército regular. Sin la coacción de sus armas y de su autoridad,
 se negarían a caminar un solo kilómetro de la jornada. Un momento de reflexión es suficiente
 para convencer a cualquier mente sin prejuicios de que sin la participación del Gobierno, todo
 el sistema esclavista sería imposible.
+
 Una esclavitud similar a la de Yucatán y a la de Valle Nacional se puede encontrar en casi
 todos los Estados del país; pero especialmente en los costeños, al sur de la gran altiplanicie. El
 mismo sistema de trabajo existe en las plantaciones de henequén de Campeche; en las
@@ -38,6 +41,7 @@ redondos—
 éstos, o embarcados por las autoridades políticas en connivencia con tales agentes, dejan sus
 hogares en diversos sitios del país para tomar el camino de la muerte hacia la "tierra caliente"
 .
+
 La esclavitud por deudas y por "contrato" es el sistema de trabajo que prevalece en todo el sur
 de México. Probablemente 750 mil personas pueden clasificar con exactitud como "propiedad
 mueble" de los hacendados. En los distritos rurales del resto de México existe en el sistema del
@@ -50,11 +54,10 @@ Constitución no reconoce el derecho del acreedor para apoderarse y retener al d
 físicamente, las autoridades rurales en todas partes reconocen ese derecho y el resultado es
 que probablemente 5 millones de personas, o sea un tercio de la población, viven actualmente
 en estado de peonaje sin redención.
+
 A los peones del campo suele acreditárseles jornales nominales que varían entre 25 y 50
 centavos diarios; rara vez son más altos. Por lo regular, no reciben un solo centavo, en
 efectivo, sino que se les paga en vales de crédito contra la tienda de raya de la hacienda, en la
-Biblioteca del Político. INEP AC
-México Bárbaro. John Kenneth Turner
 cual están obligados a comprar a pesar de los precios exorbitantes. Como resultado, su
 alimento consiste solamente en maíz y frijoles, viven en cabañas que suelen estar hechas de
 materiales no más consistentes que la caña del maíz, y usan sus pobres vestidos no sólo hasta
