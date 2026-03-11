@@ -1,4 +1,11 @@
 
+### 3/11 - encima
+
+- [encima](https://www.spanishdict.com/translate/encima?langFrom=es&showOnlyResult=true) - above - on top   
+El espejo está encima de la silla.   
+The mirror is above the chair.   
+El correo está encima de la mesa.   
+The mail is on top of the table.   
 
 ### 3/10 - turbado
 
