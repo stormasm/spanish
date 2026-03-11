@@ -6,6 +6,8 @@ El espejo está encima de la silla.
 The mirror is above the chair.   
 El correo está encima de la mesa.   
 The mail is on top of the table.   
+[nr: cuba](https://www.nuevarevista.net/cuba-medio-siglo-entre-la-revolucion-y-la-dictadura-0/)
+[es26: cuba](https://github.com/stormasm/es26/blob/main/revista/nueva/cuba.md#sobresalir)
 
 ### 3/10 - turbado
 
