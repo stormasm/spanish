@@ -1,8 +1,13 @@
 
+### 3/9/26
+
+- a toda persona ajena a esta calle que sea sorprendida sera consignada a las autoridades
+- anyone caught on this street who does not live here will be turned over to the authorities
+
 ### 3/6/26
 
 - me gusta estar aqui - I like being here
-- soy afortunado de estar en mexico - I am lucky to be in Mexico 
+- soy afortunado de estar en mexico - I am lucky to be in Mexico
 
 ### 3/4/26
 
