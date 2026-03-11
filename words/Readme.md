@@ -1,4 +1,7 @@
 
+The only words that go in this directory are non verbs.
+Verbs should go in the verb directory.
+
 #### My new words
 
 - [word25](./word25.md)

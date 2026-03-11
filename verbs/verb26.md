@@ -2,4 +2,8 @@
 ### verb 26
 
 - [sobresalir](https://www.spanishdict.com/translate/sobresalir)
-[nuevarevista: cuba](https://www.nuevarevista.net/cuba-medio-siglo-entre-la-revolucion-y-la-dictadura-0/)
+[nr: cuba](https://www.nuevarevista.net/cuba-medio-siglo-entre-la-revolucion-y-la-dictadura-0/)
+
+### Key
+
+- nr - nuevarevista

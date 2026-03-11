@@ -1,4 +1,12 @@
 
+
+### 3/10 - turbado
+
+- [turbado](https://www.spanishdict.com/translate/turbado?langFrom=es&showOnlyResult=true) - disturbed - worried   
+Quedé muy turbada tras escuchar las noticias del asesinato.  
+I was very disturbed after hearing the news about the murder.  
+[nr: time money](https://www.nuevarevista.net/time-money/)
+
 ### 3/2 - entusiasmado
 
 - [entusiasmado](https://www.spanishdict.com/translate/entusiasmado) - excited - me alegra que estés entusiasmado con este tema.
