@@ -32,15 +32,16 @@ mismo sistema de trabajo existe en las plantaciones de henequén de Campeche; en
 industrias madereras y frutera de Chiapas y Tabasco; en las plantaciones de hule, café, caña
 de azúcar, tabaco y frutas de Veracruz, Oaxaca y Morelos. Por lo menos en 10 de los 32
 Estados y Territorios de México, la mayoría abrumadora de trabajadores son esclavos.
+
 Aunque las condiciones secundarias varíen algo en diferentes lugares, el sistema general es en
 todas partes el mismo: el servicio contra la voluntad del trabajador, ausencia de jornales,
 escasa alimentación y azotes. En este cúmulo de cosas se hallan afectados no sólo los nativos
 de los diversos Estados esclavistas, sino otros 100 mil cada año, para citar números
-redondos—
-, que, engañados con falsas promesas por los enganchadores, o capturados por
+redondos—, que, engañados con falsas promesas por los enganchadores, o capturados por
 éstos, o embarcados por las autoridades políticas en connivencia con tales agentes, dejan sus
 hogares en diversos sitios del país para tomar el camino de la muerte hacia la "tierra caliente"
-.
+
+Although secondary conditions vary somewhat in different places, the general system is the same everywhere: forced labor, lack of wages, meager food, and beatings. This system affects not only the natives of the various slave states, but also another 100,000 each year—to cite round numbers—who, deceived by false promises from recruiters, or captured by them, or put on ships by political authorities in collusion with such agents, leave their homes in various parts of the country to take the road to death toward the "hot lands."
 
 La esclavitud por deudas y por "contrato" es el sistema de trabajo que prevalece en todo el sur
 de México. Probablemente 750 mil personas pueden clasificar con exactitud como "propiedad
