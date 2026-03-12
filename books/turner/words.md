@@ -1,4 +1,12 @@
 
+### azote
+
+- [whip](https://www.spanishdict.com/translate/azote?langFrom=es&showOnlyResult=true)
+
+### cúmulo
+
+- [cúmulo: heap, pile, accumulation](https://www.spanishdict.com/translate/c%C3%BAmulo?langFrom=es)
+
 ### enganchadores
 
 Enganchadores (loosely translating to "hookers" or "recruiters" from Spanish/Portuguese) in the context of the historical slave trade were specialized intermediaries, agents, or brokers responsible for the recruitment, capture, or entrapment of people to be enslaved and sold. They acted as a crucial link between slave traders (often European) and the victims, operating primarily in the interior regions of Africa, or in other contexts, in areas where forced labor was being coerced.
@@ -10,6 +18,10 @@ Enganchadores (loosely translating to "hookers" or "recruiters" from Spanish/Por
 - Shift in Labor: Enganchadores were often used to find alternatives to indigenous, "fragile" labor, facilitating the transition to enslaved African labor in places like the Atlantic Isles.
 
 While the term "enganchador" is frequently associated with the 19th and early 20th-century enganche system (a system of debt peonage for labor in Latin America), in the broader historical context of the slave trade, it refers to the agents who "hooked" or trapped people into the slave system.
+
+### escaso
+
+- [scarce](https://www.spanishdict.com/translate/escaso?langFrom=es)
 
 ### jornal
 
@@ -26,3 +38,5 @@ The miner spent his day's wage in the bar.
 - a. day's work  
 Los jornales en esta empresa son de 9 horas.  
 A day's work in this company lasts 9 hours.
+
+### sino - but also
