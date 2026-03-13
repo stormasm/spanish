@@ -2,7 +2,7 @@
 ### Irregular Verbs
 
 
-- conocer - know people and places
+- [conocer](https://www.spanishdict.com/conjugate/conocer) - know people and places
 
 - [dar](https://www.spanishdict.com/conjugate/dar) - give
 - [decir](https://www.spanishdict.com/conjugate/decir) - say, tell
