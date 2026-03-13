@@ -33,7 +33,7 @@
 | dicen | van | hacen | pueden | saben | son | tienen | ven |
 |  |  |  |  |  |  |  |  |
 | dije | fui | hice | pude | supe | fui | tuve | vi |
-| dijiste | fuiste | hiciste | supiste | pudiste | fuiste | tuviste | viste |
+| dijiste | fuiste | hiciste | pudiste | supiste | fuiste | tuviste | viste |
 | dijo | fue | hizo | pudo | supo | fue | tuvo | vio |
 | dijimos | fuimos | hicimos | pudimos | supimos | fuimos | tuvimos | vimos |
 | dijeron | fueron | hicieron | pudieron | supieron | fueron | tuvieron | vieron |
