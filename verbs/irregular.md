@@ -31,6 +31,8 @@
 | dice | va | hace | puede | tiene | ve |
 | decimos | vamos | hacemos | podemos | tenemos | vemos |
 | dicen | van | hacen | pueden | tienen | ven |
+| - | - | - | - | - | - |
+| dije | fui | hice | pude | tuve | vi |
 
 
 ### References
