@@ -24,9 +24,13 @@
 
 
 
-| decir | ir | hacer | poder | ver | tener |
+| decir | ir | hacer | poder | tener | ver |
 | - | - | - | - | - | - |
-| digo | voy | hago | puedo | veo | tengo |
+| digo | voy | hago | puedo | tengo | veo |
+| dices | vas | haces | puedes | tienes | ves |
+| dice | va | hace | puede | tiene | ve |
+| decimos | vamos | hacemos | podemos | tenemos | vemos |
+| dicen | van | hacen | pueden | tienen | ven |
 
 
 ### References
