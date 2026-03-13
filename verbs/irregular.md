@@ -33,6 +33,10 @@
 | dicen | van | hacen | pueden | tienen | ven |
 |  |  |  |  |  |  |
 | dije | fui | hice | pude | tuve | vi |
+| dijiste | fuiste | hiciste | pudiste | tuviste | viste |
+| dijo | fue | hizo | pudo | tuvo | vio |
+| dijimos | fuimos | hicimos | pudimos | tuvimos | vimos |
+| dijeron | fueron | hicieron | pudieron | tuvieron | vieron |
 
 
 ### References
