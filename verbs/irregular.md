@@ -22,6 +22,13 @@
 - [venir](https://www.spanishdict.com/conjugate/venir) - come
 - [ver](https://www.spanishdict.com/conjugate/ver) - see
 
+
+
+| decir | ir | hacer | poder | ver | tener |
+| - | - | - | - | - | - |
+| digo | voy | hago | puedo | veo | tengo |
+
+
 ### References
 
 - [ella verb](https://ellaverbs.com/spanish-verbs/)
