@@ -1,8 +1,6 @@
 
 ## CAPÍTULO VI: LOS PEONES DEL CAMPO Y LOS POBRES DE LA CIUDAD
 
-ok
-
 ### Page 48
 
 Se podría escribir todo un libro muy grueso y que dejara grandes ganancias acerca de la
@@ -74,7 +72,9 @@ deshacen.
 Probablemente, no menos del 80% de todos los trabajadores de las haciendas y plantaciones
 en México, o son esclavos o están sujetos a la tierra como peones. El otro 20% lo integran los
 considerados trabajadores libres, quienes viven una existencia precaria en su esfuerzo por
-esquivar la red de los enganchadores. Me acuerdo particularmente de una familia de esa clase
+esquivar la red de los enganchadores.
+
+Me acuerdo particularmente de una familia de esa clase
 que conocí en el Estado de Chihuahua. Era un caso típico, y mi recuerdo de ella es muy fuerte
 porque la vi en la primera noche que pasé en México. Fue en un vagón de segunda clase del
 Ferrocarril Central Mexicano, que corría hacia al sur.
@@ -83,16 +83,18 @@ Esa familia estaba compuesta por 6 personas de 3 generaciones diferentes, desde 
 muchacho inexperto, de pelo negro, hasta el abuelo de barba blanca; los 6 parecían haber
 perdido el último átomo de felicidad. Nosotros éramos un grupo animado que estaba cerca de
 ellos; 4 eran mexicanos que se sentían felices por volver al hogar en vacaciones, después de
-una temporada de trabajar como braceros en los Estados Unidos. Cantamos un poco y
-tocamos algo de música en un violín y una armónica; pero ninguno de los seis de aquella
+una temporada de trabajar como braceros en los Estados Unidos.
+
+Cantamos un poco y tocamos algo de música en un violín y una armónica; pero ninguno de los seis de aquella
 familia Llegó a sonreír o a mostrar el menor interés. Me recordaba una punta de ganado
 resistiendo una tempestad, con las cabezas entre las patas delanteras y las grupas contra el
 viento.
 
 La cara del viejo patriarca reflejaba una historia de agobios y una paciencia bovina para
 soportarlos, como nunca podría expresarse en palabras. Tenía barba grisácea, descuidada, y
-bigote; pero su cabeza estaba cubierta aún por cabello castaño oscuro. Su edad sería
-probablemente, de 70 años, aunque evidenciaba ser todavía un trabajador activo. Su traje se
+bigote; pero su cabeza estaba cubierta aún por cabello castaño oscuro.
+
+Su edad sería probablemente, de 70 años, aunque evidenciaba ser todavía un trabajador activo. Su traje se
 componía de una camisa de color y pantalón de mezclilla de manufactura norteamericana,
 lavado y recosido y vuelto a lavar y recoser... Un traje de un dólar, con tantos añadidos que
 todo eran parches.
@@ -112,7 +114,9 @@ delante y su mano derecha tocando la cara a la altura del puente de la nariz.
 
 Finalmente, había dos muchachos: uno de 18 años, hijo segundo del viejo, y otro de 16, hijo de
 la segunda pareja. En toda esa noche, la única sonrisa que vi en aquellas caras fue una, en la
-del muchacho más joven. Un vendedor de periódicos, al pasar, le ofreció un libro en 75
+del muchacho más joven.
+
+Un vendedor de periódicos, al pasar, le ofreció un libro en 75
 centavos y el muchacho, abriendo un poco los ojos con momentáneo interés, contempló la
 cubierta de colores brillantes y después volvió hacia su lío y le dirigió una sonrisa de asombro,
 ¡Pensar que alguien pudiera imaginar que él podía comprar uno de aquellos mágicos objetos,
@@ -139,28 +143,28 @@ Después de una pausa, continuó:
 juntamos lo que teníamos y gastamos nuestro último peso para pagar el pasaje hasta Torreón,
 donde esperamos encontrar trabajo en los campos algodoneros. He oído decir que podemos
 ganar un peso diario cuando hay ocupación. ¿Es así, o será allí la misma historia? Acaso sea
-la misma; pero ¿qué otra cosa puedo hacer sino arriesgar? Trabajo, trabajo, trabajo: eso es
-todo lo que hay para nosotros..., y nada a cambio del trabajo No bebemos; no somos
-holgazanes; rezamos a Dios todos los días y, sin embargo, la deuda nos sigue siempre,
+la misma; pero ¿qué otra cosa puedo hacer sino arriesgar?
+
+Trabajo, trabajo, trabajo: eso es todo lo que hay para nosotros..., y nada a cambio del trabajo No bebemos; no somos holgazanes; rezamos a Dios todos los días y, sin embargo, la deuda nos sigue siempre,
 pidiendo que la aceptemos. Muchas veces he querido pedir prestado un poco a mi patrón; pero
 mi mujer siempre se ha opuesto a ello.
 
-“No –me dice–
-, mejor morir que deber, porque deber
-una vez quiere decir deber para siempre.... y ser esclavos"
+“No –me dice– , mejor morir que deber, porque deber una vez quiere decir deber para siempre.... y ser esclavos"
 .
 
-Pero a veces creo que sería mejor
-deber, mejor caer en deuda, mejor renunciar a nuestra libertad que seguir así hasta el fin. Es
-cierto que me estoy haciendo viejo y me gustaría morir libre, pero es duro.... muy duro.
+Pero a veces creo que sería mejor deber, mejor caer en deuda, mejor renunciar a nuestra libertad que seguir así hasta el fin. Es cierto que me estoy haciendo viejo y me gustaría morir libre, pero es duro.... muy duro.
+
 Los 750 mil esclavos y los 5 millones de peones no monopolizan la miseria económica de
-México. Esta se extiende a toda clase de personas que trabajan. Hay 150 mil trabajadores de
-minas y fundiciones que reciben menos dinero por el trabajo de una semana que un minero
-norteamericano de la misma clase por un día de jornal; hay 30 mil operarios de fábricas del
+México. Esta se extiende a toda clase de personas que trabajan.
+
+Hay 150 mil trabajadores de minas y fundiciones que reciben menos dinero por el trabajo de una semana que un minero norteamericano de la misma clase por un día de jornal; hay 30 mil operarios de fábricas del
 algodón cuyo salario da un promedio menor de 60 cents. diarios; hay 250 mil sirvientes
 domésticos cuyos salarios varían entre $2 y $10 al mes; hay 40 mil soldados de línea que
-reciben menos de $4 al mes aparte del insuficiente rancho. Los 2 mil policías de la ciudad de
-México no perciben más de $1 diario. Para los conductores de tranvías $1 diario es un buen
+reciben menos de $4 al mes aparte del insuficiente rancho.
+
+Los 2 mil policías de la ciudad de México no perciben más de $1 diario.
+
+Para los conductores de tranvías $1 diario es un buen
 promedio en la capital, donde los jornales son más elevados que en otras partes del país,
 excepto cerca de la frontera norteamericana. Y esta proporción es constante en las industrias.
 Una oferta de $1 como salario, sin duda atraería en la ciudad de México a un ejército de 50 mil
@@ -168,20 +172,16 @@ trabajadores sanos en el término de 24 horas.
 
 Si se tienen en cuenta esos miserables jornales, no debe suponerse que el costo de los
 artículos necesarios para la vida sea menor que en los Estados Unidos, como sucede en otros
-países de bajos salarios, tales como la India y China. Por el contrario, el costo del maíz y del
-fríjol, que son base para la subsistencia de la masa del pueblo mexicano, es realmente más
-alto, por lo regular, que el que rige en los Estados Unidos. Al momento de escribir esto, cuesta
-casi el doble comprar 100 kilos de maíz en la ciudad de México que en Chicago y eso en la
-misma moneda, oro norteamericano, o plata mexicana, como se quiera, no obstante que este
+países de bajos salarios, tales como la India y China.
+
+Por el contrario, el costo del maíz y del fríjol, que son base para la subsistencia de la masa del pueblo mexicano, es realmente más alto, por lo regular, que el que rige en los Estados Unidos. Al momento de escribir esto, cuesta casi el doble comprar 100 kilos de maíz en la ciudad de México que en Chicago y eso en la misma moneda, oro norteamericano, o plata mexicana, como se quiera, no obstante que este
 artículo es el más barato que el mexicano pobre está en posibilidad de adquirir.
 
 Por lo que se refiere al vestido y la habitación, el mexicano ordinario disfruta tan poco de uno y
 otra como pueda imaginarse. Las casas de vecindad de Nueva York son palacios comparadas
-con las casas de vecindad de la ciudad de México. A 500 mts. en cualquier dirección del gran
-Paseo de la Reforma, la magnífica avenida por la que se hace pasear a los turistas y por la
-cual suelen ellos juzgar a México, el investigador encuentra tales condiciones de vida que no
-se ven en ninguna ciudad que merezca el nombre de civilizada. Si en todo el país hay una sola
-ciudad con un sistema moderno de alcantarillado, ignoro su nombre.
+con las casas de vecindad de la ciudad de México.
+
+A 500 mts. en cualquier dirección del gran Paseo de la Reforma, la magnífica avenida por la que se hace pasear a los turistas y por la cual suelen ellos juzgar a México, el investigador encuentra tales condiciones de vida que no se ven en ninguna ciudad que merezca el nombre de civilizada. Si en todo el país hay una sola ciudad con un sistema moderno de alcantarillado, ignoro su nombre.
 
 Los viajeros que se hayan alojado en los mejores hoteles de la capital mexicana quizá levanten
 las cejas al leer mis afirmaciones; pero una pequeña investigación mostrará que no más del
@@ -206,6 +206,7 @@ los alojamientos baratos y mesones.
 Es posible que esto no sea muy exacto; sin embargo, por haberlo observado me consta que la
 cifra de 100 mil sería muy conservadora, y que, por lo menos 25 mil pasan la noche en los
 mesones, nombre comúnmente aplicado a los alojamientos más baratos para pasajeros.
+
 Un mesón es un albergue tan miserable que sólo son peores las galeras o cárceles dormitorios
 de los esclavos de "tierra caliente", y los dormitorios de las prisiones y las galeras estriba en
 que a estas últimas los esclavos son conducidos, medio muertos de fatiga, hambre y fiebre, a
@@ -223,17 +224,9 @@ para otros fines que no sean los de servir de dormitorio para los pobres. Por tr
 viajero recibe un petate y el privilegio de buscar un lugar en el suelo con espacio suficiente
 para poder echarse.
 
-En noches frías, el piso está tan cubierto de seres humanos que es muy
-difícil poner el pie entre los dormidos. En un aposento llegué a contar hasta 200 personas.
-Las mujeres las niñas pobres tienen que dormir en alguna parte, lo mismo que los hombres y
-los jóvenes; si no disponen de más de Tres centavos pasa una cama, las mujeres deben ir a
-los mesones con los hombres. En ninguno de los que visité había lugar separado para mujeres
-y niñas, aunque eran muchas las alojadas.
+En noches frías, el piso está tan cubierto de seres humanos que es muy difícil poner el pie entre los dormidos. En un aposento llegué a contar hasta 200 personas. Las mujeres las niñas pobres tienen que dormir en alguna parte, lo mismo que los hombres y los jóvenes; si no disponen de más de Tres centavos pasa una cama, las mujeres deben ir a los mesones con los hombres. En ninguno de los que visité había lugar separado para mujeres y niñas, aunque eran muchas las alojadas.
 
-Igual que los hombres, una muchacha paga sus tres
-centavos y recibe un petate. Si llega temprano, puede encontrar un rincón más o menos
-apartado donde dar descanso a su molido cuerpo; pero no hay nada que impida a un hombre
-llegar a acostarse junto a ella y molestarla durante toda la noche.
+Igual que los hombres, una muchacha paga sus tres centavos y recibe un petate. Si llega temprano, puede encontrar un rincón más o menos apartado donde dar descanso a su molido cuerpo; pero no hay nada que impida a un hombre llegar a acostarse junto a ella y molestarla durante toda la noche.
 
 Y esto sucede, más de una vez, en mis visitas a los mesones, vi alguna muchacha joven e
 indefensa, a quien un extraño había despertado y solicitado tan sólo por haberla visto entrar.
