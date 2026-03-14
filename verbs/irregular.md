@@ -38,6 +38,23 @@
 | dijimos | fuimos | hicimos | pudimos | supimos | fuimos | tuvimos | vinimos | vimos |
 | dijeron | fueron | hicieron | pudieron | supieron | fueron | tuvieron | vinieron | vieron |
 
+---
+
+| conocer | ir | hacer | poder | saber | ser | tener | venir | ver |
+| - | - | - | - | - | - | - | - | - |
+| conozco | voy | hago | puedo | sé | soy| tengo | vengo | veo |
+| conoces | vas | haces | puedes | sabes | eres | tienes | vienes | ves |
+| conoce | va | hace | puede | sabe | es | tiene | viene | ve |
+| conocemos | vamos | hacemos | podemos | sabemos | somos | tenemos | venimos | vemos |
+| conocen | van | hacen | pueden | saben | son | tienen | vienen | ven |
+|  |  |  |  |  |  |  |  |  |
+| conocí | fui | hice | pude | supe | fui | tuve | vine | vi |
+| conociste | fuiste | hiciste | pudiste | supiste | fuiste | tuviste | viniste | viste |
+| conoció | fue | hizo | pudo | supo | fue | tuvo | vino | vio |
+| conocimos | fuimos | hicimos | pudimos | supimos | fuimos | tuvimos | vinimos | vimos |
+| conocieron | fueron | hicieron | pudieron | supieron | fueron | tuvieron | vinieron | vieron |
+
+---
 
 ### References
 
