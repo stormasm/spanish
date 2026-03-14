@@ -51,7 +51,7 @@
 | conocen | creen | están | ponen | quieren | son | tienen | vienen | ven |
 |  |  |  |  |  |  |  |  |  |
 | conocí | creí | estuve | puse | quise | fui | tuve | vine | vi |
-| conociste | creíste | estuviste | quisiste | supiste | fuiste | tuviste | viniste | viste |
+| conociste | creíste | estuviste | pusiste | quisiste | fuiste | tuviste | viniste | viste |
 | conoció | creyó | estuvo | puso | quiso | fue | tuvo | vino | vio |
 | conocimos | creímos | estuvimos | quisimos | supimos | fuimos | tuvimos | vinimos | vimos |
 | conocieron | creyeron | estuvieron | quisieron | supieron | fueron | tuvieron | vinieron | vieron |
