@@ -42,19 +42,19 @@
 
 ---
 
-| conocer | creer | estar | poner | querer | salir | sentir | traer | venir |
+| conocer | creer | estar | poner | querer | salir | sentir | traer | volver |
 | - | - | - | - | - | - | - | - | - |
-| conozco | creo | estoy | pongo | quiero | xxx| tengo | vengo | veo |
-| conoces | crees | estás | pones | quieres | xxx | tienes | vienes | ves |
-| conoce | cree | está | pone | quiere | xxx | tiene | viene | ve |
-| conocemos | creemos | estamos | ponemos | queremos | xxx | tenemos | venimos | vemos |
-| conocen | creen | están | ponen | quieren | xxx | tienen | vienen | ven |
+| conozco | creo | estoy | pongo | quiero | xxx| tengo | vengo | vuelvo |
+| conoces | crees | estás | pones | quieres | xxx | tienes | vienes | vuelves |
+| conoce | cree | está | pone | quiere | xxx | tiene | viene | vuelve |
+| conocemos | creemos | estamos | ponemos | queremos | xxx | tenemos | venimos | vovemos |
+| conocen | creen | están | ponen | quieren | xxx | tienen | vienen | vuelven |
 |  |  |  |  |  |  |  |  |  |
-| conocí | creí | estuve | puse | quise | xxx | tuve | vine | vi |
-| conociste | creíste | estuviste | pusiste | quisiste | xxx | tuviste | viniste | viste |
-| conoció | creyó | estuvo | puso | quiso | xxx | tuvo | vino | vio |
-| conocimos | creímos | estuvimos | pusimos | quisimos | xxx | tuvimos | vinimos | vimos |
-| conocieron | creyeron | estuvieron | pusieron | quisieron | xxx | tuvieron | vinieron | vieron |
+| conocí | creí | estuve | puse | quise | xxx | tuve | vine | volví |
+| conociste | creíste | estuviste | pusiste | quisiste | xxx | tuviste | viniste | volviste |
+| conoció | creyó | estuvo | puso | quiso | xxx | tuvo | vino | volvió |
+| conocimos | creímos | estuvimos | pusimos | quisimos | xxx | tuvimos | vinimos | volvimos |
+| conocieron | creyeron | estuvieron | pusieron | quisieron | xxx | tuvieron | vinieron | volvieron |
 
 ---
 
