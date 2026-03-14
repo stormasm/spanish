@@ -1,4 +1,8 @@
 
+### arrastrado
+
+- [wretched](https://www.spanishdict.com/translate/arrastrado?langFrom=es&showOnlyResult=true)
+
 ### azote
 
 - [whip](https://www.spanishdict.com/translate/azote?langFrom=es&showOnlyResult=true)
