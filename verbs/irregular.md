@@ -47,7 +47,7 @@
 | conozco | creo | estoy | pongo | quiero | soy| tengo | vengo | veo |
 | conoces | crees | estás | pones | quieres | eres | tienes | vienes | ves |
 | conoce | cree | está | pone | quiere | es | tiene | viene | ve |
-| conocemos | creemos | ponemos | queremos | sabemos | somos | tenemos | venimos | vemos |
+| conocemos | creemos | estamos | ponemos | queremos | somos | tenemos | venimos | vemos |
 | conocen | creen | están | ponen | quieren | son | tienen | vienen | ven |
 |  |  |  |  |  |  |  |  |  |
 | conocí | creí | estuve | puse | quise | fui | tuve | vine | vi |
