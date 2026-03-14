@@ -44,17 +44,17 @@
 
 | conocer | creer | estar | poner | querer | saber | salir | traer | venir |
 | - | - | - | - | - | - | - | - | - |
-| conozco | creo | estoy | pongo | sé | soy| tengo | vengo | veo |
-| conoces | crees | estás | pones | sabes | eres | tienes | vienes | ves |
-| conoce | cree | está | pone | sabe | es | tiene | viene | ve |
-| conocemos | creemos | ponemos | podemos | sabemos | somos | tenemos | venimos | vemos |
-| conocen | creen | están | ponen | saben | son | tienen | vienen | ven |
+| conozco | creo | estoy | pongo | quiero | soy| tengo | vengo | veo |
+| conoces | crees | estás | pones | quieres | eres | tienes | vienes | ves |
+| conoce | cree | está | pone | quiere | es | tiene | viene | ve |
+| conocemos | creemos | ponemos | queremos | sabemos | somos | tenemos | venimos | vemos |
+| conocen | creen | están | ponen | quieren | son | tienen | vienen | ven |
 |  |  |  |  |  |  |  |  |  |
-| conocí | creí | estuve | puse | supe | fui | tuve | vine | vi |
-| conociste | creíste | estuviste | pusiste | supiste | fuiste | tuviste | viniste | viste |
-| conoció | creyó | estuvo | estuvo | puso | fue | tuvo | vino | vio |
-| conocimos | creímos | estuvimos | pusimos | supimos | fuimos | tuvimos | vinimos | vimos |
-| conocieron | creyeron | estuvieron | pusieron | supieron | fueron | tuvieron | vinieron | vieron |
+| conocí | creí | estuve | puse | quise | fui | tuve | vine | vi |
+| conociste | creíste | estuviste | quisiste | supiste | fuiste | tuviste | viniste | viste |
+| conoció | creyó | estuvo | puso | quiso | fue | tuvo | vino | vio |
+| conocimos | creímos | estuvimos | quisimos | supimos | fuimos | tuvimos | vinimos | vimos |
+| conocieron | creyeron | estuvieron | quisieron | supieron | fueron | tuvieron | vinieron | vieron |
 
 ---
 
