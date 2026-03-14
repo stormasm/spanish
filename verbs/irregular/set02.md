@@ -30,8 +30,8 @@
 
 ---
 
-| saber | ser | tener | venir | estar
-| - | - | - | - | - | - | - | - | - |
+| saber | ser | tener | venir | estar |
+| - | - | - | - | - |
 | sé | soy| tengo | vengo | estoy |
 | sabes | eres | tienes | vienes | estás |
 | sabe | es | tiene | viene | está |
