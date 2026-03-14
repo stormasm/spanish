@@ -43,4 +43,6 @@ The miner spent his day's wage in the bar.
 Los jornales en esta empresa son de 9 horas.  
 A day's work in this company lasts 9 hours.
 
-### sino - but also
+### sino
+
+- [but also, except](https://www.spanishdict.com/translate/sino?langFrom=es&showOnlyResult=true)
