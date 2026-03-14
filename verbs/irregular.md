@@ -47,7 +47,7 @@
 | conozco | creo | estoy | pongo | quiero | xxx| tengo | vengo | vuelvo |
 | conoces | crees | estás | pones | quieres | xxx | tienes | vienes | vuelves |
 | conoce | cree | está | pone | quiere | xxx | tiene | viene | vuelve |
-| conocemos | creemos | estamos | ponemos | queremos | xxx | tenemos | venimos | vovemos |
+| conocemos | creemos | estamos | ponemos | queremos | xxx | tenemos | venimos | volvemos |
 | conocen | creen | están | ponen | quieren | xxx | tienen | vienen | vuelven |
 |  |  |  |  |  |  |  |  |  |
 | conocí | creí | estuve | puse | quise | xxx | tuve | vine | volví |
