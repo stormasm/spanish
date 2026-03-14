@@ -5,8 +5,8 @@
 - [ir](https://www.spanishdict.com/conjugate/ir) - go
 - [hacer](https://www.spanishdict.com/conjugate/hacer) - do, make
 - [poder](https://www.spanishdict.com/conjugate/pder) - to be able, can
-- [ver](https://www.spanishdict.com/conjugate/ver) - see
 - [tener](https://www.spanishdict.com/conjugate/tener) - have, possess
+- [ver](https://www.spanishdict.com/conjugate/ver) - see
 
 ---
 
