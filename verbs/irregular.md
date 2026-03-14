@@ -44,17 +44,17 @@
 
 | conocer | creer | estar | poner | querer | salir | sentir | traer | volver |
 | - | - | - | - | - | - | - | - | - |
-| conozco | creo | estoy | pongo | quiero | xxx| siento | traigo | vuelvo |
-| conoces | crees | estás | pones | quieres | xxx | sientes | traes | vuelves |
-| conoce | cree | está | pone | quiere | xxx | siente | trae | vuelve |
-| conocemos | creemos | estamos | ponemos | queremos | xxx | sentimos | traemos | volvemos |
-| conocen | creen | están | ponen | quieren | xxx | sienten | traen | vuelven |
+| conozco | creo | estoy | pongo | quiero | salgo | siento | traigo | vuelvo |
+| conoces | crees | estás | pones | quieres | sales | sientes | traes | vuelves |
+| conoce | cree | está | pone | quiere | sale | siente | trae | vuelve |
+| conocemos | creemos | estamos | ponemos | queremos | salimos | sentimos | traemos | volvemos |
+| conocen | creen | están | ponen | quieren | salen | sienten | traen | vuelven |
 |  |  |  |  |  |  |  |  |  |
-| conocí | creí | estuve | puse | quise | xxx | sentí | traje | volví |
-| conociste | creíste | estuviste | pusiste | quisiste | xxx | sentiste | trajiste | volviste |
-| conoció | creyó | estuvo | puso | quiso | xxx | sintió | trajo | volvió |
-| conocimos | creímos | estuvimos | pusimos | quisimos | xxx | sentimos | trajimos | volvimos |
-| conocieron | creyeron | estuvieron | pusieron | quisieron | xxx | sintieron | trajeron | volvieron |
+| conocí | creí | estuve | puse | quise | salí | sentí | traje | volví |
+| conociste | creíste | estuviste | pusiste | quisiste | saliste | sentiste | trajiste | volviste |
+| conoció | creyó | estuvo | puso | quiso | salió | sintió | trajo | volvió |
+| conocimos | creímos | estuvimos | pusimos | quisimos | salimos | sentimos | trajimos | volvimos |
+| conocieron | creyeron | estuvieron | pusieron | quisieron | salieron | sintieron | trajeron | volvieron |
 
 ---
 
