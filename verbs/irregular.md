@@ -3,26 +3,28 @@
 
 
 - [conocer](https://www.spanishdict.com/conjugate/conocer) - know people and places
----
+- [creer](https://www.spanishdict.com/conjugate/creer)
 - [dar](https://www.spanishdict.com/conjugate/dar) - give
 - [decir](https://www.spanishdict.com/conjugate/decir) - say, tell
+- [encontrar](https://www.spanishdict.com/conjugate/encontrar)
 - [estar](https://www.spanishdict.com/conjugate/estar) - be, location, state
 - [hacer](https://www.spanishdict.com/conjugate/hacer) - do, make
 - [ir](https://www.spanishdict.com/conjugate/ir) - go
----
+- [llegar](https://www.spanishdict.com/conjugate/llegar)
 - [poder](https://www.spanishdict.com/conjugate/pder) - to be able, can
 - [poner](https://www.spanishdict.com/conjugate/poner) - put, place
 - [querer](https://www.spanishdict.com/conjugate/querer) - want, love
 - [saber](https://www.spanishdict.com/conjugate/saber) - know information
 - [salir](https://www.spanishdict.com/conjugate/salir) - leave, go out
----
+- [sentir](https://www.spanishdict.com/conjugate/sentir)
 - [ser](https://www.spanishdict.com/conjugate/ser) - be, permanent, essential trait
 - [tener](https://www.spanishdict.com/conjugate/tener) - have, possess
 - [traer](https://www.spanishdict.com/conjugate/traer) - bring
 - [venir](https://www.spanishdict.com/conjugate/venir) - come
 - [ver](https://www.spanishdict.com/conjugate/ver) - see
----
+- [volver](https://www.spanishdict.com/conjugate/volver)
 
+---
 
 | decir | ir | hacer | poder | saber | ser | tener | venir | ver |
 | - | - | - | - | - | - | - | - | - |
@@ -40,7 +42,23 @@
 
 ---
 
-| conocer | ir | hacer | poder | saber | ser | tener | venir | ver |
+| conocer | dar | estar | poner | querer | saber | salir | traer | venir |
+| - | - | - | - | - | - | - | - | - |
+| conozco | voy | hago | puedo | sé | soy| tengo | vengo | veo |
+| conoces | vas | haces | puedes | sabes | eres | tienes | vienes | ves |
+| conoce | va | hace | puede | sabe | es | tiene | viene | ve |
+| conocemos | vamos | hacemos | podemos | sabemos | somos | tenemos | venimos | vemos |
+| conocen | van | hacen | pueden | saben | son | tienen | vienen | ven |
+|  |  |  |  |  |  |  |  |  |
+| conocí | fui | hice | pude | supe | fui | tuve | vine | vi |
+| conociste | fuiste | hiciste | pudiste | supiste | fuiste | tuviste | viniste | viste |
+| conoció | fue | hizo | pudo | supo | fue | tuvo | vino | vio |
+| conocimos | fuimos | hicimos | pudimos | supimos | fuimos | tuvimos | vinimos | vimos |
+| conocieron | fueron | hicieron | pudieron | supieron | fueron | tuvieron | vinieron | vieron |
+
+---
+
+| conocer | dar | estar | poner | querer | saber | salir | traer | venir |
 | - | - | - | - | - | - | - | - | - |
 | conozco | voy | hago | puedo | sé | soy| tengo | vengo | veo |
 | conoces | vas | haces | puedes | sabes | eres | tienes | vienes | ves |
