@@ -42,23 +42,23 @@
 
 ---
 
-| conocer | creer | estar | poner | querer | saber | salir | traer | venir |
+| conocer | creer | estar | poner | querer | salir | sentir | traer | venir |
 | - | - | - | - | - | - | - | - | - |
-| conozco | creo | estoy | pongo | quiero | soy| tengo | vengo | veo |
-| conoces | crees | estás | pones | quieres | eres | tienes | vienes | ves |
-| conoce | cree | está | pone | quiere | es | tiene | viene | ve |
-| conocemos | creemos | estamos | ponemos | queremos | somos | tenemos | venimos | vemos |
-| conocen | creen | están | ponen | quieren | son | tienen | vienen | ven |
+| conozco | creo | estoy | pongo | quiero | xxx| tengo | vengo | veo |
+| conoces | crees | estás | pones | quieres | xxx | tienes | vienes | ves |
+| conoce | cree | está | pone | quiere | xxx | tiene | viene | ve |
+| conocemos | creemos | estamos | ponemos | queremos | xxx | tenemos | venimos | vemos |
+| conocen | creen | están | ponen | quieren | xxx | tienen | vienen | ven |
 |  |  |  |  |  |  |  |  |  |
-| conocí | creí | estuve | puse | quise | fui | tuve | vine | vi |
-| conociste | creíste | estuviste | pusiste | quisiste | fuiste | tuviste | viniste | viste |
-| conoció | creyó | estuvo | puso | quiso | fue | tuvo | vino | vio |
-| conocimos | creímos | estuvimos | pusimos | quisimos | fuimos | tuvimos | vinimos | vimos |
-| conocieron | creyeron | estuvieron | pusieron | quisieron | fueron | tuvieron | vinieron | vieron |
+| conocí | creí | estuve | puse | quise | xxx | tuve | vine | vi |
+| conociste | creíste | estuviste | pusiste | quisiste | xxx | tuviste | viniste | viste |
+| conoció | creyó | estuvo | puso | quiso | xxx | tuvo | vino | vio |
+| conocimos | creímos | estuvimos | pusimos | quisimos | xxx | tuvimos | vinimos | vimos |
+| conocieron | creyeron | estuvieron | pusieron | quisieron | xxx | tuvieron | vinieron | vieron |
 
 ---
 
-| conocer | dar | estar | poner | querer | saber | salir | traer | venir |
+| conocer | creer | estar | poner | querer | salir | sentir | traer | venir |
 | - | - | - | - | - | - | - | - | - |
 | conozco | voy | hago | puedo | sé | soy| tengo | vengo | veo |
 | conoces | vas | haces | puedes | sabes | eres | tienes | vienes | ves |
