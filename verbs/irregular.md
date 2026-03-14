@@ -52,7 +52,7 @@
 |  |  |  |  |  |  |  |  |  |
 | conocí | creí | estuve | pude | supe | fui | tuve | vine | vi |
 | conociste | creíste | estuviste | pudiste | supiste | fuiste | tuviste | viniste | viste |
-| conoció | creyó | hizo | estuvo | supo | fue | tuvo | vino | vio |
+| conoció | creyó | estuvo | estuvo | supo | fue | tuvo | vino | vio |
 | conocimos | creímos | estuvimos | pudimos | supimos | fuimos | tuvimos | vinimos | vimos |
 | conocieron | creyeron | estuvieron | pudieron | supieron | fueron | tuvieron | vinieron | vieron |
 
