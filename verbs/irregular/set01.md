@@ -10,19 +10,19 @@
 
 ---
 
-| decir | ir | hacer | poder | saber | ser | tener | ver |
-| - | - | - | - | - | - | - | - | - |
-| digo | voy | hago | puedo | sé | soy| tengo | veo |
-| dices | vas | haces | puedes | sabes | eres | tienes | ves |
-| dice | va | hace | puede | sabe | es | tiene | ve |
-| decimos | vamos | hacemos | podemos | sabemos | somos | tenemos | vemos |
-| dicen | van | hacen | pueden | saben | son | tienen | ven |
-|  |  |  |  |  |  |  |  |
-| dije | fui | hice | pude | supe | fui | tuve | vi |
-| dijiste | fuiste | hiciste | pudiste | supiste | fuiste | tuviste | viste |
-| dijo | fue | hizo | pudo | supo | fue | tuvo | vio |
-| dijimos | fuimos | hicimos | pudimos | supimos | fuimos | tuvimos | vimos |
-| dijeron | fueron | hicieron | pudieron | supieron | fueron | tuvieron | vieron |
+| decir | ir | hacer | poder | tener | ver |
+| - | - | - | - | - | - |
+| digo | voy | hago | puedo | tengo | veo |
+| dices | vas | haces | puedes | tienes | ves |
+| dice | va | hace | puede | tiene | ve |
+| decimos | vamos | hacemos | podemos | tenemos | vemos |
+| dicen | van | hacen | pueden | tienen | ven |
+|  |  |  |  |  |  |
+| dije | fui | hice | pude | tuve | vi |
+| dijiste | fuiste | hiciste | pudiste | tuviste | viste |
+| dijo | fue | hizo | pudo | tuvo | vio |
+| dijimos | fuimos | hicimos | pudimos | tuvimos | vimos |
+| dijeron | fueron | hicieron | pudieron | tuvieron | vieron |
 
 
 ### References
