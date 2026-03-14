@@ -53,8 +53,8 @@
 | conocí | creí | estuve | puse | quise | fui | tuve | vine | vi |
 | conociste | creíste | estuviste | pusiste | quisiste | fuiste | tuviste | viniste | viste |
 | conoció | creyó | estuvo | puso | quiso | fue | tuvo | vino | vio |
-| conocimos | creímos | estuvimos | quisimos | supimos | fuimos | tuvimos | vinimos | vimos |
-| conocieron | creyeron | estuvieron | quisieron | supieron | fueron | tuvieron | vinieron | vieron |
+| conocimos | creímos | estuvimos | pusimos | quisimos | fuimos | tuvimos | vinimos | vimos |
+| conocieron | creyeron | estuvieron | pusieron | quisieron | fueron | tuvieron | vinieron | vieron |
 
 ---
 
