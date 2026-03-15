@@ -87,7 +87,6 @@
 
 ---
 
-
 | llegar | encontrar | dar | traer | volver |
 | - | - | - | - | - |
 | llego | encuentro | doy | traigo | vuelvo |
@@ -101,12 +100,6 @@
 | llegó | encontró | dio | trajo | volvió |
 | llegamos | encontramos | dimos | trajimos | volvimos |
 | llegaron | encontraron | dieron | trajeron | volvieron |
-
-
-
----
-
-- [set04](./set04.md)
 
 ---
 
