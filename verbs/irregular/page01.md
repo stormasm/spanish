@@ -1,0 +1,90 @@
+
+### Irregular Verbs
+
+
+- [conocer](https://www.spanishdict.com/conjugate/conocer) - know people and places
+- [creer](https://www.spanishdict.com/conjugate/creer) - believe
+- ** [dar](https://www.spanishdict.com/conjugate/dar) - give
+- [decir](https://www.spanishdict.com/conjugate/decir) - say, tell
+- ** [encontrar](https://www.spanishdict.com/conjugate/encontrar) - find
+
+- [estar](https://www.spanishdict.com/conjugate/estar) - be, location, state
+- [hacer](https://www.spanishdict.com/conjugate/hacer) - do, make
+- [ir](https://www.spanishdict.com/conjugate/ir) - go
+- ** [llegar](https://www.spanishdict.com/conjugate/llegar) - arrive
+- [poder](https://www.spanishdict.com/conjugate/pder) - to be able, can
+
+- [poner](https://www.spanishdict.com/conjugate/poner) - put, place
+- [querer](https://www.spanishdict.com/conjugate/querer) - want, love
+- [saber](https://www.spanishdict.com/conjugate/saber) - know information
+- [salir](https://www.spanishdict.com/conjugate/salir) - leave, go out
+- [sentir](https://www.spanishdict.com/conjugate/sentir) feel
+
+- [ser](https://www.spanishdict.com/conjugate/ser) - be, permanent, essential trait
+- [tener](https://www.spanishdict.com/conjugate/tener) - have, possess
+- [traer](https://www.spanishdict.com/conjugate/traer) - bring
+- [venir](https://www.spanishdict.com/conjugate/venir) - come
+- [ver](https://www.spanishdict.com/conjugate/ver) - see
+
+- [volver](https://www.spanishdict.com/conjugate/volver) - return
+
+---
+
+| saber | ser | tener | venir | estar |
+| - | - | - | - | - |
+| sé | soy| tengo | vengo | estoy |
+| sabes | eres | tienes | vienes | estás |
+| sabe | es | tiene | viene | está |
+| sabemos | somos | tenemos | venimos | estamos |
+| saben | son | tienen | vienen | están |
+|  |  |  |  |  |
+| supe | fui | tuve | vine | estuve |
+| supiste | fuiste | tuviste | viniste | estuviste |
+| supo | fue | tuvo | vino | estuvo |
+| supimos | fuimos | tuvimos | vinimos | estuvimos |
+| supieron | fueron | tuvieron | vinieron | estuvieron |
+
+---
+
+| conocer | creer | poner | querer | salir | sentir |
+| - | - | - | - | - | - |
+| conozco | creo | pongo | quiero | salgo | siento |
+| conoces | crees | pones | quieres | sales | sientes |
+| conoce | cree | pone | quiere | sale | siente |
+| conocemos | creemos | ponemos | queremos | salimos | sentimos |
+| conocen | creen | ponen | quieren | salen | sienten |
+|  |  |  |  |  |  | 
+| conocí | creí | puse | quise | salí | sentí |
+| conociste | creíste | pusiste | quisiste | saliste | sentiste |
+| conoció | creyó | puso | quiso | salió | sintió |
+| conocimos | creímos | pusimos | quisimos | salimos | sentimos |
+| conocieron | creyeron | pusieron | quisieron | salieron | sintieron |
+
+---
+
+
+| llegar | encontrar | dar | traer | volver |
+| - | - | - | - | - |
+| llego | encuentro | doy | traigo | vuelvo |
+| llegas | encuentras | das | traes | vuelves |
+| llega | encuentra | da | trae | vuelve |
+| llegamos | encuentramos | damos | traemos | volvermos |
+| llegan | encuentran | dan | traen | vuelven |
+|  |  |  |  |  |
+| llegué | encontré | di | traje | volví |
+| llegaste | encontraste | diste | trajiste | volviste |
+| llegó | encontró | dio | trajo | volvió |
+| llegamos | encontramos | dimos | trajimos | volvimos |
+| llegaron | encontraron | dieron | trajeron | volvieron |
+
+
+
+---
+
+- [set04](./set04.md)
+
+---
+
+### References
+
+- [ella verb](https://ellaverbs.com/spanish-verbs/)
