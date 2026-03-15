@@ -46,19 +46,19 @@
 
 ---
 
-| conocer | creer | poner | querer | salir | sentir | traer | volver |
-| - | - | - | - | - | - | - | - |
-| conozco | creo | pongo | quiero | salgo | siento | traigo | vuelvo |
-| conoces | crees | pones | quieres | sales | sientes | traes | vuelves |
-| conoce | cree | pone | quiere | sale | siente | trae | vuelve |
-| conocemos | creemos | ponemos | queremos | salimos | sentimos | traemos | volvemos |
-| conocen | creen | ponen | quieren | salen | sienten | traen | vuelven |
-|  |  |  |  |  |  |  |  |
-| conocí | creí | puse | quise | salí | sentí | traje | volví |
-| conociste | creíste | pusiste | quisiste | saliste | sentiste | trajiste | volviste |
-| conoció | creyó | puso | quiso | salió | sintió | trajo | volvió |
-| conocimos | creímos | pusimos | quisimos | salimos | sentimos | trajimos | volvimos |
-| conocieron | creyeron | pusieron | quisieron | salieron | sintieron | trajeron | volvieron |
+| conocer | creer | poner | querer | salir | sentir |
+| - | - | - | - | - | - |
+| conozco | creo | pongo | quiero | salgo | siento |
+| conoces | crees | pones | quieres | sales | sientes |
+| conoce | cree | pone | quiere | sale | siente |
+| conocemos | creemos | ponemos | queremos | salimos | sentimos |
+| conocen | creen | ponen | quieren | salen | sienten |
+|  |  |  |  |  |  | 
+| conocí | creí | puse | quise | salí | sentí |
+| conociste | creíste | pusiste | quisiste | saliste | sentiste |
+| conoció | creyó | puso | quiso | salió | sintió |
+| conocimos | creímos | pusimos | quisimos | salimos | sentimos |
+| conocieron | creyeron | pusieron | quisieron | salieron | sintieron |
 
 ---
 
