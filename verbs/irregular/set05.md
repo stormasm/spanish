@@ -78,6 +78,25 @@
 
 ---
 
+
+| llegar | encontrar | dar | traer | volver |
+| - | - | - | - | - |
+| llego | encuentro | doy | traigo | vuelvo |
+| llegas | encuentras | das | traes | vuelves |
+| llega | encuentra | da | trae | vuelve |
+| llegamos | encuentramos | damos | traemos | volvermos |
+| llegan | encuentran | dan | traen | vuelven |
+|  |  |  |  |  | 
+| llegué | encontré | di | traje | volví |
+| llegaste | encontraste | diste | trajiste | volviste |
+| llegó | encontró | dio | trajo | volvió |
+| llegamos | encontramos | dimos | trajimos | volvimos |
+| llegaron | encontraron | dieron | trajeron | volvieron |
+
+
+
+---
+
 - [set04](./set04.md)
 
 ---
