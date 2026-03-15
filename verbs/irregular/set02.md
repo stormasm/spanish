@@ -30,19 +30,19 @@
 
 ---
 
-| saber | ser | tener | venir | estar |
-| - | - | - | - | - |
-| sé | soy| tengo | vengo | estoy |
-| sabes | eres | tienes | vienes | estás |
-| sabe | es | tiene | viene | está |
-| sabemos | somos | tenemos | venimos | estamos |
-| saben | son | tienen | vienen | están |
-|  |  |  |  |  |
-| supe | fui | tuve | vine | estuve |
-| supiste | fuiste | tuviste | viniste | estuviste |
-| supo | fue | tuvo | vino | estuvo |
-| supimos | fuimos | tuvimos | vinimos | estuvimos |
-| supieron | fueron | tuvieron | vinieron | estuvieron |
+| saber | ser | tener | venir | estar | poner |
+| - | - | - | - | - | - |
+| sé | soy| tengo | vengo | estoy | pongo |
+| sabes | eres | tienes | vienes | estás | pones |
+| sabe | es | tiene | viene | está | pone |
+| sabemos | somos | tenemos | venimos | estamos | ponemos |
+| saben | son | tienen | vienen | están | ponen |
+|  |  |  |  |  |  |
+| supe | fui | tuve | vine | estuve | puse |
+| supiste | fuiste | tuviste | viniste | estuviste | pusiste |
+| supo | fue | tuvo | vino | estuvo | puso |
+| supimos | fuimos | tuvimos | vinimos | estuvimos | pusimos |
+| supieron | fueron | tuvieron | vinieron | estuvieron | pusieron |
 
 ---
 
