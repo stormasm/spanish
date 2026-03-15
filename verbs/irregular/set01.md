@@ -24,6 +24,9 @@
 | dijimos | fuimos | hicimos | pudimos | tuvimos | vimos |
 | dijeron | fueron | hicieron | pudieron | tuvieron | vieron |
 
+---
+
+- [set02](./set02.md)
 
 ### References
 

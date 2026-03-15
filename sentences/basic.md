@@ -15,4 +15,8 @@
 - A beautiful rainbow appeared above the river.
 - ¿De verdad hay una olla llena de oro al pie del arco iris?
 - Is there a really a pot of gold at the end of the rainbow?
+- Un arco iris es una señal de buena suerte.
+- A rainbow is a sign of good luck.
+- El arco iris apareció en el horizonte cuando dejó de llover.
+- The rainbow appeared on the horizon when the rain stopped.
 ---
