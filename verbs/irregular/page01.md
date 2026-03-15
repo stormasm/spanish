@@ -30,6 +30,22 @@
 
 ---
 
+| decir | ir | hacer | poder | tener | ver |
+| - | - | - | - | - | - |
+| digo | voy | hago | puedo | tengo | veo |
+| dices | vas | haces | puedes | tienes | ves |
+| dice | va | hace | puede | tiene | ve |
+| decimos | vamos | hacemos | podemos | tenemos | vemos |
+| dicen | van | hacen | pueden | tienen | ven |
+|  |  |  |  |  |  |
+| dije | fui | hice | pude | tuve | vi |
+| dijiste | fuiste | hiciste | pudiste | tuviste | viste |
+| dijo | fue | hizo | pudo | tuvo | vio |
+| dijimos | fuimos | hicimos | pudimos | tuvimos | vimos |
+| dijeron | fueron | hicieron | pudieron | tuvieron | vieron |
+
+---
+
 | saber | ser | tener | venir | estar |
 | - | - | - | - | - |
 | sé | soy| tengo | vengo | estoy |
@@ -53,7 +69,7 @@
 | conoce | cree | pone | quiere | sale | siente |
 | conocemos | creemos | ponemos | queremos | salimos | sentimos |
 | conocen | creen | ponen | quieren | salen | sienten |
-|  |  |  |  |  |  | 
+|  |  |  |  |  |  |
 | conocí | creí | puse | quise | salí | sentí |
 | conociste | creíste | pusiste | quisiste | saliste | sentiste |
 | conoció | creyó | puso | quiso | salió | sintió |
