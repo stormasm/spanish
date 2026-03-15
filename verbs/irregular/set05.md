@@ -62,22 +62,6 @@
 
 ---
 
-| llegar | encontrar | dar | poner | querer | salir | sentir | traer | venir |
-| - | - | - | - | - | - | - | - | - |
-| llego | encuentro | doy | puedo | sé | soy| tengo | vengo | veo |
-| llegas | encuentras | das | puedes | sabes | eres | tienes | vienes | ves |
-| llega | encuentra | da | puede | sabe | es | tiene | viene | ve |
-| llegamos | encuentramos | damos | podemos | sabemos | somos | tenemos | venimos | vemos |
-| llegan | encuentran | dan | pueden | saben | son | tienen | vienen | ven |
-|  |  |  |  |  |  |  |  |  |
-| llegué | encontré | di | pude | supe | fui | tuve | vine | vi |
-| llegaste | encontraste | diste | pudiste | supiste | fuiste | tuviste | viniste | viste |
-| llegó | encontró | dio | puso | supo | fue | tuvo | vino | vio |
-| llegamos | encontramos | dimos | pudimos | supimos | fuimos | tuvimos | vinimos | vimos |
-| llegaron | encontraron | dieron | pudieron | supieron | fueron | tuvieron | vinieron | vieron |
-
----
-
 
 | llegar | encontrar | dar | traer | volver |
 | - | - | - | - | - |
@@ -86,7 +70,7 @@
 | llega | encuentra | da | trae | vuelve |
 | llegamos | encuentramos | damos | traemos | volvermos |
 | llegan | encuentran | dan | traen | vuelven |
-|  |  |  |  |  | 
+|  |  |  |  |  |
 | llegué | encontré | di | traje | volví |
 | llegaste | encontraste | diste | trajiste | volviste |
 | llegó | encontró | dio | trajo | volvió |
