@@ -62,19 +62,19 @@
 
 ---
 
-| conocer | creer | estar | poner | querer | salir | sentir | traer | venir |
+| llegar | creer | estar | poner | querer | salir | sentir | traer | venir |
 | - | - | - | - | - | - | - | - | - |
-| conozco | voy | hago | puedo | sé | soy| tengo | vengo | veo |
-| conoces | vas | haces | puedes | sabes | eres | tienes | vienes | ves |
-| conoce | va | hace | puede | sabe | es | tiene | viene | ve |
-| conocemos | vamos | hacemos | podemos | sabemos | somos | tenemos | venimos | vemos |
-| conocen | van | hacen | pueden | saben | son | tienen | vienen | ven |
+| llego | voy | hago | puedo | sé | soy| tengo | vengo | veo |
+| llegas | vas | haces | puedes | sabes | eres | tienes | vienes | ves |
+| llega | va | hace | puede | sabe | es | tiene | viene | ve |
+| llegamos | vamos | hacemos | podemos | sabemos | somos | tenemos | venimos | vemos |
+| llegan | van | hacen | pueden | saben | son | tienen | vienen | ven |
 |  |  |  |  |  |  |  |  |  |
-| conocí | fui | hice | pude | supe | fui | tuve | vine | vi |
-| conociste | fuiste | hiciste | pudiste | supiste | fuiste | tuviste | viniste | viste |
-| conoció | fue | hizo | pudo | supo | fue | tuvo | vino | vio |
-| conocimos | fuimos | hicimos | pudimos | supimos | fuimos | tuvimos | vinimos | vimos |
-| conocieron | fueron | hicieron | pudieron | supieron | fueron | tuvieron | vinieron | vieron |
+| llegué | fui | hice | pude | supe | fui | tuve | vine | vi |
+| llegaste | fuiste | hiciste | pudiste | supiste | fuiste | tuviste | viniste | viste |
+| llegó | fue | hizo | pudo | supo | fue | tuvo | vino | vio |
+| llegamos | fuimos | hicimos | pudimos | supimos | fuimos | tuvimos | vinimos | vimos |
+| llegaron | fueron | hicieron | pudieron | supieron | fueron | tuvieron | vinieron | vieron |
 
 ---
 
