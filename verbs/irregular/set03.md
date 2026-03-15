@@ -72,7 +72,7 @@
 |  |  |  |  |  |  |  |  |  |
 | llegué | encontré | di | pude | supe | fui | tuve | vine | vi |
 | llegaste | encontraste | diste | pudiste | supiste | fuiste | tuviste | viniste | viste |
-| llegó | encontró | hizo | dio | supo | fue | tuvo | vino | vio |
+| llegó | encontró | dio | puso | supo | fue | tuvo | vino | vio |
 | llegamos | encontramos | dimos | pudimos | supimos | fuimos | tuvimos | vinimos | vimos |
 | llegaron | encontraron | dieron | pudieron | supieron | fueron | tuvieron | vinieron | vieron |
 
