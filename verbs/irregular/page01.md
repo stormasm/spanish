@@ -54,19 +54,19 @@
 
 ---
 
-| saber | ser | tener | venir | estar |
+| saber | ser | cerrar | venir | estar |
 | - | - | - | - | - |
-| sé | soy| tengo | vengo | estoy |
-| sabes | eres | tienes | vienes | estás |
-| sabe | es | tiene | viene | está |
-| sabemos | somos | tenemos | venimos | estamos |
-| saben | son | tienen | vienen | están |
+| sé | soy| cierro | vengo | estoy |
+| sabes | eres | cierras | vienes | estás |
+| sabe | es | cierra | viene | está |
+| sabemos | somos | cerramos | venimos | estamos |
+| saben | son | cierran | vienen | están |
 |  |  |  |  |  |
-| supe | fui | tuve | vine | estuve |
-| supiste | fuiste | tuviste | viniste | estuviste |
-| supo | fue | tuvo | vino | estuvo |
-| supimos | fuimos | tuvimos | vinimos | estuvimos |
-| supieron | fueron | tuvieron | vinieron | estuvieron |
+| supe | fui | cerré | vine | estuve |
+| supiste | fuiste | cerraste | viniste | estuviste |
+| supo | fue | cerró | vino | estuvo |
+| supimos | fuimos | cerramos | vinimos | estuvimos |
+| supieron | fueron | cerraron | vinieron | estuvieron |
 
 ---
 
@@ -111,4 +111,5 @@
 
 ### References
 
+- [30 most common irregular verbs](https://strommeninc.com/30-most-common-spanish-irregular-verbs/)
 - [ella verb](https://ellaverbs.com/spanish-verbs/)
