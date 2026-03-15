@@ -78,6 +78,8 @@
 
 ---
 
+- [set03](./set03.md)
+
 ### References
 
 - [ella verb](https://ellaverbs.com/spanish-verbs/)
