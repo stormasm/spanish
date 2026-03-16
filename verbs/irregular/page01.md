@@ -32,9 +32,6 @@
 - [traer](https://www.spanishdict.com/conjugate/traer) - bring
 - [venir](https://www.spanishdict.com/conjugate/venir) - come
 - [ver](https://www.spanishdict.com/conjugate/ver) - see
-
----
-
 - [volver](https://www.spanishdict.com/conjugate/volver) - return
 
 ---
