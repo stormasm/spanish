@@ -102,6 +102,7 @@
 
 ### References
 
+- [llevar vs. traer](https://www.spanishdict.com/guide/llevar-vs-traer-in-spanish)
 - [30 most common irregular verbs](https://strommeninc.com/30-most-common-spanish-irregular-verbs/)
 - [spanishdict: verbs with irregular preterite forms in spanish](https://www.spanishdict.com/lists/33081/verbs-with-irregular-preterite-forms)
 - [ella verb](https://ellaverbs.com/spanish-verbs/)
