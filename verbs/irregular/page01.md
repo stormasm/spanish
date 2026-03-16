@@ -103,5 +103,5 @@
 ### References
 
 - [30 most common irregular verbs](https://strommeninc.com/30-most-common-spanish-irregular-verbs/)
-- [verbs with irregular preterite forms in spanish](https://www.spanishdict.com/lists/33081/verbs-with-irregular-preterite-forms)
+- [spanishdict: verbs with irregular preterite forms in spanish](https://www.spanishdict.com/lists/33081/verbs-with-irregular-preterite-forms)
 - [ella verb](https://ellaverbs.com/spanish-verbs/)
