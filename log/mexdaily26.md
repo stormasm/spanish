@@ -1,4 +1,10 @@
 
+
+### 3/16/26
+
+- escoba - broom
+- ¿Qué hay dentro del taco? - What is inside the taco ?
+
 ### 3/9/26
 
 - a toda persona ajena a esta calle que sea sorprendida sera consignada a las autoridades
