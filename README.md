@@ -1,4 +1,10 @@
 
+- encantado de conocerle - nice to meet you
+- de donde vienes - where do you come from
+- de donde eres - where are you from
+
+---
+
 - poco refers to the quantity such as little or few
 - pequeña describes the size
 - poco is the opposite of mucho
