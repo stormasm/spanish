@@ -1,4 +1,13 @@
 
+- poco refers to the quantity such as little or few
+- pequeña describes the size
+- poco is the opposite of mucho
+- pequeña is the opposite of grande
+- pequeño is an adjective, un poco is an adverb.
+- poco is amount, pequeño is size.
+- [blog post](https://ai.glossika.com/blog/whats-the-difference-between-poco-vs-pequeno-in-spanish)
+---
+
 - soy alérgico a la harina de trigo - I am allergic to wheat flour
 - harina = flour
 - harina de avena - oatmeal flour
