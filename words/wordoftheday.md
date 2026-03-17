@@ -286,6 +286,7 @@
 | el trapeador | mop | Busca el trapeador y limpia este desastre | Get the mop and clean this mess |
 | tranquilamente | peacefully | El bebé duerme tranquilamente | The baby is sleeping peacefully |
 | trasnochar | to stay up late | No quiero trasnochar porque mañana tengo que madrugar | I don't want to stay up late because tomorrow I have to get up early |
+| el trébol | clover | Encontré un trébol de cuatro hojas | I found a four-leaf clover |
 
 ### U
 
