@@ -15,6 +15,7 @@
 - [hacer](https://www.spanishdict.com/conjugate/hacer) - do, make
 - [ir](https://www.spanishdict.com/conjugate/ir) - go
 - [llegar](https://www.spanishdict.com/conjugate/llegar) - arrive
+- [oir](https://www.spanishdict.com/conjugate/oir) - hear, listen
 - [poder](https://www.spanishdict.com/conjugate/pder) - to be able, can
 
 ---
@@ -97,6 +98,22 @@
 | llegó | encontró | dio | trajo | volvió |
 | llegamos | encontramos | dimos | trajimos | volvimos |
 | llegaron | encontraron | dieron | trajeron | volvieron |
+
+---
+
+| oir |
+| - |
+| oigo |
+| oyes |
+| oye |
+| oímos |
+| oyen |
+| |
+| oí |
+| oíste |
+| oyó |
+| oímos |
+| oyeron |
 
 ---
 
