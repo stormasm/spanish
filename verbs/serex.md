@@ -1,4 +1,9 @@
 
+### ser present
+
+- Las paredes son tan finas que oigo a los vecinos hablar.
+- The walls are so thin I can hear the neighbors talking.
+
 ### ser futuro
 
 - La temperatura máxima de hoy será de 30 grados.

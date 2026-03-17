@@ -1,4 +1,23 @@
 
+### 3/17 - loncha
+
+- [loncha](https://www.spanishdict.com/translate/loncha)
+- quisiera 12 lonchas finas de jamón
+- I would like 12 thin slices of ham
+- cortas el pastel de carne en lonchas, por favor
+- would you please cut the loaf meat into slice
+
+
+### 3/17 - fino
+
+- [fino](https://www.spanishdict.com/translate/fino)
+- Las paredes son tan finas que oigo a los vecinos hablar.
+- The walls are so thin I can hear the neighbors talking.
+- Te harán falta 12 rebanadas finas de salmón ahumado.
+- You'll need 12 thin slices of smoked salmon.
+- quisiera 12 lonchas finas de jamón
+- I would like 12 thin slices of ham
+
 ### 3/11 - cuyo
 
 - [cuyo](https://www.spanishdict.com/translate/cuyo) - whose

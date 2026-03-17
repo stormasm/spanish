@@ -3,3 +3,9 @@
 - Hector was the lucky winner of the raffle for a brand-new car.
 - Somos muy afortunadas de haber visto los tiburones ballenas en Holbox.
 - We are very lucky to have seen whale sharks in Holbox.
+- Los niños encontraron varios tréboles y dientes de león en el parque.
+- The children found many clovers and dandelions in the park.
+- David encontró un trébol de cuatro hojas en el jardín de su abuelo cuando tenía 11 años y todavía lo conserva como un amuleto de buena suerte.
+- David found a four-leaf clover in his grandpa's yard when he was 11, and he still keeps it as a lucky charm.
+- Los tréboles de cuatro hojas son raros, pero los de cinco hojas son aún más raros.
+- Four-leaf clovers are rare, but five-leaf ones are even rarer.
