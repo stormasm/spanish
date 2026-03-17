@@ -113,7 +113,8 @@
 
 #### References
 
-- [Real Fast Spanish: Llevar vs traer](https://www.youtube.com/watch?v=v1mlG9Uwd50)
+- [real fast spanish: llevar vs traer](https://www.youtube.com/watch?v=v1mlG9Uwd50)
+- [spanishdict: llevar vs traer](https://www.spanishdict.com/guide/llevar-vs-traer-in-spanish)
 - [Qroo Paul: Different ways to use llevar](https://www.youtube.com/watch?v=kcEY7LuxKbs)
 - [Qroo Paul: Llevar + gerundio ](https://www.youtube.com/watch?v=qryYrFVtnWo)
 - [Hola Spanish: Llevar 5 Usos y Expresiones](https://www.youtube.com/watch?v=NuiaC6DyACI)
