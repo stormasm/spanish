@@ -6,6 +6,13 @@
 - Siendo una obra de ficción, más aún, de fantasía, El Señor de los Anillos nos habla de nuestro mundo y de nosotros mismos, sus personajes son como nosotros y nuestros allegados.
 - Being a work of fiction, even more so, of fantasy, The Lord of the Rings tells us about our world and ourselves, its characters are like us and our loved ones
 
+### 3/18 - aun
+- even
+- Aun los atletas profesionales necesitan descansar de vez en cuando.
+- Even professional athletes have to rest every once in a while.
+- El crucero fue todo una experiencia. ¡Aun vimos ballenas!
+- The cruise was an amazing experience. We even saw whales!
+
 ### 3/18 - mismo
 
 - [mismo](https://www.spanishdict.com/translate/loncha)
