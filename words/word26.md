@@ -1,5 +1,11 @@
 
 
+### 3/18 - siendo
+
+- being
+- Siendo una obra de ficción, más aún, de fantasía, El Señor de los Anillos nos habla de nuestro mundo y de nosotros mismos, sus personajes son como nosotros y nuestros allegados.
+- Being a work of fiction, even more so, of fantasy, The Lord of the Rings tells us about our world and ourselves, its characters are like us and our loved ones
+
 ### 3/18 - mismo
 
 - [mismo](https://www.spanishdict.com/translate/loncha)
