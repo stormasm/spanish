@@ -99,5 +99,5 @@ Tarde: Represents the "late" part of the day, which in many cultures (including 
 Tardes is the plural of tarde (afternoon/evening).
 Buenas tardes is a set greeting used from roughly 12:00 PM until sunset (or sometimes 9:00 PM).
 
-The connection lies in the notion that afternoon is the "late" part of the day, using the root of "slowness" or "lateness" to define the time period.
-In summary: Tardar is the verb for "being late/taking time," while buenas tardes describes the "late" part of the day. They both descend from the Latin concept of being slow (tardus).
+- The connection lies in the notion that afternoon is the "late" part of the day, using the root of "slowness" or "lateness" to define the time period.
+- In summary: Tardar is the verb for "being late/taking time," while buenas tardes describes the "late" part of the day. They both descend from the Latin concept of being slow (tardus).
