@@ -101,19 +101,19 @@
 
 ---
 
-| oir |
-| - |
-| oigo |
-| oyes |
-| oye |
-| oímos |
-| oyen |
-| |
-| oí |
-| oíste |
-| oyó |
-| oímos |
-| oyeron |
+| oir | caer |
+| - | - |
+| oigo | caigo |
+| oyes | caes |
+| oye | cae |
+| oímos | caemos |
+| oyen | caen |
+| | |
+| oí | caí |
+| oíste | caíste |
+| oyó | cayó |
+| oímos | caímos |
+| oyeron | cayeron |
 
 ---
 
