@@ -6,6 +6,18 @@
 - Siendo una obra de ficción, más aún, de fantasía, El Señor de los Anillos nos habla de nuestro mundo y de nosotros mismos, sus personajes son como nosotros y nuestros allegados.
 - Being a work of fiction, even more so, of fantasy, The Lord of the Rings tells us about our world and ourselves, its characters are like us and our loved ones
 
+### 3/18 - allegado
+
+- close
+- Nadie podía sospechar que uno de los consejeros más allegados del presidente lo traicionaría.
+- Nobody could suspect that one of the president's closest advisors would betray him.
+- relative
+- La pareja, emocionada por su reciente compromiso, no tardó en comunicar la feliz noticia a sus allegados.
+- The couple, who was excited about their recent engagement, didn't take too long to share the happy news with their relatives.
+- close friend
+- No puedo dejar de invitar a Juan a la boda porque nos conocemos desde chiquitos y es uno de mis más queridos allegados.
+- I just can't not invite Juan to the wedding. We've known each other since we were kids and he's one of my dearest and closest friends.
+
 ### 3/18 - aun
 - even
 - Aun los atletas profesionales necesitan descansar de vez en cuando.
