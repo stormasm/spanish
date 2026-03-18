@@ -48,19 +48,19 @@
 ### 3/11 - encima
 
 - [encima](https://www.spanishdict.com/translate/encima?langFrom=es&showOnlyResult=true) - above - on top   
-El espejo está encima de la silla.   
-The mirror is above the chair.   
-El correo está encima de la mesa.   
-The mail is on top of the table.   
-[nr: cuba](https://www.nuevarevista.net/cuba-medio-siglo-entre-la-revolucion-y-la-dictadura-0/)
-[es26: cuba](https://github.com/stormasm/es26/blob/main/revista/nueva/cuba.md#sobresalir)
+- El espejo está encima de la silla.   
+- The mirror is above the chair.   
+- El correo está encima de la mesa.   
+- The mail is on top of the table.   
+- [nr: cuba](https://www.nuevarevista.net/cuba-medio-siglo-entre-la-revolucion-y-la-dictadura-0/)
+- [es26: cuba](https://github.com/stormasm/es26/blob/main/revista/nueva/cuba.md#sobresalir)
 
 ### 3/10 - turbado
 
 - [turbado](https://www.spanishdict.com/translate/turbado?langFrom=es&showOnlyResult=true) - disturbed - worried   
-Quedé muy turbada tras escuchar las noticias del asesinato.  
-I was very disturbed after hearing the news about the murder.  
-[nr: time money](https://www.nuevarevista.net/time-money/)
+- Quedé muy turbada tras escuchar las noticias del asesinato.  
+- I was very disturbed after hearing the news about the murder.  
+- [nr: time money](https://www.nuevarevista.net/time-money/)
 
 ### 3/2 - entusiasmado
 
@@ -68,7 +68,9 @@ I was very disturbed after hearing the news about the murder.
 
 ### 3/1/26 - pregonar
 
-- [pregonar](https://www.spanishdict.com/translate/pregonar) - to proclaim - Los artistas pregonaron que este sería su último concierto.The artists proclaimed that this would be their last concert.
+- [pregonar](https://www.spanishdict.com/translate/pregonar) - to proclaim
+- Los artistas pregonaron que este sería su último concierto.
+- The artists proclaimed that this would be their last concert.
 
 ### 2/15/26 - chapulín, chapulínes, saludable
 
