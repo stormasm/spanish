@@ -1,4 +1,12 @@
 
+
+### 3/18 - mismo
+
+- [mismo](https://www.spanishdict.com/translate/loncha)
+- Las dos llevamos el mismo vestido a la fiesta.
+- We both wore the same dress to the party.
+- nosotros mismos - ourselves
+
 ### 3/17 - loncha
 
 - [loncha](https://www.spanishdict.com/translate/loncha)
