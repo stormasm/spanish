@@ -1,4 +1,6 @@
 
+### igo verbs
+
 |  |  |  |  |
 | - | - | - |  - |
 | tengo | vengo |  |  |
@@ -6,6 +8,8 @@
 | hago | salgo | pongo | llego |
 
 ---
+
+### non igo verbs
 
 |  |  |  |
 | - | - | - |
@@ -17,6 +21,8 @@
 | puedo | quiero |  |
 
 ---
+
+### present y past
 
 |   |   |   |   |   |
 | - | - | - | - | - |
@@ -37,6 +43,8 @@
 | voy | fui | * | soy | fui |
 
 ---
+
+### present y past
 
 |   |   |   |   |   |
 | - | - | - | - | - |
