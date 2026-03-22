@@ -1,4 +1,11 @@
 
+|  |  |  |  |
+| - | - | - |  - |
+| tengo | vengo |  |  |
+| digo | oigo | traigo | caigo |
+| hago | salgo | pongo | llego |
+
+---
 
 |  |  |  |
 | - | - | - |
@@ -8,3 +15,5 @@
 | estoy |   | encuentro |
 | cierro | conozco | creo |
 | puedo | quiero |  |
+
+---
