@@ -18,20 +18,20 @@
 
 ---
 
-|  |  |
-| - | - |
-| tengo  | tuve |
-| vengo  | vine |
-| digo   | dije |
-| traigo | traje |
-| hago   | hice  |
-| pongo  | puse  |
-| puedo  | pude  |
-| sé     | supe  |
-| cierro | cerré |
-| estoy  | estuve |
-| quiero | quise  |
-| encuentro | encontré |
-| llego    | llegué   |
+|   |   |   |   |   | 
+| - | - | - | - | - |
+| tengo  | tuve   | * | oigo | oí    |
+| vengo  | vine   | * | caigo | caí  |
+| digo   | dije   | * | salgo | salí |
+| traigo | traje  | * | veo   | vi   |
+| hago   | hice   | * | conozco | conocí |
+| pongo  | puse   | * | creo | creí |
+| puedo  | pude   | * | siento | sentí |
+| sé     | supe   | * | doy | di |
+| cierro | cerré  | * | vuelvo | volví |
+| estoy  | estuve | * | | |
+| quiero | quise  | * | | |
+| encuentro | encontré | * | | |
+| llego    | llegué   | * | | |
 
 ---
