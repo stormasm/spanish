@@ -17,3 +17,21 @@
 | puedo | quiero |  |
 
 ---
+
+|  |  |
+| - | - |
+| tengo  | tuve |
+| vengo  | vine |
+| digo   | dije |
+| traigo | traje |
+| hago   | hice  |
+| pongo  | puse  |
+| puedo  | pude  |
+| sé     | supe  |
+| cierro | cerré |
+| estoy  | estuve |
+| quiero | quise  |
+| encontro | encontré |
+| llego    | llegué   |
+
+---
