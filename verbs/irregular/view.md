@@ -31,7 +31,7 @@
 | cierro | cerré |
 | estoy  | estuve |
 | quiero | quise  |
-| encontro | encontré |
+| encuentro | encontré |
 | llego    | llegué   |
 
 ---
