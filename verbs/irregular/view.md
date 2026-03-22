@@ -33,7 +33,7 @@
 | quiero | quise  | * | | |
 | encuentro | encontré | * | | |
 | llego    | llegué   | * | | |
-|  |  |  |  |  |
+|  |  | * |  |  |
 | voy | fui | * | soy | fui |
 
 ---
