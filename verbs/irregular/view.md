@@ -18,7 +18,7 @@
 
 ---
 
-|   |   |   |   |   | 
+|   |   |   |   |   |
 | - | - | - | - | - |
 | tengo  | tuve   | * | oigo | oí    |
 | vengo  | vine   | * | caigo | caí  |
@@ -33,5 +33,7 @@
 | quiero | quise  | * | | |
 | encuentro | encontré | * | | |
 | llego    | llegué   | * | | |
+|  |  |  |  |  |
+| voy | fui | * | soy | fui |
 
 ---
