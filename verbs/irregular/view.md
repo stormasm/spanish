@@ -52,8 +52,8 @@
 | vengo  | vine   | * | veo | vi  |
 | digo   | dije   | * | oigo | oí |
 | traigo | traje  | * | caigo   | caí   |
-| hago   | hice   | * | salgo | salí |
-| pongo  | puse   | * | creo | creí |
+| hago   | hice   | * | creo | creí |
+| pongo  | puse   | * | salgo | salí |
 | puedo  | pude   | * | siento | sentí |
 | sé     | supe   | * | vuelvo | volví |
 | cierro | cerré  | * | conozco | conocí |
