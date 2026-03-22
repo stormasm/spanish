@@ -37,3 +37,23 @@
 | voy | fui | * | soy | fui |
 
 ---
+
+|   |   |   |   |   |
+| - | - | - | - | - |
+| tengo  | tuve   | * | doy | di  |
+| vengo  | vine   | * | veo | vi  |
+| digo   | dije   | * | oigo | oí |
+| traigo | traje  | * | caigo   | caí   |
+| hago   | hice   | * | salgo | salí |
+| pongo  | puse   | * | creo | creí |
+| puedo  | pude   | * | siento | sentí |
+| sé     | supe   | * | vuelvo | volví |
+| cierro | cerré  | * | conozco | conocí |
+| estoy  | estuve | * | | |
+| quiero | quise  | * | | |
+| encuentro | encontré | * | | |
+| llego    | llegué   | * | | |
+|  |  | * |  |  |
+| voy | fui | * | soy | fui |
+
+---
