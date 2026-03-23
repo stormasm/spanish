@@ -1,5 +1,5 @@
 
 
-|  |  |
-| - | - |
-| florecer | Los tulipanes florecen en la primavera |
+|  |  |  |
+| - | - | - |
+| florecer | bloom | Los tulipanes florecen en la primavera |
