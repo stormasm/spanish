@@ -46,3 +46,10 @@ A day's work in this company lasts 9 hours.
 ### sino
 
 - [but also, except](https://www.spanishdict.com/translate/sino?langFrom=es&showOnlyResult=true)
+
+### soler
+
+- [used to](https://www.spanishdict.com/translate/soler?langFrom=es)
+- Los norteamericanos que emprenden negocios en México, suelen recibir de las autoridades
+locales más o menos el mismo trato que acostumbran recibir en su país.
+- Americans who start businesses in Mexico usually receive more or less the same treatment from local authorities as they are accustomed to receiving in their own country.
