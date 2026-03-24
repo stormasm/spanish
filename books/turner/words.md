@@ -9,6 +9,13 @@
 
 ### cúmulo
 
+### emprender
+
+- [undertake](https://www.spanishdict.com/translate/emprender)
+- [trato - treatment](https://www.spanishdict.com/translate/trato?langFrom=es&showOnlyResult=true)
+- Los norteamericanos que emprenden negocios en México, suelen recibir de las autoridades locales más o menos el mismo trato que acostumbran recibir en su país.
+- Americans who start businesses in Mexico usually receive more or less the same treatment from local authorities as they are accustomed to receiving in their own country.
+
 - [cúmulo: heap, pile, accumulation](https://www.spanishdict.com/translate/c%C3%BAmulo?langFrom=es)
 
 ### enganchadores
