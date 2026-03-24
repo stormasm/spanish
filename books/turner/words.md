@@ -27,6 +27,13 @@ While the term "enganchador" is frequently associated with the 19th and early 20
 
 - [scarce](https://www.spanishdict.com/translate/escaso?langFrom=es)
 
+### exigencia
+
+- [obligation, requirement](https://www.spanishdict.com/translate/exigencia?langFrom=es)
+- Las más grandes exigencias de gratificación están compensadas con creces por los privilegios especiales que luego disfrutan.
+- The greatest demands for gratification are more than compensated by the special privileges they
+then enjoy.
+
 ### jornal
 
 el jornal(hohr-nahl)
