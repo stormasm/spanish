@@ -6,6 +6,7 @@
 | florecer | bloom | Los tulipanes florecen en la primavera |  |
 | lluvioso | rainy | Me quedo en casa en los días lluviosos |  |
 | oscuro | dark | El cuarto está oscuro, y no puedo ver nada |  |
+| silbar | to whistle | Beto silbó para llamar mi atención | Beto whistled to get my attention |
 
 ---
 
