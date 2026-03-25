@@ -7,6 +7,7 @@
 | florecer | bloom | Los tulipanes florecen en la primavera |  |
 | lluvioso | rainy | Me quedo en casa en los días lluviosos |  |
 | oscuro | dark | El cuarto está oscuro, y no puedo ver nada |  |
+| regar | water | Regué las plantas esta mañana | I watered the plants this morning |
 | silbar | to whistle | Beto silbó para llamar mi atención | Beto whistled to get my attention |
 | suficiente | enough | Hay suficiente comida para todos | There is enough food for everyone |
 
