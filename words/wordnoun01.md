@@ -6,6 +6,7 @@
 | el césped | lawn | Tengo que cortar el césped | I have to mow the lawn |
 | la manguera | hose | Compré una manguera nueva para regar las plantas | I bought a new hose to water the plants |
 | el ritmo | rhythm | La gente bailaba al ritmo de los tambores | The people danced to the rhythm of the drums |
+| la semilla | seed |  |  |
 
 ---
 
@@ -18,4 +19,9 @@
 - Aldo está regando las plantas con la manguera
 - Aldo is watering the plants with the hose
 
+---
+- Compré semillas de girasol para plantarlas en el jardín.
+- I bought sunflower seeds to plant them in the garden.
+- La ardilla listada estaba felizmente mordisqueando unas semillas que se habían caído de un árbol.
+- The chipmunk was happily chewing some seeds that had fallen from a tree.
 ---
