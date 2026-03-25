@@ -28,3 +28,26 @@ la comunidad. Los gobiernos de personajes que no son responsables ante las masas
 resultado invariable el despojo de éstas y la degradación del país. El progreso de cualquier
 pueblo requiere ciertas garantías sociales que sólo son posibles bajo un Gobierno en el quo
 toma parte la mayoría de la población.
+
+En 1876 el Gral. Díaz ocupó con sus fuerzas la capital mexicana y se declaró a sí mismo
+Presidente provisional. Poco después convocó a una supuesta elección y se declaró a sí
+mismo Presidente constitucional. Con "supuesta elección" quiero decir que puso a sus
+soldados en posesión de las urnas electorales e impidió, por intimidaciones, que apareciera
+cualquier otro candidato en su contra. En esa forma resultó "electo" por unanimidad y, con
+excepción de un período en que voluntariamente entregó su puesto, ha continuado eligiéndose
+por unanimidad en forma semejante.
+
+No hay necesidad de ahondar en las farsas electorales de México, puesto que los más
+fervientes admiradores de Díaz admiten que no ha habido una elección verdadera durante los
+últimos 34 años; pero quienes deseen más pruebas sobre la materia pueden acudir tan sólo a
+los resultados de tales "elecciones"
+
+¿Es posible acaso imaginar una nación de unos 15 millones de habitantes, de los que unos tres millones escasos se hallan en edad para votar, en la que todos prefieran al mismo hombre para que sea el jefe del Ejecutivo, no sólo una vez, sino año tras año y decenio tras decenio? Colóquese ese cuadro en los Estados Unidos, por ejemplo. ¿Puede imaginarse a Taft reelegido por voto unánime? Roosevelt fue, sin duda, el
+Presidente más popular que haya tenido este país. ¿Puede alguien pensar en Roosevelt
+reelegido por voto unánime? Además ¿quién no se Ilamaría a engaño si le dicen que hay un
+país de 15 millones de almas en el que la ambición no despierta, sino en un hombre único, el
+deseo de presentarse ante el pueblo como candidato para el más alto puesto de la nación?
+Sin embargo, ésta es exactamente la situación que existe en México. Don Porfirio Díaz se ha
+establecido ocho veces como "presidente" y otras tantas ha sido elegido por "unanimidad"
+
+Nunca ha tenido opositor en las urnas electorales.
