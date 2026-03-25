@@ -29,9 +29,9 @@
 
 ---
 
-- No me gusta cómo silba ese señor; me da escalofríos.
+- No me gusta cómo `silba` ese señor; me da escalofríos.
 - I don't like how that guy's whistling; it gives me the creeps.
-- La bibliotecaria me dijo que dejara de silbar si no quería que me sacara.
+- La bibliotecaria me dijo que dejara de `silbar` si no quería que me sacara.
 - The librarian told me to stop whistling if I didn't want to be thrown out.
 
 ---
