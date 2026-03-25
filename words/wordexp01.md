@@ -4,6 +4,8 @@
 | - | - | - | - |
 | ambiental | environmental | Plantar árboles tiene un impacto ambiental positivo | Planting trees has a positive environmental impact |
 | endulzar | sweeten | Endulcé el té con miel | I sweetened the tea with honey |
+| estival | summer | Nunca pensé que diría esto, pero extraño el invierno. Estoy harto del calor estival |
+I never thought I'd say this, but I miss the winter. I'm tired of the summer heat |
 | florecer | bloom | Los tulipanes florecen en la primavera |  |
 | lluvioso | rainy | Me quedo en casa en los días lluviosos |  |
 | oscuro | dark | El cuarto está oscuro, y no puedo ver nada |  |
