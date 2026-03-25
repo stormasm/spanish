@@ -9,6 +9,13 @@
 
 ---
 
+- La ONG está estudiando el impacto ambiental que tendrá la nueva carretera sobre el ecosistema local.
+- The NGO is studying the environmental impact that the new highway will have on the local ecosystem.
+- El derrame de petróleo causó un daño ambiental irreparable.
+- The oil spill caused irreparable environmental damage.
+
+---
+
 - Están `floreciendo` los cerezos.
 - The cheery trees are blooming.
 - El jardín se verá hermoso cuando las flores `florezcan`.
