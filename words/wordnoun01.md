@@ -4,19 +4,28 @@
 | - | - | - | - |
 | el alféizar | windowsill | Hay una pequeña planta en el alféizar | There's a little plant on the windowsill |
 | el césped | lawn | Tengo que cortar el césped | I have to mow the lawn |
+| el chaval | kid |  |  |
 | la manguera | hose | Compré una manguera nueva para regar las plantas | I bought a new hose to water the plants |
 | el ritmo | rhythm | La gente bailaba al ritmo de los tambores | The people danced to the rhythm of the drums |
 | la semilla | seed |  |  |
 
 ---
 
-- ¿Puedo quitar estas macetas del aféizar?
+- ¿Puedo quitar estas macetas del `aféizar`?
 - Can I take these flowerpots off the windowsill?
-- Carolina le tomó una foto al pajarito que estaba anidando en el alféizar.
+- Carolina le tomó una foto al pajarito que estaba anidando en el `alféizar`.
 - Carolina took a picture of the little bird that was nesting on the windowsill.
-- Asegúrese de ajustar la boquilla de su manguera cuando esté lavando su auto para así no desperdiciar tanta agua.
+- Escucha, `chaval`. Eres aún muy joven para hacer ciertas cosas.
+- Listen, kid. You're still too young to do certain things.
+- Esta `chavala` es muy graciosa. ¿Qué edad tiene? - Solo tiene doce años.
+- This kid is really funny. How old is she? - She's only twelve.
+
+---
+
+
+- Asegúrese de ajustar la boquilla de su `manguera` cuando esté lavando su auto para así no desperdiciar tanta agua.
 - Make sure to adjust the nozzle of your hose when you wash your car in order to waste less water.
-- Aldo está regando las plantas con la manguera
+- Aldo está regando las plantas con `la manguera`
 - Aldo is watering the plants with the hose
 
 ---
