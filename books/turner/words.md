@@ -1,6 +1,10 @@
 
 ## New Word in Turner's Book: México Bárbaro
 
+### ahondar
+
+- [to examine in detail, to delve into](https://www.spanishdict.com/translate/ahondar)
+
 ### arrastrado
 
 - [wretched](https://www.spanishdict.com/translate/arrastrado?langFrom=es&showOnlyResult=true)
