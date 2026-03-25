@@ -1,4 +1,6 @@
 
+## New Word in Turner's Book: México Bárbaro
+
 ### arrastrado
 
 - [wretched](https://www.spanishdict.com/translate/arrastrado?langFrom=es&showOnlyResult=true)
@@ -7,7 +9,13 @@
 
 - [whip](https://www.spanishdict.com/translate/azote?langFrom=es&showOnlyResult=true)
 
-### cúmulo
+### bondad
+
+- [goodness](https://www.spanishdict.com/translate/bondad)
+- Desde el punto de vista del mexicano común, el Gobierno de Díaz es lo más opuesto a la
+`bondad`; es un tratante de esclavos, un ladrón, un asesino; no imparte justicia ni tiene
+misericordia, sólo se dedica a la explotación.
+- From the perspective of the average Mexican, Díaz's government is the antithesis of goodness; it is a slave trader, a thief, a murderer; it dispenses neither justice nor mercy. it is solely dedicated to exploitation.
 
 ### emprender
 
