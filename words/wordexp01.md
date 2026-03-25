@@ -3,6 +3,7 @@
 |  |  |  |  |
 | - | - | - | - |
 | ambiental | environmental | Plantar árboles tiene un impacto ambiental positivo | Planting trees has a positive environmental impact |
+| endulzar | sweeten | Endulcé el té con miel | I sweetened the tea with honey |
 | florecer | bloom | Los tulipanes florecen en la primavera |  |
 | lluvioso | rainy | Me quedo en casa en los días lluviosos |  |
 | oscuro | dark | El cuarto está oscuro, y no puedo ver nada |  |
