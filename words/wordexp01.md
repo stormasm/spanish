@@ -35,9 +35,9 @@
 
 ---
 
-- Aprendí a dibujar paso a paso. Primero las caras, luego las manos, y así sucesivamente.
+- Aprendí a dibujar `paso a paso`. Primero las caras, luego las manos, y así sucesivamente.
 - I learned to draw step by step. First faces, then hands, and so on.
-- Mi abuela me explicó paso a paso cómo preparar el mole.
+- Mi abuela me explicó `paso a paso` cómo preparar el mole.
 - My grandmother told me how to make mole step by step.
 
 ---
