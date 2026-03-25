@@ -1,4 +1,8 @@
 
+### 3/25/26
+
+- mande is similar to como in mexico
+- how old are you - que edad tienes - cuántos años tiene
 
 ### 3/16/26
 
