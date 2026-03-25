@@ -26,3 +26,12 @@
 - The streets of my parents' neighborhood are completely dark; there isn't any light whatsoever.
 - Mi profesor de filosofía a cada rato está haciendo las referencias más `oscuras`. No entiendo nada de lo que dice.
 - My philosophy professor is always making the most obscure references. I don't understand a thing he says.
+
+---
+
+- No me gusta cómo silba ese señor; me da escalofríos.
+- I don't like how that guy's whistling; it gives me the creeps.
+- La bibliotecaria me dijo que dejara de silbar si no quería que me sacara.
+- The librarian told me to stop whistling if I didn't want to be thrown out.
+
+---
