@@ -30,10 +30,10 @@
 
 ---
 
-- Compré semillas de girasol para comer en el camino.
+- Compré `semillas` de girasol para comer en el camino.
 - I bought sunflower seeds to eat on the road.
-- Compré semillas de girasol para plantarlas en el jardín.
+- Compré `semillas` de girasol para plantarlas en el jardín.
 - I bought sunflower seeds to plant them in the garden.
-- La ardilla listada estaba felizmente mordisqueando unas semillas que se habían caído de un árbol.
+- La ardilla listada estaba felizmente mordisqueando unas `semillas` que se habían caído de un árbol.
 - The chipmunk was happily chewing some seeds that had fallen from a tree.
 ---
