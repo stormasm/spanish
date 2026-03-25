@@ -42,12 +42,14 @@ fervientes admiradores de Díaz admiten que no ha habido una elección verdadera
 últimos 34 años; pero quienes deseen más pruebas sobre la materia pueden acudir tan sólo a
 los resultados de tales "elecciones"
 
-¿Es posible acaso imaginar una nación de unos 15 millones de habitantes, de los que unos tres millones escasos se hallan en edad para votar, en la que todos prefieran al mismo hombre para que sea el jefe del Ejecutivo, no sólo una vez, sino año tras año y decenio tras decenio? Colóquese ese cuadro en los Estados Unidos, por ejemplo. ¿Puede imaginarse a Taft reelegido por voto unánime? Roosevelt fue, sin duda, el
+¿Es posible acaso imaginar una nación de unos 15 millones de habitantes, de los que unos tres millones escasos se hallan en edad para votar, en la que todos prefieran al mismo hombre para que sea el jefe del Ejecutivo, no sólo una vez, sino año tras año y decenio tras decenio? Colóquese ese cuadro en los Estados Unidos, por ejemplo.
+
+¿Puede imaginarse a Taft reelegido por voto unánime? Roosevelt fue, sin duda, el
 Presidente más popular que haya tenido este país. ¿Puede alguien pensar en Roosevelt
 reelegido por voto unánime? Además ¿quién no se Ilamaría a engaño si le dicen que hay un
 país de 15 millones de almas en el que la ambición no despierta, sino en un hombre único, el
 deseo de presentarse ante el pueblo como candidato para el más alto puesto de la nación?
+
 Sin embargo, ésta es exactamente la situación que existe en México. Don Porfirio Díaz se ha
 establecido ocho veces como "presidente" y otras tantas ha sido elegido por "unanimidad"
-
 Nunca ha tenido opositor en las urnas electorales.
