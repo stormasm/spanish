@@ -6,6 +6,7 @@
 | el césped | lawn | Tengo que cortar el césped | I have to mow the lawn |
 | el chaval | kid |  |  |
 | la manguera | hose | Compré una manguera nueva para regar las plantas | I bought a new hose to water the plants |
+| el pon | ride |  |  |
 | el ritmo | rhythm | La gente bailaba al ritmo de los tambores | The people danced to the rhythm of the drums |
 | la semilla | seed |  |  |
 
@@ -27,6 +28,13 @@
 - Make sure to adjust the nozzle of your hose when you wash your car in order to waste less water.
 - Aldo está regando las plantas con `la manguera`
 - Aldo is watering the plants with the hose
+
+---
+
+- ¿Me das `pon` a casa? Se me dañó el carro y me quedé a pie.
+- Can you give me a ride home? My car broke down and I'm stuck.
+- Pedro estaba pidiendo `pon` a la estación del tren.
+- Peter was asking for a ride to the train station.
 
 ---
 
