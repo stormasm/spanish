@@ -15,5 +15,7 @@
 - Carolina took a picture of the little bird that was nesting on the windowsill.
 - Asegúrese de ajustar la boquilla de su manguera cuando esté lavando su auto para así no desperdiciar tanta agua.
 - Make sure to adjust the nozzle of your hose when you wash your car in order to waste less water.
+- Aldo está regando las plantas con la manguera
+- Aldo is watering the plants with the hose
 
 ---
