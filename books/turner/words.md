@@ -4,6 +4,8 @@
 ### ahondar
 
 - [to examine in detail, to delve into](https://www.spanishdict.com/translate/ahondar)
+- [deep, profound](https://www.spanishdict.com/translate/hondo)
+- hondo: deep - El río está muy hondo en el centro, The river is very deep in the middle.
 
 ### arrastrado
 
