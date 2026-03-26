@@ -8,6 +8,9 @@
 ### 3/25 - compromiso
 
 - [commitment, engagement](https://www.spanishdict.com/translate/compromiso)
+- No podemos [acudir](https://www.spanishdict.com/translate/acudir) a la fiesta debido a un compromiso previo.
+- We can't go to the party due to a prior commitment.
+
 
 ### 3/25 - engañar
 
