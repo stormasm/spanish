@@ -5,11 +5,15 @@
 - [Guillermo Peris Bautista: El mito como discurso necesario](https://www.nuevarevista.net/guillermo-peris-mito-discurso-necesario/)
 - Un estudio subraya la importancia del mito como forma de conocimiento en la obra de Tolkien
 
+### 3/25 - compromiso
+
+- [commitment, engagement](https://www.spanishdict.com/translate/compromiso)
+
 ### 3/25 - engañar
 
 - [to deceive](https://www.spanishdict.com/translate/enganarle)
 - No puedo creer que se
-[dejara](https://www.spanishdict.com/translate/dejar) 
+[dejara](https://www.spanishdict.com/translate/dejar)
 engañar así.
 - I can't believe that he allowed himself to be tricked like that.
 
