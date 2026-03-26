@@ -8,7 +8,9 @@
 ### 3/25 - engañar
 
 - [to deceive](https://www.spanishdict.com/translate/enganarle)
-- No puedo creer que se dejara engañar así.
+- No puedo creer que se
+[dejara](https://www.spanishdict.com/translate/dejar) 
+engañar así.
 - I can't believe that he allowed himself to be tricked like that.
 
 ### 3/18 - siendo
