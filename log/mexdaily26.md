@@ -1,4 +1,10 @@
 
+### 3/27/26
+
+- michele fue enfermera durante 39 años.
+- michele was a nurse for 39 years.
+- [ref](https://spanish.kwiziq.com/revision/grammar/expressing-duration-with-duranteporno-preposition)
+
 ### 3/25/26
 
 - mande is similar to como in mexico
