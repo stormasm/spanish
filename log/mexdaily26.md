@@ -3,7 +3,8 @@
 
 - michele fue enfermera durante 39 años.
 - michele was a nurse for 39 years.
-- [ref](https://spanish.kwiziq.com/revision/grammar/expressing-duration-with-duranteporno-preposition)
+- [ref: expressing duration with durante, por, or no preposition](https://spanish.kwiziq.com/revision/grammar/expressing-duration-with-duranteporno-preposition)
+- [spanishdict: durante](https://www.spanishdict.com/translate/durante)
 
 ### 3/25/26
 
