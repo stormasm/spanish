@@ -13,6 +13,15 @@ Key Details:
 
 If you are at a market in Mexico, asking for "plátanos" will get you sweet, yellow eating bananas.
 
+### 3/28/26
+
+- Cual es la diferencia entre los dos autobuses - what is the difference between
+- a qué hora sale el autobus a puebla ?
+- adonde llega el autobus en Puebla ?
+- llega a la misma estacion ?
+- es la hora del viaje en autobus la misma
+- es la duracion del viaje ls misma
+
 ### 3/27/26
 
 - michele fue enfermera durante 39 años.
