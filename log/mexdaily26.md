@@ -1,4 +1,14 @@
 
+### 3/30/26
+
+- 3 días antes de regresar a casa - 3 days before returning home
+- me voy - I am leaving
+- nos vamos en 3 días - We are leaving in 3 days
+- ya voy - I am coming
+- ya voy en camino - I am on my way
+- ya voy a dormir - I am going to bed now
+
+
 ### 3/29/26
 
 - platano - banana
