@@ -1,7 +1,8 @@
 
 ### 3/30/26
 
-- 3 días antes de regresar a casa - 3 days before returning home
+- que tengas un buen viaje de regreso a casa - have a safe trip home
+- 3 mas días antes de regresar a casa - 3 days before returning home
 - me voy - I am leaving
 - nos vamos en 3 días - We are leaving in 3 days
 - ya voy - I am coming
