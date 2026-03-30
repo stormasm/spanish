@@ -1,4 +1,18 @@
 
+### 3/29/26
+
+- platano - banana
+- light bulb - bombilla
+
+In Mexico, the common word for a yellow eating banana is el plátano. While "banana" is understood, "plátano" is the standard term used in Mexican Spanish, whereas "banana" or "banano" is more common in other parts of Latin America.
+
+Key Details:
+- Common Banana: El plátano (or plátano fruta to be specific).
+- Plantain/Cooking Banana: Plátano macho.
+- Pronunciation: Pla-ta-no (stress on 'pla').
+
+If you are at a market in Mexico, asking for "plátanos" will get you sweet, yellow eating bananas.
+
 ### 3/27/26
 
 - michele fue enfermera durante 39 años.
