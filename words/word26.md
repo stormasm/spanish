@@ -6,6 +6,17 @@
 - Un estudio subraya la importancia del mito como forma de conocimiento en la obra de Tolkien
 - A study underlines the importance of myth as a form of knowledge in Tolkien's work
 
+### 3/30 - el filibustero
+
+1. (general)   
+a. pirate   
+- El filibustero tenía una pata de palo y un parche en el ojo.
+- The pirate had a wooden leg and an eye patch.
+
+b. freebooter  
+- Un grupo de filibusteros robaron los objetos de valor que encontraron en el barco recién atracado.
+- A gang of freebooters stole the valuable objects they found on the ship which had recently docked.
+
 ### 3/25 - compromiso
 
 - [commitment, engagement](https://www.spanishdict.com/translate/compromiso)
