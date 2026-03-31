@@ -1,4 +1,12 @@
 
+### 3/31/2026
+
+`Geronimo corrected my mistake on this critical point`
+
+- "Nuestro" es un adjetivo que se puede traducir como "our", y "nosotros" es un pronombre que se puede traducir como "we". 
+- [spanishdict](https://www.ingles.com/comparar/nuestro/nosotros)
+
+
 ### 3/30/26
 
 - que tengas un buen viaje de regreso a casa - have a safe trip home
