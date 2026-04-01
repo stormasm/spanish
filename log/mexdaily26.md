@@ -18,7 +18,7 @@
 - ya voy - I am coming
 - ya voy en camino - I am on my way
 - ya voy a dormir - I am going to bed now
-
+- ya voy a comer - I am going to eat now
 
 ### 3/29/26
 
