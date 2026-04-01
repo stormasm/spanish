@@ -1,9 +1,11 @@
 
 ### 3/31/2026
 
+- [possessive adjectives](./../grammar/possessive-adjectives.md)
+
 `Geronimo corrected my mistake on this critical point`
 
-- "Nuestro" es un adjetivo que se puede traducir como "our", y "nosotros" es un pronombre que se puede traducir como "we". 
+- "Nuestro" es un adjetivo que se puede traducir como "our", y "nosotros" es un pronombre que se puede traducir como "we".
 - [spanishdict](https://www.ingles.com/comparar/nuestro/nosotros)
 
 
