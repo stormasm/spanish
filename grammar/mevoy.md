@@ -1,5 +1,5 @@
 
-
+### what is the difference between voy and me voy
 
 The primary difference between voy and me voy in Spanish is that voy (from ir) indicates "I am going" to a destination, while me voy (from irse) means "I am leaving" or "I am going away" from a place.
 Reddit
