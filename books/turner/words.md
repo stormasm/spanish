@@ -75,7 +75,7 @@ A day's work in this company lasts 9 hours.
 
 - [but also, except](https://www.spanishdict.com/translate/sino?langFrom=es&showOnlyResult=true)
 
-### suelen, soler
+### soler, suelen
 
 - [solerex details](https://github.com/stormasm/spanish/blob/main/verbs/solerex.md)
 - [used to](https://www.spanishdict.com/translate/soler?langFrom=es)
