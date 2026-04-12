@@ -50,6 +50,7 @@ While the term "enganchador" is frequently associated with the 19th and early 20
 
 ### exigencia
 
+- [Exigency - What it is and How to Use it](https://blogs.millersville.edu/englishgrad/2022/10/28/exigency-what-it-is-and-how-to-use-it/)
 - [obligation, requirement](https://www.spanishdict.com/translate/exigencia?langFrom=es)
 - Las más grandes exigencias de gratificación están compensadas con creces por los privilegios especiales que luego disfrutan.
 - The greatest demands for gratification are more than compensated by the special privileges they
