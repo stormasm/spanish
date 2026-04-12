@@ -75,7 +75,7 @@ A day's work in this company lasts 9 hours.
 
 - [but also, except](https://www.spanishdict.com/translate/sino?langFrom=es&showOnlyResult=true)
 
-### soler
+### suelen, soler
 
 - [used to](https://www.spanishdict.com/translate/soler?langFrom=es)
 - Los norteamericanos que emprenden negocios en México, suelen recibir de las autoridades
