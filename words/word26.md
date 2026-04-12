@@ -1,10 +1,15 @@
 
-
 #### reference
 
 - [Guillermo Peris Bautista: El mito como discurso necesario](https://www.nuevarevista.net/guillermo-peris-mito-discurso-necesario/)
 - Un estudio subraya la importancia del mito como forma de conocimiento en la obra de Tolkien
 - A study underlines the importance of myth as a form of knowledge in Tolkien's work
+
+### 4/11 - cuaresma y pascua
+
+- [Learn the Many Meanings of ‘Pascua’](https://www.thoughtco.com/the-many-meanings-of-pascua-3079203)
+- [lent - cuaresma](https://es.wikipedia.org/wiki/Cuaresma)
+
 
 ### 3/30 - el filibustero
 
