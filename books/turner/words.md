@@ -77,6 +77,7 @@ A day's work in this company lasts 9 hours.
 
 ### suelen, soler
 
+- [solerex details](https://github.com/stormasm/spanish/blob/main/verbs/solerex.md)
 - [used to](https://www.spanishdict.com/translate/soler?langFrom=es)
 - Los norteamericanos que emprenden negocios en México, suelen recibir de las autoridades
 locales más o menos el mismo trato que acostumbran recibir en su país.
