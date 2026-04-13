@@ -1,7 +1,7 @@
 
 Verbs that are talked about by the amazing teacher at Butterfly Spanish
 
-## alcanzar
+## [alcanzar](https://www.spanishdict.com/translate/alcanzar)
 
 - [butterfly](https://www.youtube.com/watch?v=Ua0_D7GxNuc)
 
