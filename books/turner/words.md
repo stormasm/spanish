@@ -9,7 +9,9 @@
 
 ### alcanzar
 
+- to reaach, to catch, to not have enough of (something), to lack something
 - [to reach, achieve, to be sufficient, enough](https://www.spanishdict.com/translate/alcanzar)
+- [butterfly spanish](https://www.youtube.com/watch?v=Ua0_D7GxNuc)
 
 ### arrastrado
 
