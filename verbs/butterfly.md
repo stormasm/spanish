@@ -22,3 +22,5 @@ Say the following sentence not when you forgot something but when they had alrea
 ### to reach
 
 - alcanzas ese libro, can you reach that book ?
+- alcanzas el foco, can you reach the bulb ?
+- No, no lo alcanzo, no I can not reach it.
