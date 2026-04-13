@@ -7,7 +7,7 @@
 - [hondo: deep, profound](https://www.spanishdict.com/translate/hondo)
 - hondo: deep - El río está muy hondo en el centro, The river is very deep in the middle.
 
-### alcanzar
+### [alcanzar](https://www.spanishdict.com/translate/alcanzar)
 
 - to reaach, to catch, to not have enough of (something), to lack something
 - [details based on butterfly lesson](https://github.com/stormasm/spanish/blob/main/verbs/butterfly.md#alcanzar)
