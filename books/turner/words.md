@@ -10,6 +10,7 @@
 ### alcanzar
 
 - to reaach, to catch, to not have enough of (something), to lack something
+- [details based on butterfly lesson](https://github.com/stormasm/spanish/blob/main/verbs/butterfly.md#alcanzar)
 - [to reach, achieve, to be sufficient, enough](https://www.spanishdict.com/translate/alcanzar)
 - [butterfly spanish](https://www.youtube.com/watch?v=Ua0_D7GxNuc)
 
