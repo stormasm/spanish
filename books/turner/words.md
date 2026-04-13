@@ -7,6 +7,10 @@
 - [hondo: deep, profound](https://www.spanishdict.com/translate/hondo)
 - hondo: deep - El río está muy hondo en el centro, The river is very deep in the middle.
 
+### alcanzar
+
+- [to reach, achieve, to be sufficient, enough](https://www.spanishdict.com/translate/alcanzar)
+
 ### arrastrado
 
 - [wretched](https://www.spanishdict.com/translate/arrastrado?langFrom=es&showOnlyResult=true)
@@ -22,6 +26,10 @@
 `bondad`; es un tratante de esclavos, un ladrón, un asesino; no imparte justicia ni tiene
 misericordia, sólo se dedica a la explotación.
 - From the perspective of the average Mexican, Díaz's government is the antithesis of goodness; it is a slave trader, a thief, a murderer; it dispenses neither justice nor mercy. it is solely dedicated to exploitation.
+
+### brindar
+
+- [to toast, give freely](https://www.spanishdict.com/translate/brindar)
 
 ### emprender
 
