@@ -87,6 +87,7 @@ A day's work in this company lasts 9 hours.
 ### misericordia
 
 - [mercy, compassion](https://www.spanishdict.com/translate/misericordia)
+- mercy = compassion or forgiveness shown toward someone whom it is within one's power to punish or harm
 
 ### sino
 
