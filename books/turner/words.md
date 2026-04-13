@@ -32,7 +32,7 @@ misericordia, sólo se dedica a la explotación.
 
 ### brindar
 
-- [to toast, give freely](https://www.spanishdict.com/translate/brindar)
+- [to toast, to give freely - to offer, give, afford](https://www.spanishdict.com/translate/brindar)
 
 ### emprender
 
