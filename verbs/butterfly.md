@@ -24,3 +24,18 @@ Say the following sentence not when you forgot something but when they had alrea
 - alcanzas ese libro, can you reach that book ?
 - alcanzas el foco, can you reach the bulb ?
 - No, no lo alcanzo, no I can not reach it.
+
+### to not have enough
+
+- No me alcanza para un libro, I don't have enough (money) for a book
+- No me alcanza para mi renta, I do not have enough to pay the rent.
+
+### do not have enough of something
+
+- No va a alcanzar la carne, I am not going to have enough meat
+- No me alcanzan los huevos, I don't have enough eggs to make the cake
+
+### to reach
+
+- La temperatura alcanzó los 30 degrees, the temperature reached 30 degrees
+- A que no me alcanzas, I bet that you can not reach me
