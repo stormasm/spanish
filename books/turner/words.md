@@ -25,7 +25,7 @@
 
 ### bondad
 
-- [goodness](https://www.spanishdict.com/translate/bondad)
+- [goodness, kindness](https://www.spanishdict.com/translate/bondad)
 - Desde el punto de vista del mexicano común, el Gobierno de Díaz es lo más opuesto a la
 `bondad`; es un tratante de esclavos, un ladrón, un asesino; no imparte justicia ni tiene
 misericordia, sólo se dedica a la explotación.
