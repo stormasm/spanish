@@ -89,6 +89,10 @@ A day's work in this company lasts 9 hours.
 - [mercy, compassion](https://www.spanishdict.com/translate/misericordia)
 - mercy = compassion or forgiveness shown toward someone whom it is within one's power to punish or harm
 
+### premiar
+
+- [to reward](https://www.spanishdict.com/translate/premiar)
+
 ### sino
 
 - [but also, except](https://www.spanishdict.com/translate/sino?langFrom=es&showOnlyResult=true)
