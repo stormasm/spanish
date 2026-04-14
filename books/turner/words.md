@@ -39,6 +39,10 @@ misericordia, sólo se dedica a la explotación.
 
 - [to toast, to give freely - to offer, give, afford](https://www.spanishdict.com/translate/brindar)
 
+### despojo
+
+- [to loot, plunder](https://www.spanishdict.com/translate/despojo?langFrom=es&showOnlyResult=true)
+
 ### emprender
 
 - [undertake](https://www.spanishdict.com/translate/emprender)
