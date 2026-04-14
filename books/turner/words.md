@@ -93,6 +93,10 @@ A day's work in this company lasts 9 hours.
 
 - [to reward](https://www.spanishdict.com/translate/premiar)
 
+### privar
+
+- [to deprive, take away](https://www.spanishdict.com/translate/privar)
+
 ### sino
 
 - [but also, except](https://www.spanishdict.com/translate/sino?langFrom=es&showOnlyResult=true)
