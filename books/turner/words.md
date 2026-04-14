@@ -19,6 +19,10 @@
 
 - [wretched](https://www.spanishdict.com/translate/arrastrado?langFrom=es&showOnlyResult=true)
 
+### arrebatar
+
+- [to snatch](https://www.spanishdict.com/translate/arrebatar?langFrom=es)
+
 ### azote
 
 - [whip](https://www.spanishdict.com/translate/azote?langFrom=es&showOnlyResult=true)
