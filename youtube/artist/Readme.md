@@ -54,8 +54,8 @@ Recuerda que también a ti te he perdonado
 Y, en cambio, tú dices: "Lo siento, no te quiero"  
 Y te me vas con esta historia entre tus dedos
 
-Na, na-na-na
-Na, na-na-na
-Na, na-na-na
-Na, na-na-na
+Na, na-na-na   
+Na, na-na-na   
+Na, na-na-na   
+Na, na-na-na   
 Te marchas, ¿y qué?
