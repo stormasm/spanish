@@ -4,7 +4,9 @@ Verbs should go in the verb directory.
 
 #### My new words
 
+- [history words](https://github.com/stormasm/mexico/blob/main/history/words.md)
 - [word25](./word25.md)
+- [word26](./word26.md)
 
 #### Antonyms
 
