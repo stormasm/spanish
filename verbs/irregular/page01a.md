@@ -1,6 +1,8 @@
 
 ### Irregular Verbs
 
+|  |  |
+| - | - |
 | caer | caigo |
 | cerrar | cierro |
 | conocer | conozco |
