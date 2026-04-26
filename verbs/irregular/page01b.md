@@ -38,6 +38,18 @@
 
 ---
 
+| caer | cerrar | conocer | creer | dar | decir |
+| - | - | - | - | - | - |
+| caigo | cierro | conozco | creo | doy | digo |
+
+
+
+
+
+
+
+---
+
 | decir | ir | hacer | poder | tener | ver |
 | - | - | - | - | - | - |
 | digo | voy | hago | puedo | tengo | veo |
