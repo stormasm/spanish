@@ -7,7 +7,7 @@
 - [creer](https://www.spanishdict.com/conjugate/creer) - believe
 - [dar](https://www.spanishdict.com/conjugate/dar) - give
 - [decir](https://www.spanishdict.com/conjugate/decir) - say, tell
-- ** [encontrar](https://www.spanishdict.com/conjugate/encontrar) - find
+- [encontrar](https://www.spanishdict.com/conjugate/encontrar) - find
 
 ---
 
