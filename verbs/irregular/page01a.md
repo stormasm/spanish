@@ -3,32 +3,32 @@
 
 ### Irregular Verbs
 
-|  |  |
-| - | - |
-| caer | caigo |
-| cerrar | cierro |
-| conocer | conozco |
-| creer | creo |
-| dar | doy |
-| decir | digo |
-| encontrar | encuentro |
-| estar | estoy |
-| hacer | hago |
-| ir | voy |
-| llegar | llego |
-| oir | oigo |
-| poder | puedo |
-| poner | pongo |
-| querer | quiero |
-| saber | sé |
-| salir | salgo |
-| sentir | siento |
-| ser | soy |
-| tener | tengo |
-| traer | traigo |
-| venir | vengo |
-| ver | veo |
-| volver | vuelvo |
+|  |  |  |
+| - | - | - |
+| caer | caigo | caí |
+| cerrar | cierro | cerré |
+| conocer | conozco | conocí |
+| creer | creo | creí |
+| dar | doy | di |
+| decir | digo | dije |
+| encontrar | encuentro | encontré |
+| estar | estoy | estuve |
+| hacer | hago | hice |
+| ir | voy | fui |
+| llegar | llego | llegué |
+| oir | oigo | oí |
+| poder | puedo | pude |
+| poner | pongo | puse |
+| querer | quiero | quise |
+| saber | sé | supe |
+| salir | salgo | salí |
+| sentir | siento | sentí |
+| ser | soy | fui |
+| tener | tengo | tuve |
+| traer | traigo | traje |
+| venir | vengo | vine |
+| ver | veo | vi |
+| volver | vuelvo | volví |
 
 ---
 
