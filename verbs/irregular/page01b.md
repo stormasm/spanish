@@ -42,6 +42,12 @@
 | - | - | - | - | - | - |
 | caigo | cierro | conozco | creo | doy | digo |
 
+---
+
+| encontrar | estar | hacer | ir | llegar | oir |
+| - | - | - | - | - | - |
+
+---
 
 
 
