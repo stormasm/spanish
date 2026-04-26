@@ -5,7 +5,7 @@
 
 - [conocer](https://www.spanishdict.com/conjugate/conocer) - know people and places
 - [creer](https://www.spanishdict.com/conjugate/creer) - believe
-- ** [dar](https://www.spanishdict.com/conjugate/dar) - give
+- [dar](https://www.spanishdict.com/conjugate/dar) - give
 - [decir](https://www.spanishdict.com/conjugate/decir) - say, tell
 - ** [encontrar](https://www.spanishdict.com/conjugate/encontrar) - find
 
@@ -14,7 +14,7 @@
 - [estar](https://www.spanishdict.com/conjugate/estar) - be, location, state
 - [hacer](https://www.spanishdict.com/conjugate/hacer) - do, make
 - [ir](https://www.spanishdict.com/conjugate/ir) - go
-- ** [llegar](https://www.spanishdict.com/conjugate/llegar) - arrive
+- [llegar](https://www.spanishdict.com/conjugate/llegar) - arrive
 - [poder](https://www.spanishdict.com/conjugate/pder) - to be able, can
 
 ---
