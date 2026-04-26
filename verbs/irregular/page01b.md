@@ -49,10 +49,13 @@
 
 ---
 
+| poder | poner | querer | saber | salir | sentir |
+| - | - | - | - | - | - |
 
+---
 
-
-
+| ser | tener | traer | venir | ver | volver |
+| - | - | - | - | - | - |
 
 ---
 
