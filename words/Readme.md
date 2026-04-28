@@ -1,4 +1,7 @@
 
+
+- [wordnoun01](./wordnoun01.md)
+
 The only words that go in this directory are non verbs.
 Verbs should go in the verb directory.
 
