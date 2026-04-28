@@ -3,8 +3,7 @@
 |  |  |  |  |
 | - | - | - | - |
 | el alféizar | windowsill | Hay una pequeña planta en el alféizar | There's a little plant on the windowsill |
-| el bosque | forest | Escuché que un hombre lobo vive en este bosque |
-I heard a werewolf lives in this forest |
+| el bosque | forest | Escuché que un hombre lobo vive en este bosque | I heard a werewolf lives in this forest |
 | el césped | lawn | Tengo que cortar el césped | I have to mow the lawn |
 | el chaval | kid |  |  |
 | la manguera | hose | Compré una manguera nueva para regar las plantas | I bought a new hose to water the plants |
