@@ -10,6 +10,7 @@
 | el idioma | language | El español es mi idioma favorito | Spanish is my favorite language |
 | la manguera | hose | Compré una manguera nueva para regar las plantas | I bought a new hose to water the plants |
 | la orquídea | orchid | Tenemos varias orquídeas en nuestro jardín | We have several orchids in our garden |
+| el panal | honeycomb | Las abejas guardan la miel en el panal | Bees store honey in the honeycomb |
 | el pon | ride |  |  |
 | el ritmo | rhythm | La gente bailaba al ritmo de los tambores | The people danced to the rhythm of the drums |
 | la semilla | seed |  |  |
