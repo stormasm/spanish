@@ -6,6 +6,7 @@
 | el césped | lawn | Tengo que cortar el césped | I have to mow the lawn |
 | el chaval | kid |  |  |
 | la manguera | hose | Compré una manguera nueva para regar las plantas | I bought a new hose to water the plants |
+| orquídea | orchid | Tenemos varias orquídeas en nuestro jardín | We have several orchids in our garden |
 | el pon | ride |  |  |
 | el ritmo | rhythm | La gente bailaba al ritmo de los tambores | The people danced to the rhythm of the drums |
 | la semilla | seed |  |  |
