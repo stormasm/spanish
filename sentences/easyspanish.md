@@ -26,3 +26,7 @@ Key Reasons for "Son":
 Why not "Están"?
 
 Using están (from estar) would imply that the notebooks are temporarily in your possession, but not owned by you. For example, "Estos cuadernos están aquí" (These notebooks are here - location) is correct, but for ownership, you must use son.
+
+### Possessive Pronouns
+
+- [png](https://github.com/stormasm/tmp26/blob/main/spanish/pronouns.png)
