@@ -7,8 +7,8 @@
 
 ### mirar vs buscar
 
-Mirar significa "look at" o "watch" (dirigir la vista con intención,)   
-mientras que buscar significa "look for" o "search for"    
+`Mirar` significa "look at" o "watch" (dirigir la vista con intención,)   
+mientras que `buscar` significa "look for" o "search for"    
 (hacer un esfuerzo por encontrar algo o alguien
 
 ### ser vs estar
