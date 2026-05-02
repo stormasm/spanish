@@ -6,6 +6,7 @@
 | el bosque | forest | Escuché que un hombre lobo vive en este bosque | I heard a werewolf lives in this forest |
 | el césped | lawn | Tengo que cortar el césped | I have to mow the lawn |
 | el chaval | kid |  |  |
+| el estanque | pond | Lirios de agua flotaban en el estanque | Water lilies floated on the pond |
 | el huerto | orchard | Plantamos manzanos en nuestro huerto | We planted apple trees in our orchard |
 | el idioma | language | El español es mi idioma favorito | Spanish is my favorite language |
 | la manguera | hose | Compré una manguera nueva para regar las plantas | I bought a new hose to water the plants |
