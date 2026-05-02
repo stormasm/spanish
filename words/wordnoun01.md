@@ -10,6 +10,7 @@
 | el huerto | orchard | Plantamos manzanos en nuestro huerto | We planted apple trees in our orchard |
 | el idioma | language | El español es mi idioma favorito | Spanish is my favorite language |
 | la manguera | hose | Compré una manguera nueva para regar las plantas | I bought a new hose to water the plants |
+| la miel | honey | La miel bien guardada no se daña | Well-stored honey doesn't go bad |
 | el nido | nest | Un pajarito hizo su nido en nuestra terraza | A little bird made its nest on our deck |
 | la orquídea | orchid | Tenemos varias orquídeas en nuestro jardín | We have several orchids in our garden |
 | el panal | honeycomb | Las abejas guardan la miel en el panal | Bees store honey in the honeycomb |
