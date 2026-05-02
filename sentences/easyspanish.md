@@ -1,9 +1,21 @@
 
 ## Easy Spanish Bilingual Dictionary with Sentences
 
+- contentos - estamos muy contentos (felices) - we are very happy
 - mío - estos cuadernos son míos - these notebooks are mine
 - mirar - me (nos) gusta mirar las estrellas - I (we) like to look at the stars
 - mismo - leemos el mismo libro - we are reading the same book
+
+### contentos vs felices
+
+The main difference is intensity:
+
+felices (plural of feliz) indicates deep, profound happiness or joy, while contentos (plural of contento) means content, satisfied, or "in a good mood".
+
+Felices is more permanent (can use ser), whereas contentos is typically temporary/situational (used with estar).
+
+- Felices (Happy/Joyful): Refers to a deeper emotion, prosperity, or a lasting state of being.
+- Examples: "Ellos son muy felices" (They are very happy people). "¡Felices fiestas!" (Happy holidays!).
 
 ### mirar vs buscar
 
