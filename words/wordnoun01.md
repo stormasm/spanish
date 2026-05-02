@@ -15,6 +15,7 @@
 | el pon | ride |  |  |
 | el ritmo | rhythm | La gente bailaba al ritmo de los tambores | The people danced to the rhythm of the drums |
 | la semilla | seed |  |  |
+| el viento | wind | La tormenta trajo fuertes vientos al área | The storm brought strong winds to the area |
 
 ---
 
