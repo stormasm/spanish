@@ -2,7 +2,7 @@
 ## Easy Spanish Bilingual Dictionary with Sentences
 
 - mío - estos cuadernos son míos - these notebooks are mine
-- mirar - me gusta mirar las estrellas - I like to look at the stars
+- mirar - me (nos) gusta mirar las estrellas - I (we) like to look at the stars
 - mismo - leemos el mismo libro - we are reading the same book
 
 ### mirar vs buscar
