@@ -3,6 +3,7 @@
 |  |  |  |  |
 | - | - | - | - |
 | el alféizar | windowsill | Hay una pequeña planta en el alféizar | There's a little plant on the windowsill |
+| el arce | maple | Planté este arce cuando era un niño | I planted this maple when I was a kid |
 | el bosque | forest | Escuché que un hombre lobo vive en este bosque | I heard a werewolf lives in this forest |
 | el césped | lawn | Tengo que cortar el césped | I have to mow the lawn |
 | el chaval | kid |  |  |
