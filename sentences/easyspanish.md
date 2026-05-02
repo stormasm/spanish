@@ -1,7 +1,7 @@
 
 ## Easy Spanish Bilingual Dictionary with Sentences
 
-- contentos - estamos muy contentos (felices) - we are very happy
+- contento - feliz - estamos muy contentos (felices) - we are very happy
 - mío - estos cuadernos son míos - these notebooks are mine
 - mirar - me (nos) gusta mirar las estrellas - I (we) like to look at the stars
 - mismo - leemos el mismo libro - we are reading the same book
