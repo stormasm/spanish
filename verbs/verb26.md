@@ -2,7 +2,7 @@
 ### verb 26
 
 
-
+- [danar](https://www.spanishdict.com/translate/da%C3%B1ar) - to damage - spoil (go bad)
 - [rozar](https://www.spanishdict.com/translate/rozar) - to brush against - to touch lightly
 - [sobresalir](https://www.spanishdict.com/translate/sobresalir) - stick out - stand out -
 [nr: cuba](https://www.nuevarevista.net/cuba-medio-siglo-entre-la-revolucion-y-la-dictadura-0/) -
