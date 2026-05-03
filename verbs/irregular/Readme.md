@@ -89,3 +89,4 @@
 ### References
 
 - [ella verb](https://ellaverbs.com/spanish-verbs/)
+- [41 Verbs with Irregular Preterite Forms in Spanish](https://www.spanishdict.com/lists/33081/verbs-with-irregular-preterite-forms)
