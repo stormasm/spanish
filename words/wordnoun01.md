@@ -12,6 +12,7 @@
 | el huerto | orchard | Plantamos manzanos en nuestro huerto | We planted apple trees in our orchard |
 | el idioma | language | El español es mi idioma favorito | Spanish is my favorite language |
 | la manguera | hose | Compré una manguera nueva para regar las plantas | I bought a new hose to water the plants |
+| la merienda | snack, bite to eat | adónde vamos para la merienda | where shall we go for a bite to eat |
 | la miel | honey | La miel bien guardada no se [daña](https://www.spanishdict.com/conjugate/da%C3%B1ar) | Well-stored honey doesn't go bad |
 | la mitad | half | Le di la mitad del pastel a mi hermana | I gave my sister half of the cake |
 | el nido | nest | Un pajarito hizo su nido en nuestra terraza | A little bird made its nest on our deck |
