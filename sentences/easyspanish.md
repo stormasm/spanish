@@ -2,6 +2,7 @@
 ## Easy Spanish Bilingual Dictionary with Sentences
 
 - contento - feliz - estamos muy contentos (felices) - we are very happy
+- menos - este año hay menos nieve que el año pasado - this year there is less snow than last year
 - mío - estos cuadernos son míos - these notebooks are mine
 - mirar - me (nos) gusta mirar las estrellas - I (we) like to look at the stars
 - mismo - leemos el mismo libro - we are reading the same book
