@@ -6,6 +6,7 @@
 - mío - estos cuadernos son míos - these notebooks are mine
 - mirar - me (nos) gusta mirar las estrellas - I (we) like to look at the stars
 - mismo - leemos el mismo libro - we are reading the same book
+- mitad - la mitad de diez es cinco - half of 10 is 5
 
 ### contentos vs felices
 
