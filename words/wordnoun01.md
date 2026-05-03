@@ -13,6 +13,7 @@
 | el idioma | language | El español es mi idioma favorito | Spanish is my favorite language |
 | la manguera | hose | Compré una manguera nueva para regar las plantas | I bought a new hose to water the plants |
 | la miel | honey | La miel bien guardada no se [daña](https://www.spanishdict.com/conjugate/da%C3%B1ar) | Well-stored honey doesn't go bad |
+| la mitad | half | Le di la mitad del pastel a mi hermana | I gave my sister half of the cake |
 | el nido | nest | Un pajarito hizo su nido en nuestra terraza | A little bird made its nest on our deck |
 | la orquídea | orchid | Tenemos varias orquídeas en nuestro jardín | We have several orchids in our garden |
 | el panal | honeycomb | Las abejas guardan la miel en el panal | Bees store honey in the honeycomb |
@@ -34,6 +35,9 @@
 
 ---
 
+- La mitad de diez es cinco - Half of 10 is 5
+
+---
 
 - Asegúrese de ajustar la boquilla de su `manguera` cuando esté lavando su auto para así no desperdiciar tanta agua.
 - Make sure to adjust the nozzle of your hose when you wash your car in order to waste less water.
