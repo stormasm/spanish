@@ -52,6 +52,40 @@ You'd be a good example/model to my children.
 
 ---
 
+### Fue
+
+Fue" is the third-person singular (él/ella/usted) preterite form of both ser (to be) and ir (to go) in Spanish.
+
+It translates to "he/she/it was" or "you were" (formal) for ser, and "he/she/it went" or "you went" (formal) for ir. It is used for completed actions or events in the past.
+
+#### Key Characteristics of Fue:
+
+- Verb: Ser or Ir (Preterite Tense).
+- Meaning: Was / Went.
+- Pronunciation: /fweh/.
+- Usage: Fue indicates a finished action or event, often with a specific timeframe (e.g., La fiesta fue el sábado - The party was on Saturday).
+
+#### Contextual Difference (Ser vs. Ir):
+
+- Ser (to be): Often followed by nouns or adjectives (e.g., Él fue mi amigo - He was my friend).
+- Ir (to go): Often followed by the preposition "a" or "para" (e.g., Ella fue a la escuela - She went to the school).
+
+#### Preterite Conjugation for Ser & Ir (Identical):
+
+- Yo: fui (I was/went)
+- Tú: fuiste (You were/went)
+- Él/Ella/Ud.: fue (He/She was/went, You formal were/went)
+- Nosotros/Nosotras: fuimos (We were/went)Vosotros/
+- Vosotras: fuisteis (You all were/went)
+- Ellos/Ellas/Ustedes: fueron (They/You all were/went)
+
+#### Difference from 'Era' (Imperfect):
+
+Use fue for specific, completed events or actions (e.g., La película fue mala - The movie was bad) and era for descriptions, age, or habits in the past (e.g., Era alta - She was tall).
+
+
+---
+
 #### Ser
 
 - Seré un estudiante de primer año en la universidad el año que viene.
