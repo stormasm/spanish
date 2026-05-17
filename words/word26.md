@@ -5,6 +5,21 @@
 - Un estudio subraya la importancia del mito como forma de conocimiento en la obra de Tolkien
 - A study underlines the importance of myth as a form of knowledge in Tolkien's work
 
+### 5/17 - inútil - useless, good for nothing
+
+- No son tan inútiles las noches que te di - The nights I gave you weren't so useless after all.
+
+### 5/17 - discutir - discuss, argue
+
+- Yo no intento discutírtelo, lo sabes y lo sé
+- I’m not trying to argue with you about it; you know it, and I know it.
+
+#### does the spanish word discutir have a negative connotation instead of using the word platicar
+
+Yes, the Spanish word discutir often carries a negative connotation—meaning to argue, quarrel, or fight verbally—while platicar (widely used in Mexico and some other regions) is a neutral, friendly, or casual word meaning to chat, talk, or converse.
+
+While discutir can technicaly mean "to discuss," it is a common "false friend" for English speakers; it usually implies a tense, heated, or confrontational conversation rather than a polite exchange of ideas
+
 ### 4/11 - cuaresma y pascua
 
 - [Learn the Many Meanings of ‘Pascua’](https://www.thoughtco.com/the-many-meanings-of-pascua-3079203)
