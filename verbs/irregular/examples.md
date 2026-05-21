@@ -14,7 +14,8 @@ Here are a few examples:
 
 ### rendir
 
-Rindo" is the first-person singular present indicative form of the Spanish verb rendir, meaning "I produce," "I perform," "I yield," or "I pay" (homage).
+Rindo" is the first-person singular present indicative form of the Spanish verb rendir    
+meaning "I produce," "I perform," "I yield," or "I pay" (homage).
 
 It is also frequently used in the phrase
 
