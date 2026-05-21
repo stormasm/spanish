@@ -1,4 +1,6 @@
-  
+
+### google: spanish examples of the verb fui with ser
+
 In Spanish, fui is the first-person singular preterite (past tense) conjugation for both *ser* (to be) and *ir* (to go), meaning it can mean "I was" or "I went" depending on context. When using *fui* with *ser*, it often describes a profession, identity, or characteristic completed in the past. \[[1](https://www.youtube.com/watch?v=f29kQThccEw), [2](https://www.youtube.com/shorts/oYwKpj3QqZg)\]
 
 Examples of "Fui" (Ser \- "I was")
