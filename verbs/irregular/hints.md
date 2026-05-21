@@ -1,0 +1,26 @@
+
+
+- caí
+- cerré
+- conocí
+- creí
+- di
+- dije
+- encontré
+- estuve
+- fui
+- hice
+- fui
+- llegué
+- oí
+- pude
+- puse
+- quise
+- supe
+- salí
+- sentí
+- tuve
+- traje
+- vine
+- vi
+- volví
