@@ -10,7 +10,6 @@
 - estuve
 - fui
 - hice
-- fui
 - llegué
 - oí
 - pude
