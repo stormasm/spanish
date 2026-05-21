@@ -1,7 +1,5 @@
 
-- ir - fui a la tienda ayer - I went to the store yesterday
-- ser - fui cocinero durante 10 años - I was a cook for 10 years
-
+- [fui](./fui.md)
 
 ### caer
 
