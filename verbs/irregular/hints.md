@@ -25,7 +25,7 @@
 - tengo, tuve
 - traigo, traje
 - vengo, vine
-- voy, vi
+- veo, vi
 - vuelvo, volví
 
 ---
