@@ -1,9 +1,10 @@
 
-#### reference
+### 5/25 - trasera - rear, back
 
-- [Guillermo Peris Bautista: El mito como discurso necesario](https://www.nuevarevista.net/guillermo-peris-mito-discurso-necesario/)
-- Un estudio subraya la importancia del mito como forma de conocimiento en la obra de Tolkien
-- A study underlines the importance of myth as a form of knowledge in Tolkien's work
+- En las traseras de la casa, hay un pequeño jardín
+- At the rear of the house there is a little garden.
+- Tenía la trasera del coche llena de cachivaches.
+- He had the back of the car full of junk.
 
 ### 5/17 - inútil - useless, good for nothing
 
@@ -165,3 +166,9 @@ Buenas tardes is a set greeting used from roughly 12:00 PM until sunset (or some
 
 - The connection lies in the notion that afternoon is the "late" part of the day, using the root of "slowness" or "lateness" to define the time period.
 - In summary: Tardar is the verb for "being late/taking time," while buenas tardes describes the "late" part of the day. They both descend from the Latin concept of being slow (tardus).
+
+#### reference
+
+- [Guillermo Peris Bautista: El mito como discurso necesario](https://www.nuevarevista.net/guillermo-peris-mito-discurso-necesario/)
+- Un estudio subraya la importancia del mito como forma de conocimiento en la obra de Tolkien
+- A study underlines the importance of myth as a form of knowledge in Tolkien's work
