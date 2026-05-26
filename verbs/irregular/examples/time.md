@@ -41,3 +41,12 @@ Add these phrases to avoid confusion between a.m. and p.m.:
 
 For more examples or interactive practice, check out the [SpanishDict Time Guide](https://www.spanishdict.com/guide/telling-time-in-spanish) or the [BBC Bitesize Spanish Time Module](https://www.bbc.co.uk/bitesize/articles/zmftwty). \[[1](https://www.youtube.com/watch?v=_FRiRJz_r4g)\]
 
+---
+
+
+In Spanish you use the feminine plural article "las" when telling time (e.g., son las dos) because it refers to the feminine noun la hora (the hour) or las horas (the hours).
+
+The exception is 1:00, which uses the singular "la" (es la una).
+
+- 1:00-1:59: Es la una... (Es la una y media).
+- 2:00-12:59: Son las [number]... (Son las tres de la tarde)
