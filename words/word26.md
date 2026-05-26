@@ -5,6 +5,7 @@
 - At the rear of the house there is a little garden.
 - Tenía la trasera del coche llena de cachivaches.
 - He had the back of the car full of junk.
+- Siempre salgo por la puerta trasera - I always go out through the back door
 
 ### 5/17 - inútil - useless, good for nothing
 
