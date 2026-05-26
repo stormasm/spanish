@@ -7,7 +7,8 @@ Leaving/Going Out (General)
 * Salgo de mi casa a la una.
 * Salgo de mi casa a las siete. (I leave my house at seven.)  
 * Ahora salgo. (I'm going out now.)  
-* Salgo temprano del trabajo. (I leave work early.)  
+* Salgo del trabajo temprano. (I leave work early.)
+* Salgo de la escuela temprano. 
 * Siempre salgo por la puerta trasera. (I always go out through the back door.)  
 * Si llueve, esta noche no salgo. (If it rains, I won't go out tonight.) \[[1](https://www.spanishdict.com/phrases/salgo), [2](https://hinative.com/questions/24674164), [3](https://www.clozemaster.com/translate/spa-eng/salgo), [4](https://www.spanishdict.com/translate/yo%20salgo)\]
 
