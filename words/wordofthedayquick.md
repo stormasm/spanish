@@ -18,6 +18,8 @@
 - Factory waste pollutes the environment.
 - Mi sobrina dice que quiere ser una ecologista cuando crezca para ayudar a proteger el medioambiente.
 - My niece says she wants to be an ecologist when she grows up to help protect the environment.
+- Es importante cuidar del medioambiente.
+- It's important to take care of the environment.
 
 ##### el premio, award, prize
 - Cada año, se entregan premios Nobel en seis categorías diferentes.
