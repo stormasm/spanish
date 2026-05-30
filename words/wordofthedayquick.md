@@ -13,6 +13,9 @@
 - El frescor del aire despejó la mente del escritor.
 - The coolness of the air cleared the writer's mind.
 
+##### el luto, mourning
+- La nación está de luto hoy - The nation is in mourning today
+
 ##### el medioambiente, environment
 - Los desechos de las fábricas contaminan el medioambiente.
 - Factory waste pollutes the environment.
