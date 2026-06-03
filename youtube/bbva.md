@@ -3,6 +3,8 @@
 - [all videos: aprendemos juntos mex](https://www.youtube.com/@AprendemosJuntos_mex/videos)
 
 ---
+- 26.06 [De maestra en Oaxaca a estrella de Hollywood | Yalitza Aparicio, actriz](https://www.youtube.com/watch?v=p5UNAIb2QhQ)
+---
 - 26.05 [La vida también se cuenta en canciones | Carla Morrison, cantante y compositora](https://www.youtube.com/watch?v=liWBSnwM6e4)
 - 26.05 [Enseñanzas de Rigoberta Menchú, la nieta de los mayas. Premio Nobel de la Paz](https://www.youtube.com/watch?v=A8dM2NU8i_k)
 ---
