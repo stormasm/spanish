@@ -18,12 +18,30 @@ Here are examples of how to use *supe* in sentences, categorized by context:
 
 1\. "I found out / I learned" (Specific news or information) \[[1](https://www.instagram.com/reel/DVHSaA5mQgq/)\]
 
+* Lo supe todo el tiempo. (I knew it all along.)
+* Nunca supe su verdadero nombre. (I never knew his real name.)
+* Supe que algo andaba mal desde el momento en que te conocí. (I knew something was wrong from the moment I met you.)
+* No lo supe hasta que leí el periódico. (I didn't find out until I read the newspaper.)
+* En ese momento, supe que ella no era la indicada. (In that moment, I knew that she wasn't the one.)
+* Cuando no supe responder la pregunta, me dio una pista. (When I didn't know how to answer the question, he gave me a hint.
+
+---
+
+#### Quick Tip: Supe vs. Sabía
+
+- Supe focuses on the "flash" of realization—getting new information at a specific point in time.
+- Sabía (the imperfect form) means you already knew a fact over an extended period of time.
+
+---
+
 * Lo supe porque lo vi por internet.  
   *(I found out because I saw it online.)*  
 * No lo supe hasta que leí el periódico.  
   *(I didn't know about it until I read the paper.)*  
-* Supe que ella era mala persona desde que la vi.  
-  *(I knew/realized she was a bad person the moment I saw her.)*  
+
+* Supe que ella era buena persona desde que la vi.  
+  *(I knew/realized she was a good person the moment I saw her.)*  
+
 * Finalmente supe qué tenía mi tele.  
   *(I finally found out what was wrong with my TV.)* \[[1](https://www.reddit.com/r/Spanish/comments/ew5syi/confusion_about_when_to_use_supe/), [2](https://www.clozemaster.com/translate/spa-eng/supe), [3](https://www.spanishdict.com/translate/supe), [4](https://www.123teachme.com/translated_sentences/sp/supe), [5](https://www.ingles.com/traductor/supe)\]
 
@@ -72,4 +90,3 @@ Summary
 
 * Aprendí \= Process of learning a skill/info.  
 * Supe \= Instant finding out of a fact (like a lightbulb going on)
-
