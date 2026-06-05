@@ -1,3 +1,10 @@
+
+- mañana sabré si consegui el trabajo - tomorrow I will know if I got the job
+- lo supe todo el tiempo - I knew it all along
+- sabia que era verdad - I knew it was true
+
+---
+
 The Spanish word supe is the first-person singular (\\(yo\\)) conjugation of the verb saber (to know) in the preterite tense. While *saber* means "to know," in the preterite tense, supe often means "I found out," "I realized," or "I learned" at a specific moment in the past. \[[1](https://www.reddit.com/r/Spanish/comments/13a90r7/supe_or_sab%C3%ADa_in_this_context/?tl=es-419), [2](https://www.ingles.com/traductor/supe), [3](https://migaku.com/blog/spanish/saber-verb-conjugation-spanish-guide), [4](https://www.youtube.com/watch?v=d0EhJVsg_Qc)\]
 
 Here are examples of how to use *supe*:
