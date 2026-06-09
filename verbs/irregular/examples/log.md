@@ -25,9 +25,17 @@
 
 ### sentir
 
-- va a salir todo bien - everything will be ok
 - lo siento mucho por eso - I am sorry about that
 - lo siento mucho por tu pérdida - I am sorry for your loss
 - lo siento mucho por llegar tarde - I am sorry for being late
 - siento frio - I feel cold
 - siento que algo va a salir mal - I feel that something is going to go wrong
+
+---
+
+### va a salir
+
+- todo va a salir bien
+- todo va a estar bien
+- va a salir todo bien - everything will be ok
+- [ref note 01](./notes.md#note01)
