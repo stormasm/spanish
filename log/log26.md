@@ -1,6 +1,12 @@
 
 ---
 
+Tener salud va más allá de no estar enfermo. Según la Organización Mundial de la Salud (OMS), es un estado de completo bienestar físico, mental y social.
+
+Being healthy goes beyond not being sick. According to the World Health Organization (WHO), it is a state of complete physical, mental, and social well-being.
+
+---
+
 - Cuál es la diferencia entre - what is the difference between
 - los dos autobuses
 
