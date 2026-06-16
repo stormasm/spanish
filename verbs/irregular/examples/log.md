@@ -1,4 +1,8 @@
 
+### poner
+
+- [ref](./poner.md)
+
 ### ser
 
 - Me gustaría ser la primera persona en dar bienvenida - I would like to be the first person to welcome you
