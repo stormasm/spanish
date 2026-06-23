@@ -16,6 +16,7 @@ Putting on clothing or accessories
 Changing emotions or states
 
 * Me puse nervioso antes de la entrevista. (I got nervous before the interview.)  
+* Me puse nervioso antes de la prueba. (I got nervous before the test)
 * De pronto me puse muy triste. (I suddenly became very sad.)  
 * Me puse rojo de la vergüenza. (I turned red with embarrassment.) \[[1](https://www.clozemaster.com/examples/spa-eng/puse?page=3), [2](https://www.clozemaster.com/examples/spa-eng/puse?page=2)\]
 
@@ -23,4 +24,3 @@ Starting an activity (with "a")
 
 * Después de comer, me puse a limpiar. (After eating, I started cleaning.)  
 * Me puse a estudiar para el examen. (I started studying for the exam.) \[[1](https://www.clozemaster.com/examples/spa-eng/puse?page=3), [2](https://www.spanishdict.com/phrases/puse), [3](https://www.spanishdict.com/translate/yo%20me%20puse), [4](https://www.youtube.com/watch?v=tHiLQ1b0IU4&t=5)\]
-
