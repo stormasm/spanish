@@ -1,6 +1,11 @@
 
 ---
 
+- Me puse nervioso antes de la prueba - I got nervous before the test
+- [ref](https://github.com/stormasm/spanish/blob/main/verbs/irregular/examples/log.md)
+
+---
+
 Espero verte esta tarde
 para la fiesta de Michael y Cheryl
 en casa de Oatmar
