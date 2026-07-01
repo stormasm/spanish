@@ -5,7 +5,6 @@
 - Me voy a dar un baño - I am going to take a bath
 - Me voy a dar un duche - I am going to take a shower
 - [word of the day - 7/1/26 - ](https://www.spanishdict.com/wordoftheday) Me voy a dar un chapuzón en el lago. - I'm going to take a dip in the lake.
--
 
 ---
 
