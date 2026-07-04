@@ -3,6 +3,7 @@
 
 - [ref](./poner.md)
 - Me puse nervioso antes de la prueba - I got nervous before the test
+- Me puse nervioso antes de ir a ver al dentista - I got nervous before going to see the dentist
 
 ### ser
 
