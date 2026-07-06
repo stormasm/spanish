@@ -4,6 +4,7 @@
 
 ---
 
+- Me puse nervioso antes de ir a ver al dentista - I got nervous before going to see the dentist
 - Me puse nervioso antes de la prueba - I got nervous before the test
 - [ref](https://github.com/stormasm/spanish/blob/main/verbs/irregular/examples/log.md)
 
