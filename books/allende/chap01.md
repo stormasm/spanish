@@ -1,9 +1,9 @@
 
 ### Words
 
-##### Espanto
+#### Espanto
 
-1. (fear)   
+##### 1. (fear)   
 
 a. fright   
 - ¡Ay! ¡Otto! Me diste un espanto. No sabía que estabas aquí.
@@ -19,7 +19,7 @@ c. horror
 - Me da espanto la idea de subirme a un coche con él al volante.
 - I feel horror at the idea of getting in a car with him at the wheel.
 
-2. (something unpleasant)
+##### 2. (something unpleasant)
 
 a. terrible   
 - El libro me gustó, pero la película es un espanto.
