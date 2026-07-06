@@ -8,6 +8,10 @@ chingamos todos…
 - And at that moment—as Nívea would recall years later—amidst the anxiety and the silence, the voice of little Clara rang out with perfect clarity:
 “Psst! Father Restrepo! If that story about hell turns out to be a total lie, we’re all fucked…”
 
+### Words - Page 13
+
+- nitidez - clarity, sharpness
+
 ### Words - Page 09
 
 #### Espanto
