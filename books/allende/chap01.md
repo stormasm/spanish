@@ -6,10 +6,8 @@
 ##### 1. (fear)   
 
 a. fright   
-- ¡Ay! ¡Otto! Me diste un espanto.
-- No sabía que estabas aquí.
-- Ah! Otto! You gave me a fright.
-- I didn't know you were here.
+- ¡Ay! ¡Otto! Me diste un espanto. No sabía que estabas aquí.
+- Ah! Otto! You gave me a fright. I didn't know you were here.
 - Casi me muero de espanto cuando dijeron que llamaban del hospital.
 - I nearly died of fright when they told me they were calling from the hospital.
 
