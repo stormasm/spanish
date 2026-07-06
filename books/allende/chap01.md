@@ -10,6 +10,7 @@ chingamos todos…
 
 ### Words - Page 13
 
+- infierno - hell
 - nitidez - clarity, sharpness
 
 ### Words - Page 09
