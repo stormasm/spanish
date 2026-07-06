@@ -1,4 +1,13 @@
 
+### Sentences - Page 13
+
+- Y en ese momento, como recordara años más tarde Nívea, en medio de la
+ansiedad y el silencio, se escuchó con toda nitidez la voz de su pequeña Clara.
+—¡Pst! ¡Padre Restrepo! Si el cuento del infierno fuera pura mentira, nos
+chingamos todos…
+- And at that moment—as Nívea would recall years later—amidst the anxiety and the silence, the voice of little Clara rang out with perfect clarity:
+“Psst! Father Restrepo! If that story about hell turns out to be a total lie, we’re all fucked…”
+
 ### Words - Page 09
 
 #### Espanto
