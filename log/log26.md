@@ -1,4 +1,7 @@
 
+
+- No sabía que estabas aquí - I did not know that you were here
+
 ---
 
 - Me puse nervioso antes de la prueba - I got nervous before the test
