@@ -1,11 +1,14 @@
 
 ---
 
+### lo único que sé
+
 - lo + adjective = noun (neuter gender)
 - lo más importante - the most important thing
 - lo siguiente - the following thing
 - lo único - the only thing
 - lo único que sé - the only thing that I know
+- [ref](https://www.spanishdict.com/answers/212887/lo-unico-el-unico)
 
 ---
 
