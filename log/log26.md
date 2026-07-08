@@ -1,4 +1,13 @@
 
+---
+
+- lo + adjective = noun (neuter gender)
+- lo más importante - the most important thing
+- lo siguiente - the following thing
+- lo único - the only thing
+- lo único que sé - the only thing that I know
+
+---
 
 - No sabía que estabas aquí - I did not know that you were here
 
