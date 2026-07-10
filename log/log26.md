@@ -1,7 +1,9 @@
 
+- Me gustaría saber qué estás diciendo - I would like to know what you are saying
+
 ---
 
-- lo siguiente - the next thing
+- lo siguiente gran - the next big thing
 - lo siguiente que supe fue que - the next thing that I knew was that
 - lo siguiente que sé - the next thing that I know
 - lo único que sé - the only thing that I know
