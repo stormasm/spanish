@@ -1,6 +1,10 @@
 
 ---
 
+Vimos una cabra arriba en la montaña -  We saw a goat at the top of the mountain.
+
+---
+
 Solo una de estas opciones es correcta.
 
 La frase gramaticalmente correcta es: Me gustaría saber en qué está trabajando
