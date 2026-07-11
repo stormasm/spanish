@@ -1,7 +1,10 @@
 
 ---
 
-Vimos una cabra arriba en la montaña -  We saw a goat at the top of the mountain.
+### How does the preposition `en` work ?
+
+- Vimos una cabra arriba en la montaña -  We saw a goat at the top of the mountain.
+- Comimos muchos mariscos en nuestro viaje - We ate a lot of seafood on our trip.
 
 ---
 
