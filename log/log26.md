@@ -7,14 +7,20 @@ La frase gramaticalmente correcta es: Me gustaría saber en qué está trabajand
 
 La versión - Me gustaría saber qué está en trabajando - es incorrecta porque la preposición "en" debe ir antes del pronombre interrogativo "qué" para enlazar correctamente el verbo principal con la acción subordinada (trabajar en algo).
 
-Aquí tienes el desglose de ambas frases:
+Aquí tienes `el desglose` de ambas frases:
 
 - Correcta: Me gustaría saber en qué está trabajando (I would like to know what [he/she/you] are working on).
 - Incorrecta: Me gustaría saber qué está en trabajando (La estructura de la preposición y el verbo está invertida).
 
 ---
 
-- Me gustaría saber en qué está trabajando - I would like to know what you are working on
+el desglose (dehs-gloh-seh) - breakdown
+
+- Necesitamos realizar un desglose de los gastos.
+- We need to give a breakdown of the expenditures.
+
+---
+
 - Me gustaría saber qué estás diciendo - I would like to know what you are saying
 
 ---
