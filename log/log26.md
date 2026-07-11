@@ -1,4 +1,20 @@
 
+---
+
+Solo una de estas opciones es correcta.
+
+La frase gramaticalmente correcta es: Me gustaría saber en qué está trabajando
+
+La versión - Me gustaría saber qué está en trabajando - es incorrecta porque la preposición "en" debe ir antes del pronombre interrogativo "qué" para enlazar correctamente el verbo principal con la acción subordinada (trabajar en algo).
+
+Aquí tienes el desglose de ambas frases:
+
+- Correcta: Me gustaría saber en qué está trabajando (I would like to know what [he/she/you] are working on).
+- Incorrecta: Me gustaría saber qué está en trabajando (La estructura de la preposición y el verbo está invertida).
+
+---
+
+- Me gustaría saber en qué está trabajando - I would like to know what you are working on
 - Me gustaría saber qué estás diciendo - I would like to know what you are saying
 
 ---
