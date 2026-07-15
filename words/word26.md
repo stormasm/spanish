@@ -1,4 +1,7 @@
 
+
+- mirador - viewpoint, punto de vista
+
 ### 5/25 - trasera - rear, back
 
 - En las traseras de la casa, hay un pequeño jardín
