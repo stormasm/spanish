@@ -1,5 +1,6 @@
 
-
+- amanecer - sunrise
+- atardecer - sunset
 - mirador - viewpoint, punto de vista
 
 ### 5/25 - trasera - rear, back
