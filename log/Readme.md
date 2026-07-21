@@ -1,4 +1,9 @@
 
+
+### Summer 2026
+
+- [soler](https://github.com/stormasm/spanish/blob/main/verbs/study/verb2601.md#soler)
+
 ### me pone
 
 - contento
