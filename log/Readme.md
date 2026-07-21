@@ -1,6 +1,8 @@
 
 
-### Summer 2026
+### 2026
+
+##### summer
 
 - [soler](https://github.com/stormasm/spanish/blob/main/verbs/study/verb2601.md#soler)
 
