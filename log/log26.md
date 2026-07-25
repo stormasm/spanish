@@ -8,6 +8,10 @@
 - He began to perspire when the teacher asked him why he hadn't turned in the homework.
 - El submarino disparó un torpedo y [hundió](https://www.spanishdict.com/translate/hundir) el barco.
 - The submarine fired a torpedo and sunk the ship.
+- Mi gato arrancó uno de los botones de mi americana.
+- My cat pulled one of the buttons off my blazer.
+- Había [arrancado](https://www.spanishdict.com/translate/arrancar) una página de su diario.
+- She had torn out a page of her diary.
 
 ---
 
