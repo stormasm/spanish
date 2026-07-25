@@ -12,6 +12,8 @@
 - My cat pulled one of the buttons off my blazer.
 - Había [arrancado](https://www.spanishdict.com/translate/arrancar) una página de su diario.
 - She had torn out a page of her diary.
+- Los cerdos comían de una [artesa](https://www.spanishdict.com/translate/artesa).
+- The pigs were eating from a trough.
 
 ---
 
