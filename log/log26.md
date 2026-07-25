@@ -1,4 +1,12 @@
 
+
+---
+
+- Necesito enjuagarme después de sudar tanto.
+- I need to rinse off after sweating so much.
+- Empezó a sudar cuando la maestra le preguntó por qué no había [entregado](https://www.spanishdict.com/translate/entregar) la tarea.
+- He began to perspire when the teacher asked him why he hadn't turned in the homework.
+
 ---
 
 ### How does the preposition `en` work ?
