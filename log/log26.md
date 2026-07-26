@@ -1,5 +1,6 @@
 
-
+---
+- [todos somos locos de remate](https://github.com/stormasm/spanish/blob/main/words/idioms.md#son-locos-de-remate)
 ---
 
 - Necesito [enjuagarme](https://www.spanishdict.com/translate/enjuagar) después de sudar tanto.

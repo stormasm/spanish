@@ -9,6 +9,17 @@ Meaning and Breakdown
 - De remate: An intensifier meaning "absolute," "complete," or "total"—literally referring to the final touch or the absolute limit (the final straw of someone's sanity).
 - Used colloquially to describe people who are utterly out of their minds, acting wildly irrational, or beyond regular crazy
 
+#### de remate
+
+In Spanish, the phrase "de remate" most commonly means "completely," "totally," or "out and out" when used as an intensifier, especially with negative traits...
+
+As an intensifier (totally/completely): It is frequently paired with words describing a state of mind or behavior to mean someone is extreme or beyond help.
+
+- "Tonto de remate" means completely or utterly stupid
+- todos estamos locos de remate - we are all stark raving mad
+- todos estamos completamente locos.
+- todos somos locos de remate
+
 #### me dieron por sentado
 
 Me dio por sentado" (o "me dieron por sentado") significa que alguien te asumió como algo seguro, sin valorarte lo suficiente o sin apreciar tu esfuerzo, esperando que siempre estarías ahí sin importar lo que hicieran, lo cual genera desilusión y falta de reconocimiento, como si fueras una parte más del paisaje y no una persona importante. Es la sensación de no ser visto ni apreciado en una relación, trabajo o situación, asumiendo tu presencia o acciones sin agradecimiento o consideración
