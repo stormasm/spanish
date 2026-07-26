@@ -1,7 +1,15 @@
 
-# idioms
+#### son locos de remate
 
-### me dieron por sentado
+"they are completely insane" or "they are stark raving mad"
+
+Meaning and Breakdown
+
+- Locos: Crazy or insane (plural masculine).
+- De remate: An intensifier meaning "absolute," "complete," or "total"—literally referring to the final touch or the absolute limit (the final straw of someone's sanity).
+- Used colloquially to describe people who are utterly out of their minds, acting wildly irrational, or beyond regular crazy
+
+#### me dieron por sentado
 
 Me dio por sentado" (o "me dieron por sentado") significa que alguien te asumió como algo seguro, sin valorarte lo suficiente o sin apreciar tu esfuerzo, esperando que siempre estarías ahí sin importar lo que hicieran, lo cual genera desilusión y falta de reconocimiento, como si fueras una parte más del paisaje y no una persona importante. Es la sensación de no ser visto ni apreciado en una relación, trabajo o situación, asumiendo tu presencia o acciones sin agradecimiento o consideración
 
