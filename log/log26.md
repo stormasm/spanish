@@ -2,8 +2,13 @@
 # de remate
 
 - todos somos tristes de remate - we are all utterly miserable.
+- todos estamos tristes de remate - we are all absolutely devastated.
 - todos somos felices de remate - we are all absolutely happy.
+- todos estamos felices de remate - we are all absolutely overjoyed.
 - [todos somos locos de remate](https://github.com/stormasm/spanish/blob/main/words/idioms.md#son-locos-de-remate) we are all stark raving mad.
+- estar is where or HOW one is - ser is for WHAT one is.
+- born loco de remate is ser - ended up loco de remate is estar
+- remates a puerta = shots on goal (futból / soccer)
 
 ---
 
