@@ -1,6 +1,10 @@
 
----
-- [todos somos locos de remate](https://github.com/stormasm/spanish/blob/main/words/idioms.md#son-locos-de-remate)
+# de remate
+
+- todos somos tristes de remate - we are all utterly miserable.
+- todos somos felices de remate - we are all absolutely happy.
+- [todos somos locos de remate](https://github.com/stormasm/spanish/blob/main/words/idioms.md#son-locos-de-remate) we are all stark raving mad.
+
 ---
 
 - Necesito [enjuagarme](https://www.spanishdict.com/translate/enjuagar) después de sudar tanto.
