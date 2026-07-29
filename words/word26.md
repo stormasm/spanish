@@ -1,4 +1,20 @@
 
+### al cabo de
+
+- al cabo de - after
+- al cabo de un rato - after a while
+- al cabo de un tiempo - after a while
+
+### al cabo de
+
+phrase
+
+a. after  
+El sospechoso salió de la sala de interrogatorio al cabo de dos horas - The suspect walked out of the interrogation room after two hours.
+
+b. at the end of   
+Al cabo de la semana, regresamos a casa - We returned home at the end of the week.
+
 
 ### el rato
 
