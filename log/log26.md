@@ -1,4 +1,10 @@
 
+### al cabo de
+
+- al cabo de - after
+- al cabo de un rato - after a while
+- al cabo de un tiempo - after a while
+
 # de remate
 
 - todos somos tristes de remate - we are all utterly miserable

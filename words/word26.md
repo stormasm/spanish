@@ -1,4 +1,29 @@
 
+
+### el rato
+
+1. (period of time)
+
+a. while   
+Llevo mucho rato en la sala de espera.I've been in the waiting room for a long while.
+bit
+
+b. bit   
+- Dentro de un rato iremos a la tienda si nos quieres acompañar - We're going to the store in a bit if you want to come along.
+
+c. minute   
+Cuando tengas un rato desocupado, ¿me puedes revisar algo - When you have a free minute, can you review something for me?
+
+d. moment   
+En un rato más te atiendo - I'll be with you in just a moment.
+
+2. (experience)
+
+a. time   
+- ¿Pasaste un buen rato con tus amigos de la universidad - Did you have good time with your friends from college?
+
+---
+
 - amanecer - sunrise
 - atardecer - sunset
 - mirador - viewpoint, punto de vista
