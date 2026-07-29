@@ -15,6 +15,8 @@ El sospechoso salió de la sala de interrogatorio al cabo de dos horas - The sus
 b. at the end of   
 Al cabo de la semana, regresamos a casa - We returned home at the end of the week.
 
+---
+
 ### el rato
 
 In Spanish, el rato means "a while," "a bit," or a short, unspecified period of time.
