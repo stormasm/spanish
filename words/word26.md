@@ -1,11 +1,24 @@
 
+### cabo
+
+- End / Tip: The physical end or tip of an object (like a rope or tool).
+- Cape (Geography): A piece of land sticking out into the sea (e.g., Cabo de Hornos / Cape Horn).
+- Llevar a cabo: To carry out or accomplish a task.
+- De cabo a rabo: From start to finish or beginning to end.
+- Atar cabos: To put two and two together / connect the clues.
+- Al fin y al cabo: After all / at the end of the day.
+
 ### al cabo de
 
+It is a formal alternative to the word después (after) when talking about time.
+
+- despues de un rato - after a while - cabo de un rato
+- After or at the end of usually followed by a time expression
+- Regresó al cabo de dos horas - He returned after two hours
+-
 - al cabo de - after
 - al cabo de un rato - after a while
 - al cabo de un tiempo - after a while
-
-### al cabo de
 
 phrase
 
