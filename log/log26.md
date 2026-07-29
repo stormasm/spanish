@@ -1,4 +1,6 @@
 
+- [al cabo de](https://github.com/stormasm/spanish/blob/main/words/word26.md)
+
 ### al cabo de
 
 - al cabo de - after
