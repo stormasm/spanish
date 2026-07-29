@@ -23,10 +23,10 @@ In Spanish, el rato means "a while," "a bit," or a short, unspecified period of 
 
 It refers to an amount of time that is longer than a quick second or single moment, but not extremely long—usually lasting anywhere from a few minutes to part of an hour.
 
-- Un rato: A little while. ("Esperé un rato" = I waited for a while).
-- Pasar el rato: To pass the time or hang out. ("Estamos aquí para pasar el rato" = We are here just passing the time).
-- Hace un rato: A while ago. ("Llegó hace un rato" = He arrived a short while ago).
-- Para rato: For a long time or quite a while. ("Tenemos para rato" = We're going to be here for a while).
+- Un rato: A little while. Esperé un rato  - I waited for a while
+- Pasar el rato: To pass the time or hang out. Estamos aquí para pasar el rato - We are here just passing the time
+- Hace un rato: A while ago. Llegó hace un rato - He arrived a short while ago
+- Para rato: For a long time or quite a while - Tenemos para rato - We're going to be here for a while
 
 ---
 
