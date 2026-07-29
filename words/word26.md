@@ -21,7 +21,7 @@ Al cabo de la semana, regresamos a casa - We returned home at the end of the wee
 1. (period of time)
 
 a. while   
-Llevo mucho rato en la sala de espera.I've been in the waiting room for a long while.
+Llevo mucho rato en la sala de espera - I've been in the waiting room for a long while.
 bit
 
 b. bit   
