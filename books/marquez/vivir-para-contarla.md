@@ -1,4 +1,10 @@
 
+# Vivir Para Contarla
+
+- [ref](https://es.wikipedia.org/wiki/Vivir_para_contarla)
+
+---
+
 Mi madre me pidió que la acompañara a vender la casa. Había llegado a
 Barranquilla esa mañana desde el pueblo distante donde vivía la familia y no
 tenía la menor idea de cómo encontrarme.
@@ -99,9 +105,5 @@ emparejé con don Ramón Vinyes, el viejo maestro y librero catalán, y le pedí
 prestados diez pesos.
 
 Sólo tenía seis.
-
----
-
-https://es.wikipedia.org/wiki/Vivir_para_contarla
 
 ---
