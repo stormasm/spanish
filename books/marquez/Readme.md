@@ -8,3 +8,7 @@
 
 - penumbra: half light, semidarkness
 - acudir: to respond to a call, come to the rescue
+
+### References
+
+- [Banana Massacre](https://en.wikipedia.org/wiki/Banana_Massacre)

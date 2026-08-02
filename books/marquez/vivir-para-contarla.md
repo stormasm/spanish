@@ -41,6 +41,8 @@ antes de abrazarme, me dijo con su estilo ceremonial de costumbre:
 
 —Vengo a pedirte el favor de que me acompañes a vender la casa.
 
+---
+
 No tuvo que decirme cuál, ni dónde, porque para nosotros sólo existía una en
 el mundo: la vieja casa de los abuelos en Aracataca, donde tuve la buena
 suerte de nacer y donde no volví a vivir después de los ocho años.
@@ -105,5 +107,60 @@ emparejé con don Ramón Vinyes, el viejo maestro y librero catalán, y le pedí
 prestados diez pesos.
 
 Sólo tenía seis.
+
+---
+
+Ni mi madre ni yo, por supuesto, hubiéramos podido imaginar siquiera que
+aquel cándido paseo de sólo dos días iba a ser tan determinante para mí, que
+la más larga y diligente de las vidas no me alcanzaría para acabar de contarlo.
+
+Ahora, con más de setenta y cinco años bien medidos, sé que fue la decisión
+más importante de cuantas tuve que tomar en mi carrera de escritor. Es decir:
+en toda mi vida.
+
+Hasta la adolescencia, la memoria tiene más interés en el futuro que en el
+pasado, así que mis recuerdos del pueblo no estaban todavía idealizados por la
+nostalgia.
+
+Lo recordaba como era: un lugar bueno para vivir, donde se conocía
+todo el mundo, a la orilla de un río de aguas diáfanas que se precipitaban por
+un lecho de piedras pulidas, blancas y enormes como huevos prehistóricos.
+
+Al
+atardecer, sobre todo en diciembre, cuando pasaban las lluvias y el aire se
+volvía de diamante, la Sierra Nevada de Santa Marta parecía acercarse con
+sus picachos blancos hasta las plantaciones de banano de la orilla opuesta.
+
+Desde allí se veían los indios aruhacos corriendo en filas de hormiguitas por las
+cornisas de la sierra, con sus costales de jengibre a cuestas y masticando
+bolas de coca para entretener a la vida.
+
+Los niños teníamos entonces la ilusión
+de hacer pelotas con las nieves perpetuas y jugar a la guerra en las calles
+abrasantes.
+
+Pues el calor era tan inverosímil, sobre todo durante la siesta, que
+los adultos se quejaban de él como si fuera una sorpresa de cada día.
+
+Desde
+mi nacimiento oí repetir sin descanso que las vías del ferrocarril y los
+campamentos de la United Fruit Company fueron construidos de noche, porque
+de día era imposible agarrar las herramientas recalentadas al sol.
+
+La única manera de llegar a Aracataca desde Barranquilla era en una
+destartalada lancha de motor por un caño excavado a brazo de esclavo durante
+la Colonia, y luego a través de una vasta ciénaga de aguas turbias y desoladas,
+hasta la misteriosa población de Ciénaga.
+
+Allí se tomaba el tren ordinario que
+había sido en sus orígenes el mejor del país, y en el cual se hacía el trayecto
+final por las inmensas plantaciones de banano, con muchas paradas ociosas
+en aldeas polvorientas y ardientes, y estaciones solitarias.
+
+Ése fue el camino
+que mi madre y yo emprendimos a las siete de la noche del sábado 18 de
+febrero de 1950 —vísperas del carnaval— bajo un aguacero diluvial fuera de
+tiempo y con treinta y dos pesos en efectivo que nos alcanzarían apenas para
+regresar si la casa no se vendía en las condiciones previstas.
 
 ---
