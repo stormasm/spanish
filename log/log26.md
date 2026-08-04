@@ -1,4 +1,8 @@
 
+- me encanta caminar en el parque
+- si se trata de dinero no tienes que preocuparte
+---
+
 - [al cabo de](https://github.com/stormasm/spanish/blob/main/words/word26.md)
 
 ### al cabo de
