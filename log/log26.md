@@ -1,4 +1,7 @@
 
+---
+
+- pedro respondió a lo que dije con una sonrisa - pedro replied to what I said with a smile
 - me encanta caminar en el parque
 
 ---
@@ -6,7 +9,7 @@
 ### tratarse - to be about
 
 - no se trata de dinero - its not about the money
-- si se trata de dinero no tienes que preocuparte - if its about money you do not need to worry 
+- si se trata de dinero no tienes que preocuparte - if its about money you do not need to worry
 - se trata del viaje, no del destino - its all about the journey, not the destination
 - no tienes que preocuparte - you don't have to worry
 - no tienes que preocuparte por eso - you don't have to worry about that
