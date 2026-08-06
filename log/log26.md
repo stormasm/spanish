@@ -231,3 +231,34 @@ start working on...
 - [la serendipia](https://dle.rae.es/serendipia?m=form) - serendipity
 - [chiripa](https://dle.rae.es/chiripa)
 - [carambola](https://dle.rae.es/carambola)
+
+### Anchor Phrases
+
+Anchor phrases are core phrases used in many different situations.
+
+---
+
+- it looks easy but its not
+- my head hurts from thinking too much
+- I wake up early every day
+- I get up early
+- I try to play the guitar
+
+---
+
+- parece fácil, pero no lo es
+- me duele la cabeza de tanto pensar
+- me depierto temprano todos los dias
+- me levanto temprano
+- intento tocar la guitarra
+
+---
+
+- lo mejor que puedo - the best (that) I can
+- lo mejor que - the best thing (that)
+- lo mejor que puedes hacer - the best thing (that) you can do
+
+---
+
+- nunca podré entender - I will never understand
+- nunca podré estudiar - I will never be able to study
