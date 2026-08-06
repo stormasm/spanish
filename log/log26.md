@@ -240,19 +240,11 @@ Anchor phrases are core phrases used in many different situations.
 
 ---
 
-- it looks easy but its not
-- my head hurts from thinking too much
-- I wake up early every day
-- I get up early
-- I try to play the guitar
-
----
-
-- parece fácil, pero no lo es
-- me duele la cabeza de tanto pensar
-- me depierto temprano todos los dias
-- me levanto temprano
-- intento tocar la guitarra
+- parece fácil, pero no lo es, its looks easy but its not
+- me duele la cabeza de tanto pensar, my head hurts from thinking too much
+- me depierto temprano todos los dias, I wake up early every day
+- me levanto temprano, I get up early
+- intento tocar la guitarra, I try to play the guitar
 
 ---
 
