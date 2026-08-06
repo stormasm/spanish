@@ -3,6 +3,7 @@
 
 - Tu vida sería mejor si - Seria mejor tu vida si - Would your life be better if
 - no estuvieras con - you were not with
+- Mejor is an adjective or adverb meaning "better", while mejora is a noun (or a verb form) meaning improvement or an upgrade
 
 ---
 
