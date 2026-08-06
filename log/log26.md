@@ -232,6 +232,8 @@ start working on...
 - [chiripa](https://dle.rae.es/chiripa)
 - [carambola](https://dle.rae.es/carambola)
 
+---
+
 ### Anchor Phrases
 
 Anchor phrases are core phrases used in many different situations.
