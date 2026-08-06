@@ -1,6 +1,11 @@
 
 ---
 
+- Tu vida sería mejor si - Seria mejor tu vida si - Would your life be better if
+- no estuvieras con - you were not with
+
+---
+
 - pedro respondió a lo que dije con una sonrisa - pedro replied to what I said with a smile
 - me encanta caminar en el parque
 
