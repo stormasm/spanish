@@ -1,6 +1,13 @@
 
 ---
 
+entonces, la unica rasón
+por que estoy pensando de XXX
+es porque no hay nada
+mas importante de contemplar.
+
+---
+
 a dónde va - where is he going
 a dónde vas - where are you going
 a dónde vamos a viajar - where are we going to travel
