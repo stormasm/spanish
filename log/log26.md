@@ -1,9 +1,9 @@
 
 ---
 
-entonces, la unica rasón
-por que estoy pensando de XXX
-es porque no hay nada
+entonces, la unica rasón   
+por que estoy pensando de XXX   
+es porque no hay nada   
 mas importante de contemplar.
 
 ---
