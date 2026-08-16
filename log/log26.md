@@ -1,4 +1,8 @@
 
+Dio la casualidad de que asistí a ese espectáculo --- It just so happened that I attended that show.
+
+
+
 ---
 
 entonces, la unica rasón   
@@ -8,9 +12,9 @@ mas importante de contemplar.
 
 ---
 
-a dónde va - where is he going
-a dónde vas - where are you going
-a dónde vamos a viajar - where are we going to travel
+a dónde va - where is he going   
+a dónde vas - where are you going   
+a dónde vamos a viajar - where are we going to travel   
 a dónde vas este fin de semana - where are you going this weekend
 
 ---
