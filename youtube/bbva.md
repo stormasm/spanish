@@ -3,6 +3,8 @@
 - [all videos: aprendemos juntos mex](https://www.youtube.com/@AprendemosJuntos_mex/videos)
 
 ---
+- 26.08 [¿Por qué somos como somos los mexicanos? | Úrsula Camba, historiadora](https://www.youtube.com/watch?v=onpdTXxv9MI)
+---
 - 26.06 [De maestra en Oaxaca a estrella de Hollywood | Yalitza Aparicio, actriz](https://www.youtube.com/watch?v=p5UNAIb2QhQ)
 ---
 - 26.05 [La vida también se cuenta en canciones | Carla Morrison, cantante y compositora](https://www.youtube.com/watch?v=liWBSnwM6e4)
