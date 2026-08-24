@@ -30,6 +30,22 @@ a dónde vas este fin de semana - where are you going this weekend
 
 ---
 
+The word "lo" acts as a neuter pronoun. It turns the verb phrase "que dije" (that I said) into a noun-like object meaning "what I said" or "that which I said." Without "lo," the phrase "a que dije" lacks a direct grammatical anchor for the relative clause.
+
+### Why "Lo" is Necessary
+
+- Creates a Noun Equivalent: "Lo que" means "that which" or "what."
+- Connects the Preposition: The preposition "a" needs an object. "Lo que dije" provides that object.
+- Direct Object Function: It points directly to the statement or words you spoke.
+
+### How the Parts Work
+
+- A: The preposition required by the verb responder (responder a algo).
+- Lo: The neuter article/pronoun.
+- Que dije: The clause telling what was said.
+
+---
+
 ### tratarse - to be about
 
 - no se trata de dinero - its not about the money
