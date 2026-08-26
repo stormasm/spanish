@@ -1,8 +1,9 @@
 
 ---
 
-me alegra que hayas podido asistir al mercado de los martes
-I'm glad you were able to attend the Tuesday market.
+- me alegra que pudieras - I am glad that you could
+- me alegra que hayas podido - I am glad you were able to
+- me alegra que hayas podido asistir al mercado de los martes - I'm glad you were able to attend the Tuesday market.
 
 ---
 
