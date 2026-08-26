@@ -3,7 +3,22 @@
 
 - me alegra que pudieras - I am glad that you could
 - me alegra que hayas podido - I am glad you were able to
+- me alegra de que hayas podido - slightly more formal
 - me alegra que hayas podido asistir al mercado de los martes - I'm glad you were able to attend the Tuesday market.
+
+---
+
+The phrase "hayas podido" is in the subjunctive mood because it follows a verb of emotion ("me alegra" / I am glad) that expresses a feeling about someone else's action.
+
+In Spanish, whenever the main clause expresses feelings, wishes, doubts, or opinions, the dependent clause that follows the word `que` must use the subjunctive mood.
+
+Why this happens:
+
+`Two Different Subjects` (Implicit or Explicit): The first part of the sentence is about my feeling (me alegra - I am glad), and the second part is about your action (you were able to come). When the person feeling the emotion is different from the person doing the action, Spanish requires "que" + subjunctive.
+
+`The Trigger`: The phrase starts with alegrarse (to be glad). Emotions trigger the subjunctive because you are reacting to a fact rather than stating a hard, objective truth.
+
+`The Tense`: Hayas podido is the present perfect subjunctive (haya + past participle podido). It is used here because the emotional reaction is happening now, but the action being reacted to happened in the past (you were able to do it before now).
 
 ---
 
