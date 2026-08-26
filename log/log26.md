@@ -1,7 +1,12 @@
 
+---
+
+me alegra que hayas podido asistir al mercado de los martes
+I'm glad you were able to attend the Tuesday market.
+
+---
+
 Dio la casualidad de que asistí a ese espectáculo --- It just so happened that I attended that show.
-
-
 
 ---
 
