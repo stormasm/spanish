@@ -1,11 +1,9 @@
 
 ---
 
-Nuestras plantas estaban muy felices hoy - our plants are very happy today
-
-sabiendo que iba a llover - knowing that it was going to rain
-
-Por suerte, hice mucho trabajo ayer en el jardin - luckily I got a lot of work done yesterday in the garden
+- Nuestras plantas estaban muy felices hoy - our plants are very happy today
+- sabiendo que iba a llover - knowing that it was going to rain
+- Por suerte, hice mucho trabajo ayer en el jardin - luckily I got a lot of work done yesterday in the garden
 
 ---
 
