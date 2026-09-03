@@ -1,22 +1,22 @@
 
-[Verso 1]
+[Verso 1]  
 Me complace amarte   
 Disfruto acariciarte y ponerte a dormir   
 Es escalofriante tenerte de frente, hacerte sonreír   
 Daría cualquier cosa por tan primorosa, por estar siempre aquí   
 Y entre todas esas cosas, déjame quererte, entrégate a mí
 
-[Pre-Coro]
+[Pre-Coro]  
 No te fallaré   
 Contigo yo quiero envejecer
 
-[Coro]
+[Coro]  
 Quiero darte un beso, perder contigo mi tiempo   
 Guardar tus secretos, cuidar tus momentos  
 Abrazarte, esperarte, adorarte   
 Tenerte paciencia, tu locura es mi ciencia
 
-[Post-Coro]
+[Post-Coro]  
 Ah, hah, hah  
 Hoh, hoh, hoh  
 Hoh, hoh, hoh, hoh, hoh, hoh, hoh  
