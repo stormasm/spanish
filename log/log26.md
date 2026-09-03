@@ -1,15 +1,12 @@
 
 - Meaning "Was Going" (Ongoing action in the past)
--
 - Yo iba al supermercado cuando empezó a llover - I was going to the supermarket when it started to rain.
 -
 - Meaning "Used to Go" (Habitual past action)
--
 - De niño, yo iba al parque todos los días - As a child, I used to go to the park every day.
 - Mi abuelo iba a Madrid cada verano - My grandfather used to go to Madrid every summer.
 -
 - Using "Iba a + infinitive" (Unrealized past intentions)
--
 - Iba a llamarte, pero se me olvidó - I was going to call you, but I forgot.
 - Él iba a comprar pan, pero no había - He was going to buy bread, but there wasn't any left.
 
