@@ -1,7 +1,8 @@
 
 ---
 
-Me encanta aprender palabras nuevas en español.
+- El odio no tiene cabida aquí - El odio no tiene hogar aquí
+- Me encanta aprender palabras nuevas en español.
 
 ---
 
