@@ -1,4 +1,10 @@
 
+---
+
+Me encanta aprender palabras nuevas en español.
+
+---
+
 - `Was Going` (Ongoing action in the past)
 - Yo iba al supermercado cuando empezó a llover - I was going to the supermarket when it started to rain.
 -
