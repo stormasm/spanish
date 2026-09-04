@@ -111,4 +111,41 @@ Hoh, hoh, hoh, hoh, hoh, hoh, hoh
 
 ---
 
+### Without notes
+
+Me complace amarte   
+Disfruto acariciarte y ponerte a dormir   
+Es escalofriante tenerte de frente, hacerte sonreír   
+Daría cualquier cosa por tan primorosa, por estar siempre aquí   
+Y entre todas esas cosas, déjame quererte, entrégate a mí
+
+No te fallaré   
+Contigo yo quiero envejecer
+
+Quiero darte un beso, perder contigo mi tiempo   
+Guardar tus secretos, cuidar tus momentos  
+Abrazarte, esperarte, adorarte   
+Tenerte paciencia, tu locura es mi ciencia
+
+Disfruto mirarte   
+Cada movimiento   
+Un vicio que tengo   
+Un gusto valorarte    
+Nunca olvidarte   
+Entregarte mis tiempos
+
+No te fallaré   
+Contigo yo quiero envejecer
+  
+Quiero darte un beso, perder contigo mi tiempo   
+Guardar tus secretos, cuidar tus momentos   
+Abrazarte, esperarte, adorarte   
+Tenerte paciencia, tu locura es mi ciencia   
+Quiero darte un beso, perder contigo mi tiempo   
+Guardar tus secretos, cuidar tus momentos   
+Abrazarte, esperarte, adorarte   
+Tenerte paciencia, tu locura es mi ciencia
+
+---
+
 - [youtube: Carla Morrison - Disfruto (Video Oficial)](https://www.youtube.com/watch?v=_ruEj-XK1lA)
