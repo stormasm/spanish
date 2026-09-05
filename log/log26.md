@@ -1,6 +1,14 @@
 
 ---
 
+- acabamos de contratar a un nuevo abogado - we just hired a new lawyer
+- acabamos - we just finished
+- acabamos de llegar - we just arrived
+- acabamos de aterrizar - we just landed
+- alternativas - terminamos de contratar - we finished hiring
+
+---
+
 - El odio no tiene cabida aquí - El odio no tiene hogar aquí
 - Me encanta aprender palabras nuevas en español.
 
