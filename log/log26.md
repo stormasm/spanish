@@ -9,6 +9,11 @@
 
 ---
 
+- El avión aterrizó antes de lo previsto - The plane landed earlier than expected.
+- La mosca aterrizó en mi sopa - The fly landed in my soup.
+
+---
+
 - El odio no tiene cabida aquí - El odio no tiene hogar aquí
 - Me encanta aprender palabras nuevas en español.
 
