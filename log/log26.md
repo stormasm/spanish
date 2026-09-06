@@ -1,4 +1,14 @@
 
+---
+
+- Son todos gramaticalmente correctos ?
+- mi vida es un sendero
+- aquí hay una frase de ejemplo
+- aquí hay algunas oraciones de ejemplo.
+- Caminamos en el sendero de la montaña por cinco días
+- Caminamos por un sendero de la montaña durante cinco días.
+- Caminamos a lo largo del sendero de la montaña por cinco días.
+- Caminaron en el sendero de la montaña por cinco días antes de encontrar un refugio - They hiked along the mountain trail for five days before finding a shelter.
 
 ---
 
