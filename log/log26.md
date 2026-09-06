@@ -1,6 +1,7 @@
 
 ---
 
+- [acabar - to finish, to end](https://www.spanishdict.com/translate/acabar)
 - Te llamaré después de que acabe la película - I'll call you after the movie ends.
 - Yo acabo mis clases en junio - I finish my classes in June.
 - acabamos de contratar a un nuevo abogado - we just hired a new lawyer
