@@ -1,4 +1,9 @@
 
+
+---
+
+- [tierra - land](https://www.spanishdict.com/translate/tierra)
+
 ---
 
 - [acabar - to finish, to end](https://www.spanishdict.com/translate/acabar)
