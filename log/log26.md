@@ -1,6 +1,15 @@
 
 ---
 
+- [Emotions or physical reactions with dar and poner](https://github.com/stormasm/spanish/blob/main/verbs/darex.md#emotions-or-physical-reactions-with-dar-and-poner)
+
+---
+
+- Nunca podré entender mi vida - I will never be able understand my life
+- Sería posible estudiar mañana con usted, Would it be possible to study with you tomorrow?
+
+---
+
 - Son todos gramaticalmente correctos ?
 - mi vida es un sendero
 - aquí hay una frase de ejemplo
