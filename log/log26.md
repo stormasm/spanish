@@ -1,6 +1,12 @@
 
 ---
 
+- [soltar](https://www.spanishdict.com/conjugate/soltar) - to let go of, to loosen
+- Suelta la cometa y vente a cenar - Let go of the kite and come in for dinner.
+- ¿Por qué no puedo soltar la vida?
+
+---
+
 - [Emotions or physical reactions with dar and poner](https://github.com/stormasm/spanish/blob/main/verbs/darex.md#emotions-or-physical-reactions-with-dar-and-poner)
 
 ---
