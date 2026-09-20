@@ -10,7 +10,7 @@ Weather and Environment
 
 Work and Stress
 
-- La rutina diaria en la oficina se volvió agobiante. - The daily routine at the office became overwhelming.)
+- La rutina diaria en la oficina se volvió agobiante. - The daily routine at the office became overwhelming.
 - Tengo una cantidad agobiante de trabajo hoy - I have an overwhelming amount of work today.
 
 Feelings and Situations
