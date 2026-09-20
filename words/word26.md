@@ -1,4 +1,28 @@
 
+### agobiante
+
+Agobiante means stifling, oppressive, overwhelming, or tiresome.
+
+Weather and Environment
+
+- No puedo aguantar este calor agobiante. - I can't stand this stifling heat.
+- A través de las ventanas llegaba el aire agobiante de la tarde.(The oppressive afternoon air came through the windows.)
+
+Work and Stress
+
+- La rutina diaria en la oficina se volvió agobiante. - The daily routine at the office became overwhelming.)
+- Tengo una cantidad agobiante de trabajo hoy - I have an overwhelming amount of work today.)
+
+Feelings and Situations
+
+- Sentía una presión agobiante en el pecho por el estrés. - I felt an oppressive pressure in my chest from the stress.
+- El tráfico de la ciudad a las cinco de la tarde es agobiante. - City traffic at five in the afternoon is exhausting/stressful.
+
+Personalities
+
+- Él tiene un carácter agobiante; siempre quiere controlar todo. - He has a tiresome personality; he always wants to control everything.
+
+
 ### cabo
 
 - End / Tip: The physical end or tip of an object (like a rope or tool).
