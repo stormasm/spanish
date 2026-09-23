@@ -14,3 +14,5 @@
 -
 - Voy a echarle apio a la ensalada - I'm going to add celery to the salad.
 - 
+- Pepe respondió a lo que dije con una carcajada - Pepe replied to what I said with a loud laugh
+-
