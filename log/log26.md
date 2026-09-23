@@ -1,6 +1,10 @@
 
 ---
 
+- iba a comer - I was going to eat
+
+---
+
 - [soltar](https://www.spanishdict.com/conjugate/soltar) - to let go of, to loosen
 - Suelta la cometa y vente a cenar - Let go of the kite and come in for dinner.
 - ¿Por qué no puedo soltar la vida?
