@@ -13,3 +13,8 @@
 -
 - Los tréboles de cuatro hojas son raros, pero los de cinco hojas son aún más raros.
 - Four-leaf clovers are rare, but five-leaf ones are even rarer.
+-
+- Me encanta nadar en el lago - - I love to swim in the lake.
+-
+- Voy a echarle apio a la ensalada - I'm going to add celery to the salad.
+- 
