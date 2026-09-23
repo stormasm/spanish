@@ -1,6 +1,6 @@
-- Me encanta nadar en el lago - - I love to swim in the lake.
--
-- Voy a echarle apio a la ensalada - I'm going to add celery to the salad.
-- 
-- Pepe respondió a lo que dije con una carcajada - Pepe replied to what I said with a loud laugh
--
+Me encanta nadar en el lago - I love to swim in the lake   
+   
+Voy a echarle apio a la ensalada - I'm going to add celery to the salad   
+   
+Pepe respondió a lo que dije con una carcajada - Pepe replied to what I said with a loud laugh
+
