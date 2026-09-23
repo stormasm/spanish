@@ -54,6 +54,8 @@
 ---
 
 - `Was Going` (Ongoing action in the past)
+- Iba al parque cuando mi amigo vino a visitarme - I was going to the park when my friend came by to visit
+- Iba al parque cuando mi amigo pasó a visitarme
 - Yo iba al supermercado cuando empezó a llover - I was going to the supermarket when it started to rain.
 -
 - `Used to Go` (Habitual past action)
