@@ -1,6 +1,13 @@
 
 ---
 
+- nueve - nine
+- nuevo - new
+- nieve - snow
+
+---
+
+- íbamos a comer, pero el restaurante estaba cerrado.
 - iba a comer - I was going to eat
 
 ---
