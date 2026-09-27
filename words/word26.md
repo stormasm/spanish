@@ -1,5 +1,5 @@
 
-### [guardar](https://www.spanishdict.com/translate/guardar)
+- [guardar](https://www.spanishdict.com/translate/guardar)
 
 ### agobiante
 
