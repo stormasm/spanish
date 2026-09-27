@@ -1,4 +1,9 @@
 
+#### no tenía la menor idea
+
+- Significa no saber absolutamente nada sobre un tema.
+- Equivale exactamente a la frase en inglés `not to have the faintest (or foggiest) idea` o en español directo `no tener ni idea`
+
 #### son locos de remate
 
 "they are completely insane" or "they are stark raving mad"
