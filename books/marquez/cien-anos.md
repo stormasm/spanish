@@ -36,3 +36,22 @@ los dos lingotes de hierro y recitando en voz alta el conjuro de Melquíades.
 Lo único que logró desenterrar fue una armadura del siglo xv con todas sus partes soldadas por un cascote de óxido, cuyo interior tenía la resonancia hueca de un enorme calabazo lleno de piedras. 
 
 Cuando José Arcadio Buendía y los cuatro hombres de su expedición lograron desarticular la armadura, encontraron dentro un esqueleto calcificado que llevaba colgado en el cuello un relicario de cobre con un rizo de mujer.
+
+### Chapter 2
+
+Cuando el pirata Francis Drake asaltó a Riohacha, en el siglo XVI, la bisabuela de Úrsula
+Iguarán se asustó tanto con el toque de rebato y el estampido de los cañones, que perdió el
+control de los nervios y se sentó en un fogón encendido. 
+
+Las quemaduras la dejaron convertida en una esposa inútil para toda la vida. 
+
+No podía sentarse sino de medio lado, acomodada en
+cojines, y algo extraño debió quedarle en el modo de andar, porque nunca volvió a caminar en
+público. Renunció a toda clase de hábitos sociales obsesionada por la idea de que su cuerpo
+despedía un olor a chamusquina. 
+
+El alba la sorprendía en el patio sin atreverse a dormir, porque
+soñaba que los ingleses con sus feroces perros de asalto se metían por la ventana del dormitorio
+y la sometían a vergonzosos tormentos con hierros al rojo vivo. 
+
+Su marido, un comerciante aragonés con quien tenía dos hijos, se gastó media tienda en medicinas y entretenimientos buscando la manera de aliviar sus terrores. Por último liquidó el negocio y llevó la familia a vivir lejos del mar, en una ranchería de indios pacíficos situada en las estribaciones de la sierra, donde le construyó a su mujer un dormitorio sin ventanas para que no tuvieran por donde entrar los piratas de sus pesadillas.
