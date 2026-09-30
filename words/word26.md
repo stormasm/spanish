@@ -1,4 +1,7 @@
 
+
+- carecer - to lack
+
 - [guardar](https://www.spanishdict.com/translate/guardar)
 
 ### agobiante
