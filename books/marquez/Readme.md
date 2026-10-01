@@ -12,3 +12,6 @@
 ### References
 
 - [Banana Massacre](https://en.wikipedia.org/wiki/Banana_Massacre)
+- [es26](https://github.com/stormasm/es26/tree/main/misc)
+- [Understanding Gar Understanding Garcia Mar cia Marquez's One Hundr s One Hundred Years of Solitude: ears of Solitude:
+An Analysis with a Lens for History and Anthropology](https://spark.parkland.edu/cgi/viewcontent.cgi?article=1088&context=ah)
