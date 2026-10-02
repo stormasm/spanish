@@ -11,6 +11,7 @@
 
 ### References
 
+- [Literary Theory and Criticism: Analysis of Márquez’s One Hundred Years of Solitude](https://literariness.org/2020/09/24/analysis-of-marquezs-one-hundred-years-of-solitude/)
 - [Banana Massacre](https://en.wikipedia.org/wiki/Banana_Massacre)
 - [es26](https://github.com/stormasm/es26/tree/main/misc)
 - [Understanding Gar Understanding Garcia Mar cia Marquez's One Hundr s One Hundred Years of Solitude: ears of Solitude:
