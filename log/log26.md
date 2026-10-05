@@ -14,8 +14,7 @@ She was dressed simply.
 
 ---
 
-iba vestida sencillo - she was dressed simply
-vestía sencilla.
+iba vestida sencillo - she was dressed simply - vestía sencilla.
 
 ---
 
