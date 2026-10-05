@@ -5,7 +5,8 @@
 
 ---
 
-- Puse anuncios y respondí a otros anuncios, pero sin éxito - I placed ads and responded to others, but without success.
+- Puse anuncios y respondí a otros anuncios, pero sin éxito 
+- I placed ads and responded to others, but without success
 
 ---
 
