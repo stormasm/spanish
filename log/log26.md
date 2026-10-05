@@ -1,5 +1,17 @@
 
 
+- acabarse - to run out
+- acabar - to finish, to end
+
+---
+
+- Puse anuncios y respondí a otros anuncios, pero sin éxito - I placed ads and responded to others, but without success.
+
+---
+
+- Por fin empezó a acabárseme el poco dinero que tenía ahorrado y me
+devanaba los sesos sin saber qué hacer. - Eventually, the little money I had saved began to run out, and I racked my brains, not knowing what to do.
+
 ---
 
 [de modo que](https://docs.google.com/document/d/e/2PACX-1vQ3Qws7hvZGpgQUmZIT5OW3T66o_Ipf7YIB3PpE8VT0EeXU0YCD1Rv1o29B54AHxWCE84U0X3A78RFB/pub) me encontré sin empleo - so I found myself unemployed
