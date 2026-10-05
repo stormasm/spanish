@@ -10,7 +10,8 @@
 ---
 
 - Por fin empezó a acabárseme el poco dinero que tenía ahorrado y me
-devanaba los sesos sin saber qué hacer. - Eventually, the little money I had saved began to run out, and I racked my brains, not knowing what to do.
+devanaba los sesos sin saber qué hacer
+- Eventually, the little money I had saved began to run out, and I racked my brains, not knowing what to do.
 
 ---
 
