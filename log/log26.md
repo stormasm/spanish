@@ -1,4 +1,22 @@
 
+
+---
+
+[de modo que](https://docs.google.com/document/d/e/2PACX-1vQ3Qws7hvZGpgQUmZIT5OW3T66o_Ipf7YIB3PpE8VT0EeXU0YCD1Rv1o29B54AHxWCE84U0X3A78RFB/pub) me encontré sin empleo - so I found myself unemployed
+
+---
+
+Mientras él hablaba se abrió la puerta y una joven entró en la habitación. 
+Iba vestida de un modo sencillo.
+
+As he was speaking, the door opened and a young woman entered the room. 
+She was dressed simply.
+
+---
+
+iba vestida sencillo - she was dressed simply
+vestía sencilla.
+
 ---
 
 vivir para contarla - living to tell the tale
