@@ -1,4 +1,32 @@
 
+### soler
+
+Solía is the first- and third-person singular imperfect indicative form of the Spanish verb soler, which means "to usually do something" or "to be accustomed to."
+
+Because English does not have a direct single verb for this exact meaning, soler is typically translated using the adverb "usually" in the present, or "used to" in the past.
+
+Grammar Note: 
+
+Soler is always followed by another verb in its infinitive form 
+(like correr, llegar, or hacer in the examples above). 
+
+It is only ever used in the present and imperfect tenses in modern Spanish
+
+##### solia pasarme
+
+Existe en el West End una agencia para institutrices muy conocida, llamada Westway's, 
+
+por la que solía pasarme una vez a la semana para ver si había surgido algo que pudiera convenirme. 
+
+where I `used to stop by` once a week to see if anything had come up that might suit me.
+
+Westway era el apellido del fundador de la empresa, pero quien la dirige en realidad es la señorita Stoper. Se sienta en un pequeño despacho, y las mujeres que buscan empleo aguardan en una antesala y van pasando una a una.
+
+--- 
+
+- aguardar - to wait for
+
+---
 
 - acabarse - to run out
 - acabar - to finish, to end
