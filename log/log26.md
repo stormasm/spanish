@@ -12,7 +12,10 @@ Soler is always followed by another verb in its infinitive form
 
 It is only ever used in the present and imperfect tenses in modern Spanish
 
-##### solia pasarme
+##### solia + infinitivo
+
+- solia comer en el restaurante a martes - I used to eat at the restaurant on Tuesdays
+- solia trabajar en el restaurante a martes - I used to work at the restaurant on Tuesdays
 
 Existe en el West End una agencia para institutrices muy conocida, llamada Westway's, 
 
