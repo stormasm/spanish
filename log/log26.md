@@ -1,5 +1,5 @@
 
-### soler
+#### solia + infinitivo
 
 Solía is the first- and third-person singular imperfect indicative form of the Spanish verb soler, which means "to usually do something" or "to be accustomed to."
 
@@ -12,7 +12,7 @@ Soler is always followed by another verb in its infinitive form
 
 It is only ever used in the present and imperfect tenses in modern Spanish
 
-##### solia + infinitivo
+---
 
 - solia comer en el restaurante a martes - I used to eat at the restaurant on Tuesdays
 - solia trabajar en el restaurante a martes - I used to work at the restaurant on Tuesdays
