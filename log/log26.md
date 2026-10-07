@@ -25,6 +25,8 @@ where I `used to stop by` once a week to see if anything had come up that might 
 
 Westway era el apellido del fundador de la empresa, pero quien la dirige en realidad es la señorita Stoper. Se sienta en un pequeño despacho, y las mujeres que buscan empleo aguardan en una antesala y van pasando una a una.
 
+And the women looking for work wait in an a sala and go in one by one.
+
 --- 
 
 - aguardar - to wait for
