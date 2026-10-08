@@ -1,4 +1,16 @@
 
+
+---
+
+los recursos - means, financial resources
+
+Como podrá imaginar, señor Holmes, estando sin recursos como yo estaba, 
+aquella oferta me pareció casi demasiado buena para ser verdad. 
+
+As you can imagine, Mr. Holmes, being without resources as I was, that offer seemed almost too good to be true.
+
+---
+
 #### solia + infinitivo
 
 Solía is the first- and third-person singular imperfect indicative form of the Spanish verb soler, which means "to usually do something" or "to be accustomed to."
