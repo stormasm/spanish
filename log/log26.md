@@ -6,18 +6,11 @@ Como ya tenía algunas deudas con los proveedores, aquel adelanto me venía muy 
 
 As I already owed money to some suppliers, that advance came in very handy; however, there was something unnatural about the whole transaction that made me want to know a little more before committing myself.
 
-### comprometerse
+#### comprometerse - to pledge to do something
 
-2. (to pledge to do something)
-
-##### a. to commit oneself   
-El actor se comprometió a hacer anuncios para la película - The actor committed himself to making commercials for the movie.
-
-##### b. to promise   
-Margo se comprometió a traer las botanas a la fiesta - Margo promised to bring snacks to the party.
-
-##### c. to commit to something   
-Firmar de recibido no te compromete - Signing to acknowledge receipt does not commit you to anything.
+- El actor se comprometió a hacer anuncios para la película - The actor committed himself to making commercials for the movie.
+- Margo se comprometió a traer las botanas a la fiesta - Margo promised to bring snacks to the party.
+- Firmar de recibido no te compromete - Signing to acknowledge receipt does not commit you to anything.
 
 ---
 
