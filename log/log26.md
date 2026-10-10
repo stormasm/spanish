@@ -2,6 +2,25 @@
 
 ---
 
+Como ya tenía algunas deudas con los proveedores, aquel adelanto me venía muy bien; sin embargo, toda la transacción tenía un algo de innatural que me hizo desear saber algo más antes de comprometerme.
+
+As I already owed money to some suppliers, that advance came in very handy; however, there was something unnatural about the whole transaction that made me want to know a little more before committing myself.
+
+### comprometerse
+
+2. (to pledge to do something)
+
+##### a. to commit oneself   
+El actor se comprometió a hacer anuncios para la película - The actor committed himself to making commercials for the movie.
+
+##### b. to promise   
+Margo se comprometió a traer las botanas a la fiesta - Margo promised to bring snacks to the party.
+
+##### c. to commit to something   
+Firmar de recibido no te compromete - Signing to acknowledge receipt does not commit you to anything.
+
+---
+
 los recursos - means, financial resources
 
 Como podrá imaginar, señor Holmes, estando sin recursos como yo estaba, 
