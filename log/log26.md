@@ -1,6 +1,11 @@
 
 
+
+
+
 ---
+
+- [prometer vs comprometer](https://github.com/stormasm/ainotes/blob/main/spanish/words.md#prometer-vs-comprometer)
 
 Como ya tenía algunas deudas con los proveedores, aquel adelanto me venía muy bien; sin embargo, toda la transacción tenía un algo de innatural que me hizo desear saber algo más antes de comprometerme.
 
