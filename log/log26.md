@@ -5,6 +5,8 @@ No era la primera vez que en el número 4 de Privet Drive estallaba una discusi�
 
 It was not the first time that an argument had broken out at breakfast at number 4, Privet Drive.
 
+Cuando recibió la mala noticia, estalló en lágrimas - When she got the bad news, she burst into tears.
+
 ---
 
 - [prometer vs comprometer](https://github.com/stormasm/ainotes/blob/main/spanish/words.md#prometer-vs-comprometer)
