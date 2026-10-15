@@ -1,7 +1,9 @@
 
+#### estallar - to explode - to burst
 
+No era la primera vez que en el número 4 de Privet Drive estallaba una discusión durante el desayuno. 
 
-
+It was not the first time that an argument had broken out at breakfast at number 4, Privet Drive.
 
 ---
 
