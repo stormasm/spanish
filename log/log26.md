@@ -5,6 +5,8 @@ A primera hora de la mañana, había despertado al señor Vernon Dursley un sono
 
 Early that morning, Mr. Vernon Dursley had been awakened by a loud hooting `coming from` his nephew Harry’s bedroom.
 
+---
+
 #### estallar - to explode - to burst
 
 No era la primera vez que en el número 4 de Privet Drive estallaba una discusión durante el desayuno. 
