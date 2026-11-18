@@ -1,5 +1,13 @@
 
 
+
+---
+
+- Llevo 25 años estudiando español, I have been studying spanish for 25 years
+- Pasé mucho tiempo estudiando, I spent a lot of time studying
+
+---
+
 - [que no te olvide is in the subjunctive](https://github.com/stormasm/spanish/blob/main/grammar/subjunctive/que.md)
 - [irse - ya me voy - I am leaving](https://github.com/stormasm/spanish/blob/main/grammar/irse.md)
 
