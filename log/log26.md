@@ -1,4 +1,8 @@
 
+
+- [que no te olvide is in the subjunctive](https://github.com/stormasm/spanish/blob/main/grammar/subjunctive/que.md)
+- [irse - ya me voy - I am leaving](https://github.com/stormasm/spanish/blob/main/grammar/irse.md)
+
 #### procedente - coming from
 
 A primera hora de la mañana, había despertado al señor Vernon Dursley un sonoro ulular `procedente` del dormitorio de su sobrino Harry.
