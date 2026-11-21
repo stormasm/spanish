@@ -1,4 +1,9 @@
 
+
+- 11/21/2026 [pensar](https://www.youtube.com/watch?v=6P9_flKDWes)
+
+---
+
 #### Youtube videos I have watched on Butterfly recently
 
 - 01/15/2025 ["Puedo" & "Puedes"](https://www.youtube.com/watch?v=k1rlyYA2ePY)
