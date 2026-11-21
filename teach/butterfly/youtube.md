@@ -1,5 +1,6 @@
 
 
+- 11/21/2026 [40 spanish expressions](https://www.youtube.com/watch?v=iV8jHTP2lcw)
 - 11/21/2026 [pensar](https://www.youtube.com/watch?v=6P9_flKDWes)
 
 ---
