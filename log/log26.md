@@ -1,4 +1,9 @@
 
+
+- [verbs in concert with gerunds](https://github.com/stormasm/spanish/blob/main/verbs/gerund.md)
+
+---
+
 - te tengo en mi pensamiento - I am thinking of you - You are in my thoughts
 - estaba pensando en lo que me dijiste - I was thinking about what you said to me -  you told me
 
