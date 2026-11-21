@@ -1,5 +1,5 @@
 
-### la esquema - diagram
+### la esquema - diagram - sketch - plan - summary
 
 1. (graphic design)
 
