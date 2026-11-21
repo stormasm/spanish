@@ -3,8 +3,8 @@
 
 ---
 
-- Llevo 25 años estudiando español, I have been studying spanish for 25 years
-- Pasé mucho tiempo estudiando, I spent a lot of time studying
+- Llevo 25 años estudiando español - I have been studying spanish for 25 years
+- Pasé mucho tiempo estudiando - I spent a lot of time studying
 
 ---
 
