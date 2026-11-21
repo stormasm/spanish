@@ -3,11 +3,11 @@
 - [all videos: aprendemos juntos mex](https://www.youtube.com/@AprendemosJuntos_mex/videos)
 
 ---
-- 26.11[Qué mirar en un museo si no sabes de arte | Andrea Molina, historiadora del arte](https://www.youtube.com/watch?v=8fMVtkkN2pQ)
+- 26.11  [Qué mirar en un museo si no sabes de arte | Andrea Molina, historiadora del arte](https://www.youtube.com/watch?v=8fMVtkkN2pQ)
 ---
-- 26.11[La paleontóloga que descubrió un tiranosaurio en México | Martha Aguillón, paleontóloga](https://www.youtube.com/watch?v=KakZBC3RQQM)
+- 26.11  [La paleontóloga que descubrió un tiranosaurio en México | Martha Aguillón, paleontóloga](https://www.youtube.com/watch?v=KakZBC3RQQM)
 ---
-- 26.08 [¿Por qué somos como somos los mexicanos? | Úrsula Camba, historiadora](https://www.youtube.com/watch?v=onpdTXxv9MI)
+- 26.08  [¿Por qué somos como somos los mexicanos? | Úrsula Camba, historiadora](https://www.youtube.com/watch?v=onpdTXxv9MI)
 ---
 - 26.06 [De maestra en Oaxaca a estrella de Hollywood | Yalitza Aparicio, actriz](https://www.youtube.com/watch?v=p5UNAIb2QhQ)
 ---
