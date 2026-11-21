@@ -1,6 +1,6 @@
 
 
-
+- [acordarse](./../verbs/acordarse.md)
 - [butterfly 40 expressions](https://www.youtube.com/watch?v=iV8jHTP2lcw)
 - [verbs in concert with gerunds](https://github.com/stormasm/spanish/blob/main/verbs/gerund.md)
 

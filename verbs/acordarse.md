@@ -1,5 +1,8 @@
 In Spanish, **"te acuerdas"** is correct because the verb meaning *"to remember"* is **acordarse** (a pronominal verb that always requires a reflexive pronoun like *te*), whereas **recordar** (without a reflexive pronoun) means *"to remember"* or *"to remind"* and doesn't take *te* when used in that way.
 
+And that is why `te recuerdas` is incorrect as pointed out in this
+[butterfly video at 11:50](https://www.youtube.com/watch?v=iV8jHTP2lcw)
+
 ### **How the Two Verbs Work**
 
 * **Acordarse (de algo)** — Pronominal verb meaning *"to remember"* or *"to recall."* Because it is pronominal, it pairs with reflexive pronouns (*me, te, se, nos, os, se*).  
