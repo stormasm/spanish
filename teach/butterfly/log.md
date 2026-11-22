@@ -1,6 +1,5 @@
 
 - [40 Spanish expressions used every day](https://www.youtube.com/watch?v=iV8jHTP2lcw)
-
 - a qué hora abren / cierran
 - ya sabia - I knew already
 - no sabia - I didn't know
