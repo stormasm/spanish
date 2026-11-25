@@ -9,6 +9,13 @@
 - ya sé lo que voy a pedir - I already know what I am going to order
 - ya sabes lo que vas a pedir - Do you know what you are going to order 
 
+---
+
+- así - like this, like that
+- no seas así - do not be like that
+- así está bien - that's enough, its good
+
+
 ### Notes
 
 - Do you remember ?
