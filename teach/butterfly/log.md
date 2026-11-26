@@ -19,8 +19,8 @@
 
 ---
 
-- 27. es broma - it's a joke
-- 28. estaba bromeando - I was joking
+27. es broma - it's a joke
+28. estaba bromeando - I was joking
 - estaba caminando por la calle - I was walking down the street
 - estaba comiendo - I was eating
 - [gerund acting as a noun](./../../grammar/Readme.md#gerund-acting-as-a-noun)
