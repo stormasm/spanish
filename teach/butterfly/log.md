@@ -21,7 +21,6 @@
 - estaba bromeando - I was joking
 - estaba caminando por la calle - I was walking down the street
 - estaba comiendo - I was eating
-- [gerund acting as a noun](https://github.com/stormasm/spanish/blob/main/grammar/Readme.md#gerund-acting-as-a-noun)
 - [gerund acting as a noun](./../../grammar/Readme.md#gerund-acting-as-a-noun)
 
 ---
