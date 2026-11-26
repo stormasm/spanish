@@ -15,6 +15,15 @@
 - no seas así - do not be like that
 - así está bien - that's enough, its good
 
+---
+
+- es broma - it's a joke
+- estaba bromeando - I was joking
+- estaba caminando por la calle - I was walking down the street
+- estaba comiendo - I was eating
+- [gerund acting as a noun](https://github.com/stormasm/spanish/blob/main/grammar/Readme.md#gerund-acting-as-a-noun)
+
+---
 
 ### Notes
 
