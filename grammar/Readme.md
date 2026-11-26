@@ -1,4 +1,11 @@
 
+### Gerund acting as a noun
+
+English gerund (noun) = Spanish infinitive: When "eating" acts as a noun (the subject or object of a sentence), Spanish uses the infinitive (comer), not comiendo.
+
+- Comer verduras es saludable - Eating vegetables is healthy
+- Me gusta comer - I like eating
+
 #### Prem Note of Wisdom
 
 - Ser = Who or What you are
