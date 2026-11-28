@@ -27,6 +27,12 @@
 
 ---
 
+38.  me queda cerca - it is close to me
+39.  nos queda lejos - it is far from us
+40.  nos / me queda de paso - it is on our / my way
+
+---
+
 ### Notes
 
 - Do you remember ?
